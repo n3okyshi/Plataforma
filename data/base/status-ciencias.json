@@ -5,8 +5,8 @@
   "niveis": [
     {
       "nivel": "EF01",
-      "aulas": 6,
-      "atividades": 12,
+      "aulas": 11,
+      "atividades": 32,
       "habilidadesComRecortes": [
         "EF01CI01",
         "EF01CI02",
@@ -15,9 +15,9 @@
         "EF01CI05",
         "EF01CI06"
       ],
-      "questoesTreino": 6,
-      "itensProva": 6,
-      "provas": 3,
+      "questoesTreino": 16,
+      "itensProva": 16,
+      "provas": 4,
       "topicosPlanejadosSemAutoria": [
         "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
         "cna.ef01.corpo_humano.orgaos_dos_sentidos",
@@ -33,11 +33,6 @@
         "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
         "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
         "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam",
-        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
-        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
-        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
-        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
-        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
         "cna.ef01.tempo_e_rotina.dias_da_semana",
         "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
         "cna.ef01.tempo_e_rotina.o_calendario_escolar",
@@ -63,12 +58,12 @@
         "cna.ef01.saude_e_ambiente.luz_e_saude",
         "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF02",
-      "aulas": 8,
-      "atividades": 16,
+      "aulas": 12,
+      "atividades": 32,
       "habilidadesComRecortes": [
         "EF02CI01",
         "EF02CI02",
@@ -79,14 +74,10 @@
         "EF02CI07",
         "EF02CI08"
       ],
-      "questoesTreino": 8,
-      "itensProva": 8,
-      "provas": 3,
+      "questoesTreino": 16,
+      "itensProva": 16,
+      "provas": 4,
       "topicosPlanejadosSemAutoria": [
-        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
-        "cna.ef02.materiais_e_objetos.objetos_do_passado",
-        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
-        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
         "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
         "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
         "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
@@ -123,12 +114,12 @@
         "cna.ef02.horta_e_observacao.colheita_e_cuidados",
         "cna.ef02.horta_e_observacao.compartilhando_descobertas"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF03",
-      "aulas": 10,
-      "atividades": 20,
+      "aulas": 20,
+      "atividades": 60,
       "habilidadesComRecortes": [
         "EF03CI01",
         "EF03CI02",
@@ -141,20 +132,10 @@
         "EF03CI09",
         "EF03CI10"
       ],
-      "questoesTreino": 10,
-      "itensProva": 10,
-      "provas": 3,
+      "questoesTreino": 30,
+      "itensProva": 30,
+      "provas": 6,
       "topicosPlanejadosSemAutoria": [
-        "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
-        "cna.ef03.som_e_vibracao.altura_e_intensidade",
-        "cna.ef03.som_e_vibracao.instrumentos_musicais",
-        "cna.ef03.som_e_vibracao.som_se_propaga",
-        "cna.ef03.som_e_vibracao.variaveis_do_som",
-        "cna.ef03.luz_e_materiais.objetos_opacos",
-        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
-        "cna.ef03.luz_e_materiais.refracao_simples",
-        "cna.ef03.luz_e_materiais.sombras",
-        "cna.ef03.luz_e_materiais.cores_e_luz",
         "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
         "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
         "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
@@ -186,7 +167,7 @@
         "cna.ef03.solo_e_seus_usos.permeabilidade",
         "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF04",
@@ -254,7 +235,7 @@
         "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
         "cna.ef04.calendarios_e_ciclos.tempo_e_cultura"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF05",
@@ -325,7 +306,7 @@
         "cna.ef05.lua_e_instrumentos.calendario_lunar",
         "cna.ef05.lua_e_instrumentos.lupas_e_microscopios"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF06",
@@ -395,7 +376,7 @@
         "cna.ef06.forma_e_movimentos_da_terra.translacao",
         "cna.ef06.forma_e_movimentos_da_terra.inclinacao_do_eixo"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF07",
@@ -468,7 +449,7 @@
         "cna.ef07.terra_dinamica.tsunamis_e_brasil",
         "cna.ef07.terra_dinamica.costas_brasileira_e_africana"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF08",
@@ -541,7 +522,7 @@
         "cna.ef08.mudancas_climaticas.acoes_humanas",
         "cna.ef08.mudancas_climaticas.equilibrio_ambiental"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     },
     {
       "nivel": "EF09",
@@ -614,7 +595,7 @@
         "cna.ef09.vida_fora_da_terra_e_estrelas.viagens_interplanetarias",
         "cna.ef09.vida_fora_da_terra_e_estrelas.futuro_do_sol"
       ],
-      "estado": "piloto_nucleo_para_testes"
+      "estado": "parcial"
     }
   ],
   "pendencias": [
@@ -622,5 +603,6 @@
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache reais."
   ],
-  "limites": "Núcleo EF01–EF09 em 27 eixos para testes: 111 sequências. Tópicos restantes e dimensões curriculares exigem revisão/autoria; nenhum ano homologado."
+  "limites": "130 sequências e 32 avaliações acumuladas. Quatro unidades específicas e um módulo complementar implementados para testes, além dos núcleos anuais. Demais tópicos, produção observada e homologação pendentes; nenhum ano concluído.",
+  "ultimoLote": "data/componentes/cna/lote_materiais_som_luz.json"
 }

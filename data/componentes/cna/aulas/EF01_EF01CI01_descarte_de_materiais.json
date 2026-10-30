@@ -1,0 +1,142 @@
+{
+  "id": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 4,
+  "unidade": "Materiais do Cotidiano",
+  "titulo": "Depois do uso: separar e conferir o destino",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Discutir modos de descarte",
+      "Distinguir reutilização e reciclagem",
+      "Consultar destino local sem inventar resultado"
+    ],
+    "resumo": "Depois do uso: separar e conferir o destino",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.propriedades_observaveis\">Comparar sem quebrar: propriedades observáveis</button> </p><h2>Depois do uso: separar e conferir o destino</h2><h3>Para compreender</h3><p>Um objeto que deixou de servir pode ter destino diferente de outro. Antes de descartar, verifique se ainda pode ser usado ou reparado com segurança. Reutilização dá novo uso ao objeto; reciclagem transforma materiais em outro processo. Separar é uma etapa, mas não garante que algo será reciclado: a coleta precisa aceitar e encaminhar aquele material. Pilhas, medicamentos, vidro quebrado e objetos cortantes não entram na nossa manipulação; o adulto consulta o destino adequado.</p><h3>Exemplo comentado</h3><p>Uma caixa limpa pode guardar lápis. Se o papelão for encaminhado para reciclagem, será matéria-prima em um processo de transformação. Colocar a caixa em qualquer lixeira colorida não comprova o destino. Uma embalagem com partes misturadas pode precisar de orientação específica; não é tarefa da criança separar peças perigosas.</p><h3>Investigar e produzir</h3><h4>Triagem com cartões</h4><p>Com adulto, faça cartões representando folha limpa usada, caixa íntegra, pilha e vidro quebrado. Separe: ainda pode ser usado; consultar coleta; somente adulto deve encaminhar. Use desenhos para os perigosos, nunca amostras reais.</p><h4>Destino verificado</h4><p>O adulto consulta orientação do município, escola ou cooperativa para um material seguro. Registre fonte, material aceito e destino informado. Se não houver resposta, marque a consulta pendente.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li><li><a href=\"https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/\" target=\"_blank\" rel=\"noopener noreferrer\">MMA — Política dos 5Rs</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "descarte_de_materiais.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Usar uma caixa íntegra para guardar lápis é:",
+      "alternativas": [
+        "Reciclagem industrial.",
+        "Reutilização.",
+        "Produzir papel novo na fábrica."
+      ],
+      "correta": 1,
+      "explicacao": "O objeto ganha uso sem transformação industrial do material.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "descarte_de_materiais.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "A coleta aceita todo plástico em qualquer cidade?",
+      "alternativas": [
+        "Sim, sempre.",
+        "Sim, basta a cor da lixeira.",
+        "É preciso conferir as orientações do serviço."
+      ],
+      "correta": 2,
+      "explicacao": "Aceitação e encaminhamento variam conforme sistema e material.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "descarte_de_materiais.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Triagem com cartões: Com adulto, faça cartões representando folha limpa usada, caixa íntegra, pilha e vidro quebrado. Separe: ainda pode ser usado; consultar coleta; somente adulto deve encaminhar. Use desenhos para os perigosos, nunca amostras reais.",
+      "gabarito": "Folha/caixa podem ter reutilização conforme estado; encaminhamento para coleta depende de confirmação. Pilha/vidro quebrado ficam sob cuidado adulto, sem manejo infantil.",
+      "rubrica": [
+        "Folha/caixa podem ter reutilização conforme estado; encaminhamento para coleta depende de confirmação. Pilha/vidro quebrado ficam sob cuidado adulto, sem manejo infantil.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "descarte_de_materiais.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Destino verificado: O adulto consulta orientação do município, escola ou cooperativa para um material seguro. Registre fonte, material aceito e destino informado. Se não houver resposta, marque a consulta pendente.",
+      "gabarito": "Exigir referência real e limite local. Não chamar suposição de coleta confirmada nem garantir reciclagem apenas por símbolo na embalagem.",
+      "rubrica": [
+        "Exigir referência real e limite local. Não chamar suposição de coleta confirmada nem garantir reciclagem apenas por símbolo na embalagem.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.propriedades_observaveis"
+  ],
+  "proximosPassos": [
+    "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais do Cotidiano",
+    "titulo": "O Destino dos Materiais"
+  }
+}

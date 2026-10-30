@@ -1,0 +1,141 @@
+{
+  "id": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 2,
+  "unidade": "Materiais do Cotidiano",
+  "titulo": "De onde vêm os materiais?",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Relacionar material e origem",
+      "Discutir obtenção, transformação e uso de recursos"
+    ],
+    "resumo": "De onde vêm os materiais?",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais\">Objetos e materiais: o que é feito de quê?</button> </p><h2>De onde vêm os materiais?</h2><h3>Para compreender</h3><p>Materiais têm origens e passam por caminhos até virar objetos. Madeira vem de árvores; papel costuma ser produzido com fibras vegetais e pode usar fibras recuperadas. Metais são obtidos de matérias-primas minerais ou recuperados de objetos usados. Muitos plásticos são produzidos a partir de recursos como petróleo e gás; existem outras matérias-primas. Recurso natural não é uma caixa sem fim. Retirada, produção, transporte e descarte têm efeitos sobre ambiente e pessoas.</p><h3>Exemplo comentado</h3><p>No caminho de uma folha nova de papel, podem aparecer cultivo ou retirada de plantas, separação das fibras, fabricação e transporte. Papel reciclado usa fibras recuperadas, que também precisam de coleta e processamento. Reutilizar o verso de uma folha ainda aproveitável evita usar outra naquele momento, mas não permite calcular quantas árvores foram poupadas sem outros dados.</p><h3>Investigar e produzir</h3><h4>Caminho com cartões</h4><p>Desenhe três cartões ligados por setas para um objeto de papel: matéria-prima, fabricação e uso. Inclua possibilidade de papel recuperado. Com adulto, confira a embalagem ou fonte indicada; não visite área de extração.</p><h4>Pergunta sobre origem</h4><p>Compare uma colher de madeira e uma de metal por origem do material e uso. Faça uma pergunta ainda sem resposta sobre fabricação ou recuperação.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li><li><a href=\"https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/\" target=\"_blank\" rel=\"noopener noreferrer\">MMA — Política dos 5Rs</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "origem_dos_materiais.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "A madeira usada em muitos objetos vem de:",
+      "alternativas": [
+        "Árvores.",
+        "Papel já fabricado, sem relação com plantas.",
+        "Minérios usados na fabricação de metais."
+      ],
+      "correta": 0,
+      "explicacao": "Madeira tem origem vegetal e passa por transformação para muitos usos.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "origem_dos_materiais.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Papel reciclado pode usar:",
+      "alternativas": [
+        "Somente folhas novas retiradas hoje.",
+        "Fibras de papel recuperado.",
+        "Qualquer lixo sem separação."
+      ],
+      "correta": 1,
+      "explicacao": "A recuperação exige seleção e processamento dos materiais.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "origem_dos_materiais.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Caminho com cartões: Desenhe três cartões ligados por setas para um objeto de papel: matéria-prima, fabricação e uso. Inclua possibilidade de papel recuperado. Com adulto, confira a embalagem ou fonte indicada; não visite área de extração.",
+      "gabarito": "Reconhecer origem vegetal das fibras e transformação antes do objeto; diferenciar fibra recuperada de papel aparecendo pronto na natureza.",
+      "rubrica": [
+        "Reconhecer origem vegetal das fibras e transformação antes do objeto; diferenciar fibra recuperada de papel aparecendo pronto na natureza.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "origem_dos_materiais.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Pergunta sobre origem: Compare uma colher de madeira e uma de metal por origem do material e uso. Faça uma pergunta ainda sem resposta sobre fabricação ou recuperação.",
+      "gabarito": "Relacionar madeira a árvores e metal a matérias-primas minerais/recuperação, sem concluir que um é sempre melhor. Registrar pergunta real sem inventar fabricante.",
+      "rubrica": [
+        "Relacionar madeira a árvores e metal a matérias-primas minerais/recuperação, sem concluir que um é sempre melhor. Registrar pergunta real sem inventar fabricante.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais"
+  ],
+  "proximosPassos": [
+    "cna.ef01.materiais_do_cotidiano.propriedades_observaveis"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais do Cotidiano",
+    "titulo": "De Onde Vêm os Materiais"
+  }
+}

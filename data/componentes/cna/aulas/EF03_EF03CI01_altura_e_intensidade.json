@@ -1,0 +1,136 @@
+{
+  "id": "cna.ef03.som_e_vibracao.altura_e_intensidade",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 11,
+  "unidade": "Som e Vibração",
+  "titulo": "Agudo ou grave; forte ou fraco?",
+  "bncc": [
+    "EF03CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identificar variável frequência/altura",
+      "Distinguir intensidade e altura",
+      "Comparar sem exposição intensa"
+    ],
+    "resumo": "Agudo ou grave; forte ou fraco?",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.som_e_vibracao.vibracao_dos_objetos\">Vibração: o objeto se move ao produzir som</button> </p><h2>Agudo ou grave; forte ou fraco?</h2><h3>Para compreender</h3><p>Altura sonora distingue grave e agudo e se relaciona principalmente à frequência da vibração. Intensidade física e sensação de som forte ou fraco são outras características; não são sinônimos de altura. A percepção também depende da pessoa, da distância e do ambiente. No uso cotidiano, som alto pode significar forte; na ciência da aula, vamos separar os termos. Não é necessário fazer barulho intenso para comparar.</p><h3>Exemplo comentado</h3><p>Uma mesma nota tocada suavemente ou com um pouco mais de energia pode continuar com altura parecida e mudar de intensidade. Já duas notas diferentes podem soar aguda e grave em intensidades semelhantes. Em uma régua, mudar comprimento livre pode alterar frequência; puxar mais forte costuma alterar amplitude, mas pode também introduzir outras mudanças. Por isso comparamos com condições registradas.</p><h3>Investigar e produzir</h3><h4>Dois critérios separados</h4><p>O professor produz duas notas suaves em instrumento disponível e repete uma delas suavemente e um pouco mais forte, sempre confortável. Registre duas comparações: grave/agudo e forte/fraco. Se não houver instrumento, use fonte identificada ou descrição como análise, marcando que não houve execução sonora.</p><h4>Revisar a fala cotidiana</h4><p>Um personagem diz que aumentar o volume da mesma gravação deixou a nota mais aguda. Explique o que ele confundiu e que comparação seria necessária para avaliar altura.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato / New Zealand Ministry of Education — Exploring sound</a></li><li><a href=\"https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Loudness and pitch</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "altura_e_intensidade.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Som agudo se relaciona principalmente a:",
+      "alternativas": [
+        "Frequência maior na comparação.",
+        "Ser mais forte obrigatoriamente.",
+        "Ser produzido apenas por objeto pequeno."
+      ],
+      "correta": 0,
+      "explicacao": "Altura se relaciona à frequência, não apenas à intensidade ou tamanho.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "altura_e_intensidade.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma mesma nota pode ser tocada:",
+      "alternativas": [
+        "Somente forte.",
+        "Somente fraca.",
+        "Mais forte ou mais fraca mantendo altura semelhante."
+      ],
+      "correta": 2,
+      "explicacao": "Altura e intensidade são características distintas.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "altura_e_intensidade.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Dois critérios separados: O professor produz duas notas suaves em instrumento disponível e repete uma delas suavemente e um pouco mais forte, sempre confortável. Registre duas comparações: grave/agudo e forte/fraco. Se não houver instrumento, use fonte identificada ou descrição como análise, marcando que não houve execução sonora.",
+      "gabarito": "Exigir separar altura e intensidade. Aceitar registro por descrição de padrão ou observação visual assistida; não usar tarefa como teste de audição.",
+      "rubrica": [
+        "Exigir separar altura e intensidade. Aceitar registro por descrição de padrão ou observação visual assistida; não usar tarefa como teste de audição.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "altura_e_intensidade.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Revisar a fala cotidiana: Um personagem diz que aumentar o volume da mesma gravação deixou a nota mais aguda. Explique o que ele confundiu e que comparação seria necessária para avaliar altura.",
+      "gabarito": "Volume não é evidência suficiente de mudança de frequência. Comparar notas/frequência mantendo outros aspectos, sem prometer que toda reprodução preserva perfeitamente o sinal.",
+      "rubrica": [
+        "Volume não é evidência suficiente de mudança de frequência. Comparar notas/frequência mantendo outros aspectos, sem prometer que toda reprodução preserva perfeitamente o sinal.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+      "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+      "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.som_e_vibracao.vibracao_dos_objetos"
+  ],
+  "proximosPassos": [
+    "cna.ef03.som_e_vibracao.instrumentos_musicais"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Som e Vibração",
+    "titulo": "Altura e Intensidade do Som"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "cna.ef03.som_e_vibracao.instrumentos_musicais",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 12,
+  "unidade": "Som e Vibração",
+  "titulo": "Instrumentos: partes vibrantes e modos de tocar",
+  "bncc": [
+    "EF03CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produzir sons por ações diferentes",
+      "Identificar partes vibrantes",
+      "Construir e explicar limites de modelo"
+    ],
+    "resumo": "Instrumentos: partes vibrantes e modos de tocar",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.som_e_vibracao.altura_e_intensidade\">Agudo ou grave; forte ou fraco?</button> </p><h2>Instrumentos: partes vibrantes e modos de tocar</h2><h3>Para compreender</h3><p>Instrumentos musicais produzem som com partes vibrantes, acionadas por ações como percutir, dedilhar ou soprar. Cordas, membranas e colunas de ar podem participar. O corpo do instrumento pode reforçar ou modificar o som. Timbre ajuda a distinguir fontes mesmo quando a nota tem altura parecida; depende do conjunto de vibrações e condições. Classificar pela ação não significa que só uma parte se mova ou que um instrumento tenha um único som.</p><h3>Exemplo comentado</h3><p>No violão, cordas vibram e o corpo participa do resultado; no tambor, a membrana e o corpo interagem com o ar. Em instrumento de sopro, o ar em vibração participa da produção. Uma caixa com régua flexível segura é apenas modelo didático, não cópia completa desses instrumentos. Não compartilhamos bocais nem fazemos instrumentos com recipientes cortantes.</p><h3>Investigar e produzir</h3><h4>Mapa do instrumento</h4><p>Escolha duas fontes apresentadas pelo professor, por exemplo violão e tambor por instrumento real ou registro identificado. Desenhe ação, parte vibrante e caminho até o ar. Separe observação própria e informação consultada.</p><h4>Pequeno produtor sonoro</h4><p>Monte com adulto um modelo de som suave usando caixa de papelão estável e régua flexível fixada por ele, ou outro projeto seguro aprovado. Indique o que vibra, teste uma mudança e explique limite do modelo. Não use vidro, latas cortadas, balões ou peças que possam se soltar para o rosto.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato / New Zealand Ministry of Education — Exploring sound</a></li><li><a href=\"https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Loudness and pitch</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "instrumentos_musicais.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "No violão, uma parte diretamente envolvida na produção é:",
+      "alternativas": [
+        "A corda vibrando.",
+        "A corda apenas por estar esticada, mesmo sem movimento.",
+        "A caixa inteira parada, sem vibração em nenhuma parte."
+      ],
+      "correta": 0,
+      "explicacao": "Cordas e corpo interagem com o meio para produzir o resultado sonoro.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "instrumentos_musicais.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Fontes de altura parecida podem ser distinguidas também por:",
+      "alternativas": [
+        "Obrigação de ter a mesma forma.",
+        "Timbre e características do som.",
+        "Não existir vibração."
+      ],
+      "correta": 1,
+      "explicacao": "Fontes podem ter padrões de vibração distintos mesmo com nota semelhante.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "instrumentos_musicais.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Mapa do instrumento: Escolha duas fontes apresentadas pelo professor, por exemplo violão e tambor por instrumento real ou registro identificado. Desenhe ação, parte vibrante e caminho até o ar. Separe observação própria e informação consultada.",
+      "gabarito": "Exigir duas relações entre ação, vibração e fonte, sem afirmar que ouvir identifica sozinho toda estrutura. Não inventar execução se só houve leitura.",
+      "rubrica": [
+        "Exigir duas relações entre ação, vibração e fonte, sem afirmar que ouvir identifica sozinho toda estrutura. Não inventar execução se só houve leitura.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "instrumentos_musicais.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Pequeno produtor sonoro: Monte com adulto um modelo de som suave usando caixa de papelão estável e régua flexível fixada por ele, ou outro projeto seguro aprovado. Indique o que vibra, teste uma mudança e explique limite do modelo. Não use vidro, latas cortadas, balões ou peças que possam se soltar para o rosto.",
+      "gabarito": "Exigir construção/teste ou pendência explícita; relacionar mudança observada ao projeto sem generalizar para todo instrumento. Aceitar execução pelo adulto com participação em decisões e registros.",
+      "rubrica": [
+        "Exigir construção/teste ou pendência explícita; relacionar mudança observada ao projeto sem generalizar para todo instrumento. Aceitar execução pelo adulto com participação em decisões e registros.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+      "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+      "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.som_e_vibracao.altura_e_intensidade"
+  ],
+  "proximosPassos": [
+    "cna.ef03.som_e_vibracao.som_se_propaga"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Som e Vibração",
+    "titulo": "Instrumentos Musicais"
+  }
+}

@@ -1,21 +1,67 @@
 {
   "nivel": "EF01",
   "estado": "piloto_nucleo",
-  "limites": "Núcleo em sequências amplas; tópicos recuperados restantes e todas as dimensões das habilidades precisam de revisão pedagógica. Não é lote integral homologado.",
+  "limites": "Evidências planejadas acumuladas; há unidades específicas implementadas e tópicos ainda sem autoria. Código vinculado não comprova produção observada ou integralidade do ano.",
   "habilidades": [
     {
       "codigo": "EF01CI01",
       "aulas": [
-        "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais"
+        "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais"
       ],
       "atividades": [
-        "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.investigacao"
+        "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.aplicacao",
+        "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.investigacao",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao2",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao2",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
       ],
       "questoesTreino": [
-        "cna.ef01.materia_e_energia.treino.01"
+        "cna.ef01.materia_e_energia.treino.01",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.2",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.treino.1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.treino.2",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.treino.1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.treino.2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.2",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.2"
       ],
       "questoesProva": [
-        "cna.ef01.materia_e_energia.prova.01"
+        "cna.ef01.materia_e_energia.prova.01",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.2",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2"
       ],
       "homologacaoDocente": "pendente"
     },
@@ -25,6 +71,7 @@
         "cna.ef01.corpo_humano.partes_do_corpo"
       ],
       "atividades": [
+        "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.aplicacao",
         "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.investigacao"
       ],
       "questoesTreino": [
@@ -41,6 +88,7 @@
         "cna.ef01.higiene_e_saude.lavar_as_maos"
       ],
       "atividades": [
+        "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.aplicacao",
         "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.investigacao"
       ],
       "questoesTreino": [
@@ -57,6 +105,7 @@
         "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas"
       ],
       "atividades": [
+        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.aplicacao",
         "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.investigacao"
       ],
       "questoesTreino": [
@@ -73,6 +122,7 @@
         "cna.ef01.tempo_e_rotina.manha_tarde_e_noite"
       ],
       "atividades": [
+        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.aplicacao",
         "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.investigacao"
       ],
       "questoesTreino": [
@@ -89,6 +139,7 @@
         "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
       ],
       "atividades": [
+        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.aplicacao",
         "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.investigacao"
       ],
       "questoesTreino": [

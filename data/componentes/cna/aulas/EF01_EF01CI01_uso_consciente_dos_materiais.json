@@ -1,0 +1,140 @@
+{
+  "id": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 5,
+  "unidade": "Materiais do Cotidiano",
+  "titulo": "Escolher, cuidar e usar por mais tempo",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Propor uso consciente",
+      "Justificar decisões pelo uso e estado",
+      "Implementar e avaliar ação coletiva"
+    ],
+    "resumo": "Escolher, cuidar e usar por mais tempo",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.descarte_de_materiais\">Depois do uso: separar e conferir o destino</button> </p><h2>Escolher, cuidar e usar por mais tempo</h2><h3>Para compreender</h3><p>Uso consciente começa antes de comprar ou pegar outro objeto. Podemos perguntar: preciso de outro? O que já tenho atende? Posso compartilhar, cuidar ou reparar com adulto? A escolha considera função, estado do objeto, quantidade e destino. Um material não é bom para tudo. Cuidar do que já existe pode evitar substituições desnecessárias, sem exigir que a criança conserte equipamentos ou use objetos sem higiene.</p><h3>Exemplo comentado</h3><p>Para desenhar no rascunho, o verso de uma folha limpa pode atender. Para entregar um trabalho que exige outra apresentação, será preciso avaliar as condições. Na turma, uma caixa comum de materiais pode funcionar com regras de conservação e acesso para todos. Compartilhar não significa deixar alguém sem recurso ou obrigar uso de objeto inadequado.</p><h3>Investigar e produzir</h3><h4>Decisão justificada</h4><p>Analise três situações: rascunho em folha com verso livre; caixa íntegra para organizar cartões; lápis com ponta quebrada. Escolha ação de cuidado ou reaproveitamento e explique como atende à função. Peça ajuda para apontar lápis.</p><h4>Plano da turma</h4><p>Escolha uma ação de uso consciente para uma semana, como bandeja de rascunhos. Defina responsável adulto, acesso e registro de uso. Execute quando autorizado e compare o que funcionou; sem execução, registre plano pendente.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li><li><a href=\"https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/\" target=\"_blank\" rel=\"noopener noreferrer\">MMA — Política dos 5Rs</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "uso_consciente_dos_materiais.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Antes de pegar outra folha para rascunho, vale:",
+      "alternativas": [
+        "Verificar se há uma folha adequada com verso livre.",
+        "Jogar fora toda folha usada.",
+        "Usar papel sujo de substância desconhecida."
+      ],
+      "correta": 0,
+      "explicacao": "Aproveitamento depende de o material continuar seguro e útil.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "uso_consciente_dos_materiais.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para escolher material, devemos considerar:",
+      "alternativas": [
+        "Só a cor preferida.",
+        "Função, propriedades e condições de uso.",
+        "Que um material serve igualmente para tudo."
+      ],
+      "correta": 1,
+      "explicacao": "Uma escolha se justifica pelo problema e pelas condições.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "uso_consciente_dos_materiais.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Decisão justificada: Analise três situações: rascunho em folha com verso livre; caixa íntegra para organizar cartões; lápis com ponta quebrada. Escolha ação de cuidado ou reaproveitamento e explique como atende à função. Peça ajuda para apontar lápis.",
+      "gabarito": "Relacionar decisão ao estado/uso: verso disponível, caixa útil e manutenção mediada. Aceitar alternativas coerentes; não exigir compra como única solução.",
+      "rubrica": [
+        "Relacionar decisão ao estado/uso: verso disponível, caixa útil e manutenção mediada. Aceitar alternativas coerentes; não exigir compra como única solução.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "uso_consciente_dos_materiais.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Plano da turma: Escolha uma ação de uso consciente para uma semana, como bandeja de rascunhos. Defina responsável adulto, acesso e registro de uso. Execute quando autorizado e compare o que funcionou; sem execução, registre plano pendente.",
+      "gabarito": "Exigir ação viável, participação e registro real. Não calcular árvores, água ou dinheiro poupados sem método. Considerar limpeza e acesso equitativo.",
+      "rubrica": [
+        "Exigir ação viável, participação e registro real. Não calcular árvores, água ou dinheiro poupados sem método. Considerar limpeza e acesso equitativo.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.descarte_de_materiais"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais do Cotidiano",
+    "titulo": "Uso Consciente dos Materiais"
+  }
+}

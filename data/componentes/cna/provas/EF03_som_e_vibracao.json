@@ -1,0 +1,241 @@
+{
+  "id": "cna.ef03.som_e_vibracao.prova",
+  "titulo": "Avaliação: Som e Vibração",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Som e Vibração",
+  "bncc": [
+    "EF03CI01"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "10 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/10 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+  "questoes": [
+    "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.1",
+    "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.2",
+    "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.1",
+    "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.2",
+    "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.1",
+    "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.2",
+    "cna.ef03.som_e_vibracao.som_se_propaga.prova.1",
+    "cna.ef03.som_e_vibracao.som_se_propaga.prova.2",
+    "cna.ef03.som_e_vibracao.variaveis_do_som.prova.1",
+    "cna.ef03.som_e_vibracao.variaveis_do_som.prova.2"
+  ],
+  "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.som_e_vibracao.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio da unidade",
+    "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+    "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+    "rubrica": [
+      "Atende: registro verificável e relação coerente.",
+      "Em desenvolvimento: registro parcial e revisão orientada.",
+      "Retomar: ausência de produção ou explicação a reconstruir."
+    ],
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Vibração: o objeto se move ao produzir som — producao1",
+        "enunciado": "Antes, durante e depois: Com adulto segurando régua flexível apropriada, observe ponta em repouso, após leve deslocamento e após parar a vibração. Desenhe três momentos ou descreva o movimento. O adulto executa se necessário; não force até deformar nem deixe a régua escapar.",
+        "gabarito": "Exigir identificação do movimento repetido e relação temporal com som, quando percebido. Registrar observação/participação acessível; não avaliar capacidade auditiva.",
+        "rubrica": [
+          "Exigir identificação do movimento repetido e relação temporal com som, quando percebido. Registrar observação/participação acessível; não avaliar capacidade auditiva.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1"
+      },
+      {
+        "titulo": "Vibração: o objeto se move ao produzir som — producao2",
+        "enunciado": "Vibração pouco visível: Compare a régua com pequeno instrumento ou fonte sonora segura apresentada pelo professor. Identifique a parte que pode vibrar e o que foi observado diretamente ou inferido. Não toque membranas delicadas nem use volumes altos.",
+        "gabarito": "Distinguir evidência e hipótese: fonte pode vibrar sem movimento nítido. Não exigir som audível para todos ou chamar ausência de visão de prova de ausência de vibração.",
+        "rubrica": [
+          "Distinguir evidência e hipótese: fonte pode vibrar sem movimento nítido. Não exigir som audível para todos ou chamar ausência de visão de prova de ausência de vibração.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao2"
+      },
+      {
+        "titulo": "Agudo ou grave; forte ou fraco? — producao1",
+        "enunciado": "Dois critérios separados: O professor produz duas notas suaves em instrumento disponível e repete uma delas suavemente e um pouco mais forte, sempre confortável. Registre duas comparações: grave/agudo e forte/fraco. Se não houver instrumento, use fonte identificada ou descrição como análise, marcando que não houve execução sonora.",
+        "gabarito": "Exigir separar altura e intensidade. Aceitar registro por descrição de padrão ou observação visual assistida; não usar tarefa como teste de audição.",
+        "rubrica": [
+          "Exigir separar altura e intensidade. Aceitar registro por descrição de padrão ou observação visual assistida; não usar tarefa como teste de audição.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1"
+      },
+      {
+        "titulo": "Agudo ou grave; forte ou fraco? — producao2",
+        "enunciado": "Revisar a fala cotidiana: Um personagem diz que aumentar o volume da mesma gravação deixou a nota mais aguda. Explique o que ele confundiu e que comparação seria necessária para avaliar altura.",
+        "gabarito": "Volume não é evidência suficiente de mudança de frequência. Comparar notas/frequência mantendo outros aspectos, sem prometer que toda reprodução preserva perfeitamente o sinal.",
+        "rubrica": [
+          "Volume não é evidência suficiente de mudança de frequência. Comparar notas/frequência mantendo outros aspectos, sem prometer que toda reprodução preserva perfeitamente o sinal.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2"
+      },
+      {
+        "titulo": "Instrumentos: partes vibrantes e modos de tocar — producao1",
+        "enunciado": "Mapa do instrumento: Escolha duas fontes apresentadas pelo professor, por exemplo violão e tambor por instrumento real ou registro identificado. Desenhe ação, parte vibrante e caminho até o ar. Separe observação própria e informação consultada.",
+        "gabarito": "Exigir duas relações entre ação, vibração e fonte, sem afirmar que ouvir identifica sozinho toda estrutura. Não inventar execução se só houve leitura.",
+        "rubrica": [
+          "Exigir duas relações entre ação, vibração e fonte, sem afirmar que ouvir identifica sozinho toda estrutura. Não inventar execução se só houve leitura.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1"
+      },
+      {
+        "titulo": "Instrumentos: partes vibrantes e modos de tocar — producao2",
+        "enunciado": "Pequeno produtor sonoro: Monte com adulto um modelo de som suave usando caixa de papelão estável e régua flexível fixada por ele, ou outro projeto seguro aprovado. Indique o que vibra, teste uma mudança e explique limite do modelo. Não use vidro, latas cortadas, balões ou peças que possam se soltar para o rosto.",
+        "gabarito": "Exigir construção/teste ou pendência explícita; relacionar mudança observada ao projeto sem generalizar para todo instrumento. Aceitar execução pelo adulto com participação em decisões e registros.",
+        "rubrica": [
+          "Exigir construção/teste ou pendência explícita; relacionar mudança observada ao projeto sem generalizar para todo instrumento. Aceitar execução pelo adulto com participação em decisões e registros.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2"
+      },
+      {
+        "titulo": "Como o som chega de um lugar a outro? — producao1",
+        "enunciado": "Modelo sem viajar pela fila: Em mesa, alinhe cartões. Cada participante levanta e baixa apenas seu cartão ao ver o anterior; pode haver mediação adulta ou execução individual. Registre que o sinal se desloca, mas cada cartão fica no lugar. Relacione ao som e indique dois limites: cartões não são partículas reais e o gesto não reproduz compressões do ar.",
+        "gabarito": "Exigir distinção transmissão/movimento local e dois limites. A analogia não é observação de moléculas nem prova de velocidade do som.",
+        "rubrica": [
+          "Exigir distinção transmissão/movimento local e dois limites. A analogia não é observação de moléculas nem prova de velocidade do som.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1"
+      },
+      {
+        "titulo": "Como o som chega de um lugar a outro? — producao2",
+        "enunciado": "Fonte, meio, observador: Produza mapa de uma fonte suave, meio e observador em duas posições seguras na sala. Compare resultados sem subir volume e registre obstáculos e distância; não use ouvido sobre mesa, recipiente fechado junto à cabeça ou mergulho.",
+        "gabarito": "Exigir registro de condições e possibilidade de percepção variar. Não atribuir toda diferença só à distância sem considerar ambiente; não afirmar que barreira comum elimina som.",
+        "rubrica": [
+          "Exigir registro de condições e possibilidade de percepção variar. Não atribuir toda diferença só à distância sem considerar ambiente; não afirmar que barreira comum elimina som.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2"
+      },
+      {
+        "titulo": "Investigar uma variável por vez — producao1",
+        "enunciado": "Ensaio de comprimento: O professor fixa uma régua plástica flexível e íntegra e compara comprimentos livres de 8, 12 e 16 cm, se forem adequados à régua disponível. Mantém leve deslocamento inicial semelhante e repete cada condição três vezes. Registre comprimento, movimento e descrição do resultado ou limite de percepção; não use força para obter volume.",
+        "gabarito": "Exigir nove registros ou justificar adaptação, condições comparáveis e dado real. Esperar discussão da tendência, sem impor resultado idêntico; não inferir frequência medida se não houve instrumento.",
+        "rubrica": [
+          "Exigir nove registros ou justificar adaptação, condições comparáveis e dado real. Esperar discussão da tendência, sem impor resultado idêntico; não inferir frequência medida se não houve instrumento.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1"
+      },
+      {
+        "titulo": "Investigar uma variável por vez — producao2",
+        "enunciado": "Conclusão com limite: Escreva pergunta, o que foi mudado, o que foi mantido, resultado e uma dúvida. Um grupo trocou também a régua: explique por que isso dificulta concluir que só o comprimento causou a diferença.",
+        "gabarito": "Identificar variável independente e interferências em linguagem acessível. Aceitar conclusão inconclusiva quando condições ou percepção não permitem discriminar; não inventar hertz.",
+        "rubrica": [
+          "Identificar variável independente e interferências em linguagem acessível. Aceitar conclusão inconclusiva quando condições ou percepção não permitem discriminar; não inventar hertz.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+      "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+      "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI01",
+      "questoes": [
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.1",
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.2",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.1",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.2",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.1",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.2",
+        "cna.ef03.som_e_vibracao.som_se_propaga.prova.1",
+        "cna.ef03.som_e_vibracao.som_se_propaga.prova.2",
+        "cna.ef03.som_e_vibracao.variaveis_do_som.prova.1",
+        "cna.ef03.som_e_vibracao.variaveis_do_som.prova.2"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.som_e_vibracao.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1",
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao2",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2",
+        "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1",
+        "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2",
+        "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1",
+        "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2"
+      ]
+    }
+  ]
+}

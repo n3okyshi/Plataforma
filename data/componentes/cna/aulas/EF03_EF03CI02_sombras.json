@@ -1,0 +1,136 @@
+{
+  "id": "cna.ef03.luz_e_materiais.sombras",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 18,
+  "unidade": "Luz e Materiais",
+  "titulo": "Sombras: fonte, obstáculo e anteparo",
+  "bncc": [
+    "EF03CI02"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Experimentar luz com obstáculo opaco",
+      "Identificar variáveis geométricas",
+      "Prever e relatar resultados"
+    ],
+    "resumo": "Sombras: fonte, obstáculo e anteparo",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.luz_e_materiais.refracao_simples\">Água e lentes: mudanças no caminho da luz</button> </p><h2>Sombras: fonte, obstáculo e anteparo</h2><h3>Para compreender</h3><p>Sombra é região que recebe menos luz de uma fonte porque um objeto interrompe parte do caminho. Para analisar um teste, identifique fonte, obstáculo e anteparo. Tamanho e nitidez dependem de posições, forma e tamanho da fonte; várias fontes podem produzir regiões diferentes. Escuro não é um material que o objeto solta. Objetos translúcidos e transparentes podem produzir efeitos mais fracos ou complexos, não ausência universal de sombra.</p><h3>Exemplo comentado</h3><p>Com lanterna pequena e parede fixas, mover um cartão opaco para mais perto da lanterna tende a aumentar sua sombra na parede. Mover o cartão para perto da parede tende a aproximar a sombra de seu tamanho, nessas condições. A posição e a orientação também podem alterar a forma; compare uma mudança por vez.</p><h3>Investigar e produzir</h3><h4>Três posições</h4><p>Fixe lanterna comum e anteparo com professor. Mova cartão opaco seguro entre três posições marcadas, sem mudar sua orientação. Registre contorno aproximado da sombra e distâncias ou marcas, sem exigir centímetros se não medidos. Mantenha circulação iluminada.</p><h4>Prever e confrontar</h4><p>Preveja o que ocorrerá ao aproximar o cartão da parede mantendo a fonte fixa. Compare com teste e explique resultado ou interferência. Depois incline o cartão e discuta por que a forma também importa.</p><svg viewBox=\"0 0 600 220\" role=\"img\" aria-label=\"Esquema autoral em corte: fonte de luz à esquerda, cartão opaco ao centro e anteparo à direita. A região atrás do cartão recebe menos luz dessa fonte. Esquema idealizado, fora de escala.\"><circle cx=\"40\" cy=\"110\" r=\"12\" fill=\"#f6c343\" stroke=\"#233\"/><path d=\"M52 110 520 20M52 110 520 200\" stroke=\"#ae7f00\" fill=\"none\"/><path d=\"M250 70 520 20V200L250 150Z\" fill=\"#c5ccd4\"/><path d=\"M250 70V150M520 10V210\" stroke=\"#233\" stroke-width=\"6\"/><g fill=\"#111\" font-size=\"15\"><text x=\"10\" y=\"145\">Fonte</text><text x=\"190\" y=\"50\">Cartão opaco</text><text x=\"410\" y=\"115\">Sombra</text><text x=\"525\" y=\"30\">Anteparo</text><text x=\"140\" y=\"210\">Modelo fora de escala</text></g></svg><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Investigating shadows using transparent, translucent and opaque materials</a></li><li><a href=\"https://www.aps.org/learning-resources/bendy-light\" target=\"_blank\" rel=\"noopener noreferrer\">American Physical Society — Bendy Light</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sombras.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para formar sombra no teste com cartão, precisamos considerar:",
+      "alternativas": [
+        "Fonte, obstáculo e anteparo.",
+        "Apenas cor da mesa.",
+        "Apenas o tamanho do cartão, sem posição da fonte."
+      ],
+      "correta": 0,
+      "explicacao": "A sombra se explica pela interrupção de caminhos da luz.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "sombras.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "O cartão cresceu quando sua sombra aumentou?",
+      "alternativas": [
+        "Sim, sempre.",
+        "Não; a geometria pode mudar a sombra sem mudar o cartão.",
+        "Sim, tamanho da sombra mede sempre o tamanho real do cartão."
+      ],
+      "correta": 1,
+      "explicacao": "A aparência no anteparo depende das posições relativas.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "sombras.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Três posições: Fixe lanterna comum e anteparo com professor. Mova cartão opaco seguro entre três posições marcadas, sem mudar sua orientação. Registre contorno aproximado da sombra e distâncias ou marcas, sem exigir centímetros se não medidos. Mantenha circulação iluminada.",
+      "gabarito": "Exigir posições, controle de fonte/anteparo e comparação de tamanho. Não apresentar regra sem condições nem dizer que sombra tem cor como tinta.",
+      "rubrica": [
+        "Exigir posições, controle de fonte/anteparo e comparação de tamanho. Não apresentar regra sem condições nem dizer que sombra tem cor como tinta.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "sombras.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Prever e confrontar: Preveja o que ocorrerá ao aproximar o cartão da parede mantendo a fonte fixa. Compare com teste e explique resultado ou interferência. Depois incline o cartão e discuta por que a forma também importa.",
+      "gabarito": "Separar testes de distância e inclinação. Usar resultado real; não inventar contorno perfeito nem confundir tamanho da sombra com crescimento do cartão.",
+      "rubrica": [
+        "Separar testes de distância e inclinação. Usar resultado real; não inventar contorno perfeito nem confundir tamanho da sombra com crescimento do cartão.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+    },
+    {
+      "documento": "American Physical Society — Bendy Light",
+      "url": "https://www.aps.org/learning-resources/bendy-light",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.luz_e_materiais.refracao_simples"
+  ],
+  "proximosPassos": [
+    "cna.ef03.luz_e_materiais.cores_e_luz"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Luz e Materiais",
+    "titulo": "Sombras"
+  }
+}

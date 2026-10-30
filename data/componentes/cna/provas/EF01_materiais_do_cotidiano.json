@@ -1,0 +1,247 @@
+{
+  "id": "cna.ef01.materiais_do_cotidiano.prova",
+  "titulo": "Avaliação: Materiais do Cotidiano",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Materiais do Cotidiano",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "10 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/10 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+  "questoes": [
+    "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
+    "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
+    "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.1",
+    "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.2",
+    "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.1",
+    "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.2",
+    "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
+    "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
+    "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
+    "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2"
+  ],
+  "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.materiais_do_cotidiano.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio da unidade",
+    "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+    "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+    "rubrica": [
+      "Atende: registro verificável e relação coerente.",
+      "Em desenvolvimento: registro parcial e revisão orientada.",
+      "Retomar: ausência de produção ou explicação a reconstruir."
+    ],
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Objetos e materiais: o que é feito de quê? — producao1",
+        "enunciado": "Mapa de partes: Com um adulto, escolha três objetos seguros. Desenhe ou descreva cada um, marque uma ou mais partes e o material identificado. Na mochila, procure tecido e fecho sem desmontar. Marque com ponto de interrogação o que não foi confirmado.",
+        "gabarito": "Esperar três objetos identificados como objetos e indicação de materiais por parte. Aceitar registro oral/desenhado; dúvida honesta vale mais que identificação inventada.",
+        "rubrica": [
+          "Esperar três objetos identificados como objetos e indicação de materiais por parte. Aceitar registro oral/desenhado; dúvida honesta vale mais que identificação inventada.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao1"
+      },
+      {
+        "titulo": "Objetos e materiais: o que é feito de quê? — producao2",
+        "enunciado": "Agrupar sem confundir: Agrupe os três objetos pelo material de uma parte. Depois reorganize pelo uso. Explique por que os grupos podem mudar.",
+        "gabarito": "Relacionar agrupamento ao critério: material e uso podem separar os mesmos objetos de modos diferentes; objeto com partes distintas pode participar de mais de um grupo.",
+        "rubrica": [
+          "Relacionar agrupamento ao critério: material e uso podem separar os mesmos objetos de modos diferentes; objeto com partes distintas pode participar de mais de um grupo.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao2"
+      },
+      {
+        "titulo": "De onde vêm os materiais? — producao1",
+        "enunciado": "Caminho com cartões: Desenhe três cartões ligados por setas para um objeto de papel: matéria-prima, fabricação e uso. Inclua possibilidade de papel recuperado. Com adulto, confira a embalagem ou fonte indicada; não visite área de extração.",
+        "gabarito": "Reconhecer origem vegetal das fibras e transformação antes do objeto; diferenciar fibra recuperada de papel aparecendo pronto na natureza.",
+        "rubrica": [
+          "Reconhecer origem vegetal das fibras e transformação antes do objeto; diferenciar fibra recuperada de papel aparecendo pronto na natureza.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao1"
+      },
+      {
+        "titulo": "De onde vêm os materiais? — producao2",
+        "enunciado": "Pergunta sobre origem: Compare uma colher de madeira e uma de metal por origem do material e uso. Faça uma pergunta ainda sem resposta sobre fabricação ou recuperação.",
+        "gabarito": "Relacionar madeira a árvores e metal a matérias-primas minerais/recuperação, sem concluir que um é sempre melhor. Registrar pergunta real sem inventar fabricante.",
+        "rubrica": [
+          "Relacionar madeira a árvores e metal a matérias-primas minerais/recuperação, sem concluir que um é sempre melhor. Registrar pergunta real sem inventar fabricante.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao2"
+      },
+      {
+        "titulo": "Comparar sem quebrar: propriedades observáveis — producao1",
+        "enunciado": "Quadro de comparação: Observe folha de papel, retalho e tampa plástica limpa. Registre para cada amostra cor, textura e comportamento ao tentar curvar suavemente, sem forçar. Compare duas características, com fala ou desenho.",
+        "gabarito": "Exigir registro das amostras realmente usadas, comparação explícita e interrupção se houver risco. Não antecipar como dado real que toda tampa é igual.",
+        "rubrica": [
+          "Exigir registro das amostras realmente usadas, comparação explícita e interrupção se houver risco. Não antecipar como dado real que toda tampa é igual.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1"
+      },
+      {
+        "titulo": "Comparar sem quebrar: propriedades observáveis — producao2",
+        "enunciado": "Mesma cor, material diferente: Encontre dois objetos da mesma cor, mas feitos de materiais diferentes. Explique por que cor sozinha não basta para identificar material.",
+        "gabarito": "Nomear objetos, materiais confirmados e pelo menos outra característica. Não aceitar inferência de material baseada apenas na cor.",
+        "rubrica": [
+          "Nomear objetos, materiais confirmados e pelo menos outra característica. Não aceitar inferência de material baseada apenas na cor.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2"
+      },
+      {
+        "titulo": "Depois do uso: separar e conferir o destino — producao1",
+        "enunciado": "Triagem com cartões: Com adulto, faça cartões representando folha limpa usada, caixa íntegra, pilha e vidro quebrado. Separe: ainda pode ser usado; consultar coleta; somente adulto deve encaminhar. Use desenhos para os perigosos, nunca amostras reais.",
+        "gabarito": "Folha/caixa podem ter reutilização conforme estado; encaminhamento para coleta depende de confirmação. Pilha/vidro quebrado ficam sob cuidado adulto, sem manejo infantil.",
+        "rubrica": [
+          "Folha/caixa podem ter reutilização conforme estado; encaminhamento para coleta depende de confirmação. Pilha/vidro quebrado ficam sob cuidado adulto, sem manejo infantil.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1"
+      },
+      {
+        "titulo": "Depois do uso: separar e conferir o destino — producao2",
+        "enunciado": "Destino verificado: O adulto consulta orientação do município, escola ou cooperativa para um material seguro. Registre fonte, material aceito e destino informado. Se não houver resposta, marque a consulta pendente.",
+        "gabarito": "Exigir referência real e limite local. Não chamar suposição de coleta confirmada nem garantir reciclagem apenas por símbolo na embalagem.",
+        "rubrica": [
+          "Exigir referência real e limite local. Não chamar suposição de coleta confirmada nem garantir reciclagem apenas por símbolo na embalagem.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2"
+      },
+      {
+        "titulo": "Escolher, cuidar e usar por mais tempo — producao1",
+        "enunciado": "Decisão justificada: Analise três situações: rascunho em folha com verso livre; caixa íntegra para organizar cartões; lápis com ponta quebrada. Escolha ação de cuidado ou reaproveitamento e explique como atende à função. Peça ajuda para apontar lápis.",
+        "gabarito": "Relacionar decisão ao estado/uso: verso disponível, caixa útil e manutenção mediada. Aceitar alternativas coerentes; não exigir compra como única solução.",
+        "rubrica": [
+          "Relacionar decisão ao estado/uso: verso disponível, caixa útil e manutenção mediada. Aceitar alternativas coerentes; não exigir compra como única solução.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1"
+      },
+      {
+        "titulo": "Escolher, cuidar e usar por mais tempo — producao2",
+        "enunciado": "Plano da turma: Escolha uma ação de uso consciente para uma semana, como bandeja de rascunhos. Defina responsável adulto, acesso e registro de uso. Execute quando autorizado e compare o que funcionou; sem execução, registre plano pendente.",
+        "gabarito": "Exigir ação viável, participação e registro real. Não calcular árvores, água ou dinheiro poupados sem método. Considerar limpeza e acesso equitativo.",
+        "rubrica": [
+          "Exigir ação viável, participação e registro real. Não calcular árvores, água ou dinheiro poupados sem método. Considerar limpeza e acesso equitativo.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI01",
+      "questoes": [
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.2",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.materiais_do_cotidiano.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao2",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao2",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+      ]
+    }
+  ]
+}

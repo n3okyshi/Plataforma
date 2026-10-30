@@ -1,0 +1,533 @@
+{
+  "data": "2026-10-30",
+  "estado": "pronto_para_testes",
+  "escopo": "Quatro unidades específicas de materiais, som e luz EF01–EF03; cores preservado em módulo complementar opcional, com arena/prova próprias.",
+  "limites": "Pronto refere-se à implementação do lote, não à integralidade dos anos, à aplicação nem à homologação.",
+  "unidades": [
+    {
+      "nivel": "EF01",
+      "unidade": "Materiais do Cotidiano",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais"
+      ],
+      "prova": "cna.ef01.materiais_do_cotidiano.prova",
+      "escopo": "Tópicos específicos listados; introduções prévias preservadas nos eixos e acessíveis como pré-requisitos.",
+      "pendencias": [
+        "Executar/observar produções e dar devolutiva.",
+        "Conferência pedagógica independente e homologação docente.",
+        "Inspeção visual/acessibilidade e serviços reais."
+      ]
+    },
+    {
+      "nivel": "EF02",
+      "unidade": "Materiais e Objetos",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
+      ],
+      "prova": "cna.ef02.materiais_e_objetos.prova",
+      "escopo": "Tópicos específicos listados; introduções prévias preservadas nos eixos e acessíveis como pré-requisitos.",
+      "pendencias": [
+        "Executar/observar produções e dar devolutiva.",
+        "Conferência pedagógica independente e homologação docente.",
+        "Inspeção visual/acessibilidade e serviços reais."
+      ]
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Som e Vibração",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais",
+        "cna.ef03.som_e_vibracao.som_se_propaga",
+        "cna.ef03.som_e_vibracao.variaveis_do_som"
+      ],
+      "prova": "cna.ef03.som_e_vibracao.prova",
+      "escopo": "Tópicos específicos listados; introduções prévias preservadas nos eixos e acessíveis como pré-requisitos.",
+      "pendencias": [
+        "Executar/observar produções e dar devolutiva.",
+        "Conferência pedagógica independente e homologação docente.",
+        "Inspeção visual/acessibilidade e serviços reais."
+      ]
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Luz e Materiais",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.luz_e_materiais.objetos_opacos",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+        "cna.ef03.luz_e_materiais.refracao_simples",
+        "cna.ef03.luz_e_materiais.sombras"
+      ],
+      "prova": "cna.ef03.luz_e_materiais.prova",
+      "escopo": "Tópicos específicos listados; introduções prévias preservadas nos eixos e acessíveis como pré-requisitos.",
+      "pendencias": [
+        "Executar/observar produções e dar devolutiva.",
+        "Conferência pedagógica independente e homologação docente.",
+        "Inspeção visual/acessibilidade e serviços reais."
+      ]
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Luz e Materiais — Complementar",
+      "estado": "pronto_para_testes",
+      "complementar": true,
+      "aulas": [
+        "cna.ef03.luz_e_materiais.cores_e_luz"
+      ],
+      "prova": "cna.ef03.luz_e_materiais_complementar.prova",
+      "escopo": "Tópicos específicos listados; introduções prévias preservadas nos eixos e acessíveis como pré-requisitos.",
+      "pendencias": [
+        "Executar/observar produções e dar devolutiva.",
+        "Conferência pedagógica independente e homologação docente.",
+        "Inspeção visual/acessibilidade e serviços reais."
+      ]
+    }
+  ],
+  "aulas": [
+    {
+      "aulaId": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+      "titulo": "Objetos e materiais: o que é feito de quê?",
+      "nivel": "EF01",
+      "unidade": "Materiais do Cotidiano",
+      "unidadePlanejada": "Materiais do Cotidiano",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Identificar materiais em partes de objetos",
+        "Comparar objetos por material e uso"
+      ],
+      "atividades": [
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+      "titulo": "De onde vêm os materiais?",
+      "nivel": "EF01",
+      "unidade": "Materiais do Cotidiano",
+      "unidadePlanejada": "Materiais do Cotidiano",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Relacionar material e origem",
+        "Discutir obtenção, transformação e uso de recursos"
+      ],
+      "atividades": [
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+      "titulo": "Comparar sem quebrar: propriedades observáveis",
+      "nivel": "EF01",
+      "unidade": "Materiais do Cotidiano",
+      "unidadePlanejada": "Materiais do Cotidiano",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Comparar características observáveis",
+        "Evitar generalizações pelo nome ou cor do material"
+      ],
+      "atividades": [
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1",
+        "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+      "titulo": "Depois do uso: separar e conferir o destino",
+      "nivel": "EF01",
+      "unidade": "Materiais do Cotidiano",
+      "unidadePlanejada": "Materiais do Cotidiano",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Discutir modos de descarte",
+        "Distinguir reutilização e reciclagem",
+        "Consultar destino local sem inventar resultado"
+      ],
+      "atividades": [
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+      "titulo": "Escolher, cuidar e usar por mais tempo",
+      "nivel": "EF01",
+      "unidade": "Materiais do Cotidiano",
+      "unidadePlanejada": "Materiais do Cotidiano",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Propor uso consciente",
+        "Justificar decisões pelo uso e estado",
+        "Implementar e avaliar ação coletiva"
+      ],
+      "atividades": [
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+      "titulo": "Madeira, metais e vidro: comparar amostras",
+      "nivel": "EF02",
+      "unidade": "Materiais e Objetos",
+      "unidadePlanejada": "Materiais e Objetos",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Identificar materiais e partes",
+        "Relacionar objeto, propriedades e uso"
+      ],
+      "atividades": [
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao2",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.materiais_e_objetos.objetos_do_passado",
+      "titulo": "Objetos do passado: comparar com fontes",
+      "nivel": "EF02",
+      "unidade": "Materiais e Objetos",
+      "unidadePlanejada": "Materiais e Objetos",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Identificar materiais usados no passado",
+        "Comparar função, mudança e permanência",
+        "Distinguir documento e inferência"
+      ],
+      "atividades": [
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao2",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+      "titulo": "Função, partes e condições de uso",
+      "nivel": "EF02",
+      "unidade": "Materiais e Objetos",
+      "unidadePlanejada": "Materiais e Objetos",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Identificar como objetos são usados",
+        "Relacionar materiais e condições de uso"
+      ],
+      "atividades": [
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao2",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
+      "titulo": "Projetar, testar e revisar a escolha de material",
+      "nivel": "EF02",
+      "unidade": "Materiais e Objetos",
+      "unidadePlanejada": "Materiais e Objetos",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Propor materiais com base em propriedades",
+        "Controlar condições de comparação",
+        "Construir, testar e revisar solução"
+      ],
+      "atividades": [
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao2",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+      "titulo": "Vibração: o objeto se move ao produzir som",
+      "nivel": "EF03",
+      "unidade": "Som e Vibração",
+      "unidadePlanejada": "Som e Vibração",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Produzir som por vibração",
+        "Relacionar movimento e produção sonora",
+        "Distinguir observação e inferência"
+      ],
+      "atividades": [
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao1",
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao2",
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1",
+        "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.som_e_vibracao.altura_e_intensidade",
+      "titulo": "Agudo ou grave; forte ou fraco?",
+      "nivel": "EF03",
+      "unidade": "Som e Vibração",
+      "unidadePlanejada": "Som e Vibração",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Identificar variável frequência/altura",
+        "Distinguir intensidade e altura",
+        "Comparar sem exposição intensa"
+      ],
+      "atividades": [
+        "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.aplicacao1",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.aplicacao2",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1",
+        "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.som_e_vibracao.instrumentos_musicais",
+      "titulo": "Instrumentos: partes vibrantes e modos de tocar",
+      "nivel": "EF03",
+      "unidade": "Som e Vibração",
+      "unidadePlanejada": "Som e Vibração",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Produzir sons por ações diferentes",
+        "Identificar partes vibrantes",
+        "Construir e explicar limites de modelo"
+      ],
+      "atividades": [
+        "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao1",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao2",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1",
+        "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.som_e_vibracao.som_se_propaga",
+      "titulo": "Como o som chega de um lugar a outro?",
+      "nivel": "EF03",
+      "unidade": "Som e Vibração",
+      "unidadePlanejada": "Som e Vibração",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Relacionar fonte e meio",
+        "Interpretar variável distância/obstáculos",
+        "Explicar limite de analogia de propagação"
+      ],
+      "atividades": [
+        "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao1",
+        "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao2",
+        "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1",
+        "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.som_e_vibracao.variaveis_do_som",
+      "titulo": "Investigar uma variável por vez",
+      "nivel": "EF03",
+      "unidade": "Som e Vibração",
+      "unidadePlanejada": "Som e Vibração",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Identificar variáveis que influem na vibração",
+        "Planejar comparação controlada",
+        "Registrar, repetir e interpretar resultados"
+      ],
+      "atividades": [
+        "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao1",
+        "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao2",
+        "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1",
+        "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.luz_e_materiais.objetos_opacos",
+      "titulo": "Passagem da luz: opaco, translúcido e transparente",
+      "nivel": "EF03",
+      "unidade": "Luz e Materiais",
+      "unidadePlanejada": "Luz e Materiais",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Experimentar passagem da luz",
+        "Comparar opacos e transparentes",
+        "Registrar critérios e condições"
+      ],
+      "atividades": [
+        "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.aplicacao1",
+        "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.aplicacao2",
+        "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao1",
+        "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+      "titulo": "Reflexão: luz que muda de caminho",
+      "nivel": "EF03",
+      "unidade": "Luz e Materiais",
+      "unidadePlanejada": "Luz e Materiais",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Experimentar contato da luz com superfície polida",
+        "Relatar mudança de direção",
+        "Distinguir fonte, reflexão e imagem"
+      ],
+      "atividades": [
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.aplicacao1",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.aplicacao2",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.luz_e_materiais.refracao_simples",
+      "titulo": "Água e lentes: mudanças no caminho da luz",
+      "nivel": "EF03",
+      "unidade": "Luz e Materiais",
+      "unidadePlanejada": "Luz e Materiais",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Experimentar passagem através da água e lente",
+        "Relatar mudança aparente",
+        "Distinguir modelo, aparência e objeto"
+      ],
+      "atividades": [
+        "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao1",
+        "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao2",
+        "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1",
+        "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.luz_e_materiais.sombras",
+      "titulo": "Sombras: fonte, obstáculo e anteparo",
+      "nivel": "EF03",
+      "unidade": "Luz e Materiais",
+      "unidadePlanejada": "Luz e Materiais",
+      "complementar": false,
+      "dimensoesImplementadas": [
+        "Experimentar luz com obstáculo opaco",
+        "Identificar variáveis geométricas",
+        "Prever e relatar resultados"
+      ],
+      "atividades": [
+        "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao1",
+        "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao2",
+        "cna.ef03.luz_e_materiais.sombras#sombras.producao1",
+        "cna.ef03.luz_e_materiais.sombras#sombras.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.luz_e_materiais.cores_e_luz",
+      "titulo": "Luz e cor: extensão da investigação",
+      "nivel": "EF03",
+      "unidade": "Luz e Materiais — Complementar",
+      "unidadePlanejada": "Luz e Materiais",
+      "complementar": true,
+      "dimensoesImplementadas": [
+        "Estender a investigação de passagem/reflexão",
+        "Reconhecer limite do recorte e da percepção"
+      ],
+      "atividades": [
+        "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.aplicacao1",
+        "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.aplicacao2",
+        "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao1",
+        "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao2"
+      ],
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    }
+  ],
+  "conferenciaPedagogica": {
+    "tipo": "assistida",
+    "resultado": "Textos, exemplos, gabaritos, progressão, acessibilidade proposta e correspondência com verbos da BNCC conferidos; sem simular revisão docente independente.",
+    "criterios": [
+      "EF01CI01: comparação/origem/descarte/uso consciente distribuídos em produções específicas.",
+      "EF02CI01: materiais/usos e registros históricos reais comparados ao presente.",
+      "EF02CI02: proposta de materiais por propriedades, ensaio e revisão de projeto.",
+      "EF03CI01: produção de som, partes vibrantes, comparação de altura/intensidade e controle de variáveis.",
+      "EF03CI02: experimentação e relato de transmissão, superfícies polidas e obstáculos; água/lente como casos, cores identificado como extensão."
+    ]
+  },
+  "preservacao": "19 IDs planejados passam a ter autoria sem exclusão de tópicos. 1 tópico de cores realocado com justificativa curricular para módulo opcional, mantendo ID.",
+  "pendenciasGlobais": [
+    "Todos os outros tópicos sem autoria continuam no inventário.",
+    "Nenhum ano ou componente é declarado concluído."
+  ],
+  "proximoLote": "Ciências EF01: Corpo Humano, Higiene e Saúde e Diversidade e Respeito, após confronto por dimensões.",
+  "verificacaoTecnica": {
+    "data": "2026-10-30",
+    "ambiente": "Python com JSON Schema draft 2020-12 e Node/JSDOM local; sem serviços externos reais.",
+    "resultado": "aprovado",
+    "registrosValidadosPorEsquema": 460,
+    "aulasConferidas": 130,
+    "atividadesRenderizadasECorrigidas": 298,
+    "avaliacoesComTreinoEProvaConferidas": 32,
+    "checagens": [
+      "Dados canônicos iguais a registros e HTML carregados.",
+      "Múltipla escolha com acerto e erro, explicação; respostas abertas revelam rubricas sem nota automática.",
+      "32 provas/treinos por seleção e cinco provas novas também com todas as respostas erradas; pontuação proporcional e revisão final.",
+      "38 novas produções específicas nos portfólios; referências e matrizes consistentes.",
+      "Pré-requisitos existentes, sem ciclos e botões com ID correto.",
+      "Currículo e botões de prova/arena dos nove anos; módulo complementar separado de prova obrigatória.",
+      "IDs planejados preservados e conteúdo anterior preservado."
+    ],
+    "limites": "Não certifica experiência visual em navegador, leitor de tela, autenticação/Firebase/cache reais, execução por estudantes ou homologação docente."
+  }
+}

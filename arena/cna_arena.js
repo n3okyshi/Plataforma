@@ -70,6 +70,1018 @@ registrarQuestoes([
     "complementar": false
   },
   {
+    "pergunta": "Qual palavra nomeia um material?",
+    "opcoes": [
+      "Cadeira",
+      "Madeira",
+      "Mochila"
+    ],
+    "correta": 1,
+    "explicacao": "Madeira pode compor cadeira e outros objetos.",
+    "id": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma mochila com tecido e fecho de plástico é:",
+    "opcoes": [
+      "Dois materiais sem objeto.",
+      "Feita apenas da cor que vemos.",
+      "Um objeto com mais de um material."
+    ],
+    "correta": 2,
+    "explicacao": "Partes diferentes podem usar materiais distintos no mesmo objeto.",
+    "id": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Colher de metal e panela de metal têm em comum:",
+    "opcoes": [
+      "Obrigatoriamente o mesmo tamanho.",
+      "Um tipo de material.",
+      "O mesmo uso em qualquer situação."
+    ],
+    "correta": 1,
+    "explicacao": "Compartilhar metal não torna objetos iguais em forma ou função.",
+    "id": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma peça pintada parece madeira, mas não foi confirmada. O registro adequado é:",
+    "opcoes": [
+      "Concluir que toda pintura é madeira.",
+      "Indicar dúvida e buscar informação.",
+      "Escrever madeira como certeza."
+    ],
+    "correta": 1,
+    "explicacao": "Um registro distingue observação e identificação confirmada.",
+    "id": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A madeira usada em muitos objetos vem de:",
+    "opcoes": [
+      "Papel já fabricado, sem relação com plantas.",
+      "Minérios usados na fabricação de metais.",
+      "Árvores."
+    ],
+    "correta": 2,
+    "explicacao": "Madeira tem origem vegetal e passa por transformação para muitos usos.",
+    "id": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Papel reciclado pode usar:",
+    "opcoes": [
+      "Qualquer lixo sem separação.",
+      "Somente folhas novas retiradas hoje.",
+      "Fibras de papel recuperado."
+    ],
+    "correta": 2,
+    "explicacao": "A recuperação exige seleção e processamento dos materiais.",
+    "id": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Qual caminho é coerente?",
+    "opcoes": [
+      "Árvore/fibras → uso do caderno → fabricação do papel.",
+      "Fabricação do papel → obtenção das fibras → uso do caderno.",
+      "Árvore/fibras → fabricação de papel → caderno."
+    ],
+    "correta": 2,
+    "explicacao": "O objeto resulta de etapas de obtenção e fabricação.",
+    "id": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Usar o verso de uma folha permite afirmar:",
+    "opcoes": [
+      "Que nenhuma atividade usa recursos.",
+      "Uma quantidade exata de árvores salvas sem cálculo.",
+      "Que outra folha pode deixar de ser usada para aquela tarefa."
+    ],
+    "correta": 2,
+    "explicacao": "A ação observável é aproveitar a folha; equivalências exigem método e dados.",
+    "id": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Dois objetos azuis precisam ser do mesmo material?",
+    "opcoes": [
+      "Sim, se estiverem na mesma sala.",
+      "Sim, azul é um material.",
+      "Não; materiais diferentes podem ter a mesma cor."
+    ],
+    "correta": 2,
+    "explicacao": "Cor é uma característica observada, não identidade obrigatória do material.",
+    "id": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A tampa não dobrou no teste leve. O registro mais cuidadoso é:",
+    "opcoes": [
+      "Esta tampa resistiu à curvatura no teste.",
+      "Todo plástico é impossível de dobrar.",
+      "A cor da tampa explica sozinha sua rigidez."
+    ],
+    "correta": 0,
+    "explicacao": "O resultado se refere à amostra e às condições observadas.",
+    "id": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma amostra pode ser ao mesmo tempo:",
+    "opcoes": [
+      "Transparente e rígida.",
+      "Somente uma característica por vez.",
+      "Sempre flexível se for transparente."
+    ],
+    "correta": 0,
+    "explicacao": "Propriedades diferentes podem coexistir.",
+    "id": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para comparar flexibilidade com segurança, devemos:",
+    "opcoes": [
+      "Dobrar qualquer vidro.",
+      "Usar amostras seguras e força leve, com adulto.",
+      "Forçar até quebrar."
+    ],
+    "correta": 1,
+    "explicacao": "O teste não precisa destruir material nem incluir amostras perigosas.",
+    "id": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Usar uma caixa íntegra para guardar lápis é:",
+    "opcoes": [
+      "Reciclagem industrial.",
+      "Reutilização.",
+      "Produzir papel novo na fábrica."
+    ],
+    "correta": 1,
+    "explicacao": "O objeto ganha uso sem transformação industrial do material.",
+    "id": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A coleta aceita todo plástico em qualquer cidade?",
+    "opcoes": [
+      "Sim, basta a cor da lixeira.",
+      "É preciso conferir as orientações do serviço.",
+      "Sim, sempre."
+    ],
+    "correta": 1,
+    "explicacao": "Aceitação e encaminhamento variam conforme sistema e material.",
+    "id": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Separar um material prova que ele foi reciclado?",
+    "opcoes": [
+      "Sim, o processo acaba ao separar.",
+      "Sim, mesmo se for deixado na rua.",
+      "Não; coleta, encaminhamento e processamento também importam."
+    ],
+    "correta": 2,
+    "explicacao": "A separação é uma etapa da cadeia, não o processo inteiro.",
+    "id": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Um cartão representa vidro quebrado. Quem deve cuidar de seu encaminhamento real?",
+    "opcoes": [
+      "Qualquer colega descalço.",
+      "A criança, para testar textura.",
+      "Um adulto, com orientação adequada."
+    ],
+    "correta": 2,
+    "explicacao": "Representar o risco evita manipular resíduos cortantes na aula.",
+    "id": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Antes de pegar outra folha para rascunho, vale:",
+    "opcoes": [
+      "Jogar fora toda folha usada.",
+      "Usar papel sujo de substância desconhecida.",
+      "Verificar se há uma folha adequada com verso livre."
+    ],
+    "correta": 2,
+    "explicacao": "Aproveitamento depende de o material continuar seguro e útil.",
+    "id": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para escolher material, devemos considerar:",
+    "opcoes": [
+      "Que um material serve igualmente para tudo.",
+      "Só a cor preferida.",
+      "Função, propriedades e condições de uso."
+    ],
+    "correta": 2,
+    "explicacao": "Uma escolha se justifica pelo problema e pelas condições.",
+    "id": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma turma planejou compartilhar lápis. Para avaliar a ação, precisa:",
+    "opcoes": [
+      "Registrar uso, conservação e se todos tiveram acesso.",
+      "Apenas afirmar sucesso.",
+      "Prometer compra zero para sempre."
+    ],
+    "correta": 0,
+    "explicacao": "Critérios e registros mostram o alcance da iniciativa.",
+    "id": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A caixa de materiais está quebrada com borda cortante. O adequado é:",
+    "opcoes": [
+      "Reutilizar obrigatoriamente.",
+      "Pedir avaliação do adulto e escolher alternativa segura.",
+      "Dar a caixa ao colega menor."
+    ],
+    "correta": 1,
+    "explicacao": "Reutilizar não dispensa condições de segurança.",
+    "id": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
     "id": "cna.ef01.terra_e_universo.treino.05",
     "componente": "cna",
     "tema": "Ciências Naturais",
@@ -630,6 +1642,806 @@ registrarQuestoes([
     "complementar": false
   },
   {
+    "pergunta": "Uma colher com cabo de madeira e parte metálica:",
+    "opcoes": [
+      "Não pode ser objeto.",
+      "É feita de um único material obrigatoriamente.",
+      "Reúne materiais em partes com funções."
+    ],
+    "correta": 2,
+    "explicacao": "Um objeto pode combinar materiais.",
+    "id": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma superfície brilhante permite concluir sozinha que é metal?",
+    "opcoes": [
+      "Não, outros materiais e revestimentos podem brilhar.",
+      "Sim, brilho é exclusivo de metal.",
+      "Sim, sem observar mais nada."
+    ],
+    "correta": 0,
+    "explicacao": "A aparência ajuda a descrever, mas não confirma toda composição.",
+    "id": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A madeira está relacionada à origem:",
+    "opcoes": [
+      "Vegetal.",
+      "Somente de minério metálico.",
+      "De fibras de papel recuperado, como regra para toda madeira."
+    ],
+    "correta": 0,
+    "explicacao": "Madeira vem de árvores e pode passar por tratamentos e fabricação.",
+    "id": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para estudar um recipiente de vidro, a proposta é:",
+    "opcoes": [
+      "Apertar com força crescente.",
+      "Observar inteiro com adulto ou usar descrição identificada.",
+      "Quebrar para ver o interior."
+    ],
+    "correta": 1,
+    "explicacao": "A comparação não exige ensaio destrutivo nem fragmentos cortantes.",
+    "id": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "O intervalo 1951–1982 da ficha permite afirmar:",
+    "opcoes": [
+      "Que o catálogo situa a produção nesse período.",
+      "Que toda garrafa foi inventada em 1951.",
+      "Que esse objeto foi usado por toda família brasileira."
+    ],
+    "correta": 0,
+    "explicacao": "Um registro do exemplar não representa toda uma sociedade.",
+    "id": "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.objetos_do_passado",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "London Museum — Bottle, milk bottle, 82.272",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-529268/bottle-milk-bottle/",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: vidro, produção 1951–1982. Informações incorporadas em paráfrase; sem reprodução/inspeção da imagem ou generalização para famílias brasileiras."
+      },
+      {
+        "documento": "Science Museum Group — Spoon, wooden bowl, metal stem, A626625",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co155774/spoon-wooden-bowl-metal-stem",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: Europa, 1601–1800, madeira e metal. Sem reprodução/inspeção da imagem; não usa o objeto co155778 cuja abertura retornou 429."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Comparar uma colher antiga e uma atual pode revelar:",
+    "opcoes": [
+      "Mudanças e permanências.",
+      "Que toda colher precisa ser de plástico.",
+      "Que material antigo nunca é usado hoje."
+    ],
+    "correta": 0,
+    "explicacao": "Materiais e funções podem permanecer ou mudar em contextos diferentes.",
+    "id": "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.objetos_do_passado",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "London Museum — Bottle, milk bottle, 82.272",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-529268/bottle-milk-bottle/",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: vidro, produção 1951–1982. Informações incorporadas em paráfrase; sem reprodução/inspeção da imagem ou generalização para famílias brasileiras."
+      },
+      {
+        "documento": "Science Museum Group — Spoon, wooden bowl, metal stem, A626625",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co155774/spoon-wooden-bowl-metal-stem",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: Europa, 1601–1800, madeira e metal. Sem reprodução/inspeção da imagem; não usa o objeto co155778 cuja abertura retornou 429."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A colher A626625 do exemplo reúne:",
+    "opcoes": [
+      "Madeira e metal.",
+      "Vidro e papel, segundo o texto.",
+      "Somente plástico."
+    ],
+    "correta": 0,
+    "explicacao": "O catálogo informa parte de madeira e haste metálica.",
+    "id": "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.objetos_do_passado",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "London Museum — Bottle, milk bottle, 82.272",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-529268/bottle-milk-bottle/",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: vidro, produção 1951–1982. Informações incorporadas em paráfrase; sem reprodução/inspeção da imagem ou generalização para famílias brasileiras."
+      },
+      {
+        "documento": "Science Museum Group — Spoon, wooden bowl, metal stem, A626625",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co155774/spoon-wooden-bowl-metal-stem",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: Europa, 1601–1800, madeira e metal. Sem reprodução/inspeção da imagem; não usa o objeto co155778 cuja abertura retornou 429."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Qual conclusão excede a fonte da garrafa?",
+    "opcoes": [
+      "Naquele período todas as pessoas usavam garrafas iguais.",
+      "O exemplar é descrito como vidro.",
+      "O registro traz um intervalo de produção."
+    ],
+    "correta": 0,
+    "explicacao": "Dois registros de coleção não sustentam universalização de costumes.",
+    "id": "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.objetos_do_passado",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "London Museum — Bottle, milk bottle, 82.272",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-529268/bottle-milk-bottle/",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: vidro, produção 1951–1982. Informações incorporadas em paráfrase; sem reprodução/inspeção da imagem ou generalização para famílias brasileiras."
+      },
+      {
+        "documento": "Science Museum Group — Spoon, wooden bowl, metal stem, A626625",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co155774/spoon-wooden-bowl-metal-stem",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: Europa, 1601–1800, madeira e metal. Sem reprodução/inspeção da imagem; não usa o objeto co155778 cuja abertura retornou 429."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Saber que um recipiente é de plástico basta para usá-lo com qualquer alimento?",
+    "opcoes": [
+      "Não; finalidade e condições precisam ser verificadas.",
+      "Sim, se for bonito.",
+      "Sim, todos têm o mesmo uso."
+    ],
+    "correta": 0,
+    "explicacao": "Material não substitui indicação de uso e estado do objeto.",
+    "id": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Envelope e caixa podem:",
+    "opcoes": [
+      "Ter exatamente a mesma resistência à água.",
+      "Atender à organização de cartões com possibilidades e limites distintos.",
+      "Ser o mesmo material obrigatoriamente."
+    ],
+    "correta": 1,
+    "explicacao": "A função comum não elimina diferenças de material e projeto.",
+    "id": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma caixa de papelão foi escolhida para local seco. Se o local ficar molhado:",
+    "opcoes": [
+      "A caixa continua adequada apenas porque não mudou de nome.",
+      "É preciso reavaliar a adequação.",
+      "A propriedade nunca pode mudar de importância."
+    ],
+    "correta": 1,
+    "explicacao": "Condições de uso influenciam a decisão.",
+    "id": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para avaliar um objeto, qual conjunto é mais útil?",
+    "opcoes": [
+      "Só a cor.",
+      "Só o nome do fabricante.",
+      "Material, forma, função e condições de uso."
+    ],
+    "correta": 2,
+    "explicacao": "A decisão relaciona características e situação concreta.",
+    "id": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+    "bncc": [
+      "EF02CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para comparar absorção de duas amostras, é melhor:",
+    "opcoes": [
+      "Trocar todas as condições.",
+      "Usar áreas e quantidades de água semelhantes.",
+      "Molhar apenas uma e concluir sobre ambas."
+    ],
+    "correta": 1,
+    "explicacao": "Comparação controlada ajuda a relacionar resultado à amostra.",
+    "id": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
+    "bncc": [
+      "EF02CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Um visor que precisa deixar ver o cartão pede considerar:",
+    "opcoes": [
+      "Somente cheiro.",
+      "Transparência e nitidez nas condições de uso.",
+      "Que todo material opaco permite ver através."
+    ],
+    "correta": 1,
+    "explicacao": "Propriedade deve atender ao critério definido.",
+    "id": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
+    "bncc": [
+      "EF02CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A amostra vazou por um rasgo. O registro deve:",
+    "opcoes": [
+      "Esconder o rasgo para confirmar previsão.",
+      "Concluir que todos os materiais do tipo são ruins.",
+      "Registrar o rasgo e discutir seu efeito."
+    ],
+    "correta": 2,
+    "explicacao": "Condição da amostra interfere e precisa aparecer na análise.",
+    "id": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
+    "bncc": [
+      "EF02CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "O projeto ficou instável. Qual atitude completa o trabalho?",
+    "opcoes": [
+      "Declarar sucesso sem mudança.",
+      "Apagar o objetivo inicial.",
+      "Rever forma/material e testar novamente."
+    ],
+    "correta": 2,
+    "explicacao": "Projeto envolve revisão com base em evidências, não só escolha inicial.",
+    "id": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "aulaId": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
+    "bncc": [
+      "EF02CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
     "id": "cna.ef02.terra_e_universo.treino.07",
     "componente": "cna",
     "tema": "Ciências Naturais",
@@ -980,6 +2792,946 @@ registrarQuestoes([
     "complementar": false
   },
   {
+    "pergunta": "Uma amostra deixa passar luz, mas não permite ver detalhes nítidos. Pode ser:",
+    "opcoes": [
+      "Transparente com visão nítida garantida.",
+      "Translúcida.",
+      "Opaca obrigatoriamente."
+    ],
+    "correta": 1,
+    "explicacao": "Transmissão com espalhamento pode reduzir nitidez.",
+    "id": "cna.ef03.luz_e_materiais.objetos_opacos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.objetos_opacos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Na comparação das amostras, é melhor:",
+    "opcoes": [
+      "Mudar fonte e distância a cada vez sem registrar.",
+      "Manter fonte e distâncias semelhantes.",
+      "Olhar diretamente para a lanterna."
+    ],
+    "correta": 1,
+    "explicacao": "Condições comparáveis ajudam a interpretar o comportamento dos materiais.",
+    "id": "cna.ef03.luz_e_materiais.objetos_opacos.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.objetos_opacos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Papelão bloqueia a luz no teste. A relação estudada é:",
+    "opcoes": [
+      "Opacidade nas condições observadas.",
+      "Transparência, porque vemos a superfície do papelão.",
+      "Ausência de qualquer reflexão na superfície do papelão."
+    ],
+    "correta": 0,
+    "explicacao": "O material opaco interrompe a passagem direta nessa condição.",
+    "id": "cna.ef03.luz_e_materiais.objetos_opacos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.objetos_opacos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Um objeto transparente pode refletir alguma luz?",
+    "opcoes": [
+      "Não, se for limpo.",
+      "Sim; transparência não exclui reflexão.",
+      "Não, transparente significa ausência de toda interação."
+    ],
+    "correta": 1,
+    "explicacao": "Transmissão e reflexão podem ocorrer no mesmo encontro com uma superfície.",
+    "id": "cna.ef03.luz_e_materiais.objetos_opacos.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.objetos_opacos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "O espelho iluminado:",
+    "opcoes": [
+      "Cria toda a luz sem fonte.",
+      "Reflete parte da luz que recebe.",
+      "Só deixa a luz atravessar, sem refletir."
+    ],
+    "correta": 1,
+    "explicacao": "O caminho depende da iluminação incidente e da superfície.",
+    "id": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Mudar a orientação do espelho pode:",
+    "opcoes": [
+      "Mudar apenas a cor da fonte, sem alterar o caminho.",
+      "Manter sempre o ponto no mesmo lugar.",
+      "Mudar a direção da luz refletida."
+    ],
+    "correta": 2,
+    "explicacao": "A geometria de incidência/reflexão muda com a orientação.",
+    "id": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma parede clara é vista porque:",
+    "opcoes": [
+      "Não interage com luz.",
+      "Reflete luz recebida, em geral de modo espalhado.",
+      "Produz luz própria apenas por ser clara."
+    ],
+    "correta": 1,
+    "explicacao": "Ver objetos iluminados envolve luz que chega deles ao observador.",
+    "id": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A lanterna e o espelho produziram ponto claro na parede. Isso prova imagem projetada nítida?",
+    "opcoes": [
+      "Sim, qualquer reflexão cria fotografia.",
+      "Não; ponto iluminado e imagem nítida são coisas diferentes.",
+      "Sim, todo ponto é fotografia."
+    ],
+    "correta": 1,
+    "explicacao": "A tarefa evidencia redirecionamento da luz, não todo mecanismo de formação de imagem.",
+    "id": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A haste parece deslocada na água. O que devemos comparar?",
+    "opcoes": [
+      "Somente a ideia de que quebrou.",
+      "Apenas a cor da água, sem considerar a posição de observação.",
+      "A aparência observada e a haste real ainda inteira."
+    ],
+    "correta": 2,
+    "explicacao": "A refração pode mudar a aparência sem quebrar o objeto.",
+    "id": "cna.ef03.luz_e_materiais.refracao_simples.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.refracao_simples",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "A lupa pode:",
+    "opcoes": [
+      "Ser usada para olhar o Sol nesta aula.",
+      "Aumentar fisicamente a letra impressa.",
+      "Mudar a aparência da letra sem alterar o papel."
+    ],
+    "correta": 2,
+    "explicacao": "O instrumento altera a observação, não o tamanho físico da impressão.",
+    "id": "cna.ef03.luz_e_materiais.refracao_simples.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.refracao_simples",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Ao entrar perpendicularmente em outro meio, a luz precisa sempre desviar de direção?",
+    "opcoes": [
+      "Não; a geometria importa.",
+      "Sim, em qualquer geometria.",
+      "Sim, a entrada perpendicular obriga caminho paralelo à superfície."
+    ],
+    "correta": 0,
+    "explicacao": "Mudança de meio não implica necessariamente desvio de direção na incidência perpendicular.",
+    "id": "cna.ef03.luz_e_materiais.refracao_simples.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.refracao_simples",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "No teste com haste, o registro deve incluir:",
+    "opcoes": [
+      "Posição de observação e condição com/sem água.",
+      "Apenas resultado que o professor esperava.",
+      "Medição inventada de quanto a haste quebrou."
+    ],
+    "correta": 0,
+    "explicacao": "Condições e observação sustentam a comparação.",
+    "id": "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.refracao_simples",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para formar sombra no teste com cartão, precisamos considerar:",
+    "opcoes": [
+      "Apenas o tamanho do cartão, sem posição da fonte.",
+      "Fonte, obstáculo e anteparo.",
+      "Apenas cor da mesa."
+    ],
+    "correta": 1,
+    "explicacao": "A sombra se explica pela interrupção de caminhos da luz.",
+    "id": "cna.ef03.luz_e_materiais.sombras.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.sombras",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "O cartão cresceu quando sua sombra aumentou?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; a geometria pode mudar a sombra sem mudar o cartão.",
+      "Sim, tamanho da sombra mede sempre o tamanho real do cartão."
+    ],
+    "correta": 1,
+    "explicacao": "A aparência no anteparo depende das posições relativas.",
+    "id": "cna.ef03.luz_e_materiais.sombras.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.sombras",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Com fonte e parede fixas, aproximar o cartão da fonte tende a:",
+    "opcoes": [
+      "Reduzir sempre a sombra a zero.",
+      "Não ter qualquer efeito.",
+      "Aumentar a sombra nessa configuração."
+    ],
+    "correta": 2,
+    "explicacao": "A relação geométrica do teste amplia a região bloqueada no anteparo.",
+    "id": "cna.ef03.luz_e_materiais.sombras.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.sombras",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Se duas lanternas iluminarem o objeto, a turma deve:",
+    "opcoes": [
+      "Ignorar uma para manter a previsão.",
+      "Concluir que não existe sombra com duas fontes.",
+      "Registrar as duas fontes, pois podem alterar o padrão."
+    ],
+    "correta": 2,
+    "explicacao": "Número e posição das fontes fazem parte das condições.",
+    "id": "cna.ef03.luz_e_materiais.sombras.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "aulaId": "cna.ef03.luz_e_materiais.sombras",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma lâmina translúcida colorida na lanterna:",
+    "opcoes": [
+      "Pode alterar a aparência da luz transmitida sem ser fonte própria.",
+      "Cria luz sem receber energia.",
+      "É sempre igual a cartão opaco."
+    ],
+    "correta": 0,
+    "explicacao": "A amostra interage com a luz que recebe.",
+    "id": "cna.ef03.luz_e_materiais.cores_e_luz.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais — Complementar",
+    "aulaId": "cna.ef03.luz_e_materiais.cores_e_luz",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "pergunta": "Duas pessoas descrevem cores de modo diferente. A atividade deve:",
+    "opcoes": [
+      "Aceitar descrições acessíveis e avaliar comparação e evidências.",
+      "Exigir discriminação cromática perfeita.",
+      "Reprovar quem usa outro nome."
+    ],
+    "correta": 0,
+    "explicacao": "O objetivo é investigar interação da luz, com participação acessível.",
+    "id": "cna.ef03.luz_e_materiais.cores_e_luz.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais — Complementar",
+    "aulaId": "cna.ef03.luz_e_materiais.cores_e_luz",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "pergunta": "O efeito da amostra ficou fraco no teste. É adequado:",
+    "opcoes": [
+      "Trocar a observação por imagem ideal sem avisar.",
+      "Registrar condição e limite da observação.",
+      "Inventar uma cor muito forte."
+    ],
+    "correta": 1,
+    "explicacao": "Resultado fraco ou inconclusivo também deve ser documentado.",
+    "id": "cna.ef03.luz_e_materiais.cores_e_luz.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais — Complementar",
+    "aulaId": "cna.ef03.luz_e_materiais.cores_e_luz",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "pergunta": "Comparar luz transmitida e tinta permite concluir que são sempre a mesma mistura?",
+    "opcoes": [
+      "Sim, a cor substitui toda propriedade.",
+      "Não; mecanismos e condições precisam ser distinguidos.",
+      "Sim, qualquer mistura tem resultado igual."
+    ],
+    "correta": 1,
+    "explicacao": "O teste não autoriza equivalência universal entre luz e pigmento.",
+    "id": "cna.ef03.luz_e_materiais.cores_e_luz.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais — Complementar",
+    "aulaId": "cna.ef03.luz_e_materiais.cores_e_luz",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
     "id": "cna.ef03.materia_e_energia.treino.01",
     "componente": "cna",
     "tema": "Ciências Naturais",
@@ -1183,6 +3935,946 @@ registrarQuestoes([
         ],
         "paginasImpressas": "337",
         "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Na régua do exemplo, a ponta vibrando faz:",
+    "opcoes": [
+      "Movimento de ida e volta repetido.",
+      "Um único deslocamento, sem movimento de retorno.",
+      "Um movimento contínuo na mesma direção."
+    ],
+    "correta": 0,
+    "explicacao": "Vibração envolve repetição em torno de uma posição.",
+    "id": "cna.ef03.som_e_vibracao.vibracao_dos_objetos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Se não vemos a vibração de um objeto sonoro:",
+    "opcoes": [
+      "Ela pode ser muito pequena ou rápida para observar diretamente.",
+      "O som não tem fonte.",
+      "Provamos que ele não vibra."
+    ],
+    "correta": 0,
+    "explicacao": "Limite de observação não equivale a ausência do fenômeno.",
+    "id": "cna.ef03.som_e_vibracao.vibracao_dos_objetos.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Ao parar a vibração da régua, o som associado tende a:",
+    "opcoes": [
+      "Ficar mais agudo obrigatoriamente.",
+      "Cessar.",
+      "Continuar igual para sempre."
+    ],
+    "correta": 1,
+    "explicacao": "Interromper a fonte vibrante interrompe a produção associada.",
+    "id": "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Um registro científico acessível pode incluir:",
+    "opcoes": [
+      "Obrigação de encostar ouvido no objeto.",
+      "Desenho do movimento e relato mediado, além de som quando percebido.",
+      "Somente audição perfeita."
+    ],
+    "correta": 1,
+    "explicacao": "Há diferentes meios de observar e comunicar a investigação.",
+    "id": "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Som agudo se relaciona principalmente a:",
+    "opcoes": [
+      "Ser mais forte obrigatoriamente.",
+      "Ser produzido apenas por objeto pequeno.",
+      "Frequência maior na comparação."
+    ],
+    "correta": 2,
+    "explicacao": "Altura se relaciona à frequência, não apenas à intensidade ou tamanho.",
+    "id": "cna.ef03.som_e_vibracao.altura_e_intensidade.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.altura_e_intensidade",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma mesma nota pode ser tocada:",
+    "opcoes": [
+      "Mais forte ou mais fraca mantendo altura semelhante.",
+      "Somente forte.",
+      "Somente fraca."
+    ],
+    "correta": 0,
+    "explicacao": "Altura e intensidade são características distintas.",
+    "id": "cna.ef03.som_e_vibracao.altura_e_intensidade.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.altura_e_intensidade",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Um som grave pode ser forte?",
+    "opcoes": [
+      "Não, todo som forte precisa ser agudo.",
+      "Não, grave significa fraco.",
+      "Sim, altura e intensidade não são a mesma característica."
+    ],
+    "correta": 2,
+    "explicacao": "Grave/agudo não determina forte/fraco.",
+    "id": "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.altura_e_intensidade",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para estudar sem expor colegas a ruído, a turma deve:",
+    "opcoes": [
+      "Aumentar até incomodar.",
+      "Competir pelo maior volume.",
+      "Usar sons suaves e interromper se houver desconforto."
+    ],
+    "correta": 2,
+    "explicacao": "A comparação não exige níveis intensos ou competição sonora.",
+    "id": "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.altura_e_intensidade",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "No violão, uma parte diretamente envolvida na produção é:",
+    "opcoes": [
+      "A caixa inteira parada, sem vibração em nenhuma parte.",
+      "A corda vibrando.",
+      "A corda apenas por estar esticada, mesmo sem movimento."
+    ],
+    "correta": 1,
+    "explicacao": "Cordas e corpo interagem com o meio para produzir o resultado sonoro.",
+    "id": "cna.ef03.som_e_vibracao.instrumentos_musicais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.instrumentos_musicais",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Fontes de altura parecida podem ser distinguidas também por:",
+    "opcoes": [
+      "Obrigação de ter a mesma forma.",
+      "Timbre e características do som.",
+      "Não existir vibração."
+    ],
+    "correta": 1,
+    "explicacao": "Fontes podem ter padrões de vibração distintos mesmo com nota semelhante.",
+    "id": "cna.ef03.som_e_vibracao.instrumentos_musicais.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.instrumentos_musicais",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "No estudo do tambor, deve-se relacionar:",
+    "opcoes": [
+      "Somente tamanho do tambor, ignorando como é tocado.",
+      "Membrana vibrante, modo de tocar e interação com o ar.",
+      "Som à ausência completa de movimento."
+    ],
+    "correta": 1,
+    "explicacao": "O mecanismo envolve partes vibrantes e o meio.",
+    "id": "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.instrumentos_musicais",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "O modelo de caixa e régua:",
+    "opcoes": [
+      "Dispensa testar o projeto.",
+      "Representa alguns aspectos e tem limites que devem ser explicados.",
+      "Reproduz integralmente qualquer instrumento."
+    ],
+    "correta": 1,
+    "explicacao": "Modelos didáticos selecionam características, não copiam todos os mecanismos.",
+    "id": "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.instrumentos_musicais",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Na conversa comum, o som pode chegar pelo:",
+    "opcoes": [
+      "Vácuo obrigatório.",
+      "Ar.",
+      "Transporte do próprio objeto sonoro até quem escuta."
+    ],
+    "correta": 1,
+    "explicacao": "O ar é um meio material para propagação sonora.",
+    "id": "cna.ef03.som_e_vibracao.som_se_propaga.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.som_se_propaga",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "No modelo de cartões, o sinal avança enquanto:",
+    "opcoes": [
+      "O primeiro cartão precisa correr até o fim.",
+      "Todos os cartões precisam seguir juntos até o final.",
+      "Cada cartão se move localmente."
+    ],
+    "correta": 2,
+    "explicacao": "A analogia distingue transmissão e transporte de um objeto de uma ponta à outra.",
+    "id": "cna.ef03.som_e_vibracao.som_se_propaga.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.som_se_propaga",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Uma caixa cobrindo fonte sonora cria vácuo?",
+    "opcoes": [
+      "Não; cobertura pode modificar o som sem retirar o ar.",
+      "Sim, se for de papelão.",
+      "Sim, toda caixa retira o ar."
+    ],
+    "correta": 0,
+    "explicacao": "Cobrir não equivale a remover todo meio material.",
+    "id": "cna.ef03.som_e_vibracao.som_se_propaga.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.som_se_propaga",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Qual comparação é adequada?",
+    "opcoes": [
+      "Som precisa de meio material; luz pode propagar-se no vácuo.",
+      "Som e luz precisam sempre de ar.",
+      "Som atravessa vácuo como conversa normal."
+    ],
+    "correta": 0,
+    "explicacao": "São fenômenos com diferentes condições de propagação.",
+    "id": "cna.ef03.som_e_vibracao.som_se_propaga.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.som_se_propaga",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Para estudar o comprimento livre, devemos preferir:",
+    "opcoes": [
+      "Mudar régua, material e força ao mesmo tempo.",
+      "Não registrar comprimentos.",
+      "Mesma régua e fixação, mudando o comprimento."
+    ],
+    "correta": 2,
+    "explicacao": "Manter outras condições ajuda a interpretar o efeito da variável.",
+    "id": "cna.ef03.som_e_vibracao.variaveis_do_som.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.variaveis_do_som",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Resultados diferentes da previsão devem:",
+    "opcoes": [
+      "Ser substituídos por números inventados.",
+      "Ser apagados.",
+      "Ser registrados e discutidos com as condições."
+    ],
+    "correta": 2,
+    "explicacao": "A evidência orienta a revisão da explicação.",
+    "id": "cna.ef03.som_e_vibracao.variaveis_do_som.treino.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.variaveis_do_som",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Trocar material e comprimento na mesma comparação permite:",
+    "opcoes": [
+      "Levantar hipóteses, mas dificulta isolar o efeito do comprimento.",
+      "Atribuir toda mudança só ao comprimento com certeza.",
+      "Ignorar o material."
+    ],
+    "correta": 0,
+    "explicacao": "Mais de uma mudança pode explicar diferenças observadas.",
+    "id": "cna.ef03.som_e_vibracao.variaveis_do_som.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.variaveis_do_som",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "pergunta": "Sem medir frequência, a turma pode registrar:",
+    "opcoes": [
+      "Uma descrição de altura percebida e seus limites.",
+      "Um valor exato em hertz inventado.",
+      "Que nenhuma observação vale."
+    ],
+    "correta": 0,
+    "explicacao": "Descrição qualitativa é válida quando sua origem e alcance são explícitos.",
+    "id": "cna.ef03.som_e_vibracao.variaveis_do_som.prova.2",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "aulaId": "cna.ef03.som_e_vibracao.variaveis_do_som",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
       }
     ],
     "autoria": "produção autoral assistida",
@@ -8668,6 +12360,253 @@ registrarProvas({
       }
     ]
   },
+  "cna.ef01.materiais_do_cotidiano.prova": {
+    "id": "cna.ef01.materiais_do_cotidiano.prova",
+    "titulo": "Avaliação: Materiais do Cotidiano",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Materiais do Cotidiano",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "10 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/10 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+    "questoes": [
+      "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
+      "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
+      "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.1",
+      "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.2",
+      "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.1",
+      "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.2",
+      "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
+      "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
+      "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
+      "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2"
+    ],
+    "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.materiais_do_cotidiano.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio da unidade",
+      "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+      "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+      "rubrica": [
+        "Atende: registro verificável e relação coerente.",
+        "Em desenvolvimento: registro parcial e revisão orientada.",
+        "Retomar: ausência de produção ou explicação a reconstruir."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Objetos e materiais: o que é feito de quê? — producao1",
+          "enunciado": "Mapa de partes: Com um adulto, escolha três objetos seguros. Desenhe ou descreva cada um, marque uma ou mais partes e o material identificado. Na mochila, procure tecido e fecho sem desmontar. Marque com ponto de interrogação o que não foi confirmado.",
+          "gabarito": "Esperar três objetos identificados como objetos e indicação de materiais por parte. Aceitar registro oral/desenhado; dúvida honesta vale mais que identificação inventada.",
+          "rubrica": [
+            "Esperar três objetos identificados como objetos e indicação de materiais por parte. Aceitar registro oral/desenhado; dúvida honesta vale mais que identificação inventada.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao1"
+        },
+        {
+          "titulo": "Objetos e materiais: o que é feito de quê? — producao2",
+          "enunciado": "Agrupar sem confundir: Agrupe os três objetos pelo material de uma parte. Depois reorganize pelo uso. Explique por que os grupos podem mudar.",
+          "gabarito": "Relacionar agrupamento ao critério: material e uso podem separar os mesmos objetos de modos diferentes; objeto com partes distintas pode participar de mais de um grupo.",
+          "rubrica": [
+            "Relacionar agrupamento ao critério: material e uso podem separar os mesmos objetos de modos diferentes; objeto com partes distintas pode participar de mais de um grupo.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao2"
+        },
+        {
+          "titulo": "De onde vêm os materiais? — producao1",
+          "enunciado": "Caminho com cartões: Desenhe três cartões ligados por setas para um objeto de papel: matéria-prima, fabricação e uso. Inclua possibilidade de papel recuperado. Com adulto, confira a embalagem ou fonte indicada; não visite área de extração.",
+          "gabarito": "Reconhecer origem vegetal das fibras e transformação antes do objeto; diferenciar fibra recuperada de papel aparecendo pronto na natureza.",
+          "rubrica": [
+            "Reconhecer origem vegetal das fibras e transformação antes do objeto; diferenciar fibra recuperada de papel aparecendo pronto na natureza.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao1"
+        },
+        {
+          "titulo": "De onde vêm os materiais? — producao2",
+          "enunciado": "Pergunta sobre origem: Compare uma colher de madeira e uma de metal por origem do material e uso. Faça uma pergunta ainda sem resposta sobre fabricação ou recuperação.",
+          "gabarito": "Relacionar madeira a árvores e metal a matérias-primas minerais/recuperação, sem concluir que um é sempre melhor. Registrar pergunta real sem inventar fabricante.",
+          "rubrica": [
+            "Relacionar madeira a árvores e metal a matérias-primas minerais/recuperação, sem concluir que um é sempre melhor. Registrar pergunta real sem inventar fabricante.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao2"
+        },
+        {
+          "titulo": "Comparar sem quebrar: propriedades observáveis — producao1",
+          "enunciado": "Quadro de comparação: Observe folha de papel, retalho e tampa plástica limpa. Registre para cada amostra cor, textura e comportamento ao tentar curvar suavemente, sem forçar. Compare duas características, com fala ou desenho.",
+          "gabarito": "Exigir registro das amostras realmente usadas, comparação explícita e interrupção se houver risco. Não antecipar como dado real que toda tampa é igual.",
+          "rubrica": [
+            "Exigir registro das amostras realmente usadas, comparação explícita e interrupção se houver risco. Não antecipar como dado real que toda tampa é igual.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1"
+        },
+        {
+          "titulo": "Comparar sem quebrar: propriedades observáveis — producao2",
+          "enunciado": "Mesma cor, material diferente: Encontre dois objetos da mesma cor, mas feitos de materiais diferentes. Explique por que cor sozinha não basta para identificar material.",
+          "gabarito": "Nomear objetos, materiais confirmados e pelo menos outra característica. Não aceitar inferência de material baseada apenas na cor.",
+          "rubrica": [
+            "Nomear objetos, materiais confirmados e pelo menos outra característica. Não aceitar inferência de material baseada apenas na cor.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2"
+        },
+        {
+          "titulo": "Depois do uso: separar e conferir o destino — producao1",
+          "enunciado": "Triagem com cartões: Com adulto, faça cartões representando folha limpa usada, caixa íntegra, pilha e vidro quebrado. Separe: ainda pode ser usado; consultar coleta; somente adulto deve encaminhar. Use desenhos para os perigosos, nunca amostras reais.",
+          "gabarito": "Folha/caixa podem ter reutilização conforme estado; encaminhamento para coleta depende de confirmação. Pilha/vidro quebrado ficam sob cuidado adulto, sem manejo infantil.",
+          "rubrica": [
+            "Folha/caixa podem ter reutilização conforme estado; encaminhamento para coleta depende de confirmação. Pilha/vidro quebrado ficam sob cuidado adulto, sem manejo infantil.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1"
+        },
+        {
+          "titulo": "Depois do uso: separar e conferir o destino — producao2",
+          "enunciado": "Destino verificado: O adulto consulta orientação do município, escola ou cooperativa para um material seguro. Registre fonte, material aceito e destino informado. Se não houver resposta, marque a consulta pendente.",
+          "gabarito": "Exigir referência real e limite local. Não chamar suposição de coleta confirmada nem garantir reciclagem apenas por símbolo na embalagem.",
+          "rubrica": [
+            "Exigir referência real e limite local. Não chamar suposição de coleta confirmada nem garantir reciclagem apenas por símbolo na embalagem.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2"
+        },
+        {
+          "titulo": "Escolher, cuidar e usar por mais tempo — producao1",
+          "enunciado": "Decisão justificada: Analise três situações: rascunho em folha com verso livre; caixa íntegra para organizar cartões; lápis com ponta quebrada. Escolha ação de cuidado ou reaproveitamento e explique como atende à função. Peça ajuda para apontar lápis.",
+          "gabarito": "Relacionar decisão ao estado/uso: verso disponível, caixa útil e manutenção mediada. Aceitar alternativas coerentes; não exigir compra como única solução.",
+          "rubrica": [
+            "Relacionar decisão ao estado/uso: verso disponível, caixa útil e manutenção mediada. Aceitar alternativas coerentes; não exigir compra como única solução.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1"
+        },
+        {
+          "titulo": "Escolher, cuidar e usar por mais tempo — producao2",
+          "enunciado": "Plano da turma: Escolha uma ação de uso consciente para uma semana, como bandeja de rascunhos. Defina responsável adulto, acesso e registro de uso. Execute quando autorizado e compare o que funcionou; sem execução, registre plano pendente.",
+          "gabarito": "Exigir ação viável, participação e registro real. Não calcular árvores, água ou dinheiro poupados sem método. Considerar limpeza e acesso equitativo.",
+          "rubrica": [
+            "Exigir ação viável, participação e registro real. Não calcular árvores, água ou dinheiro poupados sem método. Considerar limpeza e acesso equitativo.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI01",
+        "questoes": [
+          "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
+          "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
+          "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.1",
+          "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.2",
+          "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.1",
+          "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.2",
+          "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
+          "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
+          "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
+          "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.materiais_do_cotidiano.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao1",
+          "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao2",
+          "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao1",
+          "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao2",
+          "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1",
+          "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2",
+          "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1",
+          "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2",
+          "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1",
+          "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+        ]
+      }
+    ]
+  },
   "cna.ef01.terra_e_universo.prova": {
     "id": "cna.ef01.terra_e_universo.prova",
     "titulo": "Avaliação: Terra e Universo",
@@ -9038,6 +12977,237 @@ registrarProvas({
       }
     ]
   },
+  "cna.ef02.materiais_e_objetos.prova": {
+    "id": "cna.ef02.materiais_e_objetos.prova",
+    "titulo": "Avaliação: Materiais e Objetos",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Materiais e Objetos",
+    "bncc": [
+      "EF02CI01",
+      "EF02CI02"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "8 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/8 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+    "questoes": [
+      "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+      "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+      "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+      "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+      "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+      "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2",
+      "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+      "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2"
+    ],
+    "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.materiais_e_objetos.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio da unidade",
+      "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+      "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+      "rubrica": [
+        "Atende: registro verificável e relação coerente.",
+        "Em desenvolvimento: registro parcial e revisão orientada.",
+        "Retomar: ausência de produção ou explicação a reconstruir."
+      ],
+      "bncc": [
+        "EF02CI01",
+        "EF02CI02"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Madeira, metais e vidro: comparar amostras — producao1",
+          "enunciado": "Tabela de partes: Com adulto, observe colher de madeira, utensílio metálico e recipiente de vidro inteiro apenas demonstrado pelo adulto ou descrito em registro. Anote objeto, parte, material confirmado, uso e duas propriedades; não teste quebra.",
+          "gabarito": "Exigir distinção objeto/material e descrição contextual. Fonte/etiqueta pode sustentar identificação; não atribuir segurança alimentar só à aparência.",
+          "rubrica": [
+            "Exigir distinção objeto/material e descrição contextual. Fonte/etiqueta pode sustentar identificação; não atribuir segurança alimentar só à aparência.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI01"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1"
+        },
+        {
+          "titulo": "Madeira, metais e vidro: comparar amostras — producao2",
+          "enunciado": "Regra que precisa de revisão: Explique por que as frases todo vidro é transparente e todo metal gruda no ímã não servem como regras universais. Compare com as amostras ou descrições fornecidas.",
+          "gabarito": "Reconhecer diversidade: vidros podem ter diferentes aparências; alumínio não apresenta atração comum como ferro. Não é necessário executar teste magnético.",
+          "rubrica": [
+            "Reconhecer diversidade: vidros podem ter diferentes aparências; alumínio não apresenta atração comum como ferro. Não é necessário executar teste magnético.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI01"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2"
+        },
+        {
+          "titulo": "Objetos do passado: comparar com fontes — producao1",
+          "enunciado": "Ficha de evidência histórica: Use os dois registros textuais incorporados: faça ficha com objeto, material, intervalo de produção e museu. Separe o que a fonte informa de uma pergunta que ela não responde, como quem usou aquele exemplar.",
+          "gabarito": "Esperar garrafa/vidro/1951–1982/London Museum e colher/madeira+metal/1601–1800/Science Museum Group. Não transformar intervalos em um ano exato ou inventar usuários.",
+          "rubrica": [
+            "Esperar garrafa/vidro/1951–1982/London Museum e colher/madeira+metal/1601–1800/Science Museum Group. Não transformar intervalos em um ano exato ou inventar usuários.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI01"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1"
+        },
+        {
+          "titulo": "Objetos do passado: comparar com fontes — producao2",
+          "enunciado": "Comparação antes e agora: Com adulto, identifique uma embalagem atual e uma colher atual sem abrir embalagens. Compare função e materiais com os registros históricos. Escreva uma mudança, uma permanência ou ausência de mudança e um limite da comparação.",
+          "gabarito": "Exigir objetos atuais reais ou descrições identificadas. Mudança de material não é obrigatória; permanência é resultado válido. Não generalizar a história brasileira a partir de dois objetos europeus.",
+          "rubrica": [
+            "Exigir objetos atuais reais ou descrições identificadas. Mudança de material não é obrigatória; permanência é resultado válido. Não generalizar a história brasileira a partir de dois objetos europeus.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI01"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2"
+        },
+        {
+          "titulo": "Função, partes e condições de uso — producao1",
+          "enunciado": "Função e limite: Escolha três objetos escolares seguros, identifique materiais e usos e descreva uma condição em que cada uso pode não funcionar. Use caixa seca/molhada como situação de análise sem molhar patrimônio.",
+          "gabarito": "Exigir três relações, como material e espessura influenciando resistência/uso, sem concluir que todo papelão tem resultado idêntico. Não realizar uso impróprio para testar.",
+          "rubrica": [
+            "Exigir três relações, como material e espessura influenciando resistência/uso, sem concluir que todo papelão tem resultado idêntico. Não realizar uso impróprio para testar.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI01"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1"
+        },
+        {
+          "titulo": "Função, partes e condições de uso — producao2",
+          "enunciado": "Uma função, duas opções: Compare duas opções seguras para organizar cartões, como envelope de papel e caixa plástica já disponível. Diga o que cada uma atende, sua limitação e qual escolheria para um contexto definido.",
+          "gabarito": "Justificar por tamanho, proteção, acesso, disponibilidade e condição. Não tratar plástico como sempre melhor nem propor uso de embalagem contaminada.",
+          "rubrica": [
+            "Justificar por tamanho, proteção, acesso, disponibilidade e condição. Não tratar plástico como sempre melhor nem propor uso de embalagem contaminada.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI01"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
+        },
+        {
+          "titulo": "Projetar, testar e revisar a escolha de material — producao1",
+          "enunciado": "Ensaio de cobertura: Com adulto, compare duas amostras seguras, papel sem revestimento e filme plástico íntegro, sobre cartões separados em bandeja. Mantenha área, número de gotas e tempo semelhantes. Registre previsão e resultado; retire o material antes de qualquer risco de derramar perto de aparelho.",
+          "gabarito": "Relacionar escolha à resistência à passagem da água no modelo e registrar condições reais. Se houver rasgo, vazamento lateral ou diferença de tamanho, discutir interferência, sem apagar resultado inesperado.",
+          "rubrica": [
+            "Relacionar escolha à resistência à passagem da água no modelo e registrar condições reais. Se houver rasgo, vazamento lateral ou diferença de tamanho, discutir interferência, sem apagar resultado inesperado.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI02"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1"
+        },
+        {
+          "titulo": "Projetar, testar e revisar a escolha de material — producao2",
+          "enunciado": "Projeto com dois critérios: Desenhe ou monte um porta-cartão com materiais limpos disponíveis. Defina dois critérios, como estabilidade e ver a identificação; selecione materiais, teste com cartão leve e explique uma revisão. Cortes/furos ficam com adulto.",
+          "gabarito": "Exigir necessidade, dois critérios, propriedades, ensaio e revisão. A transparência pode ser dispensável se houver janela/etiqueta: aceitar solução alternativa justificada.",
+          "rubrica": [
+            "Exigir necessidade, dois critérios, propriedades, ensaio e revisão. A transparência pode ser dispensável se houver janela/etiqueta: aceitar solução alternativa justificada.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF02CI02"
+          ],
+          "atividadeOrigem": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+        "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+      },
+      {
+        "documento": "London Museum — Bottle, milk bottle, 82.272",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-529268/bottle-milk-bottle/",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: vidro, produção 1951–1982. Informações incorporadas em paráfrase; sem reprodução/inspeção da imagem ou generalização para famílias brasileiras."
+      },
+      {
+        "documento": "Science Museum Group — Spoon, wooden bowl, metal stem, A626625",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co155774/spoon-wooden-bowl-metal-stem",
+        "consulta": "2026-10-30",
+        "uso": "Registro textual consultado: Europa, 1601–1800, madeira e metal. Sem reprodução/inspeção da imagem; não usa o objeto co155778 cuja abertura retornou 429."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI01",
+        "questoes": [
+          "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+          "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+          "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+          "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+          "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+          "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.materiais_e_objetos.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1",
+          "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2",
+          "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1",
+          "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2",
+          "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1",
+          "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
+        ]
+      },
+      {
+        "bncc": "EF02CI02",
+        "questoes": [
+          "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+          "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.materiais_e_objetos.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1",
+          "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
+        ]
+      }
+    ]
+  },
   "cna.ef02.terra_e_universo.prova": {
     "id": "cna.ef02.terra_e_universo.prova",
     "titulo": "Avaliação: Terra e Universo",
@@ -9275,6 +13445,318 @@ registrarProvas({
       }
     ]
   },
+  "cna.ef03.luz_e_materiais.prova": {
+    "id": "cna.ef03.luz_e_materiais.prova",
+    "titulo": "Avaliação: Luz e Materiais",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "8 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/8 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+    "questoes": [
+      "cna.ef03.luz_e_materiais.objetos_opacos.prova.1",
+      "cna.ef03.luz_e_materiais.objetos_opacos.prova.2",
+      "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.1",
+      "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.2",
+      "cna.ef03.luz_e_materiais.refracao_simples.prova.1",
+      "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
+      "cna.ef03.luz_e_materiais.sombras.prova.1",
+      "cna.ef03.luz_e_materiais.sombras.prova.2"
+    ],
+    "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.luz_e_materiais.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio da unidade",
+      "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+      "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+      "rubrica": [
+        "Atende: registro verificável e relação coerente.",
+        "Em desenvolvimento: registro parcial e revisão orientada.",
+        "Retomar: ausência de produção ou explicação a reconstruir."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Passagem da luz: opaco, translúcido e transparente — producao1",
+          "enunciado": "Três amostras, mesmo teste: Com professor, posicione lanterna comum voltada à parede e, sem mirar olhos, interponha papelão, plástico transparente e material translúcido seguro, um por vez. Mantenha distâncias. Registre luz na parede e nitidez de letra vista através sem aproximar da fonte.",
+          "gabarito": "Exigir registro das amostras e critérios distintos de passagem/nitidez. Não usar vidro solto, laser ou ambiente com circulação no escuro. Não impor classificação pela aparência prevista.",
+          "rubrica": [
+            "Exigir registro das amostras e critérios distintos de passagem/nitidez. Não usar vidro solto, laser ou ambiente com circulação no escuro. Não impor classificação pela aparência prevista.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao1"
+        },
+        {
+          "titulo": "Passagem da luz: opaco, translúcido e transparente — producao2",
+          "enunciado": "Mesmo nome, resultado diferente: Compare duas amostras plásticas com transparências diferentes. Explique por que o nome plástico não determina a mesma passagem de luz.",
+          "gabarito": "Relacionar composição/acabamento/espessura em termos simples e observação real; não afirmar que todo plástico é transparente ou que transparência elimina reflexão.",
+          "rubrica": [
+            "Relacionar composição/acabamento/espessura em termos simples e observação real; não afirmar que todo plástico é transparente ou que transparência elimina reflexão.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao2"
+        },
+        {
+          "titulo": "Reflexão: luz que muda de caminho — producao1",
+          "enunciado": "Caminho com espelho: Com adulto, use lanterna comum, espelho acrílico inteiro e anteparo de papel. Localize ponto iluminado após reflexão e mude levemente a orientação do espelho. Desenhe fonte, espelho e anteparo com setas. Sem laser, luz solar ou vidro sem proteção.",
+          "gabarito": "Exigir execução ou fonte identificada, mudança do ponto e direção das setas. Não concluir que espelho cria luz ou que toda reflexão forma imagem projetada.",
+          "rubrica": [
+            "Exigir execução ou fonte identificada, mudança do ponto e direção das setas. Não concluir que espelho cria luz ou que toda reflexão forma imagem projetada.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1"
+        },
+        {
+          "titulo": "Reflexão: luz que muda de caminho — producao2",
+          "enunciado": "Parede também participa: Compare parede clara e espelho usando iluminação ambiente e descrição do adulto. Explique por que vemos a parede mesmo que ela não forme imagem nítida como um espelho.",
+          "gabarito": "Relacionar luz recebida/refletida de modo espalhado na parede e mais organizado no espelho. Não dizer que apenas metal reflete ou que parede emite luz própria por estar iluminada.",
+          "rubrica": [
+            "Relacionar luz recebida/refletida de modo espalhado na parede e mais organizado no espelho. Não dizer que apenas metal reflete ou que parede emite luz própria por estar iluminada.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2"
+        },
+        {
+          "titulo": "Água e lentes: mudanças no caminho da luz — producao1",
+          "enunciado": "Antes e depois da água: Com adulto e recipiente transparente estável de plástico, observe haste sem ponta no recipiente vazio e depois com água. Mantenha posição e compare vista de lado e de cima. Desenhe aparência e indique que a haste real continua inteira. Sem consumo da água.",
+          "gabarito": "Exigir posições e registro real: aparência depende do ângulo. Não obrigar que toda vista mostre quebra nem afirmar que água deformou fisicamente a haste.",
+          "rubrica": [
+            "Exigir posições e registro real: aparência depende do ângulo. Não obrigar que toda vista mostre quebra nem afirmar que água deformou fisicamente a haste.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1"
+        },
+        {
+          "titulo": "Água e lentes: mudanças no caminho da luz — producao2",
+          "enunciado": "Lente em uso seguro: Observe uma letra com lupa didática segura em duas distâncias do papel, manipulada com adulto. Registre o que mudou na aparência e o que permaneceu no papel. Se não houver lupa, analise descrição identificada, marcando a ausência do teste.",
+          "gabarito": "Exigir distinguir ampliação aparente e tamanho real. Não prometer ampliação idêntica para todas as distâncias nem realizar teste com Sol/olhos ou vidro danificado.",
+          "rubrica": [
+            "Exigir distinguir ampliação aparente e tamanho real. Não prometer ampliação idêntica para todas as distâncias nem realizar teste com Sol/olhos ou vidro danificado.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2"
+        },
+        {
+          "titulo": "Sombras: fonte, obstáculo e anteparo — producao1",
+          "enunciado": "Três posições: Fixe lanterna comum e anteparo com professor. Mova cartão opaco seguro entre três posições marcadas, sem mudar sua orientação. Registre contorno aproximado da sombra e distâncias ou marcas, sem exigir centímetros se não medidos. Mantenha circulação iluminada.",
+          "gabarito": "Exigir posições, controle de fonte/anteparo e comparação de tamanho. Não apresentar regra sem condições nem dizer que sombra tem cor como tinta.",
+          "rubrica": [
+            "Exigir posições, controle de fonte/anteparo e comparação de tamanho. Não apresentar regra sem condições nem dizer que sombra tem cor como tinta.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.sombras#sombras.producao1"
+        },
+        {
+          "titulo": "Sombras: fonte, obstáculo e anteparo — producao2",
+          "enunciado": "Prever e confrontar: Preveja o que ocorrerá ao aproximar o cartão da parede mantendo a fonte fixa. Compare com teste e explique resultado ou interferência. Depois incline o cartão e discuta por que a forma também importa.",
+          "gabarito": "Separar testes de distância e inclinação. Usar resultado real; não inventar contorno perfeito nem confundir tamanho da sombra com crescimento do cartão.",
+          "rubrica": [
+            "Separar testes de distância e inclinação. Usar resultado real; não inventar contorno perfeito nem confundir tamanho da sombra com crescimento do cartão.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.sombras#sombras.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI02",
+        "questoes": [
+          "cna.ef03.luz_e_materiais.objetos_opacos.prova.1",
+          "cna.ef03.luz_e_materiais.objetos_opacos.prova.2",
+          "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.1",
+          "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.2",
+          "cna.ef03.luz_e_materiais.refracao_simples.prova.1",
+          "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
+          "cna.ef03.luz_e_materiais.sombras.prova.1",
+          "cna.ef03.luz_e_materiais.sombras.prova.2"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.luz_e_materiais.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao1",
+          "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao2",
+          "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1",
+          "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2",
+          "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1",
+          "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2",
+          "cna.ef03.luz_e_materiais.sombras#sombras.producao1",
+          "cna.ef03.luz_e_materiais.sombras#sombras.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.luz_e_materiais_complementar.prova": {
+    "id": "cna.ef03.luz_e_materiais_complementar.prova",
+    "titulo": "Avaliação: Luz e Materiais — Complementar",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Luz e Materiais — Complementar",
+    "bncc": [
+      "EF03CI02"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": true,
+    "pontuacaoTotal": 10,
+    "instrucoes": "2 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/2 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+    "questoes": [
+      "cna.ef03.luz_e_materiais.cores_e_luz.prova.1",
+      "cna.ef03.luz_e_materiais.cores_e_luz.prova.2"
+    ],
+    "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.luz_e_materiais_complementar.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio da unidade · complementar opcional",
+      "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+      "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+      "rubrica": [
+        "Atende: registro verificável e relação coerente.",
+        "Em desenvolvimento: registro parcial e revisão orientada.",
+        "Retomar: ausência de produção ou explicação a reconstruir."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Luz e cor: extensão da investigação — producao1",
+          "enunciado": "Passagem e aparência: Com adulto, compare uma lâmina translúcida colorida e um cartão opaco colorido no caminho de lanterna comum para papel claro. Mantenha distâncias e registre passagem de luz e aparência por desenho, palavras ou descrição mediada. Não use laser nem olho como anteparo.",
+          "gabarito": "Exigir comparar transmissão/opacidade e reconhecer limite de percepção. Não atribuir fabricação de luz à lâmina nem exigir nomear cores como único critério.",
+          "rubrica": [
+            "Exigir comparar transmissão/opacidade e reconhecer limite de percepção. Não atribuir fabricação de luz à lâmina nem exigir nomear cores como único critério.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao1"
+        },
+        {
+          "titulo": "Luz e cor: extensão da investigação — producao2",
+          "enunciado": "O que a comparação não prova: Explique por que esse teste não demonstra que toda combinação de tintas e luzes tem o mesmo resultado. Proponha uma pergunta para investigação futura e indique o que seria necessário observar.",
+          "gabarito": "Distinguir teste limitado com duas amostras e regras universais. Não exigir conhecimento futuro de RGB nem registrar pergunta como pesquisa já realizada.",
+          "rubrica": [
+            "Distinguir teste limitado com duas amostras e regras universais. Não exigir conhecimento futuro de RGB nem registrar pergunta como pesquisa já realizada.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI02"
+          ],
+          "atividadeOrigem": "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+      },
+      {
+        "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+      },
+      {
+        "documento": "American Physical Society — Bendy Light",
+        "url": "https://www.aps.org/learning-resources/bendy-light",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI02",
+        "questoes": [
+          "cna.ef03.luz_e_materiais.cores_e_luz.prova.1",
+          "cna.ef03.luz_e_materiais.cores_e_luz.prova.2"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.luz_e_materiais_complementar.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao1",
+          "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao2"
+        ]
+      }
+    ]
+  },
   "cna.ef03.materia_e_energia.prova": {
     "id": "cna.ef03.materia_e_energia.prova",
     "titulo": "Avaliação: Matéria e Energia",
@@ -9404,6 +13886,247 @@ registrarProvas({
         ],
         "atividadesPraticas": [
           "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.som_e_vibracao.prova": {
+    "id": "cna.ef03.som_e_vibracao.prova",
+    "titulo": "Avaliação: Som e Vibração",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Som e Vibração",
+    "bncc": [
+      "EF03CI01"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "10 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/10 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+    "questoes": [
+      "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.1",
+      "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.2",
+      "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.1",
+      "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.2",
+      "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.1",
+      "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.2",
+      "cna.ef03.som_e_vibracao.som_se_propaga.prova.1",
+      "cna.ef03.som_e_vibracao.som_se_propaga.prova.2",
+      "cna.ef03.som_e_vibracao.variaveis_do_som.prova.1",
+      "cna.ef03.som_e_vibracao.variaveis_do_som.prova.2"
+    ],
+    "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.som_e_vibracao.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio da unidade",
+      "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+      "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+      "rubrica": [
+        "Atende: registro verificável e relação coerente.",
+        "Em desenvolvimento: registro parcial e revisão orientada.",
+        "Retomar: ausência de produção ou explicação a reconstruir."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Vibração: o objeto se move ao produzir som — producao1",
+          "enunciado": "Antes, durante e depois: Com adulto segurando régua flexível apropriada, observe ponta em repouso, após leve deslocamento e após parar a vibração. Desenhe três momentos ou descreva o movimento. O adulto executa se necessário; não force até deformar nem deixe a régua escapar.",
+          "gabarito": "Exigir identificação do movimento repetido e relação temporal com som, quando percebido. Registrar observação/participação acessível; não avaliar capacidade auditiva.",
+          "rubrica": [
+            "Exigir identificação do movimento repetido e relação temporal com som, quando percebido. Registrar observação/participação acessível; não avaliar capacidade auditiva.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1"
+        },
+        {
+          "titulo": "Vibração: o objeto se move ao produzir som — producao2",
+          "enunciado": "Vibração pouco visível: Compare a régua com pequeno instrumento ou fonte sonora segura apresentada pelo professor. Identifique a parte que pode vibrar e o que foi observado diretamente ou inferido. Não toque membranas delicadas nem use volumes altos.",
+          "gabarito": "Distinguir evidência e hipótese: fonte pode vibrar sem movimento nítido. Não exigir som audível para todos ou chamar ausência de visão de prova de ausência de vibração.",
+          "rubrica": [
+            "Distinguir evidência e hipótese: fonte pode vibrar sem movimento nítido. Não exigir som audível para todos ou chamar ausência de visão de prova de ausência de vibração.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao2"
+        },
+        {
+          "titulo": "Agudo ou grave; forte ou fraco? — producao1",
+          "enunciado": "Dois critérios separados: O professor produz duas notas suaves em instrumento disponível e repete uma delas suavemente e um pouco mais forte, sempre confortável. Registre duas comparações: grave/agudo e forte/fraco. Se não houver instrumento, use fonte identificada ou descrição como análise, marcando que não houve execução sonora.",
+          "gabarito": "Exigir separar altura e intensidade. Aceitar registro por descrição de padrão ou observação visual assistida; não usar tarefa como teste de audição.",
+          "rubrica": [
+            "Exigir separar altura e intensidade. Aceitar registro por descrição de padrão ou observação visual assistida; não usar tarefa como teste de audição.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1"
+        },
+        {
+          "titulo": "Agudo ou grave; forte ou fraco? — producao2",
+          "enunciado": "Revisar a fala cotidiana: Um personagem diz que aumentar o volume da mesma gravação deixou a nota mais aguda. Explique o que ele confundiu e que comparação seria necessária para avaliar altura.",
+          "gabarito": "Volume não é evidência suficiente de mudança de frequência. Comparar notas/frequência mantendo outros aspectos, sem prometer que toda reprodução preserva perfeitamente o sinal.",
+          "rubrica": [
+            "Volume não é evidência suficiente de mudança de frequência. Comparar notas/frequência mantendo outros aspectos, sem prometer que toda reprodução preserva perfeitamente o sinal.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2"
+        },
+        {
+          "titulo": "Instrumentos: partes vibrantes e modos de tocar — producao1",
+          "enunciado": "Mapa do instrumento: Escolha duas fontes apresentadas pelo professor, por exemplo violão e tambor por instrumento real ou registro identificado. Desenhe ação, parte vibrante e caminho até o ar. Separe observação própria e informação consultada.",
+          "gabarito": "Exigir duas relações entre ação, vibração e fonte, sem afirmar que ouvir identifica sozinho toda estrutura. Não inventar execução se só houve leitura.",
+          "rubrica": [
+            "Exigir duas relações entre ação, vibração e fonte, sem afirmar que ouvir identifica sozinho toda estrutura. Não inventar execução se só houve leitura.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1"
+        },
+        {
+          "titulo": "Instrumentos: partes vibrantes e modos de tocar — producao2",
+          "enunciado": "Pequeno produtor sonoro: Monte com adulto um modelo de som suave usando caixa de papelão estável e régua flexível fixada por ele, ou outro projeto seguro aprovado. Indique o que vibra, teste uma mudança e explique limite do modelo. Não use vidro, latas cortadas, balões ou peças que possam se soltar para o rosto.",
+          "gabarito": "Exigir construção/teste ou pendência explícita; relacionar mudança observada ao projeto sem generalizar para todo instrumento. Aceitar execução pelo adulto com participação em decisões e registros.",
+          "rubrica": [
+            "Exigir construção/teste ou pendência explícita; relacionar mudança observada ao projeto sem generalizar para todo instrumento. Aceitar execução pelo adulto com participação em decisões e registros.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2"
+        },
+        {
+          "titulo": "Como o som chega de um lugar a outro? — producao1",
+          "enunciado": "Modelo sem viajar pela fila: Em mesa, alinhe cartões. Cada participante levanta e baixa apenas seu cartão ao ver o anterior; pode haver mediação adulta ou execução individual. Registre que o sinal se desloca, mas cada cartão fica no lugar. Relacione ao som e indique dois limites: cartões não são partículas reais e o gesto não reproduz compressões do ar.",
+          "gabarito": "Exigir distinção transmissão/movimento local e dois limites. A analogia não é observação de moléculas nem prova de velocidade do som.",
+          "rubrica": [
+            "Exigir distinção transmissão/movimento local e dois limites. A analogia não é observação de moléculas nem prova de velocidade do som.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1"
+        },
+        {
+          "titulo": "Como o som chega de um lugar a outro? — producao2",
+          "enunciado": "Fonte, meio, observador: Produza mapa de uma fonte suave, meio e observador em duas posições seguras na sala. Compare resultados sem subir volume e registre obstáculos e distância; não use ouvido sobre mesa, recipiente fechado junto à cabeça ou mergulho.",
+          "gabarito": "Exigir registro de condições e possibilidade de percepção variar. Não atribuir toda diferença só à distância sem considerar ambiente; não afirmar que barreira comum elimina som.",
+          "rubrica": [
+            "Exigir registro de condições e possibilidade de percepção variar. Não atribuir toda diferença só à distância sem considerar ambiente; não afirmar que barreira comum elimina som.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2"
+        },
+        {
+          "titulo": "Investigar uma variável por vez — producao1",
+          "enunciado": "Ensaio de comprimento: O professor fixa uma régua plástica flexível e íntegra e compara comprimentos livres de 8, 12 e 16 cm, se forem adequados à régua disponível. Mantém leve deslocamento inicial semelhante e repete cada condição três vezes. Registre comprimento, movimento e descrição do resultado ou limite de percepção; não use força para obter volume.",
+          "gabarito": "Exigir nove registros ou justificar adaptação, condições comparáveis e dado real. Esperar discussão da tendência, sem impor resultado idêntico; não inferir frequência medida se não houve instrumento.",
+          "rubrica": [
+            "Exigir nove registros ou justificar adaptação, condições comparáveis e dado real. Esperar discussão da tendência, sem impor resultado idêntico; não inferir frequência medida se não houve instrumento.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1"
+        },
+        {
+          "titulo": "Investigar uma variável por vez — producao2",
+          "enunciado": "Conclusão com limite: Escreva pergunta, o que foi mudado, o que foi mantido, resultado e uma dúvida. Um grupo trocou também a régua: explique por que isso dificulta concluir que só o comprimento causou a diferença.",
+          "gabarito": "Identificar variável independente e interferências em linguagem acessível. Aceitar conclusão inconclusiva quando condições ou percepção não permitem discriminar; não inventar hertz.",
+          "rubrica": [
+            "Identificar variável independente e interferências em linguagem acessível. Aceitar conclusão inconclusiva quando condições ou percepção não permitem discriminar; não inventar hertz.",
+            "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+            "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+          ],
+          "bncc": [
+            "EF03CI01"
+          ],
+          "atividadeOrigem": "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+      },
+      {
+        "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+        "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+      },
+      {
+        "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+        "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI01",
+        "questoes": [
+          "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.1",
+          "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.2",
+          "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.1",
+          "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.2",
+          "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.1",
+          "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.2",
+          "cna.ef03.som_e_vibracao.som_se_propaga.prova.1",
+          "cna.ef03.som_e_vibracao.som_se_propaga.prova.2",
+          "cna.ef03.som_e_vibracao.variaveis_do_som.prova.1",
+          "cna.ef03.som_e_vibracao.variaveis_do_som.prova.2"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.som_e_vibracao.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1",
+          "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao2",
+          "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1",
+          "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2",
+          "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1",
+          "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2",
+          "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1",
+          "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2",
+          "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1",
+          "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2"
         ]
       }
     ]

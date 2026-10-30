@@ -1,0 +1,231 @@
+{
+  "id": "cna.ef02.materiais_e_objetos.prova",
+  "titulo": "Avaliação: Materiais e Objetos",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "Materiais e Objetos",
+  "bncc": [
+    "EF02CI01",
+    "EF02CI02"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "8 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/8 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+  "questoes": [
+    "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+    "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+    "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+    "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+    "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+    "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2",
+    "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+    "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2"
+  ],
+  "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.materiais_e_objetos.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio da unidade",
+    "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+    "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+    "rubrica": [
+      "Atende: registro verificável e relação coerente.",
+      "Em desenvolvimento: registro parcial e revisão orientada.",
+      "Retomar: ausência de produção ou explicação a reconstruir."
+    ],
+    "bncc": [
+      "EF02CI01",
+      "EF02CI02"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Madeira, metais e vidro: comparar amostras — producao1",
+        "enunciado": "Tabela de partes: Com adulto, observe colher de madeira, utensílio metálico e recipiente de vidro inteiro apenas demonstrado pelo adulto ou descrito em registro. Anote objeto, parte, material confirmado, uso e duas propriedades; não teste quebra.",
+        "gabarito": "Exigir distinção objeto/material e descrição contextual. Fonte/etiqueta pode sustentar identificação; não atribuir segurança alimentar só à aparência.",
+        "rubrica": [
+          "Exigir distinção objeto/material e descrição contextual. Fonte/etiqueta pode sustentar identificação; não atribuir segurança alimentar só à aparência.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI01"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1"
+      },
+      {
+        "titulo": "Madeira, metais e vidro: comparar amostras — producao2",
+        "enunciado": "Regra que precisa de revisão: Explique por que as frases todo vidro é transparente e todo metal gruda no ímã não servem como regras universais. Compare com as amostras ou descrições fornecidas.",
+        "gabarito": "Reconhecer diversidade: vidros podem ter diferentes aparências; alumínio não apresenta atração comum como ferro. Não é necessário executar teste magnético.",
+        "rubrica": [
+          "Reconhecer diversidade: vidros podem ter diferentes aparências; alumínio não apresenta atração comum como ferro. Não é necessário executar teste magnético.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI01"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2"
+      },
+      {
+        "titulo": "Objetos do passado: comparar com fontes — producao1",
+        "enunciado": "Ficha de evidência histórica: Use os dois registros textuais incorporados: faça ficha com objeto, material, intervalo de produção e museu. Separe o que a fonte informa de uma pergunta que ela não responde, como quem usou aquele exemplar.",
+        "gabarito": "Esperar garrafa/vidro/1951–1982/London Museum e colher/madeira+metal/1601–1800/Science Museum Group. Não transformar intervalos em um ano exato ou inventar usuários.",
+        "rubrica": [
+          "Esperar garrafa/vidro/1951–1982/London Museum e colher/madeira+metal/1601–1800/Science Museum Group. Não transformar intervalos em um ano exato ou inventar usuários.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI01"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1"
+      },
+      {
+        "titulo": "Objetos do passado: comparar com fontes — producao2",
+        "enunciado": "Comparação antes e agora: Com adulto, identifique uma embalagem atual e uma colher atual sem abrir embalagens. Compare função e materiais com os registros históricos. Escreva uma mudança, uma permanência ou ausência de mudança e um limite da comparação.",
+        "gabarito": "Exigir objetos atuais reais ou descrições identificadas. Mudança de material não é obrigatória; permanência é resultado válido. Não generalizar a história brasileira a partir de dois objetos europeus.",
+        "rubrica": [
+          "Exigir objetos atuais reais ou descrições identificadas. Mudança de material não é obrigatória; permanência é resultado válido. Não generalizar a história brasileira a partir de dois objetos europeus.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI01"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2"
+      },
+      {
+        "titulo": "Função, partes e condições de uso — producao1",
+        "enunciado": "Função e limite: Escolha três objetos escolares seguros, identifique materiais e usos e descreva uma condição em que cada uso pode não funcionar. Use caixa seca/molhada como situação de análise sem molhar patrimônio.",
+        "gabarito": "Exigir três relações, como material e espessura influenciando resistência/uso, sem concluir que todo papelão tem resultado idêntico. Não realizar uso impróprio para testar.",
+        "rubrica": [
+          "Exigir três relações, como material e espessura influenciando resistência/uso, sem concluir que todo papelão tem resultado idêntico. Não realizar uso impróprio para testar.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI01"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1"
+      },
+      {
+        "titulo": "Função, partes e condições de uso — producao2",
+        "enunciado": "Uma função, duas opções: Compare duas opções seguras para organizar cartões, como envelope de papel e caixa plástica já disponível. Diga o que cada uma atende, sua limitação e qual escolheria para um contexto definido.",
+        "gabarito": "Justificar por tamanho, proteção, acesso, disponibilidade e condição. Não tratar plástico como sempre melhor nem propor uso de embalagem contaminada.",
+        "rubrica": [
+          "Justificar por tamanho, proteção, acesso, disponibilidade e condição. Não tratar plástico como sempre melhor nem propor uso de embalagem contaminada.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI01"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
+      },
+      {
+        "titulo": "Projetar, testar e revisar a escolha de material — producao1",
+        "enunciado": "Ensaio de cobertura: Com adulto, compare duas amostras seguras, papel sem revestimento e filme plástico íntegro, sobre cartões separados em bandeja. Mantenha área, número de gotas e tempo semelhantes. Registre previsão e resultado; retire o material antes de qualquer risco de derramar perto de aparelho.",
+        "gabarito": "Relacionar escolha à resistência à passagem da água no modelo e registrar condições reais. Se houver rasgo, vazamento lateral ou diferença de tamanho, discutir interferência, sem apagar resultado inesperado.",
+        "rubrica": [
+          "Relacionar escolha à resistência à passagem da água no modelo e registrar condições reais. Se houver rasgo, vazamento lateral ou diferença de tamanho, discutir interferência, sem apagar resultado inesperado.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI02"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1"
+      },
+      {
+        "titulo": "Projetar, testar e revisar a escolha de material — producao2",
+        "enunciado": "Projeto com dois critérios: Desenhe ou monte um porta-cartão com materiais limpos disponíveis. Defina dois critérios, como estabilidade e ver a identificação; selecione materiais, teste com cartão leve e explique uma revisão. Cortes/furos ficam com adulto.",
+        "gabarito": "Exigir necessidade, dois critérios, propriedades, ensaio e revisão. A transparência pode ser dispensável se houver janela/etiqueta: aceitar solução alternativa justificada.",
+        "rubrica": [
+          "Exigir necessidade, dois critérios, propriedades, ensaio e revisão. A transparência pode ser dispensável se houver janela/etiqueta: aceitar solução alternativa justificada.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF02CI02"
+        ],
+        "atividadeOrigem": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    },
+    {
+      "documento": "London Museum — Bottle, milk bottle, 82.272",
+      "url": "https://www.londonmuseum.org.uk/collections/v/object-529268/bottle-milk-bottle/",
+      "consulta": "2026-10-30",
+      "uso": "Registro textual consultado: vidro, produção 1951–1982. Informações incorporadas em paráfrase; sem reprodução/inspeção da imagem ou generalização para famílias brasileiras."
+    },
+    {
+      "documento": "Science Museum Group — Spoon, wooden bowl, metal stem, A626625",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co155774/spoon-wooden-bowl-metal-stem",
+      "consulta": "2026-10-30",
+      "uso": "Registro textual consultado: Europa, 1601–1800, madeira e metal. Sem reprodução/inspeção da imagem; não usa o objeto co155778 cuja abertura retornou 429."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI01",
+      "questoes": [
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.materiais_e_objetos.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
+      ]
+    },
+    {
+      "bncc": "EF02CI02",
+      "questoes": [
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.materiais_e_objetos.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
+      ]
+    }
+  ]
+}

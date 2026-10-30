@@ -1,0 +1,135 @@
+{
+  "id": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 1,
+  "unidade": "Materiais do Cotidiano",
+  "titulo": "Objetos e materiais: o que é feito de quê?",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identificar materiais em partes de objetos",
+      "Comparar objetos por material e uso"
+    ],
+    "resumo": "Objetos e materiais: o que é feito de quê?",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.o_que_sao_materiais\">Materiais: comparar, usar e descartar</button> </p><h2>Objetos e materiais: o que é feito de quê?</h2><h3>Para compreender</h3><p>Objeto é uma coisa usada para alguma finalidade: cadeira, colher, caderno. Material é aquilo de que o objeto é feito: madeira, metal, papel, plástico ou tecido. Objetos diferentes podem compartilhar um material, e um objeto pode reunir vários. Observar não é adivinhar: aparência ajuda, mas uma superfície pintada pode esconder o material. Quando não sabemos, registramos a dúvida e pedimos ajuda ao adulto. Podemos comparar olhando e tocando somente objetos limpos, inteiros e seguros.</p><h3>Exemplo comentado</h3><p>Uma colher de madeira e uma cadeira de madeira são objetos diferentes feitos de material semelhante. Uma mochila pode ter tecido, plástico e metal em partes distintas. Dizer apenas que mochila é material mistura duas ideias. Nem todo objeto brilhante é metal: alguns plásticos também brilham.</p><h3>Investigar e produzir</h3><h4>Mapa de partes</h4><p>Com um adulto, escolha três objetos seguros. Desenhe ou descreva cada um, marque uma ou mais partes e o material identificado. Na mochila, procure tecido e fecho sem desmontar. Marque com ponto de interrogação o que não foi confirmado.</p><h4>Agrupar sem confundir</h4><p>Agrupe os três objetos pelo material de uma parte. Depois reorganize pelo uso. Explique por que os grupos podem mudar.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "objetos_e_seus_materiais.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual palavra nomeia um material?",
+      "alternativas": [
+        "Cadeira",
+        "Madeira",
+        "Mochila"
+      ],
+      "correta": 1,
+      "explicacao": "Madeira pode compor cadeira e outros objetos.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "objetos_e_seus_materiais.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma mochila com tecido e fecho de plástico é:",
+      "alternativas": [
+        "Um objeto com mais de um material.",
+        "Dois materiais sem objeto.",
+        "Feita apenas da cor que vemos."
+      ],
+      "correta": 0,
+      "explicacao": "Partes diferentes podem usar materiais distintos no mesmo objeto.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "objetos_e_seus_materiais.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Mapa de partes: Com um adulto, escolha três objetos seguros. Desenhe ou descreva cada um, marque uma ou mais partes e o material identificado. Na mochila, procure tecido e fecho sem desmontar. Marque com ponto de interrogação o que não foi confirmado.",
+      "gabarito": "Esperar três objetos identificados como objetos e indicação de materiais por parte. Aceitar registro oral/desenhado; dúvida honesta vale mais que identificação inventada.",
+      "rubrica": [
+        "Esperar três objetos identificados como objetos e indicação de materiais por parte. Aceitar registro oral/desenhado; dúvida honesta vale mais que identificação inventada.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "objetos_e_seus_materiais.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Agrupar sem confundir: Agrupe os três objetos pelo material de uma parte. Depois reorganize pelo uso. Explique por que os grupos podem mudar.",
+      "gabarito": "Relacionar agrupamento ao critério: material e uso podem separar os mesmos objetos de modos diferentes; objeto com partes distintas pode participar de mais de um grupo.",
+      "rubrica": [
+        "Relacionar agrupamento ao critério: material e uso podem separar os mesmos objetos de modos diferentes; objeto com partes distintas pode participar de mais de um grupo.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais"
+  ],
+  "proximosPassos": [
+    "cna.ef01.materiais_do_cotidiano.origem_dos_materiais"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais do Cotidiano",
+    "titulo": "Objetos e Seus Materiais"
+  }
+}

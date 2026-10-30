@@ -1,0 +1,135 @@
+{
+  "id": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 6,
+  "unidade": "Materiais e Objetos",
+  "titulo": "Madeira, metais e vidro: comparar amostras",
+  "bncc": [
+    "EF02CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identificar materiais e partes",
+      "Relacionar objeto, propriedades e uso"
+    ],
+    "resumo": "Madeira, metais e vidro: comparar amostras",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos\">Objetos, materiais e mudanças no tempo</button> </p><h2>Madeira, metais e vidro: comparar amostras</h2><h3>Para compreender</h3><p>Os nomes madeira, metal e vidro agrupam materiais encontrados em objetos. Madeira apresenta fibras e vem de árvores; metais incluem ferro, alumínio e outros, frequentemente usados em ligas; vidro comum pode ser transparente e rígido, mas existem vidros coloridos ou que não permitem visão nítida. Aparência não basta para certeza. Uma colher pode ter cabo de um material e parte principal de outro. Não arranhe, quebre, aqueça ou faça teste elétrico para identificar.</p><h3>Exemplo comentado</h3><p>Uma cadeira pintada pode ocultar a madeira; uma peça metálica pode ter revestimento que muda sua aparência. Nem todo metal é atraído por ímã, e brilho também pode aparecer no plástico. Compare informação da etiqueta, partes visíveis e fonte, registrando dúvida em vez de dedução definitiva.</p><h3>Investigar e produzir</h3><h4>Tabela de partes</h4><p>Com adulto, observe colher de madeira, utensílio metálico e recipiente de vidro inteiro apenas demonstrado pelo adulto ou descrito em registro. Anote objeto, parte, material confirmado, uso e duas propriedades; não teste quebra.</p><h4>Regra que precisa de revisão</h4><p>Explique por que as frases todo vidro é transparente e todo metal gruda no ímã não servem como regras universais. Compare com as amostras ou descrições fornecidas.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "metais_madeira_e_vidro.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma colher com cabo de madeira e parte metálica:",
+      "alternativas": [
+        "É feita de um único material obrigatoriamente.",
+        "Reúne materiais em partes com funções.",
+        "Não pode ser objeto."
+      ],
+      "correta": 1,
+      "explicacao": "Um objeto pode combinar materiais.",
+      "bncc": [
+        "EF02CI01"
+      ]
+    },
+    {
+      "id": "metais_madeira_e_vidro.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma superfície brilhante permite concluir sozinha que é metal?",
+      "alternativas": [
+        "Não, outros materiais e revestimentos podem brilhar.",
+        "Sim, brilho é exclusivo de metal.",
+        "Sim, sem observar mais nada."
+      ],
+      "correta": 0,
+      "explicacao": "A aparência ajuda a descrever, mas não confirma toda composição.",
+      "bncc": [
+        "EF02CI01"
+      ]
+    },
+    {
+      "id": "metais_madeira_e_vidro.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Tabela de partes: Com adulto, observe colher de madeira, utensílio metálico e recipiente de vidro inteiro apenas demonstrado pelo adulto ou descrito em registro. Anote objeto, parte, material confirmado, uso e duas propriedades; não teste quebra.",
+      "gabarito": "Exigir distinção objeto/material e descrição contextual. Fonte/etiqueta pode sustentar identificação; não atribuir segurança alimentar só à aparência.",
+      "rubrica": [
+        "Exigir distinção objeto/material e descrição contextual. Fonte/etiqueta pode sustentar identificação; não atribuir segurança alimentar só à aparência.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF02CI01"
+      ]
+    },
+    {
+      "id": "metais_madeira_e_vidro.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Regra que precisa de revisão: Explique por que as frases todo vidro é transparente e todo metal gruda no ímã não servem como regras universais. Compare com as amostras ou descrições fornecidas.",
+      "gabarito": "Reconhecer diversidade: vidros podem ter diferentes aparências; alumínio não apresenta atração comum como ferro. Não é necessário executar teste magnético.",
+      "rubrica": [
+        "Reconhecer diversidade: vidros podem ter diferentes aparências; alumínio não apresenta atração comum como ferro. Não é necessário executar teste magnético.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF02CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos"
+  ],
+  "proximosPassos": [
+    "cna.ef02.materiais_e_objetos.objetos_do_passado"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais e Objetos",
+    "titulo": "Metais, Madeira e Vidro"
+  }
+}

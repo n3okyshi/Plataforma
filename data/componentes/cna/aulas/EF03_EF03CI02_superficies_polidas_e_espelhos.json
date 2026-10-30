@@ -1,0 +1,136 @@
+{
+  "id": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 16,
+  "unidade": "Luz e Materiais",
+  "titulo": "Reflexão: luz que muda de caminho",
+  "bncc": [
+    "EF03CI02"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Experimentar contato da luz com superfície polida",
+      "Relatar mudança de direção",
+      "Distinguir fonte, reflexão e imagem"
+    ],
+    "resumo": "Reflexão: luz que muda de caminho",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.luz_e_materiais.objetos_opacos\">Passagem da luz: opaco, translúcido e transparente</button> </p><h2>Reflexão: luz que muda de caminho</h2><h3>Para compreender</h3><p>Reflexão acontece quando luz retorna ao meio de origem após atingir uma superfície. Superfícies bem polidas, como espelhos, podem produzir reflexão organizada e imagens; paredes também refletem luz em muitas direções. Espelho não fabrica a luz refletida. A posição da fonte, da superfície e do observador importa. Luz refletida não é sempre imagem: é possível iluminar outra região com um espelho sem formar uma imagem projetada nítida na parede.</p><h3>Exemplo comentado</h3><p>Uma lanterna apontada para espelho acrílico pode enviar luz para outro ponto da parede. Ao mudar a orientação do espelho, muda o caminho. O desenho de um único raio é um modelo simplificado do trajeto; o feixe real tem largura e não precisa ser visto no ar limpo. Não apontamos reflexo para pessoas ou para o Sol.</p><h3>Investigar e produzir</h3><h4>Caminho com espelho</h4><p>Com adulto, use lanterna comum, espelho acrílico inteiro e anteparo de papel. Localize ponto iluminado após reflexão e mude levemente a orientação do espelho. Desenhe fonte, espelho e anteparo com setas. Sem laser, luz solar ou vidro sem proteção.</p><h4>Parede também participa</h4><p>Compare parede clara e espelho usando iluminação ambiente e descrição do adulto. Explique por que vemos a parede mesmo que ela não forme imagem nítida como um espelho.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Investigating shadows using transparent, translucent and opaque materials</a></li><li><a href=\"https://www.aps.org/learning-resources/bendy-light\" target=\"_blank\" rel=\"noopener noreferrer\">American Physical Society — Bendy Light</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "superficies_polidas_e_espelhos.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "O espelho iluminado:",
+      "alternativas": [
+        "Cria toda a luz sem fonte.",
+        "Reflete parte da luz que recebe.",
+        "Só deixa a luz atravessar, sem refletir."
+      ],
+      "correta": 1,
+      "explicacao": "O caminho depende da iluminação incidente e da superfície.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "superficies_polidas_e_espelhos.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Mudar a orientação do espelho pode:",
+      "alternativas": [
+        "Mudar a direção da luz refletida.",
+        "Mudar apenas a cor da fonte, sem alterar o caminho.",
+        "Manter sempre o ponto no mesmo lugar."
+      ],
+      "correta": 0,
+      "explicacao": "A geometria de incidência/reflexão muda com a orientação.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "superficies_polidas_e_espelhos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Caminho com espelho: Com adulto, use lanterna comum, espelho acrílico inteiro e anteparo de papel. Localize ponto iluminado após reflexão e mude levemente a orientação do espelho. Desenhe fonte, espelho e anteparo com setas. Sem laser, luz solar ou vidro sem proteção.",
+      "gabarito": "Exigir execução ou fonte identificada, mudança do ponto e direção das setas. Não concluir que espelho cria luz ou que toda reflexão forma imagem projetada.",
+      "rubrica": [
+        "Exigir execução ou fonte identificada, mudança do ponto e direção das setas. Não concluir que espelho cria luz ou que toda reflexão forma imagem projetada.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "superficies_polidas_e_espelhos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Parede também participa: Compare parede clara e espelho usando iluminação ambiente e descrição do adulto. Explique por que vemos a parede mesmo que ela não forme imagem nítida como um espelho.",
+      "gabarito": "Relacionar luz recebida/refletida de modo espalhado na parede e mais organizado no espelho. Não dizer que apenas metal reflete ou que parede emite luz própria por estar iluminada.",
+      "rubrica": [
+        "Relacionar luz recebida/refletida de modo espalhado na parede e mais organizado no espelho. Não dizer que apenas metal reflete ou que parede emite luz própria por estar iluminada.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+    },
+    {
+      "documento": "American Physical Society — Bendy Light",
+      "url": "https://www.aps.org/learning-resources/bendy-light",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.luz_e_materiais.objetos_opacos"
+  ],
+  "proximosPassos": [
+    "cna.ef03.luz_e_materiais.refracao_simples"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Luz e Materiais",
+    "titulo": "Superfícies Polidas e Espelhos"
+  }
+}
