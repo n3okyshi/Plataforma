@@ -129,5 +129,10 @@
     "Pendências impedem classificar o lote como concluído.",
     "Educação Infantil exige experiência própria da etapa."
   ],
-  "codigosCompartilhadosPortugues": "Preservar os códigos e intervalos da fonte curricular em cada ano aplicável; não converter códigos comuns em códigos anuais inventados nem extrapolar intervalos inexistentes."
+  "codigosCompartilhadosPortugues": "Preservar os códigos e intervalos da fonte curricular em cada ano aplicável; não converter códigos comuns em códigos anuais inventados nem extrapolar intervalos inexistentes.",
+  "marcoEstrutural": {
+    "estado": "planejado",
+    "inventario": "data/planejamento-basica/inventario.json",
+    "limite": "Todos os tópicos indexados têm arquivo ou referência existente; conteúdo e revisão continuam pendentes."
+  }
 }

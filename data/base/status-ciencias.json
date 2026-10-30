@@ -566,5 +566,11 @@
     "Autenticação, Firebase e cache reais."
   ],
   "limites": "EF01: 49 tópicos com autoria, 8 complementares, implementação para testes; sem homologação. Ciências EF02–EF09 continua parcial, com 328 tópicos sem autoria. Acumulado: 168 aulas, 412 atividades, 187 itens por banco, 43 avaliações.",
-  "ultimoLote": "data/componentes/cna/lote_EF01_temas_restantes.json"
+  "ultimoLote": "data/componentes/cna/lote_EF01_temas_restantes.json",
+  "estruturaDosTopicosRestantes": {
+    "estado": "planejado",
+    "arquivosDeAulaCriados": 328,
+    "indice": "data/planejamento-basica/ciencias-328.json",
+    "limite": "Todos possuem arquivo de rascunho; continuam sem autoria e fora da interface."
+  }
 }

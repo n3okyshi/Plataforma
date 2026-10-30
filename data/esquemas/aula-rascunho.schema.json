@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Rascunho de aula fora da publicação",
+  "allOf": [
+    {
+      "$ref": "aula.schema.json"
+    },
+    {
+      "type": "object",
+      "required": [
+        "publicacao",
+        "planejamento"
+      ],
+      "properties": {
+        "publicacao": {
+          "type": "object",
+          "required": [
+            "permitida"
+          ],
+          "properties": {
+            "permitida": {
+              "const": false
+            }
+          }
+        },
+        "metadados": {
+          "properties": {
+            "estado": {
+              "const": "rascunho"
+            }
+          }
+        },
+        "planejamento": {
+          "type": "object",
+          "required": [
+            "unidade",
+            "catalogoCurricular",
+            "origem",
+            "politica"
+          ]
+        }
+      }
+    }
+  ]
+}

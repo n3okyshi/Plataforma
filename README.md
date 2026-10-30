@@ -115,3 +115,9 @@ Oralidade, Literatura e Cidadania acrescentam 14 aulas e 28 atividades. Oito aul
 ## Ciências EF01: temas restantes implementados
 
 38 sequências, 114 atividades, 38 itens de treino e 38 de prova adicionais; oito unidades e três módulos opcionais com 11 avaliações/portfólios novos. Os 49 tópicos planejados de EF01 têm autoria; oito extensões são sinalizadas sem atribuição de códigos inadequados, preservados no histórico. Calendários de outubro/novembro de 2026 e esquemas autorais incorporados; casos fictícios, observações reais e recursos de acessibilidade são distinguidos. Acumulado de Ciências: 168 aulas, 412 atividades, 187 itens em cada banco e 43 avaliações. Confronto e pendências em data/componentes/cna/lote_EF01_temas_restantes.json. EF01 está implementado para testes, sem homologação; EF02–EF09 permanecem parciais com 328 tópicos sem autoria. Não equivale à conclusão de todo o componente.
+
+## Estrutura de planejamento da Educação Básica
+
+5.603 tópicos indexados, 4.693 arquivos de rascunho e 1.034 planos de unidade com as seis camadas. Inclui os 328 tópicos restantes de Ciências, objetivos da Educação Infantil por campo/idade, Ensino Religioso e planejamento de áreas integradas do EM. Inglês inicial e componentes editoriais são sinalizados; Computação tem estrutura de eixos com códigos pendentes por restrição de acesso. Referências de 1.578 códigos preservam faixas compartilhadas.
+
+Rascunhos não são aulas completas: permanecem bloqueados, fora dos chunks e da interface. O conteúdo anterior é preservado. Guia, matriz, inventário, fila de autoria e pendências em `data/planejamento-basica/README.md`. A estrutura não certifica integralidade pedagógica nem contempla matrizes locais ainda não fornecidas.

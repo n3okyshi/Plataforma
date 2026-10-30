@@ -1,0 +1,145 @@
+{
+  "data": "2026-10-30",
+  "estado": "estrutura_planejada_sem_publicacao",
+  "topicosIndexados": 5603,
+  "arquivosDeAulaNovos": 4693,
+  "planosDeUnidade": 1034,
+  "objetivosCurriculares": 1578,
+  "novosObjetivosEI": 93,
+  "novasHabilidadesER": 63,
+  "ciencias328": {
+    "arquivosCriados": 328,
+    "conteudoAutoral": "pendente"
+  },
+  "porComponente": [
+    {
+      "componente": "art",
+      "topicos": 601,
+      "rascunhosNovos": 601
+    },
+    {
+      "componente": "ast",
+      "topicos": 3,
+      "rascunhosNovos": 3
+    },
+    {
+      "componente": "bio",
+      "topicos": 141,
+      "rascunhosNovos": 0
+    },
+    {
+      "componente": "chs",
+      "topicos": 33,
+      "rascunhosNovos": 33
+    },
+    {
+      "componente": "cna",
+      "topicos": 496,
+      "rascunhosNovos": 328
+    },
+    {
+      "componente": "cnt",
+      "topicos": 75,
+      "rascunhosNovos": 75
+    },
+    {
+      "componente": "co",
+      "topicos": 45,
+      "rascunhosNovos": 45
+    },
+    {
+      "componente": "edf",
+      "topicos": 566,
+      "rascunhosNovos": 566
+    },
+    {
+      "componente": "ei",
+      "topicos": 93,
+      "rascunhosNovos": 93
+    },
+    {
+      "componente": "er",
+      "topicos": 63,
+      "rascunhosNovos": 63
+    },
+    {
+      "componente": "fil",
+      "topicos": 3,
+      "rascunhosNovos": 3
+    },
+    {
+      "componente": "fis",
+      "topicos": 56,
+      "rascunhosNovos": 0
+    },
+    {
+      "componente": "gea",
+      "topicos": 632,
+      "rascunhosNovos": 632
+    },
+    {
+      "componente": "geo",
+      "topicos": 3,
+      "rascunhosNovos": 3
+    },
+    {
+      "componente": "his",
+      "topicos": 598,
+      "rascunhosNovos": 598
+    },
+    {
+      "componente": "lgg",
+      "topicos": 46,
+      "rascunhosNovos": 46
+    },
+    {
+      "componente": "lie",
+      "topicos": 581,
+      "rascunhosNovos": 581
+    },
+    {
+      "componente": "lip",
+      "topicos": 1012,
+      "rascunhosNovos": 943
+    },
+    {
+      "componente": "mat",
+      "topicos": 433,
+      "rascunhosNovos": 62
+    },
+    {
+      "componente": "qui",
+      "topicos": 105,
+      "rascunhosNovos": 0
+    },
+    {
+      "componente": "red",
+      "topicos": 15,
+      "rascunhosNovos": 15
+    },
+    {
+      "componente": "soc",
+      "topicos": 3,
+      "rascunhosNovos": 3
+    }
+  ],
+  "limites": "Não houve produção fictícia de teoria/questões ou homologação. Rascunhos ficam fora de curriculum/content/arena.",
+  "proximoTrabalho": "Autoria de Ciências por unidades, usando ciencias-328.json; demais componentes depois, Português por último.",
+  "verificacaoTecnica": {
+    "resultado": "aprovado",
+    "ambiente": "JSON Schema draft 2020-12, verificações locais e Node/JSDOM",
+    "verificado": [
+      "5603 IDs únicos e caminhos existentes; 4693 rascunhos individuais.",
+      "1034 planos únicos com seis camadas e referências consistentes.",
+      "1578 códigos indexados e vínculos estruturais em todos os anos de suas faixas.",
+      "328 rascunhos de Ciências, sem alterar estado de autoria.",
+      "Educação Infantil com observação/documentação, sem prova/arena.",
+      "Bloqueio de importação de rascunhos nas duas ordens; promoção explícita.",
+      "Regressão de Ciências: 168 aulas, 412 atividades e 43 avaliações.",
+      "Regressão de Português EF06: 69 aulas, 138 atividades e 13 avaliações.",
+      "Conteúdos, currículos, bancos e árvores anteriores preservados.",
+      "370 aulas ativas de Matemática preservadas no Registry."
+    ],
+    "limites": "Não valida conteúdo ausente, alinhamento semântico integral, visual/acessibilidade, serviços reais ou homologação docente."
+  }
+}

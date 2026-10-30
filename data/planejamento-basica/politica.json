@@ -1,0 +1,22 @@
+{
+  "versao": 1,
+  "publicacaoAutomatica": false,
+  "estados": [
+    "planejado",
+    "parcial",
+    "pronto_para_testes",
+    "concluido",
+    "bloqueado"
+  ],
+  "regra": "Rascunhos não são importados pelo loader, currículo, arena ou provas. Arquivos estruturais não contam como conteúdo autorado.",
+  "criteriosParaPromocao": [
+    "Conferir código, faixa e adequação semântica.",
+    "Consultar fontes do conteúdo e registrar páginas/limites.",
+    "Escrever teoria, exemplos, atividades e recursos reais.",
+    "Produzir itens distintos de treino/prova e avaliar produções.",
+    "Validar esquema, referências, pontuação, devolutiva e seleção.",
+    "Revisar pedagogicamente; declarar limites de homologação."
+  ],
+  "educacaoInfantil": "Campos de experiências, interações e brincadeiras; registro de observação e devolutiva, sem prova/arena de questões.",
+  "matrizLocal": "Parte diversificada, modalidades, itinerários e exigências da rede precisam de matriz local; não se declara integralidade nacional/regional por contagem de arquivos."
+}
