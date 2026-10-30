@@ -1,0 +1,133 @@
+{
+  "id": "cna.ef02.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF02CI04",
+    "EF02CI05",
+    "EF02CI06"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 3, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef02.vida_e_evolucao.prova.04",
+    "cna.ef02.vida_e_evolucao.prova.05",
+    "cna.ef02.vida_e_evolucao.prova.06"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05",
+      "EF02CI06"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Seres vivos e ambientes próximos",
+        "enunciado": "Observe com adulto uma planta e um animal comuns, a distância, ou use imagens identificadas quando não houver acesso. Registre características, fase de vida quando identificável e local. Compare o que o ambiente oferece e formule uma pergunta que a observação ainda não responde.",
+        "gabarito": "Exigir descrições contextualizadas e distinção entre observado e inferido. Se usar imagem, registrar sua fonte e a ausência de observação direta. Não exigir nome de espécie sem evidência.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir descrições contextualizadas e distinção entre observado e inferido. Se usar imagem, registrar sua fonte e a ausência de observação direta. Não exigir nome de espécie sem evidência.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF02CI04"
+        ],
+        "atividadeOrigem": "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.investigacao"
+      },
+      {
+        "titulo": "Água, luz e investigação com plantas",
+        "enunciado": "Com supervisão, planeje duas comparações separadas de água e luz, usando mudas disponíveis ou registros reais de uma investigação escolar. Defina o que muda, o que se mantém e quando observar. Registre ao menos três momentos e apresente conclusões com limites. Não invente resultados esperados.",
+        "gabarito": "Exigir plano e registros reais, controle de uma condição por comparação e interpretação cuidadosa. Se apenas planejar, execução permanece pendente. Não tomar um experimento curto como prova universal nem confundir germinação com manutenção prolongada.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir plano e registros reais, controle de uma condição por comparação e interpretação cuidadosa. Se apenas planejar, execução permanece pendente. Não tomar um experimento curto como prova universal nem confundir germinação com manutenção prolongada.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF02CI05"
+        ],
+        "atividadeOrigem": "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.investigacao"
+      },
+      {
+        "titulo": "Partes das plantas e suas relações",
+        "enunciado": "Observe uma planta disponível sem arrancá-la. Desenhe e identifique partes visíveis; indique o que não foi visto. Use imagem identificada para discutir raiz quando estiver oculta. Explique funções e uma relação com água, solo, luz ou outros seres vivos. Não prove frutos ou folhas desconhecidos.",
+        "gabarito": "Conferir localização, funções e limites da observação. Aceitar raiz não visível identificada a partir de recurso com fonte. Não penalizar a ausência de flores na planta nem exigir coleta destrutiva.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Conferir localização, funções e limites da observação. Aceitar raiz não visível identificada a partir de recurso com fonte. Não penalizar a ausência de flores na planta nem exigir coleta destrutiva.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF02CI06"
+        ],
+        "atividadeOrigem": "cna.ef02.partes_das_plantas.raiz#raiz.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI04",
+      "questoes": [
+        "cna.ef02.vida_e_evolucao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02CI05",
+      "questoes": [
+        "cna.ef02.vida_e_evolucao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02CI06",
+      "questoes": [
+        "cna.ef02.vida_e_evolucao.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.partes_das_plantas.raiz#raiz.investigacao"
+      ]
+    }
+  ]
+}

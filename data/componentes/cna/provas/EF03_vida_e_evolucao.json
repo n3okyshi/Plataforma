@@ -1,0 +1,133 @@
+{
+  "id": "cna.ef03.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF03CI04",
+    "EF03CI05",
+    "EF03CI06"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 3, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef03.vida_e_evolucao.prova.04",
+    "cna.ef03.vida_e_evolucao.prova.05",
+    "cna.ef03.vida_e_evolucao.prova.06"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF03CI04",
+      "EF03CI05",
+      "EF03CI06"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Modos de vida dos animais",
+        "enunciado": "Escolha dois animais comuns com o professor. Registre observações de deslocamento e ambiente sem capturar nem alimentar. Consulte fonte indicada para alimentação e reprodução, separando o que foi observado do que foi pesquisado. Produza fichas comparativas e uma pergunta ainda aberta.",
+        "gabarito": "Exigir registros e fontes reais, distinção observação/pesquisa e comparação de ao menos alimentação, deslocamento e reprodução. Não inventar comportamento por aparência nem exigir contato com animais.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registros e fontes reais, distinção observação/pesquisa e comparação de ao menos alimentação, deslocamento e reprodução. Não inventar comportamento por aparência nem exigir contato com animais.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI04"
+        ],
+        "atividadeOrigem": "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.investigacao"
+      },
+      {
+        "titulo": "Crescimento e desenvolvimento dos animais",
+        "enunciado": "Com sequências de imagens identificadas pelo professor, organize fases de borboleta, cão e ser humano. Explique duas mudanças e compare meios de vida terrestres e aquáticos usando também uma sequência de peixe ou anfíbio indicada. Faça linha de desenvolvimento sem usar fotos pessoais obrigatórias.",
+        "gabarito": "Exigir ordem e descrição de mudanças com base nos recursos usados, reconhecendo diferenças entre espécies e entre pessoas. Registrar fontes das sequências; não cobrar exposição da própria infância nem generalizar fases de borboleta a todo animal.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir ordem e descrição de mudanças com base nos recursos usados, reconhecendo diferenças entre espécies e entre pessoas. Registrar fontes das sequências; não cobrar exposição da própria infância nem generalizar fases de borboleta a todo animal.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI05"
+        ],
+        "atividadeOrigem": "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.investigacao"
+      },
+      {
+        "titulo": "Comparar e agrupar animais",
+        "enunciado": "Use oito cartões de animais com imagens identificadas. Agrupe primeiro por revestimento e depois por presença de antenas ou número de patas visíveis. Explique os critérios e compare um animal que voa com outro de grupo diferente. Registre dúvidas e não invente parte não visível na imagem.",
+        "gabarito": "Exigir dois critérios explícitos, agrupamentos coerentes e reconhecimento de limites da imagem. Não exigir que animais de um mesmo ambiente pertençam ao mesmo grupo. Aceitar justificativa de falta de dado.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir dois critérios explícitos, agrupamentos coerentes e reconhecimento de limites da imagem. Não exigir que animais de um mesmo ambiente pertençam ao mesmo grupo. Aceitar justificativa de falta de dado.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI06"
+        ],
+        "atividadeOrigem": "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI04",
+      "questoes": [
+        "cna.ef03.vida_e_evolucao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF03CI05",
+      "questoes": [
+        "cna.ef03.vida_e_evolucao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF03CI06",
+      "questoes": [
+        "cna.ef03.vida_e_evolucao.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.investigacao"
+      ]
+    }
+  ]
+}

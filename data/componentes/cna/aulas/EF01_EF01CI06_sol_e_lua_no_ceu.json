@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 6,
+  "unidade": "Terra e Universo",
+  "titulo": "Dia, noite e atividades dos seres vivos",
+  "bncc": [
+    "EF01CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Durante dois dias, registre atividades observáveis de pessoas e de um animal ou planta em períodos diferentes, por desenho e relato mediado. Observe animais a distância, sem capturar, acordar ou alimentar. Compare os registros e selecione um exemplo de como dia/noite se relaciona a uma atividade, indicando limites da observação."
+    ],
+    "resumo": "Dia, noite e atividades dos seres vivos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Dia, noite e atividades dos seres vivos</h2><h3>Ideias para investigar</h3><p>A alternância de dia e noite orienta muitas atividades. Pessoas organizam trabalho, alimentação e descanso, mas nem todas têm a mesma rotina. Muitos animais são mais ativos em certos períodos; isso não significa que todo animal durma à noite. Plantas também respondem a condições de luz, e não é preciso dizer que fazem tudo como pessoas.</p><h3>Exemplo comentado</h3><p>Um passarinho pode procurar alimento de dia; uma coruja pode estar mais ativa à noite. São exemplos, não regras para todos os indivíduos ou espécies. Algumas pessoas trabalham à noite e precisam descansar em outro período.</p><h3>Observe, registre e explique</h3><p>Durante dois dias, registre atividades observáveis de pessoas e de um animal ou planta em períodos diferentes, por desenho e relato mediado. Observe animais a distância, sem capturar, acordar ou alimentar. Compare os registros e selecione um exemplo de como dia/noite se relaciona a uma atividade, indicando limites da observação.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sol_e_lua_no_ceu.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual conclusão respeita a diversidade de hábitos?",
+      "alternativas": [
+        "Todos os animais dormem à noite.",
+        "Alguns animais são mais ativos à noite e outros durante o dia.",
+        "Toda pessoa tem o mesmo horário."
+      ],
+      "correta": 1,
+      "explicacao": "Um passarinho pode procurar alimento de dia; uma coruja pode estar mais ativa à noite. São exemplos, não regras para todos os indivíduos ou espécies. Algumas pessoas trabalham à noite e precisam descansar em outro período.",
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "sol_e_lua_no_ceu.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Durante dois dias, registre atividades observáveis de pessoas e de um animal ou planta em períodos diferentes, por desenho e relato mediado. Observe animais a distância, sem capturar, acordar ou alimentar. Compare os registros e selecione um exemplo de como dia/noite se relaciona a uma atividade, indicando limites da observação.",
+      "gabarito": "Exigir dois registros datados, comparação e relação com períodos do dia. Dados de modelo devem ser identificados como modelo. Não generalizar uma observação para todas as espécies nem classificar uma rotina familiar como errada.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir dois registros datados, comparação e relação com períodos do dia. Dados de modelo devem ser identificados como modelo. Não generalizar uma observação para todas as espécies nem classificar uma rotina familiar como errada.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "titulo": "O Sol e a Lua no Céu"
+  }
+}

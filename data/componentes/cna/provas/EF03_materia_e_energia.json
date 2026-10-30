@@ -1,0 +1,133 @@
+{
+  "id": "cna.ef03.materia_e_energia.prova",
+  "titulo": "Avaliação: Matéria e Energia",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Matéria e Energia",
+  "bncc": [
+    "EF03CI01",
+    "EF03CI02",
+    "EF03CI03"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 3, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef03.materia_e_energia.prova.01",
+    "cna.ef03.materia_e_energia.prova.02",
+    "cna.ef03.materia_e_energia.prova.03"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.materia_e_energia.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Matéria e Energia",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF03CI01",
+      "EF03CI02",
+      "EF03CI03"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Sons e vibrações: comparar uma variável",
+        "enunciado": "Com adulto, produza sons suaves com régua plástica flexível e uma caixa com grãos bem fechada. Registre o que vibra. Na régua, compare dois comprimentos livres sem aproximar do rosto nem usar força excessiva. Repita a comparação e descreva grave/agudo e forte/fraco separadamente. Não use peças quebradiças ou volume desconfortável.",
+        "gabarito": "Exigir produção real, identificação da vibração e variável comparada, com repetições e limites. Não impor resultado sem observar nem equiparar som agudo a som forte. Registrar adaptações de percepção e representação.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir produção real, identificação da vibração e variável comparada, com repetições e limites. Não impor resultado sem observar nem equiparar som agudo a som forte. Registrar adaptações de percepção e representação.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI01"
+        ],
+        "atividadeOrigem": "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.investigacao"
+      },
+      {
+        "titulo": "Luz: passagem, reflexão e sombra",
+        "enunciado": "Em ambiente sem escurecimento total, teste lanterna comum com plástico transparente, papel vegetal e cartão, sem apontar para olhos. Registre passagem de luz e nitidez da imagem. Observe reflexão em superfície polida segura posicionada pelo adulto. Desenhe as situações e explique uma diferença entre passar, espalhar e refletir luz.",
+        "gabarito": "Exigir registros das três amostras e observação de reflexão, sem afirmar que transparente não reflete nada. Aceitar recurso acessível e dados mediados. Não usar laser, vidro cortante ou feixe dirigido a pessoas.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registros das três amostras e observação de reflexão, sem afirmar que transparente não reflete nada. Aceitar recurso acessível e dados mediados. Não usar laser, vidro cortante ou feixe dirigido a pessoas.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes#luz_e_objetos_transparentes.investigacao"
+      },
+      {
+        "titulo": "Som, luz e condições do ambiente",
+        "enunciado": "Observe dois locais da escola com mediação, sem procurar fontes de som forte ou olhar luz intensa. Registre condições de iluminação e ruído e como afetam uma tarefa. Proponha duas melhorias e teste uma mudança segura, como posição do material ou turno de fala. Explique o efeito observado, sem avaliar saúde individual.",
+        "gabarito": "Exigir relação ambiente/tarefa, justificativas e registro de uma mudança segura. Não fazer testes de limite auditivo ou visual, nem inferir diagnóstico. A atividade avalia compreensão de cuidados, não condições pessoais de saúde.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir relação ambiente/tarefa, justificativas e registro de uma mudança segura. Não fazer testes de limite auditivo ou visual, nem inferir diagnóstico. A atividade avalia compreensão de cuidados, não condições pessoais de saúde.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI03"
+        ],
+        "atividadeOrigem": "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI01",
+      "questoes": [
+        "cna.ef03.materia_e_energia.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF03CI02",
+      "questoes": [
+        "cna.ef03.materia_e_energia.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes#luz_e_objetos_transparentes.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF03CI03",
+      "questoes": [
+        "cna.ef03.materia_e_energia.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.investigacao"
+      ]
+    }
+  ]
+}

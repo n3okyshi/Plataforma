@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cna.ef01.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual ação aproveita melhor uma folha ainda limpa de um lado?",
+    "opcoes": [
+      "Usar também o verso.",
+      "Jogar no chão.",
+      "Queimar na sala."
+    ],
+    "correta": 0,
+    "explicacao": "Uma folha limpa pode servir para desenhar dos dois lados. Uma embalagem plástica e uma de papel podem ter usos semelhantes, mas se comportam de modo diferente quando molhadas. Ser plástico não significa sempre ser rígido, e nem todo papel usado pode ser reciclado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef01.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um objeto pode ser feito:",
+    "opcoes": [
+      "De um ou mais materiais.",
+      "Sem qualquer material.",
+      "Somente de um material, sempre."
+    ],
+    "correta": 0,
+    "explicacao": "Um lápis, por exemplo, pode reunir madeira, grafite e revestimento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef02.agua_luz_e_vida.agua_para_as_plantas",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 5,
+  "unidade": "Vida e Evolução",
+  "titulo": "Água, luz e investigação com plantas",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com supervisão, planeje duas comparações separadas de água e luz, usando mudas disponíveis ou registros reais de uma investigação escolar. Defina o que muda, o que se mantém e quando observar. Registre ao menos três momentos e apresente conclusões com limites. Não invente resultados esperados."
+    ],
+    "resumo": "Água, luz e investigação com plantas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Água, luz e investigação com plantas</h2><h3>Ideias para investigar</h3><p>Plantas em geral precisam de água e luz para manter sua vida, mas quantidades e condições variam. Investigar pede pergunta, comparação e registros no tempo. Mudar tudo ao mesmo tempo dificulta interpretar um resultado. Ausência de mudança em poucos dias não prova que uma condição seja desnecessária. Semente germinando e planta em crescimento não são situações idênticas.</p><h3>Exemplo comentado</h3><p>Para comparar efeitos da luz, use plantas semelhantes, com recipientes e água equivalentes e condições de iluminação diferentes, sem calor excessivo. Para investigar água, mantenha a luz semelhante e varie a condição hídrica por um período curto definido pelo professor. Não se exige levar uma planta à morte; interrompa ao aparecer estresse e retome o cuidado.</p><h3>Observe, registre e explique</h3><p>Com supervisão, planeje duas comparações separadas de água e luz, usando mudas disponíveis ou registros reais de uma investigação escolar. Defina o que muda, o que se mantém e quando observar. Registre ao menos três momentos e apresente conclusões com limites. Não invente resultados esperados.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "agua_para_as_plantas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para investigar luz, qual condição ajuda a comparação?",
+      "alternativas": [
+        "Variar água, recipiente e luz de uma vez.",
+        "Manter condições semelhantes e variar a iluminação de forma controlada.",
+        "Escrever resultados antes de observar."
+      ],
+      "correta": 1,
+      "explicacao": "Para comparar efeitos da luz, use plantas semelhantes, com recipientes e água equivalentes e condições de iluminação diferentes, sem calor excessivo. Para investigar água, mantenha a luz semelhante e varie a condição hídrica por um período curto definido pelo professor. Não se exige levar uma planta à morte; interrompa ao aparecer estresse e retome o cuidado.",
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "agua_para_as_plantas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com supervisão, planeje duas comparações separadas de água e luz, usando mudas disponíveis ou registros reais de uma investigação escolar. Defina o que muda, o que se mantém e quando observar. Registre ao menos três momentos e apresente conclusões com limites. Não invente resultados esperados.",
+      "gabarito": "Exigir plano e registros reais, controle de uma condição por comparação e interpretação cuidadosa. Se apenas planejar, execução permanece pendente. Não tomar um experimento curto como prova universal nem confundir germinação com manutenção prolongada.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir plano e registros reais, controle de uma condição por comparação e interpretação cuidadosa. Se apenas planejar, execução permanece pendente. Não tomar um experimento curto como prova universal nem confundir germinação com manutenção prolongada.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Água, Luz e Vida das Plantas",
+    "titulo": "Água para as Plantas"
+  }
+}

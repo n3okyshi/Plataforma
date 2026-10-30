@@ -1,0 +1,104 @@
+{
+  "id": "cna.ef01.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF01CI05",
+    "EF01CI06"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "2 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 2, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef01.terra_e_universo.prova.05",
+    "cna.ef01.terra_e_universo.prova.06"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF01CI05",
+      "EF01CI06"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Manhã, tarde, noite e calendários",
+        "enunciado": "Use um calendário real disponibilizado pelo adulto. Marque o dia atual, conte os sete dias de uma semana, localize mês e ano. Desenhe uma atividade de manhã, uma de tarde e uma de noite, sem divulgar horários privados. Compare dois meses e registre se têm a mesma quantidade de dias.",
+        "gabarito": "Exigir calendário identificado, contagem e nomeação de escalas, com registro desenhado/falado. Não exigir memorização de todas as datas. A comparação deve usar os meses efetivamente observados.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir calendário identificado, contagem e nomeação de escalas, com registro desenhado/falado. Não exigir memorização de todas as datas. A comparação deve usar os meses efetivamente observados.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.investigacao"
+      },
+      {
+        "titulo": "Dia, noite e atividades dos seres vivos",
+        "enunciado": "Durante dois dias, registre atividades observáveis de pessoas e de um animal ou planta em períodos diferentes, por desenho e relato mediado. Observe animais a distância, sem capturar, acordar ou alimentar. Compare os registros e selecione um exemplo de como dia/noite se relaciona a uma atividade, indicando limites da observação.",
+        "gabarito": "Exigir dois registros datados, comparação e relação com períodos do dia. Dados de modelo devem ser identificados como modelo. Não generalizar uma observação para todas as espécies nem classificar uma rotina familiar como errada.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir dois registros datados, comparação e relação com períodos do dia. Dados de modelo devem ser identificados como modelo. Não generalizar uma observação para todas as espécies nem classificar uma rotina familiar como errada.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI05",
+      "questoes": [
+        "cna.ef01.terra_e_universo.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01CI06",
+      "questoes": [
+        "cna.ef01.terra_e_universo.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.investigacao"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "cna.ef03.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF03CI07",
+    "EF03CI08",
+    "EF03CI09",
+    "EF03CI10"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef03.terra_e_universo.prova.07",
+    "cna.ef03.terra_e_universo.prova.08",
+    "cna.ef03.terra_e_universo.prova.09",
+    "cna.ef03.terra_e_universo.prova.10"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF03CI07",
+      "EF03CI08",
+      "EF03CI09",
+      "EF03CI10"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Terra: comparar representações",
+        "enunciado": "Compare globo, mapa e fotografia da Terra disponibilizados pelo professor, com origem identificada. Registre o que cada um mostra, a presença de água e áreas continentais e uma limitação. Manipule o globo ou modelo tátil acessível e explique por que uma folha plana não define a forma do planeta.",
+        "gabarito": "Exigir comparação de três recursos reais e fontes, forma aproximadamente esférica e diferenças volume/plano/recorte. Não confundir cor de legenda com cor universal do solo nem tomar analogia da laranja como representação exata.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir comparação de três recursos reais e fontes, forma aproximadamente esférica e diferenças volume/plano/recorte. Não confundir cor de legenda com cor universal do solo nem tomar analogia da laranja como representação exata.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI07"
+        ],
+        "atividadeOrigem": "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.investigacao"
+      },
+      {
+        "titulo": "Registrar o céu em horários diferentes",
+        "enunciado": "Com adulto, mantenha diário de três dias com horário, condições e astros reconhecidos em períodos diurnos/noturnos seguros. Nunca olhe diretamente para o Sol, com ou sem instrumento; registre apenas a luminosidade e outras observações indiretas. Use carta do céu datada e mediada para possíveis planetas; marque dúvidas sem inventar identificação.",
+        "gabarito": "Exigir registros reais datados e limites. Se o tempo impedir, registrar e ampliar o período. Não cobrar visibilidade de todos os astros em três dias nem tratar não observação como inexistência. Respeitar condições familiares e oferecer registros escolares mediados.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registros reais datados e limites. Se o tempo impedir, registrar e ampliar o período. Não cobrar visibilidade de todos os astros em três dias nem tratar não observação como inexistência. Respeitar condições familiares e oferecer registros escolares mediados.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI08"
+        ],
+        "atividadeOrigem": "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.investigacao"
+      },
+      {
+        "titulo": "Comparar amostras de solo",
+        "enunciado": "O professor oferece duas amostras seguras e identificadas. Registre cor, partículas e textura com ferramentas e, se autorizado, toque mediado seguido de lavagem das mãos. Compare passagem de volumes iguais de água em montagem preparada pelo adulto. Descreva odor apenas se perceptível à distância, sem cheirar diretamente. Faça tabela e explique limites.",
+        "gabarito": "Exigir amostras identificadas, condições comparáveis e registros reais. Não inferir fertilidade só pela cor nem inventar tempos. Textura e odor podem ser registrados como não observados quando houver barreira de segurança ou acesso.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir amostras identificadas, condições comparáveis e registros reais. Não inferir fertilidade só pela cor nem inventar tempos. Textura e odor podem ser registrados como não observados quando houver barreira de segurança ou acesso.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI09"
+        ],
+        "atividadeOrigem": "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.investigacao"
+      },
+      {
+        "titulo": "Usos do solo e importância para a vida",
+        "enunciado": "Com imagens identificadas ou percurso escolar autorizado, registre três usos do solo, como plantio, construção e extração. Compare o que muda para plantas, animais e água, distinguindo observado de hipótese. Produza proposta de cuidado para um ambiente próximo e explique por que o solo importa para alimentação e vida.",
+        "gabarito": "Exigir identificação de usos, relações com vida/agricultura e proposta contextualizada, sem entrada em obras ou áreas de extração. Não atribuir medidas ambientais sem dados. Aceitar percurso mediado por imagens.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir identificação de usos, relações com vida/agricultura e proposta contextualizada, sem entrada em obras ou áreas de extração. Não atribuir medidas ambientais sem dados. Aceitar percurso mediado por imagens.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF03CI10"
+        ],
+        "atividadeOrigem": "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI07",
+      "questoes": [
+        "cna.ef03.terra_e_universo.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF03CI08",
+      "questoes": [
+        "cna.ef03.terra_e_universo.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF03CI09",
+      "questoes": [
+        "cna.ef03.terra_e_universo.prova.09"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF03CI10",
+      "questoes": [
+        "cna.ef03.terra_e_universo.prova.10"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.investigacao"
+      ]
+    }
+  ]
+}

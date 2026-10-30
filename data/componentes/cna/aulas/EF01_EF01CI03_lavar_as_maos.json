@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef01.higiene_e_saude.lavar_as_maos",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 3,
+  "unidade": "Vida e Evolução",
+  "titulo": "Higiene: compreender o cuidado",
+  "bncc": [
+    "EF01CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com um adulto, construa uma sequência ilustrada de três momentos de cuidado. Explique por que lavar as mãos, cuidar da boca e limpar delicadamente a parte externa do rosto/orelhas são importantes. Demonstre a organização dos materiais sem compartilhar objetos pessoais; não faça testes com olhos ou canais de ouvido."
+    ],
+    "resumo": "Higiene: compreender o cuidado",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Higiene: compreender o cuidado</h2><h3>Ideias para investigar</h3><p>Hábitos de higiene ajudam a retirar sujeira e a cuidar do corpo. Lavar as mãos antes de comer e depois do banheiro e realizar cuidados com a boca fazem parte da rotina. Cada cuidado tem uma razão, não é apenas uma lista para decorar. Cuidados com olhos, nariz e orelhas devem ser externos, delicados e mediados por adulto; não introduza objetos nos canais nem compartilhe objetos de higiene.</p><h3>Exemplo comentado</h3><p>Mãos podem parecer limpas e ainda carregar sujeira não visível. A lavagem com água e sabonete ajuda a removê-la. Escovar os dentes faz parte do cuidado com a boca; ninguém precisa demonstrar a escovação usando uma escova de outra pessoa.</p><h3>Observe, registre e explique</h3><p>Com um adulto, construa uma sequência ilustrada de três momentos de cuidado. Explique por que lavar as mãos, cuidar da boca e limpar delicadamente a parte externa do rosto/orelhas são importantes. Demonstre a organização dos materiais sem compartilhar objetos pessoais; não faça testes com olhos ou canais de ouvido.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "lavar_as_maos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Por que cuidar das mãos antes de comer?",
+      "alternativas": [
+        "Para retirar sujeira que pode chegar aos alimentos.",
+        "Somente para mudar sua cor.",
+        "Porque a mão nunca fica suja."
+      ],
+      "correta": 0,
+      "explicacao": "Mãos podem parecer limpas e ainda carregar sujeira não visível. A lavagem com água e sabonete ajuda a removê-la. Escovar os dentes faz parte do cuidado com a boca; ninguém precisa demonstrar a escovação usando uma escova de outra pessoa.",
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "lavar_as_maos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com um adulto, construa uma sequência ilustrada de três momentos de cuidado. Explique por que lavar as mãos, cuidar da boca e limpar delicadamente a parte externa do rosto/orelhas são importantes. Demonstre a organização dos materiais sem compartilhar objetos pessoais; não faça testes com olhos ou canais de ouvido.",
+      "gabarito": "Exigir explicação das razões e sequência de situações, não inspeção íntima do estudante. Observar organização e compreensão; não tratar dificuldade de acesso a materiais como falha moral nem prometer prevenção de todas as doenças.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir explicação das razões e sequência de situações, não inspeção íntima do estudante. Observar organização e compreensão; não tratar dificuldade de acesso a materiais como falha moral nem prometer prevenção de todas as doenças.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Higiene e Saúde",
+    "titulo": "Lavar as Mãos"
+  }
+}
