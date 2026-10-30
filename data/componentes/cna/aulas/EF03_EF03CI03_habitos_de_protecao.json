@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 4,
+  "unidade": "Saúde Auditiva e Visual",
+  "titulo": "Hábitos de Proteção",
+  "bncc": [
+    "EF03CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza um roteiro de cuidado para duas situações fictícias, uma de ruído e outra de iluminação, justificando cada ação.",
+      "Revise um cartaz que diz: basta usar fone para bloquear qualquer barulho e manter brilho máximo. Explique os problemas e proponha nova mensagem."
+    ],
+    "resumo": "Cuidados com audição e visão fazem parte da rotina: volumes moderados, pausas, afastamento de sons intensos, iluminação adequada e redução de reflexos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel\">Ambiente Escolar Saudável</button></p><h2>Hábitos de Proteção</h2><h3>Para compreender</h3><p>Cuidados com audição e visão fazem parte da rotina: volumes moderados, pausas, afastamento de sons intensos, iluminação adequada e redução de reflexos. Não compartilhar objetos introduzidos no ouvido e não coçar olhos com mãos sujas ajudam no cuidado geral. Proteções e tratamentos precisam de orientação apropriada; nem todo desconforto tem a mesma causa. Informações podem ser oferecidas por diferentes suportes. A turma não deve competir por quem ouve melhor, fazer testes de visão ou exigir relatos de saúde.</p><h3>Exemplo comentado</h3><p>Caso fictício: ao sentir desconforto após uso prolongado de tela, um personagem faz pausa e avisa ao responsável. A história não permite diagnosticar doença nem definir tratamento.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Produza um roteiro de cuidado para duas situações fictícias, uma de ruído e outra de iluminação, justificando cada ação.</p><h4>Proposta 2</h4><p>Revise um cartaz que diz: basta usar fone para bloquear qualquer barulho e manter brilho máximo. Explique os problemas e proponha nova mensagem.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Deafness and hearing loss: Ear care</a></li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Doenças Oculares</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "habitos_de_protecao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Brilho máximo e volume alto são proteção universal?",
+      "alternativas": [
+        "Sim, se houver fones.",
+        "Não; é preciso ajustar condições e exposição.",
+        "Sim, porque melhoram qualquer tarefa."
+      ],
+      "correta": 1,
+      "explicacao": "Proteção considera ambiente, intensidade e duração.",
+      "bncc": [
+        "EF03CI03"
+      ]
+    },
+    {
+      "id": "habitos_de_protecao.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Produza um roteiro de cuidado para duas situações fictícias, uma de ruído e outra de iluminação, justificando cada ação.",
+      "gabarito": "Relacionar condição e cuidado, incluir apoio adulto, sem receita de tratamento ou competição sensorial.",
+      "rubrica": [
+        "Relacionar condição e cuidado, incluir apoio adulto, sem receita de tratamento ou competição sensorial.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI03"
+      ]
+    },
+    {
+      "id": "habitos_de_protecao.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Revise um cartaz que diz: basta usar fone para bloquear qualquer barulho e manter brilho máximo. Explique os problemas e proponha nova mensagem.",
+      "gabarito": "Fone não garante proteção e volume pode aumentar exposição; brilho adequado depende do ambiente, não máximo universal.",
+      "rubrica": [
+        "Fone não garante proteção e volume pode aumentar exposição; brilho adequado depende do ambiente, não máximo universal.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "WHO — Deafness and hearing loss: Ear care",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+    },
+    {
+      "documento": "Ministério da Saúde — Doenças Oculares",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+      "consulta": "2026-10-30",
+      "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde Auditiva e Visual",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "titulo": "Hábitos de Proteção"
+  }
+}

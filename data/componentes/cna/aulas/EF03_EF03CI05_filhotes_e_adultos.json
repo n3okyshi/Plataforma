@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 10,
+  "unidade": "Crescimento dos Animais",
+  "titulo": "Filhotes e Adultos",
+  "bncc": [
+    "EF03CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça duas linhas de desenvolvimento com os cartões descritos, anotando duas alterações além do tamanho em pelo menos uma espécie.",
+      "Compare as duas sequências e explique uma semelhança e uma diferença, citando a origem dos exemplos."
+    ],
+    "resumo": "Animais mudam desde o nascimento.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta\">Crescimento e desenvolvimento dos animais</button></p><h2>Filhotes e Adultos</h2><h3>Para compreender</h3><p>Animais mudam desde o nascimento. Além de crescer em tamanho, podem mudar proporções, revestimento, movimentos e alimentação. Um pintinho tem penugem e desenvolve plumagem; um gato jovem cresce e muda sua dependência de cuidados. Adulto não significa apenas o indivíduo maior de um grupo: espécie, idade e história importam. Comparar exige referências do mesmo animal ou da mesma espécie e fases identificadas. As sequências desta aula são modelos didáticos, sem coleta ou criação de filhotes.</p><h3>Exemplo comentado</h3><p>Cartões: pintinho com penugem e ave adulta com plumagem desenvolvida; gato recém-nascido dependente e gato adulto. Essas mudanças não ocorrem no mesmo ritmo entre espécies.</p><table><caption>Sequências didáticas: exemplos gerais, sem escala de duração; não são dados de criação pela turma</caption><thead><tr><th scope=\"col\">Animal de exemplo</th><th scope=\"col\">Fases representadas</th><th scope=\"col\">Mudanças e meios</th></tr></thead><tbody><tr><td>Borboleta</td><td>Ovo → larva/lagarta → pupa → adulto</td><td>Forma, alimentação e deslocamento se modificam</td></tr><tr><td>Gafanhoto</td><td>Ovo → ninfa → adulto</td><td>Sem pupa; estruturas adultas se desenvolvem</td></tr><tr><td>Galinha</td><td>Embrião no ovo → pintinho → jovem → adulto</td><td>Crescimento, cobertura corporal e dependência</td></tr><tr><td>Peixe de ciclo representado</td><td>Ovo → larva → jovem → adulto</td><td>Desenvolvimento aquático; não representa todos os peixes</td></tr><tr><td>Golfinho</td><td>Gestação → filhote → jovem → adulto</td><td>Mamífero aquático; filhote mama</td></tr><tr><td>Sapo de ciclo representado</td><td>Ovo → girino → jovem → adulto</td><td>Fase aquática; mudanças de cauda, membros e meios usados</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça duas linhas de desenvolvimento com os cartões descritos, anotando duas alterações além do tamanho em pelo menos uma espécie.</p><h4>Proposta 2</h4><p>Compare as duas sequências e explique uma semelhança e uma diferença, citando a origem dos exemplos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "filhotes_e_adultos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um pintinho e uma ave adulta podem diferir em:",
+      "alternativas": [
+        "Apenas no nome, sem mudanças corporais.",
+        "Só no tamanho, obrigatoriamente.",
+        "Tamanho e desenvolvimento da cobertura corporal."
+      ],
+      "correta": 2,
+      "explicacao": "Desenvolvimento envolve mudanças além do crescimento em altura ou massa.",
+      "bncc": [
+        "EF03CI05"
+      ]
+    },
+    {
+      "id": "filhotes_e_adultos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça duas linhas de desenvolvimento com os cartões descritos, anotando duas alterações além do tamanho em pelo menos uma espécie.",
+      "gabarito": "Sequências coerentes e mudanças de cobertura/dependência/alimentação/movimento; não deduzir idade exata pela aparência.",
+      "rubrica": [
+        "Sequências coerentes e mudanças de cobertura/dependência/alimentação/movimento; não deduzir idade exata pela aparência.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI05"
+      ]
+    },
+    {
+      "id": "filhotes_e_adultos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare as duas sequências e explique uma semelhança e uma diferença, citando a origem dos exemplos.",
+      "gabarito": "Comparação dentro e entre espécies; não tratar adulto como padrão de valor.",
+      "rubrica": [
+        "Comparação dentro e entre espécies; não tratar adulto como padrão de valor.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta"
+  ],
+  "proximosPassos": [
+    "cna.ef03.crescimento_dos_animais.metamorfose"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Crescimento dos Animais",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "titulo": "Filhotes e Adultos"
+  }
+}

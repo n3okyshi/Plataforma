@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef03.solo_e_seus_usos.prova",
+  "titulo": "Avaliação: Solo e Seus Usos",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Solo e Seus Usos",
+  "bncc": [
+    "EF03CI09",
+    "EF03CI10"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens próprios de prova, com leitura mediada. Objetiva: acertos/3 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.prova.1",
+    "cna.ef03.solo_e_seus_usos.permeabilidade.prova.1",
+    "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.solo_e_seus_usos.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Solo e Seus Usos",
+    "enunciado": "Duas amostras fictícias diferem na cor e, com 60 mL de água aplicados, deixam passar 40 mL e 25 mL no mesmo tempo; uma estava mais compactada. Compare os valores, critique a conclusão de que cor prova fertilidade e planeje comparação de amostras autorizadas do entorno. Relacione plantação, construção e extração de argila às funções do solo e proponha conservação com acompanhamento.",
+    "gabarito": "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+    "rubrica": [
+      "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF03CI09",
+      "EF03CI10"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef03.solo_e_seus_usos.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Solo e Seus Usos",
+        "enunciado": "Duas amostras fictícias diferem na cor e, com 60 mL de água aplicados, deixam passar 40 mL e 25 mL no mesmo tempo; uma estava mais compactada. Compare os valores, critique a conclusão de que cor prova fertilidade e planeje comparação de amostras autorizadas do entorno. Relacione plantação, construção e extração de argila às funções do solo e proponha conservação com acompanhamento.",
+        "gabarito": "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+        "rubrica": [
+          "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF03CI09",
+          "EF03CI10"
+        ],
+        "aulasReferencia": [
+          "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+          "cna.ef03.solo_e_seus_usos.permeabilidade",
+          "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+      "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2",
+      "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+      "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2",
+      "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+      "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Embrapa Solos — Propriedades do Solo",
+      "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+      "consulta": "2026-10-30",
+      "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI09",
+      "questoes": [
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.prova.1",
+        "cna.ef03.solo_e_seus_usos.permeabilidade.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.solo_e_seus_usos.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef03.solo_e_seus_usos.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2"
+      ]
+    },
+    {
+      "bncc": "EF03CI10",
+      "questoes": [
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.solo_e_seus_usos.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef03.solo_e_seus_usos.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
+      ]
+    }
+  ]
+}

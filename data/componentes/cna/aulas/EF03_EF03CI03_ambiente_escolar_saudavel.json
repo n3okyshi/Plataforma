@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 3,
+  "unidade": "Saúde Auditiva e Visual",
+  "titulo": "Ambiente Escolar Saudável",
+  "bncc": [
+    "EF03CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça levantamento autorizado de um local, registrando uma condição de som e uma de luz, em desenho ou texto, sem fotos de pessoas.",
+      "Proponha uma melhoria para cada condição, indique o responsável e como verificar o efeito depois."
+    ],
+    "resumo": "Condições de som e luz influenciam tarefas e bem-estar.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.saude_auditiva_e_visual.luz_e_visao\">Luz e Visão</button></p><h2>Ambiente Escolar Saudável</h2><h3>Para compreender</h3><p>Condições de som e luz influenciam tarefas e bem-estar. Arrastar móveis, falar todos ao mesmo tempo e equipamentos altos podem elevar o ruído; reflexos ou iluminação insuficiente podem dificultar leitura. Uma melhoria deve agir sobre a fonte e a organização do ambiente, considerando participação de todos. Um celular não substitui avaliação acústica ou de iluminação profissional. A turma pode registrar situações autorizadas, sem expor pessoas, e encaminhar propostas ao adulto. Proposta, mudança realizada e efeito observado são registros diferentes.</p><h3>Exemplo comentado</h3><p>Em um caso fictício, a turma combina turnos de fala e o adulto verifica a manutenção de um ventilador ruidoso. A criança não conserta o aparelho nem afirma que a sala ficou segura sem avaliação.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça levantamento autorizado de um local, registrando uma condição de som e uma de luz, em desenho ou texto, sem fotos de pessoas.</p><h4>Proposta 2</h4><p>Proponha uma melhoria para cada condição, indique o responsável e como verificar o efeito depois.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Deafness and hearing loss: Ear care</a></li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Doenças Oculares</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ambiente_escolar_saudavel.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual registro distingue plano e resultado?",
+      "alternativas": [
+        "A sala melhorou porque desenhamos um plano.",
+        "O desenho prova que o ruído foi eliminado.",
+        "Propusemos ajustar o reflexo; falta verificar após a mudança."
+      ],
+      "correta": 2,
+      "explicacao": "Uma proposta não comprova que a intervenção ocorreu.",
+      "bncc": [
+        "EF03CI03"
+      ]
+    },
+    {
+      "id": "ambiente_escolar_saudavel.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça levantamento autorizado de um local, registrando uma condição de som e uma de luz, em desenho ou texto, sem fotos de pessoas.",
+      "gabarito": "Descrever condição e efeito na tarefa, sem dados inventados ou diagnóstico do espaço.",
+      "rubrica": [
+        "Descrever condição e efeito na tarefa, sem dados inventados ou diagnóstico do espaço.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI03"
+      ]
+    },
+    {
+      "id": "ambiente_escolar_saudavel.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Proponha uma melhoria para cada condição, indique o responsável e como verificar o efeito depois.",
+      "gabarito": "Plano viável sobre fonte/ambiente, evidência posterior e pendência separadas.",
+      "rubrica": [
+        "Plano viável sobre fonte/ambiente, evidência posterior e pendência separadas.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "WHO — Deafness and hearing loss: Ear care",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+    },
+    {
+      "documento": "Ministério da Saúde — Doenças Oculares",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+      "consulta": "2026-10-30",
+      "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.saude_auditiva_e_visual.luz_e_visao"
+  ],
+  "proximosPassos": [
+    "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde Auditiva e Visual",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "titulo": "Ambiente Escolar Saudável"
+  }
+}

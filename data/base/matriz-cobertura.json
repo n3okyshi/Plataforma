@@ -36549,8 +36549,8 @@
     {
       "componente": "cna",
       "nivel": "EF03",
-      "estado": "parcial",
-      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
+      "estado": "pronto_para_testes",
+      "observacao": "Todos os 50 tópicos EF03 com autoria, incluindo um complementar do lote anterior. Observação, manipulação de globo, comparação real de solos/animais/céu, homologação independente e serviços reais permanecem pendentes; critérios implementados não são evidências de aplicação.",
       "habilidades": [
         {
           "codigo": "EF03CI01",
@@ -36564,35 +36564,37 @@
             "cna.ef03.som_e_vibracao.variaveis_do_som"
           ],
           "aulasComVinculo": [
-            "cna.ef03.som_e_vibracao.produzindo_sons",
+            "cna.ef03.som_e_vibracao.variaveis_do_som",
             "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
             "cna.ef03.som_e_vibracao.altura_e_intensidade",
-            "cna.ef03.som_e_vibracao.instrumentos_musicais",
             "cna.ef03.som_e_vibracao.som_se_propaga",
-            "cna.ef03.som_e_vibracao.variaveis_do_som"
+            "cna.ef03.som_e_vibracao.instrumentos_musicais",
+            "cna.ef03.som_e_vibracao.produzindo_sons"
           ],
           "aulasPiloto": [
-            "cna.ef03.som_e_vibracao.produzindo_sons",
+            "cna.ef03.som_e_vibracao.variaveis_do_som",
             "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
             "cna.ef03.som_e_vibracao.altura_e_intensidade",
-            "cna.ef03.som_e_vibracao.instrumentos_musicais",
             "cna.ef03.som_e_vibracao.som_se_propaga",
-            "cna.ef03.som_e_vibracao.variaveis_do_som"
+            "cna.ef03.som_e_vibracao.instrumentos_musicais",
+            "cna.ef03.som_e_vibracao.produzindo_sons"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.som_e_vibracao.produzindo_sons",
+              "cna.ef03.som_e_vibracao.variaveis_do_som",
               "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
               "cna.ef03.som_e_vibracao.altura_e_intensidade",
-              "cna.ef03.som_e_vibracao.instrumentos_musicais",
               "cna.ef03.som_e_vibracao.som_se_propaga",
-              "cna.ef03.som_e_vibracao.variaveis_do_som"
+              "cna.ef03.som_e_vibracao.instrumentos_musicais",
+              "cna.ef03.som_e_vibracao.produzindo_sons"
             ],
             "atividades": [
-              "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.aplicacao",
-              "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.investigacao",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao1",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao2",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2",
               "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao1",
               "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao2",
               "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1",
@@ -36601,18 +36603,16 @@
               "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.aplicacao2",
               "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1",
               "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2",
-              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao1",
-              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao2",
-              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1",
-              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2",
               "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao1",
               "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao2",
               "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1",
               "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2",
-              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao1",
-              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao2",
-              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1",
-              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2"
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao1",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao2",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2",
+              "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.aplicacao",
+              "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.investigacao"
             ],
             "questoesTreino": [
               "cna.ef03.materia_e_energia.treino.01",
@@ -36657,25 +36657,25 @@
             "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes",
             "cna.ef03.luz_e_materiais.objetos_opacos",
             "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
-            "cna.ef03.luz_e_materiais.refracao_simples",
-            "cna.ef03.luz_e_materiais.sombras"
+            "cna.ef03.luz_e_materiais.sombras",
+            "cna.ef03.luz_e_materiais.refracao_simples"
           ],
           "aulasPiloto": [
             "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes",
             "cna.ef03.luz_e_materiais.objetos_opacos",
             "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
-            "cna.ef03.luz_e_materiais.refracao_simples",
-            "cna.ef03.luz_e_materiais.sombras"
+            "cna.ef03.luz_e_materiais.sombras",
+            "cna.ef03.luz_e_materiais.refracao_simples"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
               "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes",
               "cna.ef03.luz_e_materiais.objetos_opacos",
               "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
-              "cna.ef03.luz_e_materiais.refracao_simples",
-              "cna.ef03.luz_e_materiais.sombras"
+              "cna.ef03.luz_e_materiais.sombras",
+              "cna.ef03.luz_e_materiais.refracao_simples"
             ],
             "atividades": [
               "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes#luz_e_objetos_transparentes.aplicacao",
@@ -36688,14 +36688,14 @@
               "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.aplicacao2",
               "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1",
               "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2",
-              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao1",
-              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao2",
-              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1",
-              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2",
               "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao1",
               "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao2",
               "cna.ef03.luz_e_materiais.sombras#sombras.producao1",
-              "cna.ef03.luz_e_materiais.sombras#sombras.producao2"
+              "cna.ef03.luz_e_materiais.sombras#sombras.producao2",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao1",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao2",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2"
             ],
             "questoesTreino": [
               "cna.ef03.luz_e_materiais.objetos_opacos.treino.1",
@@ -36706,6 +36706,8 @@
               "cna.ef03.luz_e_materiais.refracao_simples.treino.2",
               "cna.ef03.luz_e_materiais.sombras.treino.1",
               "cna.ef03.luz_e_materiais.sombras.treino.2",
+              "cna.ef03.luz_e_materiais.cores_e_luz.treino.1",
+              "cna.ef03.luz_e_materiais.cores_e_luz.treino.2",
               "cna.ef03.materia_e_energia.treino.02"
             ],
             "questoesProva": [
@@ -36717,6 +36719,8 @@
               "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
               "cna.ef03.luz_e_materiais.sombras.prova.1",
               "cna.ef03.luz_e_materiais.sombras.prova.2",
+              "cna.ef03.luz_e_materiais.cores_e_luz.prova.1",
+              "cna.ef03.luz_e_materiais.cores_e_luz.prova.2",
               "cna.ef03.materia_e_energia.prova.02"
             ]
           }
@@ -36732,26 +36736,58 @@
             "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
           ],
           "aulasComVinculo": [
-            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao"
+            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
           ],
           "aulasPiloto": [
-            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao"
+            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao"
+              "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao",
+              "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+              "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+              "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+              "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
             ],
             "atividades": [
               "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.aplicacao",
-              "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.investigacao"
+              "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.investigacao",
+              "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.aplicacao",
+              "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao1",
+              "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao2",
+              "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.aplicacao",
+              "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao1",
+              "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao2",
+              "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.aplicacao",
+              "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao1",
+              "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao2",
+              "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.aplicacao",
+              "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao1",
+              "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.materia_e_energia.treino.03"
+              "cna.ef03.materia_e_energia.treino.03",
+              "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.treino.1",
+              "cna.ef03.saude_auditiva_e_visual.luz_e_visao.treino.1",
+              "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.treino.1",
+              "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.materia_e_energia.prova.03"
+              "cna.ef03.materia_e_energia.prova.03",
+              "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.prova.1",
+              "cna.ef03.saude_auditiva_e_visual.luz_e_visao.prova.1",
+              "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.prova.1",
+              "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.prova.1"
             ]
           }
         },
@@ -36766,26 +36802,58 @@
             "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
           ],
           "aulasComVinculo": [
-            "cna.ef03.a_terra_em_representacoes.forma_da_terra"
+            "cna.ef03.a_terra_em_representacoes.forma_da_terra",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
           ],
           "aulasPiloto": [
-            "cna.ef03.a_terra_em_representacoes.forma_da_terra"
+            "cna.ef03.a_terra_em_representacoes.forma_da_terra",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.a_terra_em_representacoes.forma_da_terra"
+              "cna.ef03.a_terra_em_representacoes.forma_da_terra",
+              "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+              "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+              "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+              "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
             ],
             "atividades": [
               "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.aplicacao",
-              "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.investigacao"
+              "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.investigacao",
+              "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.aplicacao",
+              "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao1",
+              "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao2",
+              "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.aplicacao",
+              "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao1",
+              "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao2",
+              "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.aplicacao",
+              "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao1",
+              "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao2",
+              "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.aplicacao",
+              "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao1",
+              "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.terra_e_universo.treino.07"
+              "cna.ef03.terra_e_universo.treino.07",
+              "cna.ef03.a_terra_em_representacoes.globo_e_mapas.treino.1",
+              "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.treino.1",
+              "cna.ef03.a_terra_em_representacoes.agua_no_planeta.treino.1",
+              "cna.ef03.a_terra_em_representacoes.comparando_representacoes.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.terra_e_universo.prova.07"
+              "cna.ef03.terra_e_universo.prova.07",
+              "cna.ef03.a_terra_em_representacoes.globo_e_mapas.prova.1",
+              "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.prova.1",
+              "cna.ef03.a_terra_em_representacoes.agua_no_planeta.prova.1",
+              "cna.ef03.a_terra_em_representacoes.comparando_representacoes.prova.1"
             ]
           }
         },
@@ -36800,26 +36868,58 @@
             "cna.ef03.observando_o_ceu.dia_e_noite"
           ],
           "aulasComVinculo": [
-            "cna.ef03.observando_o_ceu.sol_de_dia"
+            "cna.ef03.observando_o_ceu.sol_de_dia",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas",
+            "cna.ef03.observando_o_ceu.planetas_visiveis",
+            "cna.ef03.observando_o_ceu.registro_do_ceu",
+            "cna.ef03.observando_o_ceu.dia_e_noite"
           ],
           "aulasPiloto": [
-            "cna.ef03.observando_o_ceu.sol_de_dia"
+            "cna.ef03.observando_o_ceu.sol_de_dia",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas",
+            "cna.ef03.observando_o_ceu.planetas_visiveis",
+            "cna.ef03.observando_o_ceu.registro_do_ceu",
+            "cna.ef03.observando_o_ceu.dia_e_noite"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.observando_o_ceu.sol_de_dia"
+              "cna.ef03.observando_o_ceu.sol_de_dia",
+              "cna.ef03.observando_o_ceu.lua_e_estrelas",
+              "cna.ef03.observando_o_ceu.planetas_visiveis",
+              "cna.ef03.observando_o_ceu.registro_do_ceu",
+              "cna.ef03.observando_o_ceu.dia_e_noite"
             ],
             "atividades": [
               "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.aplicacao",
-              "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.investigacao"
+              "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.investigacao",
+              "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.aplicacao",
+              "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao1",
+              "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao2",
+              "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.aplicacao",
+              "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao1",
+              "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao2",
+              "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.aplicacao",
+              "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao1",
+              "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao2",
+              "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.aplicacao",
+              "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao1",
+              "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.terra_e_universo.treino.08"
+              "cna.ef03.terra_e_universo.treino.08",
+              "cna.ef03.observando_o_ceu.lua_e_estrelas.treino.1",
+              "cna.ef03.observando_o_ceu.planetas_visiveis.treino.1",
+              "cna.ef03.observando_o_ceu.registro_do_ceu.treino.1",
+              "cna.ef03.observando_o_ceu.dia_e_noite.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.terra_e_universo.prova.08"
+              "cna.ef03.terra_e_universo.prova.08",
+              "cna.ef03.observando_o_ceu.lua_e_estrelas.prova.1",
+              "cna.ef03.observando_o_ceu.planetas_visiveis.prova.1",
+              "cna.ef03.observando_o_ceu.registro_do_ceu.prova.1",
+              "cna.ef03.observando_o_ceu.dia_e_noite.prova.1"
             ]
           }
         },
@@ -36832,26 +36932,42 @@
             "cna.ef03.solo_e_seus_usos.permeabilidade"
           ],
           "aulasComVinculo": [
-            "cna.ef03.solo_e_seus_usos.amostras_de_solo"
+            "cna.ef03.solo_e_seus_usos.amostras_de_solo",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+            "cna.ef03.solo_e_seus_usos.permeabilidade"
           ],
           "aulasPiloto": [
-            "cna.ef03.solo_e_seus_usos.amostras_de_solo"
+            "cna.ef03.solo_e_seus_usos.amostras_de_solo",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+            "cna.ef03.solo_e_seus_usos.permeabilidade"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.solo_e_seus_usos.amostras_de_solo"
+              "cna.ef03.solo_e_seus_usos.amostras_de_solo",
+              "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+              "cna.ef03.solo_e_seus_usos.permeabilidade"
             ],
             "atividades": [
               "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.aplicacao",
-              "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.investigacao"
+              "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.investigacao",
+              "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.aplicacao",
+              "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+              "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2",
+              "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.aplicacao",
+              "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+              "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.terra_e_universo.treino.09"
+              "cna.ef03.terra_e_universo.treino.09",
+              "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.treino.1",
+              "cna.ef03.solo_e_seus_usos.permeabilidade.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.terra_e_universo.prova.09"
+              "cna.ef03.terra_e_universo.prova.09",
+              "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.prova.1",
+              "cna.ef03.solo_e_seus_usos.permeabilidade.prova.1"
             ]
           }
         },
@@ -36863,26 +36979,34 @@
             "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
           ],
           "aulasComVinculo": [
-            "cna.ef03.solo_e_seus_usos.solo_e_agricultura"
+            "cna.ef03.solo_e_seus_usos.solo_e_agricultura",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
           ],
           "aulasPiloto": [
-            "cna.ef03.solo_e_seus_usos.solo_e_agricultura"
+            "cna.ef03.solo_e_seus_usos.solo_e_agricultura",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.solo_e_seus_usos.solo_e_agricultura"
+              "cna.ef03.solo_e_seus_usos.solo_e_agricultura",
+              "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
             ],
             "atividades": [
               "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.aplicacao",
-              "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.investigacao"
+              "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.investigacao",
+              "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.aplicacao",
+              "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+              "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.terra_e_universo.treino.10"
+              "cna.ef03.terra_e_universo.treino.10",
+              "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.terra_e_universo.prova.10"
+              "cna.ef03.terra_e_universo.prova.10",
+              "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.prova.1"
             ]
           }
         },
@@ -36898,26 +37022,66 @@
             "cna.ef03.vida_dos_animais.observar_animais"
           ],
           "aulasComVinculo": [
-            "cna.ef03.vida_dos_animais.o_que_os_animais_comem"
+            "cna.ef03.vida_dos_animais.o_que_os_animais_comem",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem",
+            "cna.ef03.vida_dos_animais.como_se_deslocam",
+            "cna.ef03.vida_dos_animais.animais_do_entorno",
+            "cna.ef03.vida_dos_animais.habitats",
+            "cna.ef03.vida_dos_animais.observar_animais"
           ],
           "aulasPiloto": [
-            "cna.ef03.vida_dos_animais.o_que_os_animais_comem"
+            "cna.ef03.vida_dos_animais.o_que_os_animais_comem",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem",
+            "cna.ef03.vida_dos_animais.como_se_deslocam",
+            "cna.ef03.vida_dos_animais.animais_do_entorno",
+            "cna.ef03.vida_dos_animais.habitats",
+            "cna.ef03.vida_dos_animais.observar_animais"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.vida_dos_animais.o_que_os_animais_comem"
+              "cna.ef03.vida_dos_animais.o_que_os_animais_comem",
+              "cna.ef03.vida_dos_animais.como_se_reproduzem",
+              "cna.ef03.vida_dos_animais.como_se_deslocam",
+              "cna.ef03.vida_dos_animais.animais_do_entorno",
+              "cna.ef03.vida_dos_animais.habitats",
+              "cna.ef03.vida_dos_animais.observar_animais"
             ],
             "atividades": [
               "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.aplicacao",
-              "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.investigacao"
+              "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.investigacao",
+              "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.aplicacao",
+              "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao1",
+              "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao2",
+              "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.aplicacao",
+              "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao1",
+              "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao2",
+              "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.aplicacao",
+              "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao1",
+              "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao2",
+              "cna.ef03.vida_dos_animais.habitats#habitats.aplicacao",
+              "cna.ef03.vida_dos_animais.habitats#habitats.producao1",
+              "cna.ef03.vida_dos_animais.habitats#habitats.producao2",
+              "cna.ef03.vida_dos_animais.observar_animais#observar_animais.aplicacao",
+              "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao1",
+              "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.vida_e_evolucao.treino.04"
+              "cna.ef03.vida_e_evolucao.treino.04",
+              "cna.ef03.vida_dos_animais.como_se_reproduzem.treino.1",
+              "cna.ef03.vida_dos_animais.como_se_deslocam.treino.1",
+              "cna.ef03.vida_dos_animais.animais_do_entorno.treino.1",
+              "cna.ef03.vida_dos_animais.habitats.treino.1",
+              "cna.ef03.vida_dos_animais.observar_animais.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.vida_e_evolucao.prova.04"
+              "cna.ef03.vida_e_evolucao.prova.04",
+              "cna.ef03.vida_dos_animais.como_se_reproduzem.prova.1",
+              "cna.ef03.vida_dos_animais.como_se_deslocam.prova.1",
+              "cna.ef03.vida_dos_animais.animais_do_entorno.prova.1",
+              "cna.ef03.vida_dos_animais.habitats.prova.1",
+              "cna.ef03.vida_dos_animais.observar_animais.prova.1"
             ]
           }
         },
@@ -36933,26 +37097,66 @@
             "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
           ],
           "aulasComVinculo": [
-            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta"
+            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+            "cna.ef03.crescimento_dos_animais.metamorfose",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
           ],
           "aulasPiloto": [
-            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta"
+            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+            "cna.ef03.crescimento_dos_animais.metamorfose",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta"
+              "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta",
+              "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+              "cna.ef03.crescimento_dos_animais.metamorfose",
+              "cna.ef03.crescimento_dos_animais.animais_terrestres",
+              "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+              "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
             ],
             "atividades": [
               "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.aplicacao",
-              "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.investigacao"
+              "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.investigacao",
+              "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.aplicacao",
+              "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+              "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2",
+              "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.aplicacao",
+              "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+              "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2",
+              "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.aplicacao",
+              "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+              "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2",
+              "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.aplicacao",
+              "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+              "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2",
+              "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.aplicacao",
+              "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+              "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.vida_e_evolucao.treino.05"
+              "cna.ef03.vida_e_evolucao.treino.05",
+              "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.treino.1",
+              "cna.ef03.crescimento_dos_animais.metamorfose.treino.1",
+              "cna.ef03.crescimento_dos_animais.animais_terrestres.treino.1",
+              "cna.ef03.crescimento_dos_animais.animais_aquaticos.treino.1",
+              "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.vida_e_evolucao.prova.05"
+              "cna.ef03.vida_e_evolucao.prova.05",
+              "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+              "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+              "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+              "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+              "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1"
             ]
           }
         },
@@ -36968,26 +37172,66 @@
             "cna.ef03.grupos_de_animais.chaves_de_identificacao"
           ],
           "aulasComVinculo": [
-            "cna.ef03.grupos_de_animais.penas_e_pelos"
+            "cna.ef03.grupos_de_animais.penas_e_pelos",
+            "cna.ef03.grupos_de_animais.escamas_e_bico",
+            "cna.ef03.grupos_de_animais.garras_e_patas",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+            "cna.ef03.grupos_de_animais.classificando_animais",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao"
           ],
           "aulasPiloto": [
-            "cna.ef03.grupos_de_animais.penas_e_pelos"
+            "cna.ef03.grupos_de_animais.penas_e_pelos",
+            "cna.ef03.grupos_de_animais.escamas_e_bico",
+            "cna.ef03.grupos_de_animais.garras_e_patas",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+            "cna.ef03.grupos_de_animais.classificando_animais",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao"
           ],
-          "cobertura": "parcial_com_evidencias_planejadas",
-          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "cobertura": "implementado_para_testes",
+          "revisaoSemantica": "Conferência assistida por dimensões no lote EF03; observação e homologação docente independente pendentes.",
           "evidencias": {
             "aulas": [
-              "cna.ef03.grupos_de_animais.penas_e_pelos"
+              "cna.ef03.grupos_de_animais.penas_e_pelos",
+              "cna.ef03.grupos_de_animais.escamas_e_bico",
+              "cna.ef03.grupos_de_animais.garras_e_patas",
+              "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+              "cna.ef03.grupos_de_animais.classificando_animais",
+              "cna.ef03.grupos_de_animais.chaves_de_identificacao"
             ],
             "atividades": [
               "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.aplicacao",
-              "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.investigacao"
+              "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.investigacao",
+              "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.aplicacao",
+              "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao1",
+              "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao2",
+              "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.aplicacao",
+              "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao1",
+              "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao2",
+              "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.aplicacao",
+              "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao1",
+              "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao2",
+              "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.aplicacao",
+              "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao1",
+              "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao2",
+              "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.aplicacao",
+              "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao1",
+              "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao2"
             ],
             "questoesTreino": [
-              "cna.ef03.vida_e_evolucao.treino.06"
+              "cna.ef03.vida_e_evolucao.treino.06",
+              "cna.ef03.grupos_de_animais.escamas_e_bico.treino.1",
+              "cna.ef03.grupos_de_animais.garras_e_patas.treino.1",
+              "cna.ef03.grupos_de_animais.antenas_e_invertebrados.treino.1",
+              "cna.ef03.grupos_de_animais.classificando_animais.treino.1",
+              "cna.ef03.grupos_de_animais.chaves_de_identificacao.treino.1"
             ],
             "questoesProva": [
-              "cna.ef03.vida_e_evolucao.prova.06"
+              "cna.ef03.vida_e_evolucao.prova.06",
+              "cna.ef03.grupos_de_animais.escamas_e_bico.prova.1",
+              "cna.ef03.grupos_de_animais.garras_e_patas.prova.1",
+              "cna.ef03.grupos_de_animais.antenas_e_invertebrados.prova.1",
+              "cna.ef03.grupos_de_animais.classificando_animais.prova.1",
+              "cna.ef03.grupos_de_animais.chaves_de_identificacao.prova.1"
             ]
           }
         }

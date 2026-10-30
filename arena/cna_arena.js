@@ -18610,6 +18610,2982 @@ registrarQuestoes([
     "estado": "piloto",
     "complementar": false,
     "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Acostumar-se a um som forte significa que ele deixou de oferecer risco?",
+    "opcoes": [
+      "Sim, porque deixa de incomodar.",
+      "Não; intensidade e duração ainda importam.",
+      "Sim, se o som for música."
+    ],
+    "correta": 1,
+    "explicacao": "Percepção de incômodo não mede sozinha a possibilidade de dano.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um aluno relata dor no ouvido. Qual encaminhamento é adequado?",
+    "opcoes": [
+      "Experimentar um produto caseiro.",
+      "Comunicar ao responsável e buscar avaliação de saúde.",
+      "Pedir ao colega que examine por dentro."
+    ],
+    "correta": 1,
+    "explicacao": "A atividade não substitui avaliação nem autoriza procedimentos.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.luz_e_visao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Quando há reflexo que dificulta a leitura, pode ajudar:",
+    "opcoes": [
+      "Olhar fixamente o brilho para acostumar.",
+      "Aproximar luz forte dos olhos.",
+      "Ajustar posição e iluminação."
+    ],
+    "correta": 2,
+    "explicacao": "O ajuste deve reduzir ofuscamento e favorecer acesso.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.luz_e_visao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma folha está muito pouco contrastante. Qual proposta amplia participação?",
+    "opcoes": [
+      "Pedir que um colega escolha tratamento.",
+      "Exigir esforço até conseguir.",
+      "Oferecer material com contraste adequado e leitura mediada."
+    ],
+    "correta": 2,
+    "explicacao": "Acessibilidade e ajuste do ambiente não dependem de diagnóstico escolar.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual registro distingue plano e resultado?",
+    "opcoes": [
+      "Propusemos ajustar o reflexo; falta verificar após a mudança.",
+      "A sala melhorou porque desenhamos um plano.",
+      "O desenho prova que o ruído foi eliminado."
+    ],
+    "correta": 0,
+    "explicacao": "Uma proposta não comprova que a intervenção ocorreu.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um aparelho escolar está muito ruidoso. Cabe à turma:",
+    "opcoes": [
+      "Comunicar ao adulto e discutir alternativas de uso/manutenção.",
+      "Abrir o aparelho para testar peças.",
+      "Aumentar outros sons para encobrir."
+    ],
+    "correta": 0,
+    "explicacao": "A discussão não envolve reparo feito por crianças.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Brilho máximo e volume alto são proteção universal?",
+    "opcoes": [
+      "Sim, se houver fones.",
+      "Não; é preciso ajustar condições e exposição.",
+      "Sim, porque melhoram qualquer tarefa."
+    ],
+    "correta": 1,
+    "explicacao": "Proteção considera ambiente, intensidade e duração.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "aulaId": "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Quem precisa de outro suporte para acompanhar a aula deve:",
+    "opcoes": [
+      "Passar por teste feito pelos colegas.",
+      "Receber formas acessíveis de participar e apoio combinado.",
+      "Ser excluído da atividade."
+    ],
+    "correta": 1,
+    "explicacao": "A tarefa avalia compreensão e não capacidade sensorial individual.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.como_se_reproduzem.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.como_se_reproduzem",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação está correta?",
+    "opcoes": [
+      "Todo animal aquático nasce de ovo.",
+      "Todo ovo encontrado já tem filhote desenvolvido.",
+      "Pintinho pode sair do ovo; filhote de gato nasce após desenvolvimento no corpo materno."
+    ],
+    "correta": 2,
+    "explicacao": "Modo de vida depende do animal e das condições, não só do ambiente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.como_se_reproduzem.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.como_se_reproduzem",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma turma encontrou um ninho. Para estudar reprodução, deve:",
+    "opcoes": [
+      "Levar os filhotes à sala.",
+      "Abrir os ovos.",
+      "Observar de distância segura e consultar informação, sem perturbar."
+    ],
+    "correta": 2,
+    "explicacao": "O estudo não depende de capturar ou alterar o ciclo dos animais.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.como_se_deslocam.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.como_se_deslocam",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um pato foi visto caminhando e nadando. Ele deve ser descrito como:",
+    "opcoes": [
+      "Animal que usou duas formas de deslocamento no registro.",
+      "Exclusivamente caminhante.",
+      "Exclusivamente nadador."
+    ],
+    "correta": 0,
+    "explicacao": "A descrição deve conservar as duas ações observadas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.como_se_deslocam.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.como_se_deslocam",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para observar deslocamento com respeito, é adequado:",
+    "opcoes": [
+      "Acompanhar de distância segura sem perseguir o animal.",
+      "Assustar para ver a reação.",
+      "Retirar do abrigo para comparar."
+    ],
+    "correta": 0,
+    "explicacao": "A observação não deve provocar o comportamento por perturbação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.animais_do_entorno.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.animais_do_entorno",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma ave comeu um fruto em uma visita. Podemos afirmar:",
+    "opcoes": [
+      "Que todas as aves só comem frutos.",
+      "Que naquele registro houve consumo de fruto.",
+      "Que sua reprodução ficou demonstrada."
+    ],
+    "correta": 1,
+    "explicacao": "Uma ação observada não define toda a dieta ou o modo de vida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.animais_do_entorno.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.animais_do_entorno",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não foi possível saber o alimento de um animal. Na ficha devemos:",
+    "opcoes": [
+      "Copiar o alimento de outro animal por ter a mesma cor.",
+      "Marcar desconhecido e planejar fonte ou observação adequada.",
+      "Escolher um alimento qualquer."
+    ],
+    "correta": 1,
+    "explicacao": "Registrar lacunas é parte da investigação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.habitats.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.habitats",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um animal visto uma vez numa parede permite concluir que:",
+    "opcoes": [
+      "Ele nunca usa plantas.",
+      "Estava naquele local no momento observado.",
+      "Seu habitat inteiro é a parede."
+    ],
+    "correta": 1,
+    "explicacao": "Lugar do avistamento e conjunto de condições de vida não são iguais.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.habitats.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.habitats",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para investigar abrigo, devemos:",
+    "opcoes": [
+      "Capturar o animal para comparar.",
+      "Observar de longe e buscar fontes sem abrir ninhos ou tocas.",
+      "Desmontar o abrigo."
+    ],
+    "correta": 1,
+    "explicacao": "A investigação preserva o ambiente e a segurança.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.observar_animais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.observar_animais",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Três avistamentos sem identificação individual provam três animais diferentes?",
+    "opcoes": [
+      "Sim, se o intervalo for curto.",
+      "Sim, qualquer contagem prova.",
+      "Não; o mesmo indivíduo pode ter reaparecido."
+    ],
+    "correta": 2,
+    "explicacao": "A unidade contada precisa estar definida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.vida_dos_animais.observar_animais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "aulaId": "cna.ef03.vida_dos_animais.observar_animais",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma observação não foi executada por falta de adulto. O relatório deve:",
+    "opcoes": [
+      "Informar que é plano e registrar execução pendente.",
+      "Inventar animais para fechar tabela.",
+      "Declarar que o local não tem animais."
+    ],
+    "correta": 0,
+    "explicacao": "Planejamento não substitui evidência de observação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um pintinho e uma ave adulta podem diferir em:",
+    "opcoes": [
+      "Apenas no nome, sem mudanças corporais.",
+      "Só no tamanho, obrigatoriamente.",
+      "Tamanho e desenvolvimento da cobertura corporal."
+    ],
+    "correta": 2,
+    "explicacao": "Desenvolvimento envolve mudanças além do crescimento em altura ou massa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um gato é maior que outro. Isso prova que é mais velho?",
+    "opcoes": [
+      "Não; indivíduo, espécie/raça e outras condições influenciam.",
+      "Sim, mesmo se comparado a outra espécie.",
+      "Sim, tamanho sempre indica idade."
+    ],
+    "correta": 0,
+    "explicacao": "Idade não é determinada por tamanho isolado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.metamorfose.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.metamorfose",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual etapa aparece na sequência da borboleta e não na do gafanhoto apresentada?",
+    "opcoes": [
+      "Ovo.",
+      "Adulto.",
+      "Pupa."
+    ],
+    "correta": 2,
+    "explicacao": "As duas sequências diferem no tipo de desenvolvimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.metamorfose",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Lagarta e borboleta adulta da mesma espécie representam:",
+    "opcoes": [
+      "Uma mudança que ocorre com todo mamífero.",
+      "Duas espécies que se misturam.",
+      "Fases do desenvolvimento de um animal."
+    ],
+    "correta": 2,
+    "explicacao": "Metamorfose não é troca de espécie.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_terrestres.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_terrestres",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual sequência preserva a espécie?",
+    "opcoes": [
+      "Ovo de galinha, pintinho, galinha adulta.",
+      "Pintinho, lagarta, borboleta.",
+      "Gato, pintinho, galinha."
+    ],
+    "correta": 0,
+    "explicacao": "Fases de desenvolvimento não são lista de espécies por tamanho.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_terrestres",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas espécies vivem em terra. Elas obrigatoriamente têm as mesmas fases?",
+    "opcoes": [
+      "Não; o modo de desenvolvimento pode variar.",
+      "Sim, sempre há pupa.",
+      "Sim, ambas precisam nascer do corpo materno."
+    ],
+    "correta": 0,
+    "explicacao": "O ambiente não impõe uma sequência universal.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_aquaticos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todo animal que vive na água é peixe e nasce de ovo?",
+    "opcoes": [
+      "Sim, essas duas regras são universais.",
+      "Não; golfinhos são mamíferos, por exemplo.",
+      "Sim, se nadar."
+    ],
+    "correta": 1,
+    "explicacao": "Meio de vida, classificação e reprodução não são equivalentes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um girino no ciclo representado se desenvolve em:",
+    "opcoes": [
+      "Golfinho.",
+      "Sapo da mesma espécie de origem.",
+      "Peixe adulto."
+    ],
+    "correta": 1,
+    "explicacao": "A transformação preserva a espécie, apesar da mudança de forma.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todas as pessoas desenvolvem habilidades no mesmo dia e ritmo?",
+    "opcoes": [
+      "Sim, e quem difere está em outra espécie.",
+      "Sim, idade permite prever toda capacidade.",
+      "Não; há variações e necessidades de apoio diferentes."
+    ],
+    "correta": 2,
+    "explicacao": "Desenvolvimento tem diversidade e não autoriza hierarquizar pessoas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma pessoa idosa usa tecnologia para se locomover. Isso significa:",
+    "opcoes": [
+      "Que não pode aprender.",
+      "Que voltou à infância.",
+      "Que utiliza apoio para participar, sem perder sua etapa ou dignidade."
+    ],
+    "correta": 2,
+    "explicacao": "Recursos e apoio não diminuem autonomia ou pertencimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.escamas_e_bico.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.escamas_e_bico",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um grupo formado por presença de bico pode reunir os cartões de:",
+    "opcoes": [
+      "Apenas animais com pelos.",
+      "Somente todos os peixes.",
+      "Galinha e tartaruga, sem afirmar que são a mesma espécie."
+    ],
+    "correta": 2,
+    "explicacao": "Um critério externo pode reunir animais de grupos diferentes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.escamas_e_bico.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.escamas_e_bico",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Encontrar escamas permite concluir sozinho que o animal é peixe?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Sim, se estiver em terra.",
+      "Não; outros animais também apresentam escamas."
+    ],
+    "correta": 2,
+    "explicacao": "Uma característica isolada não define toda a classificação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.garras_e_patas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.garras_e_patas",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Garras e patas são nomes para exatamente a mesma estrutura?",
+    "opcoes": [
+      "Sim, em qualquer animal.",
+      "Sim, e sempre indicam quatro pernas.",
+      "Não; garras podem estar nas extremidades dos dedos das patas."
+    ],
+    "correta": 2,
+    "explicacao": "Nomear e localizar partes evita confundir critérios.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.garras_e_patas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.garras_e_patas",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual agrupamento atende ao critério número de patas dos cartões?",
+    "opcoes": [
+      "Todos juntos porque têm o mesmo tamanho.",
+      "Gato e peixe juntos por terem quatro patas.",
+      "Gato separado da galinha, que tem duas pernas."
+    ],
+    "correta": 2,
+    "explicacao": "O agrupamento precisa seguir a característica escolhida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.antenas_e_invertebrados.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Nos cartões, qual contraste distingue formiga e aranha?",
+    "opcoes": [
+      "Formiga tem seis pernas e antenas; aranha oito e não tem antenas.",
+      "As duas têm sempre quatro pernas.",
+      "Formiga tem oito pernas e aranha seis."
+    ],
+    "correta": 0,
+    "explicacao": "O conjunto de características permite uma comparação mais consistente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.antenas_e_invertebrados.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Todo invertebrado é inseto?",
+    "opcoes": [
+      "Não; aranhas e minhocas mostram diversidade de invertebrados.",
+      "Sim, porque não tem coluna.",
+      "Sim, se viver em terra."
+    ],
+    "correta": 0,
+    "explicacao": "Não ter coluna vertebral não implica ser inseto.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.classificando_animais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.classificando_animais",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Dois agrupamentos diferentes podem ser válidos quando:",
+    "opcoes": [
+      "Ignoram características observadas.",
+      "Usam critérios explícitos e consistentes.",
+      "Mudam a regra para cada animal sem informar."
+    ],
+    "correta": 1,
+    "explicacao": "A regra e o objetivo tornam o agrupamento avaliável.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.classificando_animais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.classificando_animais",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um cartão não mostra as patas. Para classificar pela quantidade, é adequado:",
+    "opcoes": [
+      "Inventar o número pelo tamanho.",
+      "Buscar descrição confiável ou registrar informação insuficiente.",
+      "Contar apenas duas porque são visíveis."
+    ],
+    "correta": 1,
+    "explicacao": "O limite da representação precisa ser tratado explicitamente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.chaves_de_identificacao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.chaves_de_identificacao",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "A chave de quatro cartões deve ser usada como:",
+    "opcoes": [
+      "Identificador universal de qualquer animal.",
+      "Prova de que todo animal tem penas ou pelos.",
+      "Ferramenta limitada ao conjunto e às características descritas."
+    ],
+    "correta": 2,
+    "explicacao": "Chaves têm escopo e dependem da qualidade das informações.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.grupos_de_animais.chaves_de_identificacao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "aulaId": "cna.ef03.grupos_de_animais.chaves_de_identificacao",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um novo cartão não atende a nenhum caminho. Deve-se:",
+    "opcoes": [
+      "Forçar o nome do último animal.",
+      "Ignorar a diferença.",
+      "Registrar fora do conjunto ou dados insuficientes e revisar o escopo."
+    ],
+    "correta": 2,
+    "explicacao": "Um resultado inconclusivo pode ser a resposta correta ao limite do modelo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.globo_e_mapas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um mapa plano da Terra:",
+    "opcoes": [
+      "Representa superfície curva com distorções.",
+      "Mostra sempre detalhes de todo solo.",
+      "Prova que o planeta é plano."
+    ],
+    "correta": 0,
+    "explicacao": "A forma do suporte não é a forma do planeta.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.globo_e_mapas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "No mapa desta aula, a área verde representa:",
+    "opcoes": [
+      "Terras emergidas, conforme a legenda.",
+      "Qualquer floresta sem exceção.",
+      "Somente países escolhidos."
+    ],
+    "correta": 0,
+    "explicacao": "A cor precisa ser interpretada pela legenda, não por associação automática.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma imagem da Terra vista de um lado mostra:",
+    "opcoes": [
+      "A composição de todo solo pela cor.",
+      "Uma face visível, com limites de ponto de vista e processamento.",
+      "Todos os lados e épocas ao mesmo tempo."
+    ],
+    "correta": 1,
+    "explicacao": "A representação precisa ser lida com sua fonte e alcance.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Como nomear um desenho autoral semelhante à Terra?",
+    "opcoes": [
+      "Fotografia real de satélite.",
+      "Esquema ou ilustração, indicando sua natureza.",
+      "Resultado de observação espacial da turma."
+    ],
+    "correta": 1,
+    "explicacao": "Imagem real, esquema e pesquisa realizada são categorias distintas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.agua_no_planeta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um rio pequeno não aparece no mapa global. Isso significa:",
+    "opcoes": [
+      "Que não existe água no local.",
+      "Que toda água só está no oceano.",
+      "Que a escala e a seleção de detalhes podem omiti-lo."
+    ],
+    "correta": 2,
+    "explicacao": "Representações selecionam informações conforme escala e objetivo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.agua_no_planeta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma região azul na representação permite dizer que sua água é potável?",
+    "opcoes": [
+      "Sim, todo azul é água de beber.",
+      "Sim, se estiver perto de terra.",
+      "Não; potabilidade exige controle apropriado, não apenas cor ou mapa."
+    ],
+    "correta": 2,
+    "explicacao": "A representação geográfica não é uma análise de qualidade da água.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.comparando_representacoes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.comparando_representacoes",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Dois mapas com cores diferentes podem:",
+    "opcoes": [
+      "Representar temas distintos com legendas próprias.",
+      "Dispensar qualquer legenda.",
+      "Estar ambos errados por não serem fotografias."
+    ],
+    "correta": 0,
+    "explicacao": "O tema e a legenda orientam a interpretação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.comparando_representacoes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.comparando_representacoes",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para saber se uma representação responde a uma pergunta, é preciso:",
+    "opcoes": [
+      "Conferir origem, tema, escala e informações disponíveis.",
+      "Comparar apenas qual é mais bonita.",
+      "Escolher sempre a maior."
+    ],
+    "correta": 0,
+    "explicacao": "Adequação depende da finalidade e dos limites do recurso.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.lua_e_estrelas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.lua_e_estrelas",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual afirmação é adequada?",
+    "opcoes": [
+      "Todas as estrelas desaparecem do espaço ao amanhecer.",
+      "A Lua pode aparecer de dia e de noite, conforme as condições e o período.",
+      "A Lua só existe à noite."
+    ],
+    "correta": 1,
+    "explicacao": "Visibilidade e existência não são a mesma coisa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.lua_e_estrelas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.lua_e_estrelas",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não vimos a Lua em uma observação com nuvens. O relato deve:",
+    "opcoes": [
+      "Concluir que a Lua só aparece em noites sem nuvens.",
+      "Registrar condições e não observação, sem afirmar ausência definitiva.",
+      "Preencher como vista porque costuma aparecer."
+    ],
+    "correta": 1,
+    "explicacao": "Condições de observação integram a evidência.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.planetas_visiveis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.planetas_visiveis",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um ponto brilhante é prova suficiente de que vimos Vênus?",
+    "opcoes": [
+      "Sim, brilho identifica qualquer planeta.",
+      "Não; é preciso conferir posição e referências para local/data/hora.",
+      "Sim, se não aparecer em uma foto do livro."
+    ],
+    "correta": 1,
+    "explicacao": "A identificação exige contexto além do aspecto luminoso.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.planetas_visiveis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.planetas_visiveis",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual anotação é honesta quando não foi possível conferir a identidade?",
+    "opcoes": [
+      "Todos os planetas observados sem registro.",
+      "Ponto luminoso não identificado; conferência pendente.",
+      "Júpiter confirmado só porque brilhou."
+    ],
+    "correta": 1,
+    "explicacao": "Incerteza explícita é melhor que identificação inventada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.registro_do_ceu.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.registro_do_ceu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual campo ajuda a interpretar não observação de estrelas?",
+    "opcoes": [
+      "Somente o tamanho do desenho, sem data e condições.",
+      "Condições de nuvens e iluminação do local.",
+      "Somente quantas estrelas o observador esperava ver."
+    ],
+    "correta": 1,
+    "explicacao": "Visibilidade depende de condições além de o astro estar no céu.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.registro_do_ceu.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.registro_do_ceu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas fichas de Lua têm horários e datas diferentes. A conclusão deve:",
+    "opcoes": [
+      "Tratar como se fossem observações simultâneas.",
+      "Preservar essas referências ao comparar visibilidade.",
+      "Apagar horários para simplificar."
+    ],
+    "correta": 1,
+    "explicacao": "Referências de tempo dão sentido à comparação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.dia_e_noite.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.dia_e_noite",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No modelo de dia e noite, devemos:",
+    "opcoes": [
+      "Concluir que a Lua só existe no escuro.",
+      "Girar a esfera diante da luz para mudar a iluminação da marca.",
+      "Apagar o Sol a cada noite real."
+    ],
+    "correta": 1,
+    "explicacao": "Rotação muda a parte da Terra voltada para o Sol.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.dia_e_noite.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.dia_e_noite",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "O modelo dia/noite permite afirmar quais planetas serão vistos hoje em sua cidade?",
+    "opcoes": [
+      "Sim, sem carta ou registro.",
+      "Não; essa identificação depende de local, data, hora e condições.",
+      "Sim, pois todos aparecem em toda noite."
+    ],
+    "correta": 1,
+    "explicacao": "O alcance do modelo é limitado e não substitui previsão local.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Solo e Seus Usos",
+    "aulaId": "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+    "bncc": [
+      "EF03CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para comparar cor, ajuda manter:",
+    "opcoes": [
+      "Amostras sob luz muito diferente.",
+      "Iluminação e condições de umidade comparáveis, registradas.",
+      "Somente o nome da rua."
+    ],
+    "correta": 1,
+    "explicacao": "Condições de observação podem mudar a aparência.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Embrapa Solos — Propriedades do Solo",
+        "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+        "consulta": "2026-10-30",
+        "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Solo e Seus Usos",
+    "aulaId": "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+    "bncc": [
+      "EF03CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma amostra tem origem suspeita. O procedimento adequado é:",
+    "opcoes": [
+      "Provar pequena quantidade.",
+      "Não manipular e pedir avaliação ao adulto, registrando limite.",
+      "Cheirar de perto para saber se é segura."
+    ],
+    "correta": 1,
+    "explicacao": "Sentidos não certificam segurança de amostra desconhecida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Embrapa Solos — Propriedades do Solo",
+        "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+        "consulta": "2026-10-30",
+        "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.solo_e_seus_usos.permeabilidade.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Solo e Seus Usos",
+    "aulaId": "cna.ef03.solo_e_seus_usos.permeabilidade",
+    "bncc": [
+      "EF03CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No exemplo, passaram 35 mL em A e 15 mL em B. A diferença foi:",
+    "opcoes": [
+      "50 mL.",
+      "2 mL.",
+      "20 mL."
+    ],
+    "correta": 2,
+    "explicacao": "A diferença compara volumes medidos no mesmo intervalo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Embrapa Solos — Propriedades do Solo",
+        "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+        "consulta": "2026-10-30",
+        "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.solo_e_seus_usos.permeabilidade.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Solo e Seus Usos",
+    "aulaId": "cna.ef03.solo_e_seus_usos.permeabilidade",
+    "bncc": [
+      "EF03CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma montagem usou solo apertado e a outra muito solto. Pode-se atribuir diferença somente à cor?",
+    "opcoes": [
+      "Sim, sem registrar água ou tempo.",
+      "Sim, cor determina tudo.",
+      "Não; a compactação e outras condições também influenciam."
+    ],
+    "correta": 2,
+    "explicacao": "Várias condições mudando impedem isolar uma explicação simples.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Embrapa Solos — Propriedades do Solo",
+        "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+        "consulta": "2026-10-30",
+        "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Solo e Seus Usos",
+    "aulaId": "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo",
+    "bncc": [
+      "EF03CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual afirmação considera diferentes usos do solo?",
+    "opcoes": [
+      "Plantação, construções e obtenção de materiais exigem avaliar funções e consequências.",
+      "Solo só serve para plantar, sem outra função.",
+      "Toda extração é isenta de impactos."
+    ],
+    "correta": 0,
+    "explicacao": "O solo tem usos múltiplos e importância ambiental, não apenas utilidade imediata.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Embrapa Solos — Propriedades do Solo",
+        "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+        "consulta": "2026-10-30",
+        "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Solo e Seus Usos",
+    "aulaId": "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo",
+    "bncc": [
+      "EF03CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um plano de plantar cobertura num solo exposto prova que a erosão diminuiu?",
+    "opcoes": [
+      "Não; é preciso implementação e acompanhamento com evidências.",
+      "Sim, porque foi escrito.",
+      "Sim, sem comparar condições."
+    ],
+    "correta": 0,
+    "explicacao": "Proposta de conservação e efeito observado devem ser separados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Embrapa Solos — Propriedades do Solo",
+        "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+        "consulta": "2026-10-30",
+        "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
   }
 ]);
 registrarProvas({
@@ -27290,6 +30266,887 @@ registrarProvas({
         "atividadesPraticas": [
           "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
           "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.saude_auditiva_e_visual.prova": {
+    "id": "cna.ef03.saude_auditiva_e_visual.prova",
+    "titulo": "Avaliação: Saúde Auditiva e Visual",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Saúde Auditiva e Visual",
+    "bncc": [
+      "EF03CI03"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.prova.1",
+      "cna.ef03.saude_auditiva_e_visual.luz_e_visao.prova.1",
+      "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.prova.1",
+      "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.saude_auditiva_e_visual.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Saúde Auditiva e Visual",
+      "enunciado": "Numa sala fictícia, uma caixa de som fica alta durante toda a leitura e a tela reflete uma janela. Um aluno relata desconforto. Faça plano com duas mudanças do ambiente e uma forma acessível de receber a informação; explique o que depende de adulto/profissional e como acompanhar a melhoria sem testes corporais ou dados inventados.",
+      "gabarito": "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+      "rubrica": [
+        "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF03CI03"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef03.saude_auditiva_e_visual.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Saúde Auditiva e Visual",
+          "enunciado": "Numa sala fictícia, uma caixa de som fica alta durante toda a leitura e a tela reflete uma janela. Um aluno relata desconforto. Faça plano com duas mudanças do ambiente e uma forma acessível de receber a informação; explique o que depende de adulto/profissional e como acompanhar a melhoria sem testes corporais ou dados inventados.",
+          "gabarito": "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+          "rubrica": [
+            "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF03CI03"
+          ],
+          "aulasReferencia": [
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao1",
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao2",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao1",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao2",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao1",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao2",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao1",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+      },
+      {
+        "documento": "Ministério da Saúde — Doenças Oculares",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+        "consulta": "2026-10-30",
+        "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI03",
+        "questoes": [
+          "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.prova.1",
+          "cna.ef03.saude_auditiva_e_visual.luz_e_visao.prova.1",
+          "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.prova.1",
+          "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.saude_auditiva_e_visual.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.saude_auditiva_e_visual.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao1",
+          "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao2",
+          "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao1",
+          "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao2",
+          "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao1",
+          "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao2",
+          "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao1",
+          "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.vida_dos_animais.prova": {
+    "id": "cna.ef03.vida_dos_animais.prova",
+    "titulo": "Avaliação: Vida dos Animais",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Vida dos Animais",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef03.vida_dos_animais.como_se_reproduzem.prova.1",
+      "cna.ef03.vida_dos_animais.como_se_deslocam.prova.1",
+      "cna.ef03.vida_dos_animais.animais_do_entorno.prova.1",
+      "cna.ef03.vida_dos_animais.habitats.prova.1",
+      "cna.ef03.vida_dos_animais.observar_animais.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.vida_dos_animais.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Vida dos Animais",
+      "enunciado": "Prepare comparação de dois animais próximos quanto a alimentação, reprodução, deslocamento e abrigo/ambiente. Use registros autorizados e fontes identificadas; quando faltarem, deixe a lacuna e apresente separadamente exemplos gerais. Explique por que três avistamentos não provam três indivíduos e proponha observação adicional segura.",
+      "gabarito": "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+      "rubrica": [
+        "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF03CI04"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef03.vida_dos_animais.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Vida dos Animais",
+          "enunciado": "Prepare comparação de dois animais próximos quanto a alimentação, reprodução, deslocamento e abrigo/ambiente. Use registros autorizados e fontes identificadas; quando faltarem, deixe a lacuna e apresente separadamente exemplos gerais. Explique por que três avistamentos não provam três indivíduos e proponha observação adicional segura.",
+          "gabarito": "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+          "rubrica": [
+            "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF03CI04"
+          ],
+          "aulasReferencia": [
+            "cna.ef03.vida_dos_animais.como_se_reproduzem",
+            "cna.ef03.vida_dos_animais.como_se_deslocam",
+            "cna.ef03.vida_dos_animais.animais_do_entorno",
+            "cna.ef03.vida_dos_animais.habitats",
+            "cna.ef03.vida_dos_animais.observar_animais"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao1",
+        "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao2",
+        "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao1",
+        "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao2",
+        "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao2",
+        "cna.ef03.vida_dos_animais.habitats#habitats.producao1",
+        "cna.ef03.vida_dos_animais.habitats#habitats.producao2",
+        "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao1",
+        "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI04",
+        "questoes": [
+          "cna.ef03.vida_dos_animais.como_se_reproduzem.prova.1",
+          "cna.ef03.vida_dos_animais.como_se_deslocam.prova.1",
+          "cna.ef03.vida_dos_animais.animais_do_entorno.prova.1",
+          "cna.ef03.vida_dos_animais.habitats.prova.1",
+          "cna.ef03.vida_dos_animais.observar_animais.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.vida_dos_animais.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.vida_dos_animais.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao1",
+          "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao2",
+          "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao1",
+          "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao2",
+          "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao1",
+          "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao2",
+          "cna.ef03.vida_dos_animais.habitats#habitats.producao1",
+          "cna.ef03.vida_dos_animais.habitats#habitats.producao2",
+          "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao1",
+          "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.crescimento_dos_animais.prova": {
+    "id": "cna.ef03.crescimento_dos_animais.prova",
+    "titulo": "Avaliação: Crescimento dos Animais",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+      "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+      "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+      "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+      "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.crescimento_dos_animais.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Crescimento dos Animais",
+      "enunciado": "Compare três percursos do quadro: galinha, sapo representado e ser humano. Descreva mudanças além do tamanho, identifique meios usados e explique por que um peixe não vira sapo. Acrescente a diferença entre borboleta e gafanhoto e critique a ideia de que precisar de apoio faz uma pessoa voltar à infância.",
+      "gabarito": "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+      "rubrica": [
+        "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF03CI05"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef03.crescimento_dos_animais.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Crescimento dos Animais",
+          "enunciado": "Compare três percursos do quadro: galinha, sapo representado e ser humano. Descreva mudanças além do tamanho, identifique meios usados e explique por que um peixe não vira sapo. Acrescente a diferença entre borboleta e gafanhoto e critique a ideia de que precisar de apoio faz uma pessoa voltar à infância.",
+          "gabarito": "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+          "rubrica": [
+            "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF03CI05"
+          ],
+          "aulasReferencia": [
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+            "cna.ef03.crescimento_dos_animais.metamorfose",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI05",
+        "questoes": [
+          "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+          "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+          "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+          "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+          "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.crescimento_dos_animais.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.crescimento_dos_animais.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+          "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2",
+          "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+          "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2",
+          "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+          "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2",
+          "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+          "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2",
+          "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+          "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.grupos_de_animais.prova": {
+    "id": "cna.ef03.grupos_de_animais.prova",
+    "titulo": "Avaliação: Grupos de Animais",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Grupos de Animais",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef03.grupos_de_animais.escamas_e_bico.prova.1",
+      "cna.ef03.grupos_de_animais.garras_e_patas.prova.1",
+      "cna.ef03.grupos_de_animais.antenas_e_invertebrados.prova.1",
+      "cna.ef03.grupos_de_animais.classificando_animais.prova.1",
+      "cna.ef03.grupos_de_animais.chaves_de_identificacao.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.grupos_de_animais.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Grupos de Animais",
+      "enunciado": "Use os cartões de galinha, gato, formiga e aranha para construir dois agrupamentos por características externas e uma chave que separe os quatro. Teste cada caminho. Depois avalie um cartão novo que informa apenas bico e escamas: explique por que a chave pode ser inconclusiva e por que isso não prova que seja ave ou peixe.",
+      "gabarito": "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+      "rubrica": [
+        "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF03CI06"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef03.grupos_de_animais.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Grupos de Animais",
+          "enunciado": "Use os cartões de galinha, gato, formiga e aranha para construir dois agrupamentos por características externas e uma chave que separe os quatro. Teste cada caminho. Depois avalie um cartão novo que informa apenas bico e escamas: explique por que a chave pode ser inconclusiva e por que isso não prova que seja ave ou peixe.",
+          "gabarito": "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+          "rubrica": [
+            "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF03CI06"
+          ],
+          "aulasReferencia": [
+            "cna.ef03.grupos_de_animais.escamas_e_bico",
+            "cna.ef03.grupos_de_animais.garras_e_patas",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+            "cna.ef03.grupos_de_animais.classificando_animais",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao1",
+        "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao2",
+        "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao1",
+        "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao2",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao1",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao2",
+        "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao1",
+        "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao2",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao1",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI06",
+        "questoes": [
+          "cna.ef03.grupos_de_animais.escamas_e_bico.prova.1",
+          "cna.ef03.grupos_de_animais.garras_e_patas.prova.1",
+          "cna.ef03.grupos_de_animais.antenas_e_invertebrados.prova.1",
+          "cna.ef03.grupos_de_animais.classificando_animais.prova.1",
+          "cna.ef03.grupos_de_animais.chaves_de_identificacao.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.grupos_de_animais.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.grupos_de_animais.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao1",
+          "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao2",
+          "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao1",
+          "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao2",
+          "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao1",
+          "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao2",
+          "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao1",
+          "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao2",
+          "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao1",
+          "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.a_terra_em_representacoes.prova": {
+    "id": "cna.ef03.a_terra_em_representacoes.prova",
+    "titulo": "Avaliação: A Terra em Representações",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef03.a_terra_em_representacoes.globo_e_mapas.prova.1",
+      "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.prova.1",
+      "cna.ef03.a_terra_em_representacoes.agua_no_planeta.prova.1",
+      "cna.ef03.a_terra_em_representacoes.comparando_representacoes.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.a_terra_em_representacoes.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: A Terra em Representações",
+      "enunciado": "Um personagem diz que o planeta é plano porque o mapa é retangular, que todo verde é floresta e que a imagem NASA mostra todo o mundo simultaneamente. Responda usando os recursos incorporados e a legenda. Compare com um globo, se disponível; registre sua manipulação ou pendência. Indique o que é possível afirmar sobre água/terras e o que não se sabe sobre solo e água locais.",
+      "gabarito": "Forma aproximadamente esférica, projeção plana/distorção, verde como terra e azul como oceano no mapa, face visível da imagem e limites de escala/processamento. Não certificar solo/potabilidade por aparência; manipulação não inventada.",
+      "rubrica": [
+        "Forma aproximadamente esférica, projeção plana/distorção, verde como terra e azul como oceano no mapa, face visível da imagem e limites de escala/processamento. Não certificar solo/potabilidade por aparência; manipulação não inventada.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF03CI07"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef03.a_terra_em_representacoes.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: A Terra em Representações",
+          "enunciado": "Um personagem diz que o planeta é plano porque o mapa é retangular, que todo verde é floresta e que a imagem NASA mostra todo o mundo simultaneamente. Responda usando os recursos incorporados e a legenda. Compare com um globo, se disponível; registre sua manipulação ou pendência. Indique o que é possível afirmar sobre água/terras e o que não se sabe sobre solo e água locais.",
+          "gabarito": "Forma aproximadamente esférica, projeção plana/distorção, verde como terra e azul como oceano no mapa, face visível da imagem e limites de escala/processamento. Não certificar solo/potabilidade por aparência; manipulação não inventada.",
+          "rubrica": [
+            "Forma aproximadamente esférica, projeção plana/distorção, verde como terra e azul como oceano no mapa, face visível da imagem e limites de escala/processamento. Não certificar solo/potabilidade por aparência; manipulação não inventada.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF03CI07"
+          ],
+          "aulasReferencia": [
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao1",
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao2",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao1",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao2",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao1",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao2",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao1",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI07",
+        "questoes": [
+          "cna.ef03.a_terra_em_representacoes.globo_e_mapas.prova.1",
+          "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.prova.1",
+          "cna.ef03.a_terra_em_representacoes.agua_no_planeta.prova.1",
+          "cna.ef03.a_terra_em_representacoes.comparando_representacoes.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.a_terra_em_representacoes.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.a_terra_em_representacoes.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao1",
+          "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao2",
+          "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao1",
+          "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao2",
+          "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao1",
+          "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao2",
+          "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao1",
+          "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.observando_o_ceu.prova": {
+    "id": "cna.ef03.observando_o_ceu.prova",
+    "titulo": "Avaliação: Observando o Céu",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef03.observando_o_ceu.lua_e_estrelas.prova.1",
+      "cna.ef03.observando_o_ceu.planetas_visiveis.prova.1",
+      "cna.ef03.observando_o_ceu.registro_do_ceu.prova.1",
+      "cna.ef03.observando_o_ceu.dia_e_noite.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.observando_o_ceu.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Observando o Céu",
+      "enunciado": "Interprete fichas fictícias: A, tarde, Lua com céu aberto; B, noite, estrelas e ponto não identificado; C, dia nublado, nenhum corpo identificado. Diga quais conclusões cabem, por que não se deve nomear Vênus só pelo brilho e como planejar registros locais de dia/noite. Use o modelo de iluminação e explique seu limite.",
+      "gabarito": "Lua possível em ambos os períodos, não observação não prova inexistência, carta local/data/hora para planeta, Sol como estrela e outras mais visíveis à noite; rotação/iluminação no modelo sem previsão de planetas, segurança e evidência de execução pendente quando não realizada.",
+      "rubrica": [
+        "Lua possível em ambos os períodos, não observação não prova inexistência, carta local/data/hora para planeta, Sol como estrela e outras mais visíveis à noite; rotação/iluminação no modelo sem previsão de planetas, segurança e evidência de execução pendente quando não realizada.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef03.observando_o_ceu.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Observando o Céu",
+          "enunciado": "Interprete fichas fictícias: A, tarde, Lua com céu aberto; B, noite, estrelas e ponto não identificado; C, dia nublado, nenhum corpo identificado. Diga quais conclusões cabem, por que não se deve nomear Vênus só pelo brilho e como planejar registros locais de dia/noite. Use o modelo de iluminação e explique seu limite.",
+          "gabarito": "Lua possível em ambos os períodos, não observação não prova inexistência, carta local/data/hora para planeta, Sol como estrela e outras mais visíveis à noite; rotação/iluminação no modelo sem previsão de planetas, segurança e evidência de execução pendente quando não realizada.",
+          "rubrica": [
+            "Lua possível em ambos os períodos, não observação não prova inexistência, carta local/data/hora para planeta, Sol como estrela e outras mais visíveis à noite; rotação/iluminação no modelo sem previsão de planetas, segurança e evidência de execução pendente quando não realizada.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF03CI08"
+          ],
+          "aulasReferencia": [
+            "cna.ef03.observando_o_ceu.lua_e_estrelas",
+            "cna.ef03.observando_o_ceu.planetas_visiveis",
+            "cna.ef03.observando_o_ceu.registro_do_ceu",
+            "cna.ef03.observando_o_ceu.dia_e_noite"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao1",
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao2",
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao1",
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao2",
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao1",
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao2",
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao1",
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI08",
+        "questoes": [
+          "cna.ef03.observando_o_ceu.lua_e_estrelas.prova.1",
+          "cna.ef03.observando_o_ceu.planetas_visiveis.prova.1",
+          "cna.ef03.observando_o_ceu.registro_do_ceu.prova.1",
+          "cna.ef03.observando_o_ceu.dia_e_noite.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.observando_o_ceu.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.observando_o_ceu.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao1",
+          "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao2",
+          "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao1",
+          "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao2",
+          "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao1",
+          "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao2",
+          "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao1",
+          "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef03.solo_e_seus_usos.prova": {
+    "id": "cna.ef03.solo_e_seus_usos.prova",
+    "titulo": "Avaliação: Solo e Seus Usos",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Solo e Seus Usos",
+    "bncc": [
+      "EF03CI09",
+      "EF03CI10"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "3 itens próprios de prova, com leitura mediada. Objetiva: acertos/3 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.prova.1",
+      "cna.ef03.solo_e_seus_usos.permeabilidade.prova.1",
+      "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef03.solo_e_seus_usos.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Solo e Seus Usos",
+      "enunciado": "Duas amostras fictícias diferem na cor e, com 60 mL de água aplicados, deixam passar 40 mL e 25 mL no mesmo tempo; uma estava mais compactada. Compare os valores, critique a conclusão de que cor prova fertilidade e planeje comparação de amostras autorizadas do entorno. Relacione plantação, construção e extração de argila às funções do solo e proponha conservação com acompanhamento.",
+      "gabarito": "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+      "rubrica": [
+        "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF03CI09",
+        "EF03CI10"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef03.solo_e_seus_usos.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Solo e Seus Usos",
+          "enunciado": "Duas amostras fictícias diferem na cor e, com 60 mL de água aplicados, deixam passar 40 mL e 25 mL no mesmo tempo; uma estava mais compactada. Compare os valores, critique a conclusão de que cor prova fertilidade e planeje comparação de amostras autorizadas do entorno. Relacione plantação, construção e extração de argila às funções do solo e proponha conservação com acompanhamento.",
+          "gabarito": "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+          "rubrica": [
+            "Diferença 15 mL; compactação/umidade/estrutura limitam causalidade, cor/cheiro não certificam segurança/fertilidade. Método comparável e seleção adulta sem inalar/provar; usos e importância à vida, impactos, plano e resultados distintos.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF03CI09",
+            "EF03CI10"
+          ],
+          "aulasReferencia": [
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+            "cna.ef03.solo_e_seus_usos.permeabilidade",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Embrapa Solos — Propriedades do Solo",
+        "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+        "consulta": "2026-10-30",
+        "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF03CI09",
+        "questoes": [
+          "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.prova.1",
+          "cna.ef03.solo_e_seus_usos.permeabilidade.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.solo_e_seus_usos.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.solo_e_seus_usos.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+          "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2",
+          "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+          "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2"
+        ]
+      },
+      {
+        "bncc": "EF03CI10",
+        "questoes": [
+          "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef03.solo_e_seus_usos.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef03.solo_e_seus_usos.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+          "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
         ]
       }
     ]

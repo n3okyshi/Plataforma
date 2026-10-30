@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef03.crescimento_dos_animais.prova",
+  "titulo": "Avaliação: Crescimento dos Animais",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Crescimento dos Animais",
+  "bncc": [
+    "EF03CI05"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+    "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+    "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+    "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+    "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.crescimento_dos_animais.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Crescimento dos Animais",
+    "enunciado": "Compare três percursos do quadro: galinha, sapo representado e ser humano. Descreva mudanças além do tamanho, identifique meios usados e explique por que um peixe não vira sapo. Acrescente a diferença entre borboleta e gafanhoto e critique a ideia de que precisar de apoio faz uma pessoa voltar à infância.",
+    "gabarito": "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+    "rubrica": [
+      "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef03.crescimento_dos_animais.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Crescimento dos Animais",
+        "enunciado": "Compare três percursos do quadro: galinha, sapo representado e ser humano. Descreva mudanças além do tamanho, identifique meios usados e explique por que um peixe não vira sapo. Acrescente a diferença entre borboleta e gafanhoto e critique a ideia de que precisar de apoio faz uma pessoa voltar à infância.",
+        "gabarito": "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+        "rubrica": [
+          "Sequências mantêm espécie, desenvolvimento terrestre/aquático e humano considerado; comparar alterações corporais/ações, pupa na borboleta e não no gafanhoto, dignidade e diversidade humanas sem idade inferida pelo tamanho.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF03CI05"
+        ],
+        "aulasReferencia": [
+          "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+          "cna.ef03.crescimento_dos_animais.metamorfose",
+          "cna.ef03.crescimento_dos_animais.animais_terrestres",
+          "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+          "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+      "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2",
+      "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+      "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2",
+      "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+      "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2",
+      "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+      "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2",
+      "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+      "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI05",
+      "questoes": [
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+        "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.crescimento_dos_animais.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef03.crescimento_dos_animais.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1370 @@
+{
+  "data": "2026-10-30",
+  "estado": "pronto_para_testes",
+  "escopo": "30 tópicos restantes EF03 em sete unidades; 50 tópicos do ano com autoria, incluindo um complementar anterior.",
+  "limites": "Estado da implementação. Não certifica produção/observação, manipulação de globo, comparação real de amostras ou homologação independente.",
+  "unidades": [
+    {
+      "nivel": "EF03",
+      "unidade": "Saúde Auditiva e Visual",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
+      ],
+      "prova": "cna.ef03.saude_auditiva_e_visual.prova"
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Vida dos Animais",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.vida_dos_animais.como_se_reproduzem",
+        "cna.ef03.vida_dos_animais.como_se_deslocam",
+        "cna.ef03.vida_dos_animais.animais_do_entorno",
+        "cna.ef03.vida_dos_animais.habitats",
+        "cna.ef03.vida_dos_animais.observar_animais"
+      ],
+      "prova": "cna.ef03.vida_dos_animais.prova"
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Crescimento dos Animais",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+        "cna.ef03.crescimento_dos_animais.metamorfose",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
+      ],
+      "prova": "cna.ef03.crescimento_dos_animais.prova"
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Grupos de Animais",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.grupos_de_animais.escamas_e_bico",
+        "cna.ef03.grupos_de_animais.garras_e_patas",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+        "cna.ef03.grupos_de_animais.classificando_animais",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao"
+      ],
+      "prova": "cna.ef03.grupos_de_animais.prova"
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "A Terra em Representações",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
+      ],
+      "prova": "cna.ef03.a_terra_em_representacoes.prova"
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Observando o Céu",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.observando_o_ceu.lua_e_estrelas",
+        "cna.ef03.observando_o_ceu.planetas_visiveis",
+        "cna.ef03.observando_o_ceu.registro_do_ceu",
+        "cna.ef03.observando_o_ceu.dia_e_noite"
+      ],
+      "prova": "cna.ef03.observando_o_ceu.prova"
+    },
+    {
+      "nivel": "EF03",
+      "unidade": "Solo e Seus Usos",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+        "cna.ef03.solo_e_seus_usos.permeabilidade",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
+      ],
+      "prova": "cna.ef03.solo_e_seus_usos.prova"
+    }
+  ],
+  "aulas": [
+    {
+      "aulaId": "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+      "nivel": "EF03",
+      "unidade": "Saúde Auditiva e Visual",
+      "bncc": [
+        "EF03CI03"
+      ],
+      "bnccPlanejada": [
+        "EF03CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Crie um diálogo para propor duas mudanças num ambiente fictício muito ruidoso, relacionando intensidade, duração e cuidado.",
+        "Explique por que um personagem não deve usar palito ou óleo no ouvido e indique a quem comunicar dor."
+      ],
+      "atividades": [
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.aplicacao",
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao1",
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI03_cuidar_dos_ouvidos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+      "nivel": "EF03",
+      "unidade": "Saúde Auditiva e Visual",
+      "bncc": [
+        "EF03CI03"
+      ],
+      "bnccPlanejada": [
+        "EF03CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Compare dois arranjos de leitura seguros com adulto, sem reduzir a luz ao extremo: um com reflexo e outro ajustado. Registre o que mudou e como facilitou a tarefa.",
+        "Proponha duas formas acessíveis de receber a mesma informação quando a impressão está pequena ou pouco contrastante."
+      ],
+      "atividades": [
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.aplicacao",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao1",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI03_luz_e_visao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+      "nivel": "EF03",
+      "unidade": "Saúde Auditiva e Visual",
+      "bncc": [
+        "EF03CI03"
+      ],
+      "bnccPlanejada": [
+        "EF03CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Faça levantamento autorizado de um local, registrando uma condição de som e uma de luz, em desenho ou texto, sem fotos de pessoas.",
+        "Proponha uma melhoria para cada condição, indique o responsável e como verificar o efeito depois."
+      ],
+      "atividades": [
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.aplicacao",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao1",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI03_ambiente_escolar_saudavel.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao",
+      "nivel": "EF03",
+      "unidade": "Saúde Auditiva e Visual",
+      "bncc": [
+        "EF03CI03"
+      ],
+      "bnccPlanejada": [
+        "EF03CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Produza um roteiro de cuidado para duas situações fictícias, uma de ruído e outra de iluminação, justificando cada ação.",
+        "Revise um cartaz que diz: basta usar fone para bloquear qualquer barulho e manter brilho máximo. Explique os problemas e proponha nova mensagem."
+      ],
+      "atividades": [
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.aplicacao",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao1",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI03_habitos_de_protecao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.vida_dos_animais.como_se_reproduzem",
+      "nivel": "EF03",
+      "unidade": "Vida dos Animais",
+      "bncc": [
+        "EF03CI04"
+      ],
+      "bnccPlanejada": [
+        "EF03CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Compare os três cartões quanto ao início do desenvolvimento e à forma do jovem. Escolha um animal do entorno e registre o que precisaria consultar para descrevê-lo.",
+        "Planeje perguntar a um adulto ou consultar fonte institucional sobre reprodução de um animal próximo. Registre resposta, origem e dúvida; se não houve consulta, marque pendente."
+      ],
+      "atividades": [
+        "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.aplicacao",
+        "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao1",
+        "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI04_como_se_reproduzem.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.vida_dos_animais.como_se_deslocam",
+      "nivel": "EF03",
+      "unidade": "Vida dos Animais",
+      "bncc": [
+        "EF03CI04"
+      ],
+      "bnccPlanejada": [
+        "EF03CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Compare dois animais próximos observados com adulto, ou os exemplos pato e gato claramente indicados como estudo de exemplos. Relacione movimento, partes e lugar.",
+        "Explique por que não ver uma ave voando em uma visita não prova que ela é incapaz de voar."
+      ],
+      "atividades": [
+        "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.aplicacao",
+        "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao1",
+        "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI04_como_se_deslocam.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.vida_dos_animais.animais_do_entorno",
+      "nivel": "EF03",
+      "unidade": "Vida dos Animais",
+      "bncc": [
+        "EF03CI04"
+      ],
+      "bnccPlanejada": [
+        "EF03CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Prepare ficha de um animal do entorno com local/data, movimento, possível alimento e informação sobre reprodução. Marque cada campo como observado, fonte consultada ou desconhecido.",
+        "Compare duas fichas ou dois exemplos fornecidos pelo adulto e formule pergunta sobre diferença no modo de vida."
+      ],
+      "atividades": [
+        "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.aplicacao",
+        "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI04_animais_do_entorno.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.vida_dos_animais.habitats",
+      "nivel": "EF03",
+      "unidade": "Vida dos Animais",
+      "bncc": [
+        "EF03CI04"
+      ],
+      "bnccPlanejada": [
+        "EF03CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Represente um ambiente autorizado ou fictício e dois animais. Mostre relações com abrigo e alimento, separando fatos observados de hipóteses.",
+        "Explique uma possível consequência de retirar vegetação desse lugar e como acompanhar sem alterar o ambiente para testar."
+      ],
+      "atividades": [
+        "cna.ef03.vida_dos_animais.habitats#habitats.aplicacao",
+        "cna.ef03.vida_dos_animais.habitats#habitats.producao1",
+        "cna.ef03.vida_dos_animais.habitats#habitats.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI04_habitats.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.vida_dos_animais.observar_animais",
+      "nivel": "EF03",
+      "unidade": "Vida dos Animais",
+      "bncc": [
+        "EF03CI04"
+      ],
+      "bnccPlanejada": [
+        "EF03CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje uma observação autorizada com pergunta, duração, registro de alimentação/deslocamento quando visíveis e regras de cuidado. Execute somente com adulto e condições seguras.",
+        "Revise o caso dos três avistamentos e escreva conclusão e próxima pergunta."
+      ],
+      "atividades": [
+        "cna.ef03.vida_dos_animais.observar_animais#observar_animais.aplicacao",
+        "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao1",
+        "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI04_observar_animais.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+      "nivel": "EF03",
+      "unidade": "Crescimento dos Animais",
+      "bncc": [
+        "EF03CI05"
+      ],
+      "bnccPlanejada": [
+        "EF03CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Faça duas linhas de desenvolvimento com os cartões descritos, anotando duas alterações além do tamanho em pelo menos uma espécie.",
+        "Compare as duas sequências e explique uma semelhança e uma diferença, citando a origem dos exemplos."
+      ],
+      "atividades": [
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.aplicacao",
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI05_filhotes_e_adultos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.crescimento_dos_animais.metamorfose",
+      "nivel": "EF03",
+      "unidade": "Crescimento dos Animais",
+      "bncc": [
+        "EF03CI05"
+      ],
+      "bnccPlanejada": [
+        "EF03CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Organize duas sequências, borboleta e gafanhoto, usando o quadro. Identifique duas mudanças e uma diferença entre os percursos.",
+        "Corrija a frase: a pupa é uma lagarta dormindo e todo animal vira borboleta."
+      ],
+      "atividades": [
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.aplicacao",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI05_metamorfose.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.crescimento_dos_animais.animais_terrestres",
+      "nivel": "EF03",
+      "unidade": "Crescimento dos Animais",
+      "bncc": [
+        "EF03CI05"
+      ],
+      "bnccPlanejada": [
+        "EF03CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Compare o percurso da galinha e da borboleta. Descreva duas mudanças de cada e indique uma diferença no modo de desenvolvimento.",
+        "Explique por que viver em terra não significa nascer ou crescer da mesma maneira."
+      ],
+      "atividades": [
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.aplicacao",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI05_animais_terrestres.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+      "nivel": "EF03",
+      "unidade": "Crescimento dos Animais",
+      "bncc": [
+        "EF03CI05"
+      ],
+      "bnccPlanejada": [
+        "EF03CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Com o quadro incorporado, compare peixe, golfinho e um sapo de ciclo representado. Indique uma mudança e o meio usado em cada exemplo.",
+        "Explique por que animal aquático não é sinônimo de peixe e por que o estudo não requer captura."
+      ],
+      "atividades": [
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.aplicacao",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI05_animais_aquaticos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano",
+      "nivel": "EF03",
+      "unidade": "Crescimento dos Animais",
+      "bncc": [
+        "EF03CI05"
+      ],
+      "bnccPlanejada": [
+        "EF03CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Organize cartões de etapas humanas e descreva mudanças ao longo do desenvolvimento sem listar obrigação para cada idade exata.",
+        "Compare esse percurso com o da borboleta quanto à forma e às fases. Explique por que uma pessoa que usa apoio não está voltando a ser bebê."
+      ],
+      "atividades": [
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.aplicacao",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI05_ciclo_de_vida_humano.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.grupos_de_animais.escamas_e_bico",
+      "nivel": "EF03",
+      "unidade": "Grupos de Animais",
+      "bncc": [
+        "EF03CI06"
+      ],
+      "bnccPlanejada": [
+        "EF03CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Organize os cartões por presença de bico e depois por escamas; explique os resultados e uma sobreposição.",
+        "Explique por que não observar escama numa imagem distante não prova ausência."
+      ],
+      "atividades": [
+        "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.aplicacao",
+        "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao1",
+        "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI06_escamas_e_bico.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.grupos_de_animais.garras_e_patas",
+      "nivel": "EF03",
+      "unidade": "Grupos de Animais",
+      "bncc": [
+        "EF03CI06"
+      ],
+      "bnccPlanejada": [
+        "EF03CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Monte dois agrupamentos com os cartões: presença de garras e número de patas. Explique uma diferença entre os resultados.",
+        "Analise a frase: tem garras, então só come carne. Explique por que o critério externo é insuficiente."
+      ],
+      "atividades": [
+        "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.aplicacao",
+        "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao1",
+        "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI06_garras_e_patas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+      "nivel": "EF03",
+      "unidade": "Grupos de Animais",
+      "bncc": [
+        "EF03CI06"
+      ],
+      "bnccPlanejada": [
+        "EF03CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Faça uma tabela dos cartões com pernas, antenas e cobertura/forma descrita. Organize primeiro por antenas e depois por pernas.",
+        "Explique por que aranha não entra no grupo de insetos dos cartões e por que só antenas não bastam para identificar qualquer animal."
+      ],
+      "atividades": [
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.aplicacao",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao1",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI06_antenas_e_invertebrados.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.grupos_de_animais.classificando_animais",
+      "nivel": "EF03",
+      "unidade": "Grupos de Animais",
+      "bncc": [
+        "EF03CI06"
+      ],
+      "bnccPlanejada": [
+        "EF03CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Escolha dois critérios externos e organize os cartões em dois quadros. Justifique a entrada de cada animal e revise casos de sobreposição.",
+        "Compare seu agrupamento com o de outra pessoa ou com uma segunda regra que você proponha. Explique por que resultados diferentes podem ser coerentes."
+      ],
+      "atividades": [
+        "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.aplicacao",
+        "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao1",
+        "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI06_classificando_animais.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.grupos_de_animais.chaves_de_identificacao",
+      "nivel": "EF03",
+      "unidade": "Grupos de Animais",
+      "bncc": [
+        "EF03CI06"
+      ],
+      "bnccPlanejada": [
+        "EF03CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Percorra a chave com cada cartão e registre as respostas até o resultado. Confira se todos os quatro têm caminho coerente.",
+        "Crie outra chave para os mesmos cartões, começando pelo número de pernas. Teste e corrija um passo ambíguo."
+      ],
+      "atividades": [
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.aplicacao",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao1",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI06_chaves_de_identificacao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+      "nivel": "EF03",
+      "unidade": "A Terra em Representações",
+      "bncc": [
+        "EF03CI07"
+      ],
+      "bnccPlanejada": [
+        "EF03CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Compare o mapa e a imagem incorporados. Se houver globo disponível com adulto, manipule-o e registre duas semelhanças e duas diferenças. Se não houver, marque a manipulação do globo pendente.",
+        "Explique para que usaria um globo e para que usaria um mapa e cite um limite de cada."
+      ],
+      "atividades": [
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao1",
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI07_globo_e_mapas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+      "nivel": "EF03",
+      "unidade": "A Terra em Representações",
+      "bncc": [
+        "EF03CI07"
+      ],
+      "bnccPlanejada": [
+        "EF03CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Observe a imagem NASA incorporada e descreva três elementos visíveis, separando observação de interpretação baseada na fonte.",
+        "Compare-a ao mapa incorporado e indique uma informação mais clara em cada suporte e uma que nenhum dos dois fornece."
+      ],
+      "atividades": [
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao1",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI07_fotografias_da_terra.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+      "nivel": "EF03",
+      "unidade": "A Terra em Representações",
+      "bncc": [
+        "EF03CI07"
+      ],
+      "bnccPlanejada": [
+        "EF03CI07"
+      ],
+      "dimensoesImplementadas": [
+        "No mapa incorporado, identifique regiões amplas de terra e oceano e explique o significado das cores pela legenda. Compare com a imagem.",
+        "Liste três formas de presença da água que o mapa global não mostra bem e explique um limite de escala."
+      ],
+      "atividades": [
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao1",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI07_agua_no_planeta.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.a_terra_em_representacoes.comparando_representacoes",
+      "nivel": "EF03",
+      "unidade": "A Terra em Representações",
+      "bncc": [
+        "EF03CI07"
+      ],
+      "bnccPlanejada": [
+        "EF03CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Faça quadro comparativo do mapa e da imagem incorporados e de um globo, se disponível: origem, forma do suporte, informações e limites.",
+        "Escolha o recurso mais adequado para explicar forma da Terra e outro para ver terras/oceano num plano. Justifique sem desqualificar os demais."
+      ],
+      "atividades": [
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao1",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI07_comparando_representacoes.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.observando_o_ceu.lua_e_estrelas",
+      "nivel": "EF03",
+      "unidade": "Observando o Céu",
+      "bncc": [
+        "EF03CI08"
+      ],
+      "bnccPlanejada": [
+        "EF03CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Prepare diário com data, horário, período, condições do céu e corpos identificados. Faça observação autorizada ou registre execução pendente, sem olhar o Sol.",
+        "Explique por que a Lua não pertence somente à noite e por que muitas estrelas são difíceis de ver de dia."
+      ],
+      "atividades": [
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.aplicacao",
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao1",
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI08_lua_e_estrelas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.observando_o_ceu.planetas_visiveis",
+      "nivel": "EF03",
+      "unidade": "Observando o Céu",
+      "bncc": [
+        "EF03CI08"
+      ],
+      "bnccPlanejada": [
+        "EF03CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje ficha para identificar um planeta à noite com adulto e carta adequada: data, local geral, horário, referência do horizonte e condições.",
+        "Compare ponto a olho nu e imagem detalhada de sonda apenas pela descrição: explique por que não têm o mesmo detalhe e o que uma carta acrescenta."
+      ],
+      "atividades": [
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.aplicacao",
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao1",
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI08_planetas_visiveis.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.observando_o_ceu.registro_do_ceu",
+      "nivel": "EF03",
+      "unidade": "Observando o Céu",
+      "bncc": [
+        "EF03CI08"
+      ],
+      "bnccPlanejada": [
+        "EF03CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Interprete a tabela fictícia: identifique dois períodos possíveis de visibilidade lunar e uma limitação. Prepare depois ficha em branco para observações reais.",
+        "Compare dois registros reais se disponíveis e escreva conclusão limitada; se não houver, formule pergunta a investigar sem preencher resultados."
+      ],
+      "atividades": [
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.aplicacao",
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao1",
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI08_registro_do_ceu.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.observando_o_ceu.dia_e_noite",
+      "nivel": "EF03",
+      "unidade": "Observando o Céu",
+      "bncc": [
+        "EF03CI08"
+      ],
+      "bnccPlanejada": [
+        "EF03CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Use o esquema incorporado e, se possível, esfera e lanterna fraca com adulto. Explique dia/noite numa marca, sem dirigir luz aos olhos.",
+        "Relacione o modelo a um plano de observação de dia e noite com Lua/estrelas, indicando o que ele explica e o que depende de registro real."
+      ],
+      "atividades": [
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.aplicacao",
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao1",
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI08_dia_e_noite.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+      "nivel": "EF03",
+      "unidade": "Solo e Seus Usos",
+      "bncc": [
+        "EF03CI09"
+      ],
+      "bnccPlanejada": [
+        "EF03CI09"
+      ],
+      "dimensoesImplementadas": [
+        "Com adulto, compare duas amostras autorizadas em recipientes identificados, ou planeje a comparação se não houver segurança. Registre origem, cor, partículas e umidade; justifique características não avaliadas.",
+        "Corrija a frase: solo escuro é sempre o melhor e seu cheiro prova que é limpo. Explique que informações faltam."
+      ],
+      "atividades": [
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.aplicacao",
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI09_cor_textura_e_cheiro.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.solo_e_seus_usos.permeabilidade",
+      "nivel": "EF03",
+      "unidade": "Solo e Seus Usos",
+      "bncc": [
+        "EF03CI09"
+      ],
+      "bnccPlanejada": [
+        "EF03CI09"
+      ],
+      "dimensoesImplementadas": [
+        "Interprete a tabela fictícia e indique diferença de volumes e duas condições que precisam ser controladas.",
+        "Planeje com adulto comparação de duas amostras do entorno autorizadas: pergunta, montagem, leitura e descarte. Se executar, registre dados sem substituir pelos fictícios."
+      ],
+      "atividades": [
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.aplicacao",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI09_permeabilidade.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo",
+      "nivel": "EF03",
+      "unidade": "Solo e Seus Usos",
+      "bncc": [
+        "EF03CI10"
+      ],
+      "bnccPlanejada": [
+        "EF03CI10"
+      ],
+      "dimensoesImplementadas": [
+        "Faça quadro com plantação, construção e obtenção de argila: uso, benefício, possível impacto e cuidado necessário. Relacione cada caso à importância do solo para a vida.",
+        "Observe local autorizado com adulto ou analise o caso fictício. Proponha uma ação de conservação e como acompanhar seu efeito, distinguindo proposta e realização."
+      ],
+      "atividades": [
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.aplicacao",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF03_EF03CI10_uso_consciente_do_solo.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    }
+  ],
+  "conferenciaPedagogica": {
+    "tipo": "assistida",
+    "resultado": "Conferência conceitual, gabaritos, adequação e correspondência curricular; sem revisão atribuída a docente independente.",
+    "confronto": [
+      {
+        "codigo": "EF03CI01",
+        "dimensoes": [
+          "Produzir sons por vibração",
+          "Comparar objetos e variáveis do fenômeno — lote anterior preservado"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI01",
+          "aulas": [
+            "cna.ef03.som_e_vibracao.variaveis_do_som",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade",
+            "cna.ef03.som_e_vibracao.som_se_propaga",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais",
+            "cna.ef03.som_e_vibracao.produzindo_sons"
+          ],
+          "atividades": [
+            "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao1",
+            "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao2",
+            "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1",
+            "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao1",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao2",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao2",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.aplicacao1",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.aplicacao2",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2",
+            "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao1",
+            "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao2",
+            "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1",
+            "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao1",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao2",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2",
+            "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.aplicacao",
+            "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.investigacao"
+          ],
+          "questoesTreino": [
+            "cna.ef03.materia_e_energia.treino.01",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos.treino.1",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos.treino.2",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade.treino.1",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade.treino.2",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais.treino.1",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais.treino.2",
+            "cna.ef03.som_e_vibracao.som_se_propaga.treino.1",
+            "cna.ef03.som_e_vibracao.som_se_propaga.treino.2",
+            "cna.ef03.som_e_vibracao.variaveis_do_som.treino.1",
+            "cna.ef03.som_e_vibracao.variaveis_do_som.treino.2"
+          ],
+          "questoesProva": [
+            "cna.ef03.materia_e_energia.prova.01",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.1",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.2",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.1",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.2",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.1",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.2",
+            "cna.ef03.som_e_vibracao.som_se_propaga.prova.1",
+            "cna.ef03.som_e_vibracao.som_se_propaga.prova.2",
+            "cna.ef03.som_e_vibracao.variaveis_do_som.prova.1",
+            "cna.ef03.som_e_vibracao.variaveis_do_som.prova.2"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI02",
+        "dimensoes": [
+          "Experimentar e relatar transparência, reflexão e opacidade — lote anterior preservado"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI02",
+          "aulas": [
+            "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes",
+            "cna.ef03.luz_e_materiais.objetos_opacos",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+            "cna.ef03.luz_e_materiais.sombras",
+            "cna.ef03.luz_e_materiais.refracao_simples"
+          ],
+          "atividades": [
+            "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes#luz_e_objetos_transparentes.aplicacao",
+            "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes#luz_e_objetos_transparentes.investigacao",
+            "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.aplicacao1",
+            "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.aplicacao2",
+            "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao1",
+            "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao2",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.aplicacao1",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.aplicacao2",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2",
+            "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao1",
+            "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao2",
+            "cna.ef03.luz_e_materiais.sombras#sombras.producao1",
+            "cna.ef03.luz_e_materiais.sombras#sombras.producao2",
+            "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao1",
+            "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao2",
+            "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1",
+            "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.luz_e_materiais.objetos_opacos.treino.1",
+            "cna.ef03.luz_e_materiais.objetos_opacos.treino.2",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.treino.1",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.treino.2",
+            "cna.ef03.luz_e_materiais.refracao_simples.treino.1",
+            "cna.ef03.luz_e_materiais.refracao_simples.treino.2",
+            "cna.ef03.luz_e_materiais.sombras.treino.1",
+            "cna.ef03.luz_e_materiais.sombras.treino.2",
+            "cna.ef03.luz_e_materiais.cores_e_luz.treino.1",
+            "cna.ef03.luz_e_materiais.cores_e_luz.treino.2",
+            "cna.ef03.materia_e_energia.treino.02"
+          ],
+          "questoesProva": [
+            "cna.ef03.luz_e_materiais.objetos_opacos.prova.1",
+            "cna.ef03.luz_e_materiais.objetos_opacos.prova.2",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.1",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.2",
+            "cna.ef03.luz_e_materiais.refracao_simples.prova.1",
+            "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
+            "cna.ef03.luz_e_materiais.sombras.prova.1",
+            "cna.ef03.luz_e_materiais.sombras.prova.2",
+            "cna.ef03.luz_e_materiais.cores_e_luz.prova.1",
+            "cna.ef03.luz_e_materiais.cores_e_luz.prova.2",
+            "cna.ef03.materia_e_energia.prova.02"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI03",
+        "dimensoes": [
+          "Discutir hábitos de saúde auditiva e visual",
+          "Relacionar som e luz do ambiente ao cuidado",
+          "Propor mudança ambiental e apoio sem diagnóstico escolar"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI03",
+          "aulas": [
+            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
+          ],
+          "atividades": [
+            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.aplicacao",
+            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.investigacao",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.aplicacao",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao1",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao2",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.aplicacao",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao1",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao2",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.aplicacao",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao1",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao2",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.aplicacao",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao1",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.materia_e_energia.treino.03",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.treino.1",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao.treino.1",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.treino.1",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.materia_e_energia.prova.03",
+            "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.prova.1",
+            "cna.ef03.saude_auditiva_e_visual.luz_e_visao.prova.1",
+            "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.prova.1",
+            "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI04",
+        "dimensoes": [
+          "Identificar alimentação, reprodução, deslocamento e abrigo de animais próximos",
+          "Registrar informação por observação/fonte, preservando lacunas",
+          "Relacionar modo de vida ao ambiente sem captura"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI04",
+          "aulas": [
+            "cna.ef03.vida_dos_animais.o_que_os_animais_comem",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem",
+            "cna.ef03.vida_dos_animais.como_se_deslocam",
+            "cna.ef03.vida_dos_animais.animais_do_entorno",
+            "cna.ef03.vida_dos_animais.habitats",
+            "cna.ef03.vida_dos_animais.observar_animais"
+          ],
+          "atividades": [
+            "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.aplicacao",
+            "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.investigacao",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.aplicacao",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao1",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao2",
+            "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.aplicacao",
+            "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao1",
+            "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao2",
+            "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.aplicacao",
+            "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao1",
+            "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao2",
+            "cna.ef03.vida_dos_animais.habitats#habitats.aplicacao",
+            "cna.ef03.vida_dos_animais.habitats#habitats.producao1",
+            "cna.ef03.vida_dos_animais.habitats#habitats.producao2",
+            "cna.ef03.vida_dos_animais.observar_animais#observar_animais.aplicacao",
+            "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao1",
+            "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.vida_e_evolucao.treino.04",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem.treino.1",
+            "cna.ef03.vida_dos_animais.como_se_deslocam.treino.1",
+            "cna.ef03.vida_dos_animais.animais_do_entorno.treino.1",
+            "cna.ef03.vida_dos_animais.habitats.treino.1",
+            "cna.ef03.vida_dos_animais.observar_animais.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.vida_e_evolucao.prova.04",
+            "cna.ef03.vida_dos_animais.como_se_reproduzem.prova.1",
+            "cna.ef03.vida_dos_animais.como_se_deslocam.prova.1",
+            "cna.ef03.vida_dos_animais.animais_do_entorno.prova.1",
+            "cna.ef03.vida_dos_animais.habitats.prova.1",
+            "cna.ef03.vida_dos_animais.observar_animais.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI05",
+        "dimensoes": [
+          "Descrever e comunicar alterações desde nascimento",
+          "Comparar exemplos terrestres, aquáticos e humanos",
+          "Reconhecer mudanças além do tamanho e diversidade de percursos"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI05",
+          "aulas": [
+            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+            "cna.ef03.crescimento_dos_animais.metamorfose",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
+          ],
+          "atividades": [
+            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.aplicacao",
+            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.investigacao",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.aplicacao",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2",
+            "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.aplicacao",
+            "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+            "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.aplicacao",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.aplicacao",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.aplicacao",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.vida_e_evolucao.treino.05",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.treino.1",
+            "cna.ef03.crescimento_dos_animais.metamorfose.treino.1",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres.treino.1",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos.treino.1",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.vida_e_evolucao.prova.05",
+            "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+            "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+            "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+            "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+            "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI06",
+        "dimensoes": [
+          "Comparar características externas: penas, pelos, escamas, bico, garras, antenas e patas",
+          "Organizar agrupamentos por critérios explícitos",
+          "Testar chave limitada e distinguir não observado de ausente"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI06",
+          "aulas": [
+            "cna.ef03.grupos_de_animais.penas_e_pelos",
+            "cna.ef03.grupos_de_animais.escamas_e_bico",
+            "cna.ef03.grupos_de_animais.garras_e_patas",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+            "cna.ef03.grupos_de_animais.classificando_animais",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao"
+          ],
+          "atividades": [
+            "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.aplicacao",
+            "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.investigacao",
+            "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.aplicacao",
+            "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao1",
+            "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao2",
+            "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.aplicacao",
+            "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao1",
+            "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao2",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.aplicacao",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao1",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao2",
+            "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.aplicacao",
+            "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao1",
+            "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao2",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.aplicacao",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao1",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.vida_e_evolucao.treino.06",
+            "cna.ef03.grupos_de_animais.escamas_e_bico.treino.1",
+            "cna.ef03.grupos_de_animais.garras_e_patas.treino.1",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados.treino.1",
+            "cna.ef03.grupos_de_animais.classificando_animais.treino.1",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.vida_e_evolucao.prova.06",
+            "cna.ef03.grupos_de_animais.escamas_e_bico.prova.1",
+            "cna.ef03.grupos_de_animais.garras_e_patas.prova.1",
+            "cna.ef03.grupos_de_animais.antenas_e_invertebrados.prova.1",
+            "cna.ef03.grupos_de_animais.classificando_animais.prova.1",
+            "cna.ef03.grupos_de_animais.chaves_de_identificacao.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI07",
+        "dimensoes": [
+          "Reconhecer forma aproximadamente esférica, água e terras",
+          "Observar e comparar mapa, globo e imagem fotográfica processada",
+          "Manipulação de globo tem proposta e critério; aplicação dependente de recurso/local"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI07",
+          "aulas": [
+            "cna.ef03.a_terra_em_representacoes.forma_da_terra",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
+          ],
+          "atividades": [
+            "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.aplicacao",
+            "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.investigacao",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.aplicacao",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao1",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao2",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.aplicacao",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao1",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao2",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.aplicacao",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao1",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao2",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.aplicacao",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao1",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.terra_e_universo.treino.07",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas.treino.1",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.treino.1",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta.treino.1",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.terra_e_universo.prova.07",
+            "cna.ef03.a_terra_em_representacoes.globo_e_mapas.prova.1",
+            "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.prova.1",
+            "cna.ef03.a_terra_em_representacoes.agua_no_planeta.prova.1",
+            "cna.ef03.a_terra_em_representacoes.comparando_representacoes.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI08",
+        "dimensoes": [
+          "Observar/identificar/registrar períodos diários de visibilidade de Sol, estrelas, Lua e planetas",
+          "Relacionar registros a local/data/hora e condições",
+          "Separar modelo, exemplo fictício, identificação apoiada e observação real"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI08",
+          "aulas": [
+            "cna.ef03.observando_o_ceu.sol_de_dia",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas",
+            "cna.ef03.observando_o_ceu.planetas_visiveis",
+            "cna.ef03.observando_o_ceu.registro_do_ceu",
+            "cna.ef03.observando_o_ceu.dia_e_noite"
+          ],
+          "atividades": [
+            "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.aplicacao",
+            "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.investigacao",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.aplicacao",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao1",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao2",
+            "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.aplicacao",
+            "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao1",
+            "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao2",
+            "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.aplicacao",
+            "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao1",
+            "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao2",
+            "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.aplicacao",
+            "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao1",
+            "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.terra_e_universo.treino.08",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas.treino.1",
+            "cna.ef03.observando_o_ceu.planetas_visiveis.treino.1",
+            "cna.ef03.observando_o_ceu.registro_do_ceu.treino.1",
+            "cna.ef03.observando_o_ceu.dia_e_noite.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.terra_e_universo.prova.08",
+            "cna.ef03.observando_o_ceu.lua_e_estrelas.prova.1",
+            "cna.ef03.observando_o_ceu.planetas_visiveis.prova.1",
+            "cna.ef03.observando_o_ceu.registro_do_ceu.prova.1",
+            "cna.ef03.observando_o_ceu.dia_e_noite.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI09",
+        "dimensoes": [
+          "Comparar amostras do entorno por cor, partículas, textura/condições e passagem de água",
+          "Planejar método e condições semelhantes",
+          "Cheiro não é teste de segurança; avaliação sensorial pode ser omitida justificadamente por segurança, sem dados inventados"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI09",
+          "aulas": [
+            "cna.ef03.solo_e_seus_usos.amostras_de_solo",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+            "cna.ef03.solo_e_seus_usos.permeabilidade"
+          ],
+          "atividades": [
+            "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.aplicacao",
+            "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.investigacao",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.aplicacao",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2",
+            "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.aplicacao",
+            "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+            "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.terra_e_universo.treino.09",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.treino.1",
+            "cna.ef03.solo_e_seus_usos.permeabilidade.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.terra_e_universo.prova.09",
+            "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro.prova.1",
+            "cna.ef03.solo_e_seus_usos.permeabilidade.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF03CI10",
+        "dimensoes": [
+          "Identificar usos do solo: plantação, extração de materiais e construções",
+          "Reconhecer importância para agricultura, água e vida",
+          "Relacionar uso, impacto, conservação e acompanhamento"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF03CI10",
+          "aulas": [
+            "cna.ef03.solo_e_seus_usos.solo_e_agricultura",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
+          ],
+          "atividades": [
+            "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.aplicacao",
+            "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.investigacao",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.aplicacao",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef03.terra_e_universo.treino.10",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef03.terra_e_universo.prova.10",
+            "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "arquivo": "assets/cna/EF03_terra_nasa.svg",
+      "tipo": "imagem_fotografica_processada",
+      "origem": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+      "inspecao": "Imagem baixada e visualizada; não afirma tomada única/data."
+    },
+    {
+      "arquivo": "assets/cna/EF03_mapa_terras.svg",
+      "tipo": "mapa_vetorial",
+      "origem": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson",
+      "projecao": "equiretangular",
+      "licenca": "Domínio público Natural Earth",
+      "inspecao": "SVG renderizado localmente e inspecionado visualmente; formas gerais, legenda e Equador conferidos, sem validação cartográfica de precisão local."
+    }
+  ],
+  "verificacaoTecnica": {
+    "estado": "aprovado",
+    "ambiente": "Python JSON Schema draft 2020-12; Node/JSDOM; renderização local dos dois SVG com CairoSVG.",
+    "resultados": [
+      "233 aulas, 607 atividades, 504 itens e 57 provas com correspondência entre canônicos e Registry.",
+      "30 novos canônicos com três atividades cada; sete provas novas com matriz e desafios finais de transferência, 60 referências de produções de processo.",
+      "Seleção isolada por componente/ano/unidade/tipo; acertos, erros, pontuação 10/0 e devolutiva ao final conferidos.",
+      "Recursos incorporados existentes, atributos acessíveis, tabelas com caption/cabeçalhos; imagem NASA inspecionada, dois SVG renderizados e vistos.",
+      "IDs e pré-requisitos existentes/sem ciclos; aulas anteriores de Ciências preservadas byte a byte.",
+      "Catálogo de 5603 tópicos, 30 promoções no lote e 263 tópicos restantes consistentes; rascunhos bloqueados preservados.",
+      "Regressões de bloqueio de rascunhos, 370 aulas ativas de Matemática e Português EF06 aprovadas.",
+      "Sintaxe dos chunks/loader/service worker e git diff --check aprovados."
+    ],
+    "limites": "Não equivale a navegador real, leitor de tela, Firebase/autenticação/cache reais, produção de estudantes ou homologação docente independente."
+  },
+  "pendencias": [
+    "Observações de céu/animais/solos, produções e devolutivas reais.",
+    "Manipulação de globo quando disponível e registro de recurso/limite.",
+    "Homologação docente independente.",
+    "Revisão visual em navegador, leitor de tela, autenticação/Firebase/cache reais.",
+    "263 tópicos EF04–EF09 ainda sem autoria."
+  ],
+  "proximoLote": "EF04: 44 tópicos restantes em misturas, transformações, ecologia, saúde, orientação e calendários."
+}

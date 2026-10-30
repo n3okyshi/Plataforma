@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 30,
+  "unidade": "Solo e Seus Usos",
+  "titulo": "Uso Consciente do Solo",
+  "bncc": [
+    "EF03CI10"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça quadro com plantação, construção e obtenção de argila: uso, benefício, possível impacto e cuidado necessário. Relacione cada caso à importância do solo para a vida.",
+      "Observe local autorizado com adulto ou analise o caso fictício. Proponha uma ação de conservação e como acompanhar seu efeito, distinguindo proposta e realização."
+    ],
+    "resumo": "O solo sustenta plantas, abriga organismos, armazena e permite circulação de água e participa da produção de alimentos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.solo_e_seus_usos.permeabilidade\">Permeabilidade do Solo</button></p><h2>Uso Consciente do Solo</h2><h3>Para compreender</h3><p>O solo sustenta plantas, abriga organismos, armazena e permite circulação de água e participa da produção de alimentos. Também é usado em construções e pode fornecer materiais, como argila para cerâmica, com cuidados e autorizações. Retirar cobertura, compactar, descartar resíduos ou extrair sem controle pode prejudicar suas funções. Usos precisam ser comparados por benefício e consequência, considerando conservação. Para investigar o entorno, use observação autorizada e fontes; não entre em obras, escavações ou áreas de extração.</p><h3>Exemplo comentado</h3><p>Em caso fictício, uma área vegetada absorve parte da chuva; outra, compactada e descoberta, apresenta escoamento e perda de partículas. Isso orienta uma pergunta, sem provar que toda diferença vem de uma única causa.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça quadro com plantação, construção e obtenção de argila: uso, benefício, possível impacto e cuidado necessário. Relacione cada caso à importância do solo para a vida.</p><h4>Proposta 2</h4><p>Observe local autorizado com adulto ou analise o caso fictício. Proponha uma ação de conservação e como acompanhar seu efeito, distinguindo proposta e realização.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Solos — Propriedades do Solo</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "uso_consciente_do_solo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual afirmação considera diferentes usos do solo?",
+      "alternativas": [
+        "Solo só serve para plantar, sem outra função.",
+        "Toda extração é isenta de impactos.",
+        "Plantação, construções e obtenção de materiais exigem avaliar funções e consequências."
+      ],
+      "correta": 2,
+      "explicacao": "O solo tem usos múltiplos e importância ambiental, não apenas utilidade imediata.",
+      "bncc": [
+        "EF03CI10"
+      ]
+    },
+    {
+      "id": "uso_consciente_do_solo.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça quadro com plantação, construção e obtenção de argila: uso, benefício, possível impacto e cuidado necessário. Relacione cada caso à importância do solo para a vida.",
+      "gabarito": "Usos distintos, impactos plausíveis, conservação e autorização; não propor atividade de extração infantil.",
+      "rubrica": [
+        "Usos distintos, impactos plausíveis, conservação e autorização; não propor atividade de extração infantil.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI10"
+      ]
+    },
+    {
+      "id": "uso_consciente_do_solo.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Observe local autorizado com adulto ou analise o caso fictício. Proponha uma ação de conservação e como acompanhar seu efeito, distinguindo proposta e realização.",
+      "gabarito": "Proteção/cobertura, reduzir descarte ou compactação, evidência de acompanhamento; sem ação inventada.",
+      "rubrica": [
+        "Proteção/cobertura, reduzir descarte ou compactação, evidência de acompanhamento; sem ação inventada.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI10"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Embrapa Solos — Propriedades do Solo",
+      "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+      "consulta": "2026-10-30",
+      "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.solo_e_seus_usos.permeabilidade"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Solo e Seus Usos",
+    "bncc": [
+      "EF03CI10"
+    ],
+    "titulo": "Uso Consciente do Solo"
+  }
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.globo_e_mapas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um mapa plano da Terra:",
+    "opcoes": [
+      "Representa superfície curva com distorções.",
+      "Mostra sempre detalhes de todo solo.",
+      "Prova que o planeta é plano."
+    ],
+    "correta": 0,
+    "explicacao": "A forma do suporte não é a forma do planeta.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.globo_e_mapas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "No mapa desta aula, a área verde representa:",
+    "opcoes": [
+      "Terras emergidas, conforme a legenda.",
+      "Qualquer floresta sem exceção.",
+      "Somente países escolhidos."
+    ],
+    "correta": 0,
+    "explicacao": "A cor precisa ser interpretada pela legenda, não por associação automática.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma imagem da Terra vista de um lado mostra:",
+    "opcoes": [
+      "A composição de todo solo pela cor.",
+      "Uma face visível, com limites de ponto de vista e processamento.",
+      "Todos os lados e épocas ao mesmo tempo."
+    ],
+    "correta": 1,
+    "explicacao": "A representação precisa ser lida com sua fonte e alcance.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Como nomear um desenho autoral semelhante à Terra?",
+    "opcoes": [
+      "Fotografia real de satélite.",
+      "Esquema ou ilustração, indicando sua natureza.",
+      "Resultado de observação espacial da turma."
+    ],
+    "correta": 1,
+    "explicacao": "Imagem real, esquema e pesquisa realizada são categorias distintas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.agua_no_planeta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um rio pequeno não aparece no mapa global. Isso significa:",
+    "opcoes": [
+      "Que não existe água no local.",
+      "Que toda água só está no oceano.",
+      "Que a escala e a seleção de detalhes podem omiti-lo."
+    ],
+    "correta": 2,
+    "explicacao": "Representações selecionam informações conforme escala e objetivo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.agua_no_planeta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma região azul na representação permite dizer que sua água é potável?",
+    "opcoes": [
+      "Sim, todo azul é água de beber.",
+      "Sim, se estiver perto de terra.",
+      "Não; potabilidade exige controle apropriado, não apenas cor ou mapa."
+    ],
+    "correta": 2,
+    "explicacao": "A representação geográfica não é uma análise de qualidade da água.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.comparando_representacoes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.comparando_representacoes",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Dois mapas com cores diferentes podem:",
+    "opcoes": [
+      "Representar temas distintos com legendas próprias.",
+      "Dispensar qualquer legenda.",
+      "Estar ambos errados por não serem fotografias."
+    ],
+    "correta": 0,
+    "explicacao": "O tema e a legenda orientam a interpretação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.a_terra_em_representacoes.comparando_representacoes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "A Terra em Representações",
+    "aulaId": "cna.ef03.a_terra_em_representacoes.comparando_representacoes",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para saber se uma representação responde a uma pergunta, é preciso:",
+    "opcoes": [
+      "Conferir origem, tema, escala e informações disponíveis.",
+      "Comparar apenas qual é mais bonita.",
+      "Escolher sempre a maior."
+    ],
+    "correta": 0,
+    "explicacao": "Adequação depende da finalidade e dos limites do recurso.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA — Earth: imagem da página Earth Facts",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+        "consulta": "2026-10-30",
+        "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+      },
+      {
+        "documento": "NASA — Images and Media Usage Guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "consulta": "2026-10-30",
+        "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+      },
+      {
+        "documento": "Natural Earth — Land 1:110m",
+        "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+        "consulta": "2026-10-30",
+        "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+      },
+      {
+        "documento": "Natural Earth — Terms of Use",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "consulta": "2026-10-30",
+        "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

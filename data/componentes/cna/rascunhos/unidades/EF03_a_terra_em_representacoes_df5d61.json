@@ -1,1 +1,117 @@
-{"id":"cna.ef03.plano.a_terra_em_representacoes.df5d61","componente":"cna","nivel":"EF03","titulo":"A Terra em Representações","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef03.a_terra_em_representacoes.globo_e_mapas","cna.ef03.a_terra_em_representacoes.fotografias_da_terra","cna.ef03.a_terra_em_representacoes.agua_no_planeta","cna.ef03.a_terra_em_representacoes.comparando_representacoes"],"bnccCandidata":["EF03CI07"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF03_globo_e_mapas_1a3d890d.json","data/componentes/cna/rascunhos/aulas/EF03_fotografias_da_terra_5025cca8.json","data/componentes/cna/rascunhos/aulas/EF03_agua_no_planeta_f83f5ab7.json","data/componentes/cna/rascunhos/aulas/EF03_comparando_representacoes_1f268985.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF03CI07","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF03","unidade":"A Terra em Representações"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef03.plano.a_terra_em_representacoes.df5d61",
+  "componente": "cna",
+  "nivel": "EF03",
+  "titulo": "A Terra em Representações",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+    "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+    "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+    "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
+  ],
+  "bnccCandidata": [
+    "EF03CI07"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF03_globo_e_mapas_1a3d890d.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_fotografias_da_terra_5025cca8.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_agua_no_planeta_f83f5ab7.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_comparando_representacoes_1f268985.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF03CI07",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF03",
+        "unidade": "A Terra em Representações"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF03_EF03CI07_globo_e_mapas.json",
+      "data/componentes/cna/aulas/EF03_EF03CI07_fotografias_da_terra.json",
+      "data/componentes/cna/aulas/EF03_EF03CI07_agua_no_planeta.json",
+      "data/componentes/cna/aulas/EF03_EF03CI07_comparando_representacoes.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF03_temas_restantes.json",
+    "limites": "Plano original preservado; aplicação/homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF03_EF03CI07_globo_e_mapas.json",
+        "data/componentes/cna/aulas/EF03_EF03CI07_fotografias_da_terra.json",
+        "data/componentes/cna/aulas/EF03_EF03CI07_agua_no_planeta.json",
+        "data/componentes/cna/aulas/EF03_EF03CI07_comparando_representacoes.json"
+      ],
+      "atividades": [
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao1",
+        "cna.ef03.a_terra_em_representacoes.globo_e_mapas#globo_e_mapas.producao2",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao1",
+        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra#fotografias_da_terra.producao2",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao1",
+        "cna.ef03.a_terra_em_representacoes.agua_no_planeta#agua_no_planeta.producao2",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.aplicacao",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao1",
+        "cna.ef03.a_terra_em_representacoes.comparando_representacoes#comparando_representacoes.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF03_a_terra_em_representacoes.json",
+      "prova": "data/componentes/cna/provas/EF03_a_terra_em_representacoes.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF03",
+        "unidade": "A Terra em Representações",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF03_temas_restantes.json"
+    }
+  }
+}

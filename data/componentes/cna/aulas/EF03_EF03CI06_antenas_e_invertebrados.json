@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 17,
+  "unidade": "Grupos de Animais",
+  "titulo": "Antenas e Invertebrados",
+  "bncc": [
+    "EF03CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça uma tabela dos cartões com pernas, antenas e cobertura/forma descrita. Organize primeiro por antenas e depois por pernas.",
+      "Explique por que aranha não entra no grupo de insetos dos cartões e por que só antenas não bastam para identificar qualquer animal."
+    ],
+    "resumo": "Invertebrados são animais sem coluna vertebral, mas o grupo inclui muitas formas externas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.grupos_de_animais.garras_e_patas\">Garras e Patas</button></p><h2>Antenas e Invertebrados</h2><h3>Para compreender</h3><p>Invertebrados são animais sem coluna vertebral, mas o grupo inclui muitas formas externas. Insetos adultos típicos têm seis pernas e um par de antenas; aranhas têm oito pernas e não têm antenas. Muitos crustáceos têm antenas, portanto tê-las não basta para identificar inseto. Minhocas não têm patas nem antenas como as dos insetos. Use cartões de exemplares definidos e não force uma identificação quando a parte não aparece. Observação de animais desconhecidos deve ocorrer de longe, sem captura.</p><h3>Exemplo comentado</h3><p>Cartões: formiga operária — seis pernas e um par de antenas; aranha — oito pernas, sem antenas; minhoca — corpo alongado sem patas. Os três são invertebrados, mas não são todos insetos.</p><table><caption>Cartões autorais de exemplares definidos; não substituem identificação em campo</caption><thead><tr><th scope=\"col\">Cartão</th><th scope=\"col\">Características externas</th><th scope=\"col\">Patas/membros</th><th scope=\"col\">Antenas</th></tr></thead><tbody><tr><td>Galinha</td><td>Penas; bico; escamas nas pernas</td><td>Duas pernas com pés e garras</td><td>Sem antenas</td></tr><tr><td>Gato</td><td>Pelos; garras</td><td>Quatro patas</td><td>Sem antenas</td></tr><tr><td>Formiga operária</td><td>Corpo com partes visíveis e revestimento externo</td><td>Seis pernas</td><td>Um par de antenas</td></tr><tr><td>Aranha</td><td>Corpo e pernas articuladas</td><td>Oito pernas</td><td>Sem antenas</td></tr><tr><td>Peixe de exemplo</td><td>Escamas; nadadeiras</td><td>Sem patas</td><td>Sem antenas</td></tr><tr><td>Tartaruga de exemplo</td><td>Casco; bico</td><td>Quatro membros</td><td>Sem antenas</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça uma tabela dos cartões com pernas, antenas e cobertura/forma descrita. Organize primeiro por antenas e depois por pernas.</p><h4>Proposta 2</h4><p>Explique por que aranha não entra no grupo de insetos dos cartões e por que só antenas não bastam para identificar qualquer animal.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "antenas_e_invertebrados.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nos cartões, qual contraste distingue formiga e aranha?",
+      "alternativas": [
+        "Formiga tem oito pernas e aranha seis.",
+        "Formiga tem seis pernas e antenas; aranha oito e não tem antenas.",
+        "As duas têm sempre quatro pernas."
+      ],
+      "correta": 1,
+      "explicacao": "O conjunto de características permite uma comparação mais consistente.",
+      "bncc": [
+        "EF03CI06"
+      ]
+    },
+    {
+      "id": "antenas_e_invertebrados.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça uma tabela dos cartões com pernas, antenas e cobertura/forma descrita. Organize primeiro por antenas e depois por pernas.",
+      "gabarito": "Formiga 6/antenas, aranha 8/sem, minhoca sem patas/sem antenas do exemplo; distinguir critério e nome do grupo.",
+      "rubrica": [
+        "Formiga 6/antenas, aranha 8/sem, minhoca sem patas/sem antenas do exemplo; distinguir critério e nome do grupo.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI06"
+      ]
+    },
+    {
+      "id": "antenas_e_invertebrados.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que aranha não entra no grupo de insetos dos cartões e por que só antenas não bastam para identificar qualquer animal.",
+      "gabarito": "Comparar conjunto de características; reconhecer antenas em outros grupos, sem universalizar fotos parciais.",
+      "rubrica": [
+        "Comparar conjunto de características; reconhecer antenas em outros grupos, sem universalizar fotos parciais.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.grupos_de_animais.garras_e_patas"
+  ],
+  "proximosPassos": [
+    "cna.ef03.grupos_de_animais.classificando_animais"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Grupos de Animais",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "titulo": "Antenas e Invertebrados"
+  }
+}

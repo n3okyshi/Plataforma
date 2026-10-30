@@ -1,0 +1,134 @@
+{
+  "id": "cna.ef03.observando_o_ceu.lua_e_estrelas",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 24,
+  "unidade": "Observando o Céu",
+  "titulo": "Lua e Estrelas",
+  "bncc": [
+    "EF03CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Prepare diário com data, horário, período, condições do céu e corpos identificados. Faça observação autorizada ou registre execução pendente, sem olhar o Sol.",
+      "Explique por que a Lua não pertence somente à noite e por que muitas estrelas são difíceis de ver de dia."
+    ],
+    "resumo": "O Sol é uma estrela que vemos no período diurno quando não está oculto por nuvens ou horizonte.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.observando_o_ceu.sol_de_dia\">Registrar o céu em horários diferentes</button></p><h2>Lua e Estrelas</h2><h3>Para compreender</h3><p>O Sol é uma estrela que vemos no período diurno quando não está oculto por nuvens ou horizonte. Outras estrelas costumam ser mais fáceis de ver à noite porque o céu diurno fica muito iluminado. A Lua pode ser vista de dia e de noite em diferentes datas e horários; ela reflete luz do Sol. Não estar visível em uma visita não significa que deixou de existir. Observe somente com adulto em local seguro; nunca procure o Sol diretamente nem use instrumentos para olhar sua direção.</p><h3>Exemplo comentado</h3><p>Em um caso fictício, uma ficha registra Lua à tarde e outra depois do anoitecer. As duas observações são possíveis; não formam uma previsão para a cidade da turma hoje.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Prepare diário com data, horário, período, condições do céu e corpos identificados. Faça observação autorizada ou registre execução pendente, sem olhar o Sol.</p><h4>Proposta 2</h4><p>Explique por que a Lua não pertence somente à noite e por que muitas estrelas são difíceis de ver de dia.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://science.nasa.gov/earth/facts/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Earth Facts</a></li><li><a href=\"https://science.nasa.gov/moon/moon-phases/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Moon Phases: Daytime Moons</a></li><li><a href=\"https://science.nasa.gov/skywatching/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Skywatching</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "lua_e_estrelas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual afirmação é adequada?",
+      "alternativas": [
+        "A Lua pode aparecer de dia e de noite, conforme as condições e o período.",
+        "A Lua só existe à noite.",
+        "Todas as estrelas desaparecem do espaço ao amanhecer."
+      ],
+      "correta": 0,
+      "explicacao": "Visibilidade e existência não são a mesma coisa.",
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "lua_e_estrelas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Prepare diário com data, horário, período, condições do céu e corpos identificados. Faça observação autorizada ou registre execução pendente, sem olhar o Sol.",
+      "gabarito": "Registro real com limites de nuvens/horizonte, ou plano identificado; distinguir Lua, estrelas e Sol por informação, não brilho sozinho.",
+      "rubrica": [
+        "Registro real com limites de nuvens/horizonte, ou plano identificado; distinguir Lua, estrelas e Sol por informação, não brilho sozinho.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "lua_e_estrelas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que a Lua não pertence somente à noite e por que muitas estrelas são difíceis de ver de dia.",
+      "gabarito": "Visibilidade lunar variável e brilho do céu diurno; não dizer que estrelas deixam de existir.",
+      "rubrica": [
+        "Visibilidade lunar variável e brilho do céu diurno; não dizer que estrelas deixam de existir.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Earth Facts",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "consulta": "2026-10-30",
+      "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+    },
+    {
+      "documento": "NASA Science — Moon Phases: Daytime Moons",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "consulta": "2026-10-30",
+      "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+    },
+    {
+      "documento": "NASA Science — Skywatching",
+      "url": "https://science.nasa.gov/skywatching/",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.observando_o_ceu.sol_de_dia"
+  ],
+  "proximosPassos": [
+    "cna.ef03.observando_o_ceu.planetas_visiveis"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observando o Céu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "titulo": "Lua e Estrelas"
+  }
+}

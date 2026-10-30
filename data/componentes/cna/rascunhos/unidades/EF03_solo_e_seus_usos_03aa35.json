@@ -1,1 +1,115 @@
-{"id":"cna.ef03.plano.solo_e_seus_usos.03aa35","componente":"cna","nivel":"EF03","titulo":"Solo e Seus Usos","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro","cna.ef03.solo_e_seus_usos.permeabilidade","cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"],"bnccCandidata":["EF03CI09","EF03CI10"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF03_cor_textura_e_cheiro_2fd66f1a.json","data/componentes/cna/rascunhos/aulas/EF03_permeabilidade_744f9d00.json","data/componentes/cna/rascunhos/aulas/EF03_uso_consciente_do_solo_80794255.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF03CI09","evidencias":[]},{"bncc":"EF03CI10","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF03","unidade":"Solo e Seus Usos"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef03.plano.solo_e_seus_usos.03aa35",
+  "componente": "cna",
+  "nivel": "EF03",
+  "titulo": "Solo e Seus Usos",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+    "cna.ef03.solo_e_seus_usos.permeabilidade",
+    "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
+  ],
+  "bnccCandidata": [
+    "EF03CI09",
+    "EF03CI10"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF03_cor_textura_e_cheiro_2fd66f1a.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_permeabilidade_744f9d00.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_uso_consciente_do_solo_80794255.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF03CI09",
+          "evidencias": []
+        },
+        {
+          "bncc": "EF03CI10",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF03",
+        "unidade": "Solo e Seus Usos"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF03_EF03CI09_cor_textura_e_cheiro.json",
+      "data/componentes/cna/aulas/EF03_EF03CI09_permeabilidade.json",
+      "data/componentes/cna/aulas/EF03_EF03CI10_uso_consciente_do_solo.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF03_temas_restantes.json",
+    "limites": "Plano original preservado; aplicação/homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF03_EF03CI09_cor_textura_e_cheiro.json",
+        "data/componentes/cna/aulas/EF03_EF03CI09_permeabilidade.json",
+        "data/componentes/cna/aulas/EF03_EF03CI10_uso_consciente_do_solo.json"
+      ],
+      "atividades": [
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.aplicacao",
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao1",
+        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro#cor_textura_e_cheiro.producao2",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.aplicacao",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao1",
+        "cna.ef03.solo_e_seus_usos.permeabilidade#permeabilidade.producao2",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.aplicacao",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
+        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF03_solo_e_seus_usos.json",
+      "prova": "data/componentes/cna/provas/EF03_solo_e_seus_usos.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF03",
+        "unidade": "Solo e Seus Usos",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF03_temas_restantes.json"
+    }
+  }
+}

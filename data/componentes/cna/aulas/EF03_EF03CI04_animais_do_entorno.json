@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.vida_dos_animais.animais_do_entorno",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 7,
+  "unidade": "Vida dos Animais",
+  "titulo": "Animais do Entorno",
+  "bncc": [
+    "EF03CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Prepare ficha de um animal do entorno com local/data, movimento, possível alimento e informação sobre reprodução. Marque cada campo como observado, fonte consultada ou desconhecido.",
+      "Compare duas fichas ou dois exemplos fornecidos pelo adulto e formule pergunta sobre diferença no modo de vida."
+    ],
+    "resumo": "Conhecer animais próximos envolve mais que listar nomes.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.vida_dos_animais.como_se_deslocam\">Como os Animais se Deslocam</button></p><h2>Animais do Entorno</h2><h3>Para compreender</h3><p>Conhecer animais próximos envolve mais que listar nomes. Podemos descrever alimentação, deslocamento, reprodução, horário de atividade e abrigo. Algumas informações são observáveis em uma visita, outras dependem de fontes. Não se deduz dieta apenas pelo tamanho ou aparência, nem reprodução por um encontro isolado. O adulto define local e distância seguros. Não alimentar, tocar, capturar ou manipular fezes e ninhos. Ausência numa visita significa apenas que o animal não foi observado naquele período.</p><h3>Exemplo comentado</h3><p>Em um registro fictício, uma ave bicou um fruto no chão. Isso sustenta uma observação de alimentação, mas não prova que só come frutos ou que todas as aves fazem o mesmo.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Prepare ficha de um animal do entorno com local/data, movimento, possível alimento e informação sobre reprodução. Marque cada campo como observado, fonte consultada ou desconhecido.</p><h4>Proposta 2</h4><p>Compare duas fichas ou dois exemplos fornecidos pelo adulto e formule pergunta sobre diferença no modo de vida.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "animais_do_entorno.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma ave comeu um fruto em uma visita. Podemos afirmar:",
+      "alternativas": [
+        "Que todas as aves só comem frutos.",
+        "Que naquele registro houve consumo de fruto.",
+        "Que sua reprodução ficou demonstrada."
+      ],
+      "correta": 1,
+      "explicacao": "Uma ação observada não define toda a dieta ou o modo de vida.",
+      "bncc": [
+        "EF03CI04"
+      ]
+    },
+    {
+      "id": "animais_do_entorno.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Prepare ficha de um animal do entorno com local/data, movimento, possível alimento e informação sobre reprodução. Marque cada campo como observado, fonte consultada ou desconhecido.",
+      "gabarito": "Separar tipos de evidência e registrar limites, sem preencher automaticamente o desconhecido.",
+      "rubrica": [
+        "Separar tipos de evidência e registrar limites, sem preencher automaticamente o desconhecido.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI04"
+      ]
+    },
+    {
+      "id": "animais_do_entorno.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare duas fichas ou dois exemplos fornecidos pelo adulto e formule pergunta sobre diferença no modo de vida.",
+      "gabarito": "Pergunta baseada nos registros, sem presumir que tamanho ou cor determinem tudo.",
+      "rubrica": [
+        "Pergunta baseada nos registros, sem presumir que tamanho ou cor determinem tudo.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.vida_dos_animais.como_se_deslocam"
+  ],
+  "proximosPassos": [
+    "cna.ef03.vida_dos_animais.habitats"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Vida dos Animais",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "titulo": "Animais do Entorno"
+  }
+}
