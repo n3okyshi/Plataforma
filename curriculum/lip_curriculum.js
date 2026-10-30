@@ -97,6 +97,38 @@ registrarCurriculo("Língua Portuguesa", {
         "titulo": "Interjeição e expressividade: apoio complementar",
         "complementar": true
       }
+    ],
+    "Sintaxe da Oração": [
+      {
+        "id": "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo",
+        "titulo": "Frase, oração e período",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto",
+        "titulo": "Períodos simples e compostos",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal",
+        "titulo": "Sintagmas nominais e verbais",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.sintaxe_da_oracao.oracoes_justapostas",
+        "titulo": "Orações coordenadas separadas por vírgula",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.sintaxe_da_oracao.concordancia_nominal",
+        "titulo": "Concordância nominal na revisão",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.sintaxe_da_oracao.concordancia_verbal",
+        "titulo": "Concordância verbal e produção revisada",
+        "complementar": false
+      }
     ]
   },
   "EF07": {},

@@ -1746,6 +1746,634 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo",
+    "bncc": [
+      "EF06LP08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “Os alunos estão lendo”, quantas orações há na análise proposta?",
+    "opcoes": [
+      "Uma, com a locução estão lendo.",
+      "Duas, pois há duas palavras verbais.",
+      "Nenhuma, porque há gerúndio.",
+      "Três, pois há sujeito plural."
+    ],
+    "correta": 0,
+    "explicacao": "No relato “A turma entrou na sala. Todos começaram a ler”, há dois períodos, cada um com uma oração: entrou e começaram a ler são os núcleos verbais. Começaram a ler é tratado aqui como locução verbal: as formas atuam juntas no mesmo processo. Em “A turma entrou e escolheu os livros”, o período reúne duas orações: entrou e escolheu. A segunda retoma o sujeito da primeira. Em “Boa leitura!”, o aviso pode ser uma frase sem oração.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo",
+    "bncc": [
+      "EF06LP08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual análise de “A equipe chegou. O portão abriu e todos entraram” está correta?",
+    "opcoes": [
+      "Um período e uma oração.",
+      "Dois períodos e três orações.",
+      "Três períodos e duas orações.",
+      "Nenhuma oração."
+    ],
+    "correta": 1,
+    "explicacao": "Chegou forma o primeiro período; abriu e entraram são duas orações no segundo.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto",
+    "bncc": [
+      "EF06LP09",
+      "EF06LP08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual período é composto?",
+    "opcoes": [
+      "Lia e Rui leram juntos.",
+      "A turma vai estudar na biblioteca.",
+      "O livro caiu e a aluna o recolheu.",
+      "Os três cartazes coloridos chegaram."
+    ],
+    "correta": 2,
+    "explicacao": "“Lia e Rui estão lendo na biblioteca silenciosa” é período simples: estão lendo funciona como locução verbal. “Lia leu e Rui desenhou” é composto: leu e desenhou organizam duas orações. “Quando a aula terminou, os alunos saíram” também é composto, com terminou e saíram; a relação entre as orações é diferente, mas a classificação simples/composto depende de haver uma ou mais orações.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto",
+    "bncc": [
+      "EF06LP09",
+      "EF06LP08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Por que “Lia e Rui estão estudando” é simples?",
+    "opcoes": [
+      "Porque tem poucas palavras.",
+      "Porque toda ocorrência de e impede período composto.",
+      "Porque nomes de pessoas eliminam verbos.",
+      "Porque estão estudando forma uma locução verbal e há uma oração."
+    ],
+    "correta": 3,
+    "explicacao": "E liga nomes no sujeito; estão estudando é o núcleo verbal da única oração.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal",
+    "bncc": [
+      "EF06LP10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “As alunas organizaram a sala”, qual é o sintagma verbal?",
+    "opcoes": [
+      "As alunas",
+      "A sala",
+      "Organizaram a sala",
+      "As alunas organizaram"
+    ],
+    "correta": 2,
+    "explicacao": "Em “As duas alunas curiosas abriram o livro novo”, o sintagma nominal sujeito é as duas alunas curiosas, com núcleo alunas. O sintagma verbal é abriram o livro novo, com núcleo verbal abriram. Dentro dele, o livro novo é outro sintagma nominal, com núcleo livro. Portanto, identificar um sintagma nominal não significa dizer que ele é sempre sujeito. Em “Elas leram”, elas constitui um sintagma nominal pronominal e leram, um sintagma verbal.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal",
+    "bncc": [
+      "EF06LP10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “Os leitores atentos escolheram dois livros”, qual alternativa identifica o núcleo do sujeito e o sintagma nominal interno ao predicado?",
+    "opcoes": [
+      "Leitores; dois livros.",
+      "Livros; os leitores atentos.",
+      "Escolheram; atentos.",
+      "Dois; escolheram dois livros."
+    ],
+    "correta": 0,
+    "explicacao": "Leitores é núcleo de os leitores atentos; dois livros é sintagma nominal dentro do sintagma verbal.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.oracoes_justapostas",
+    "bncc": [
+      "EF06LP07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual trecho contém orações coordenadas assindéticas?",
+    "opcoes": [
+      "Trouxe livros, lápis e folhas.",
+      "A turma entrou, Lia abriu o livro.",
+      "Lia e Rui chegaram.",
+      "Os novos livros coloridos chegaram."
+    ],
+    "correta": 1,
+    "explicacao": "Em “A turma entrou, os monitores distribuíram livros, todos leram”, os núcleos entrou, distribuíram e leram organizam três orações coordenadas assindéticas. Em “Na mesa havia livros, cadernos e lápis”, as vírgulas separam itens de uma enumeração: não criam novas orações. Já em “A turma entrou e todos leram”, existe conjunção ligando as orações, portanto essa ligação não é assindética.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.oracoes_justapostas",
+    "bncc": [
+      "EF06LP07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “O portão abriu, a turma entrou”, qual classificação é adequada?",
+    "opcoes": [
+      "Uma oração porque há uma vírgula.",
+      "Uma frase sem verbo.",
+      "Período composto por coordenação, com orações sem conectivo explícito.",
+      "Uma enumeração de substantivos."
+    ],
+    "correta": 2,
+    "explicacao": "Abriu e entrou organizam duas orações coordenadas, ligadas pela justaposição e separadas por vírgula.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.concordancia_nominal",
+    "bncc": [
+      "EF06LP06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual grupo nominal segue a concordância padrão?",
+    "opcoes": [
+      "As nossos livros novo",
+      "As nossas revistas novas",
+      "Os nossa revista novas",
+      "A nossas revistas novo"
+    ],
+    "correta": 1,
+    "explicacao": "A revisão de “As revista novo chegaram” produz “As revistas novas chegaram”. O substantivo deve estar no plural para expressar a quantidade e novas concorda com revistas. Em “os livros interessantes”, interessante varia em número, não se torna interessantos. Revisar uma escrita para um contexto formal ensina convenções sem desqualificar a fala de quem escreveu.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.concordancia_nominal",
+    "bncc": [
+      "EF06LP06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Como revisar “As duas edição especial chegaram” preservando a quantidade?",
+    "opcoes": [
+      "As duas edições especiais chegaram.",
+      "A duas edição especial chegaram.",
+      "As dois edições especial chegou.",
+      "Os duas edição especiais chegaram."
+    ],
+    "correta": 0,
+    "explicacao": "Duas exige o plural edições; especiais concorda em número e mantém a forma de gênero.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.treino.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.concordancia_verbal",
+    "bncc": [
+      "EF06LP06",
+      "EF06LP11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual frase segue a concordância padrão?",
+    "opcoes": [
+      "Os livros da aluna chegou.",
+      "Lia e Rui chegou cedo.",
+      "A turma de leitores chegaram ontem.",
+      "Os livros da aluna chegaram."
+    ],
+    "correta": 3,
+    "explicacao": "“Nós organizamos a exposição” usa primeira pessoa do plural. “Lia e Rui organizaram a exposição” usa terceira pessoa do plural. “Os livros da aluna chegaram” concorda com livros, não com aluna. Ao escrever um relato, precisamos revisar também a sequência temporal: “Ontem a turma visitou a biblioteca e escolheu livros” mantém as ações no passado. Não se trata só de completar verbos em frases isoladas, mas de escrever e revisar um texto com sentido.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.sintaxe_da_oracao.prova.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "aulaId": "lip.ef06.sintaxe_da_oracao.concordancia_verbal",
+    "bncc": [
+      "EF06LP06",
+      "EF06LP11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual revisão ajusta o sujeito composto anteposto e preserva o passado?",
+    "opcoes": [
+      "Lia e Rui visitou a biblioteca ontem.",
+      "Lia e Rui visitaram a biblioteca ontem.",
+      "Lia e Rui visitará a biblioteca ontem.",
+      "Lia e Rui visita a biblioteca ontem."
+    ],
+    "correta": 1,
+    "explicacao": "Com Lia e Rui antes do verbo, usa-se o plural; visitaram também preserva a indicação de passado.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
   }
 ]);
 registrarProvas({
@@ -2394,6 +3022,248 @@ registrarProvas({
           "lip.ef06.morfologia.estrutura_das_palavras#estrutura_das_palavras.producao",
           "lip.ef06.morfologia.derivacao_e_composicao#derivacao_e_composicao.producao",
           "lip.ef06.morfologia.formacao_de_palavras_novas#formacao_de_palavras_novas.producao"
+        ]
+      }
+    ]
+  },
+  "lip.ef06.sintaxe_da_oracao.prova": {
+    "id": "lip.ef06.sintaxe_da_oracao.prova",
+    "titulo": "Avaliação: Sintaxe da Oração",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Sintaxe da Oração",
+    "bncc": [
+      "EF06LP06",
+      "EF06LP07",
+      "EF06LP08",
+      "EF06LP09",
+      "EF06LP10",
+      "EF06LP11"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Seis itens objetivos; nota igual a acertos divididos por seis, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+    "questoes": [
+      "lip.ef06.sintaxe_da_oracao.prova.01",
+      "lip.ef06.sintaxe_da_oracao.prova.02",
+      "lip.ef06.sintaxe_da_oracao.prova.03",
+      "lip.ef06.sintaxe_da_oracao.prova.04",
+      "lip.ef06.sintaxe_da_oracao.prova.05",
+      "lip.ef06.sintaxe_da_oracao.prova.06"
+    ],
+    "criterios": "Nota objetiva proporcional aos seis itens respondidos; portfólio com devolutiva por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.sintaxe_da_oracao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de sintaxe e revisão textual",
+      "enunciado": "Reúna as seis produções. Inclua rascunho e versão final do relato, com as mudanças explicadas após a devolutiva.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF06LP06",
+        "EF06LP07",
+        "EF06LP08",
+        "EF06LP09",
+        "EF06LP10",
+        "EF06LP11"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Frase, oração e período",
+          "enunciado": "Analise “A biblioteca abriu. Os alunos vão ler e a professora organizará os livros”. Separe os períodos, identifique os núcleos verbais e marque as orações. Compare com o aviso “Boa leitura!” e explique por que ele comunica algo mesmo sem verbo.",
+          "gabarito": "Dois períodos. O primeiro contém a oração com abriu; o segundo reúne as orações com vão ler (locução verbal) e organizará. O aviso é frase nominal adequada à situação. Não contar vão e ler como duas orações neste exemplo.",
+          "rubrica": [
+            "Identificar a organização sintática e explicar as relações solicitadas.",
+            "Dois períodos. O primeiro contém a oração com abriu; o segundo reúne as orações com vão ler (locução verbal) e organizará. O aviso é frase nominal adequada à situação. Não contar vão e ler como duas orações neste exemplo.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF06LP08"
+          ],
+          "atividadeOrigem": "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo#frase_oracao_periodo.producao"
+        },
+        {
+          "titulo": "Períodos simples e compostos",
+          "enunciado": "Classifique e justifique: “Lia e Rui chegaram cedo”; “Lia chegou e Rui saiu”; “A turma está preparando a exposição”. Depois transforme o primeiro período em composto acrescentando outra oração coerente, sem apenas inserir um nome.",
+          "gabarito": "O primeiro é simples (chegaram), o segundo composto (chegou e saiu), o terceiro simples com locução está preparando. Uma transformação possível: “Lia e Rui chegaram cedo e abriram a sala”. Justificar pelos núcleos, não pela quantidade de palavras ou de conjunções.",
+          "rubrica": [
+            "Identificar a organização sintática e explicar as relações solicitadas.",
+            "O primeiro é simples (chegaram), o segundo composto (chegou e saiu), o terceiro simples com locução está preparando. Uma transformação possível: “Lia e Rui chegaram cedo e abriram a sala”. Justificar pelos núcleos, não pela quantidade de palavras ou de conjunções.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF06LP09",
+            "EF06LP08"
+          ],
+          "atividadeOrigem": "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto#periodo_simples_e_composto.producao"
+        },
+        {
+          "titulo": "Sintagmas nominais e verbais",
+          "enunciado": "Divida “Os novos monitores organizaram a pequena biblioteca” nos dois constituintes imediatos trabalhados. Identifique os núcleos e um sintagma nominal dentro do sintagma verbal. Substitua o sujeito por eles e o objeto por a sala; confira se a nova oração permanece coerente.",
+          "gabarito": "SN sujeito: os novos monitores, núcleo monitores; SV: organizaram a pequena biblioteca, núcleo organizaram. SN interno: a pequena biblioteca, núcleo biblioteca. Nova oração: “Eles organizaram a sala”. Distinguir o objeto nominal do sujeito e reconhecer a organização em grupos.",
+          "rubrica": [
+            "Identificar a organização sintática e explicar as relações solicitadas.",
+            "SN sujeito: os novos monitores, núcleo monitores; SV: organizaram a pequena biblioteca, núcleo organizaram. SN interno: a pequena biblioteca, núcleo biblioteca. Nova oração: “Eles organizaram a sala”. Distinguir o objeto nominal do sujeito e reconhecer a organização em grupos.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF06LP10"
+          ],
+          "atividadeOrigem": "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal#sintagma_nominal_e_verbal.producao"
+        },
+        {
+          "titulo": "Orações coordenadas separadas por vírgula",
+          "enunciado": "No trecho “O sinal tocou, a turma entrou, a professora começou a leitura”, marque os núcleos verbais e delimite as orações; nomeie a coordenação e explique a ausência de conectivos. Compare com “Trouxe livros, cadernos e lápis”. Produza uma sequência com três orações coordenadas assindéticas.",
+          "gabarito": "Tocou, entrou e começou a leitura (começou é o núcleo verbal) organizam três orações coordenadas assindéticas, separadas por vírgula e sem conjunções. Em trouxe livros, cadernos e lápis há uma oração e enumeração de nomes. Exigir sequência autoral coerente com três orações sem conectivos; não aceitar somente uma lista de objetos.",
+          "rubrica": [
+            "Identificar a organização sintática e explicar as relações solicitadas.",
+            "Tocou, entrou e começou a leitura (começou é o núcleo verbal) organizam três orações coordenadas assindéticas, separadas por vírgula e sem conjunções. Em trouxe livros, cadernos e lápis há uma oração e enumeração de nomes. Exigir sequência autoral coerente com três orações sem conectivos; não aceitar somente uma lista de objetos.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF06LP07"
+          ],
+          "atividadeOrigem": "lip.ef06.sintaxe_da_oracao.oracoes_justapostas#oracoes_justapostas.producao"
+        },
+        {
+          "titulo": "Concordância nominal na revisão",
+          "enunciado": "Revise para um mural escolar: “Os nossas duas revista novo chegaram. A primeira edição ilustrado está na biblioteca”. Explique as relações de concordância, mantendo a informação. Depois escreva um aviso com dois grupos nominais e peça a um colega que confira suas escolhas.",
+          "gabarito": "“As nossas duas revistas novas chegaram. A primeira edição ilustrada está na biblioteca.” As/nossas/duas/novas se referem a revistas; primeira e ilustrada a edição. Exigir aviso autoral e registro da conferência. Não avaliar a pessoa ou seu sotaque a partir da versão inicial.",
+          "rubrica": [
+            "Identificar a organização sintática e explicar as relações solicitadas.",
+            "“As nossas duas revistas novas chegaram. A primeira edição ilustrada está na biblioteca.” As/nossas/duas/novas se referem a revistas; primeira e ilustrada a edição. Exigir aviso autoral e registro da conferência. Não avaliar a pessoa ou seu sotaque a partir da versão inicial.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF06LP06"
+          ],
+          "atividadeOrigem": "lip.ef06.sintaxe_da_oracao.concordancia_nominal#concordancia_nominal.producao"
+        },
+        {
+          "titulo": "Concordância verbal e produção revisada",
+          "enunciado": "Produza um relato de cinco a sete frases sobre uma visita fictícia à biblioteca, identificando-a como ficção. Inclua um sujeito simples plural, um sujeito composto anteposto e uma frase com nós. Mantenha coerência temporal, revise concordância nominal/verbal, grafia e pontuação. Entregue rascunho e versão final com três mudanças explicadas. Na revisão, compare “A turma de leitores chegou” e “Os livros da aluna chegaram”.",
+          "gabarito": "Exigir texto autoral identificado como ficção, rascunho, versão final e três justificativas específicas. Conferir sujeito simples plural, composto anteposto com plural e nós com primeira pessoa plural, além de tempos coerentes, concordância nominal, grafia e pontuação. Turma pede chegou; livros pede chegaram. Este é um recorte de uso e revisão de EF06LP11, sem exigir que a nota objetiva substitua a produção.",
+          "rubrica": [
+            "Identificar a organização sintática e explicar as relações solicitadas.",
+            "Exigir texto autoral identificado como ficção, rascunho, versão final e três justificativas específicas. Conferir sujeito simples plural, composto anteposto com plural e nós com primeira pessoa plural, além de tempos coerentes, concordância nominal, grafia e pontuação. Turma pede chegou; livros pede chegaram. Este é um recorte de uso e revisão de EF06LP11, sem exigir que a nota objetiva substitua a produção.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF06LP06",
+            "EF06LP11"
+          ],
+          "atividadeOrigem": "lip.ef06.sintaxe_da_oracao.concordancia_verbal#concordancia_verbal.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          180,
+          181,
+          182,
+          219,
+          220,
+          221,
+          224,
+          225
+        ],
+        "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+        "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF06LP06",
+        "questoes": [
+          "lip.ef06.sintaxe_da_oracao.prova.05",
+          "lip.ef06.sintaxe_da_oracao.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.concordancia_nominal#concordancia_nominal.producao",
+          "lip.ef06.sintaxe_da_oracao.concordancia_verbal#concordancia_verbal.producao"
+        ]
+      },
+      {
+        "bncc": "EF06LP07",
+        "questoes": [
+          "lip.ef06.sintaxe_da_oracao.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.oracoes_justapostas#oracoes_justapostas.producao"
+        ]
+      },
+      {
+        "bncc": "EF06LP08",
+        "questoes": [
+          "lip.ef06.sintaxe_da_oracao.prova.01",
+          "lip.ef06.sintaxe_da_oracao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo#frase_oracao_periodo.producao",
+          "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto#periodo_simples_e_composto.producao"
+        ]
+      },
+      {
+        "bncc": "EF06LP09",
+        "questoes": [
+          "lip.ef06.sintaxe_da_oracao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto#periodo_simples_e_composto.producao"
+        ]
+      },
+      {
+        "bncc": "EF06LP10",
+        "questoes": [
+          "lip.ef06.sintaxe_da_oracao.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal#sintagma_nominal_e_verbal.producao"
+        ]
+      },
+      {
+        "bncc": "EF06LP11",
+        "questoes": [
+          "lip.ef06.sintaxe_da_oracao.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.sintaxe_da_oracao.concordancia_verbal#concordancia_verbal.producao"
         ]
       }
     ]

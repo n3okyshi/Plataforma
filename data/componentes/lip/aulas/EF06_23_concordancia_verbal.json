@@ -1,0 +1,104 @@
+{
+  "id": "lip.ef06.sintaxe_da_oracao.concordancia_verbal",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 23,
+  "unidade": "Sintaxe da Oração",
+  "titulo": "Concordância verbal e produção revisada",
+  "bncc": [
+    "EF06LP06",
+    "EF06LP11"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza um relato de cinco a sete frases sobre uma visita fictícia à biblioteca, identificando-a como ficção. Inclua um sujeito simples plural, um sujeito composto anteposto e uma frase com nós. Mantenha coerência temporal, revise concordância nominal/verbal, grafia e pontuação. Entregue rascunho e versão final com três mudanças explicadas. Na revisão, compare “A turma de leitores chegou” e “Os livros da aluna chegaram”."
+    ],
+    "resumo": "Concordância verbal e produção revisada",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Concordância verbal e produção revisada</h2><p>Na norma-padrão, o verbo concorda com o sujeito em pessoa e número. Primeiro identifique o núcleo do sujeito. Em “A turma de leitores chegou”, o núcleo turma está no singular; de leitores não obriga o verbo a ir ao plural. Em “Os leitores chegaram”, o núcleo leitores está no plural. Sujeito simples significa um núcleo, não necessariamente uma pessoa: os leitores é sujeito simples. Em “Lia e Rui chegaram”, há dois núcleos, constituindo sujeito composto anteposto, com verbo no plural.</p><h3>Exemplo comentado</h3><p>“Nós organizamos a exposição” usa primeira pessoa do plural. “Lia e Rui organizaram a exposição” usa terceira pessoa do plural. “Os livros da aluna chegaram” concorda com livros, não com aluna. Ao escrever um relato, precisamos revisar também a sequência temporal: “Ontem a turma visitou a biblioteca e escolheu livros” mantém as ações no passado. Não se trata só de completar verbos em frases isoladas, mas de escrever e revisar um texto com sentido.</p><h3>Produza e revise</h3><p>Produza um relato de cinco a sete frases sobre uma visita fictícia à biblioteca, identificando-a como ficção. Inclua um sujeito simples plural, um sujeito composto anteposto e uma frase com nós. Mantenha coerência temporal, revise concordância nominal/verbal, grafia e pontuação. Entregue rascunho e versão final com três mudanças explicadas. Na revisão, compare “A turma de leitores chegou” e “Os livros da aluna chegaram”.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "concordancia_verbal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual frase segue a concordância padrão?",
+      "alternativas": [
+        "Os livros da aluna chegou.",
+        "Lia e Rui chegou cedo.",
+        "A turma de leitores chegaram ontem.",
+        "Os livros da aluna chegaram."
+      ],
+      "correta": 3,
+      "explicacao": "“Nós organizamos a exposição” usa primeira pessoa do plural. “Lia e Rui organizaram a exposição” usa terceira pessoa do plural. “Os livros da aluna chegaram” concorda com livros, não com aluna. Ao escrever um relato, precisamos revisar também a sequência temporal: “Ontem a turma visitou a biblioteca e escolheu livros” mantém as ações no passado. Não se trata só de completar verbos em frases isoladas, mas de escrever e revisar um texto com sentido.",
+      "bncc": [
+        "EF06LP06",
+        "EF06LP11"
+      ]
+    },
+    {
+      "id": "concordancia_verbal.producao",
+      "tipo": "discursiva",
+      "enunciado": "Produza um relato de cinco a sete frases sobre uma visita fictícia à biblioteca, identificando-a como ficção. Inclua um sujeito simples plural, um sujeito composto anteposto e uma frase com nós. Mantenha coerência temporal, revise concordância nominal/verbal, grafia e pontuação. Entregue rascunho e versão final com três mudanças explicadas. Na revisão, compare “A turma de leitores chegou” e “Os livros da aluna chegaram”.",
+      "gabarito": "Exigir texto autoral identificado como ficção, rascunho, versão final e três justificativas específicas. Conferir sujeito simples plural, composto anteposto com plural e nós com primeira pessoa plural, além de tempos coerentes, concordância nominal, grafia e pontuação. Turma pede chegou; livros pede chegaram. Este é um recorte de uso e revisão de EF06LP11, sem exigir que a nota objetiva substitua a produção.",
+      "rubrica": [
+        "Identificar a organização sintática e explicar as relações solicitadas.",
+        "Exigir texto autoral identificado como ficção, rascunho, versão final e três justificativas específicas. Conferir sujeito simples plural, composto anteposto com plural e nós com primeira pessoa plural, além de tempos coerentes, concordância nominal, grafia e pontuação. Turma pede chegou; livros pede chegaram. Este é um recorte de uso e revisão de EF06LP11, sem exigir que a nota objetiva substitua a produção.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF06LP06",
+        "EF06LP11"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        180,
+        181,
+        182,
+        219,
+        220,
+        221,
+        224,
+        225
+      ],
+      "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+      "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

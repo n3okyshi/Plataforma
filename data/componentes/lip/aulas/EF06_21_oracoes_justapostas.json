@@ -1,0 +1,101 @@
+{
+  "id": "lip.ef06.sintaxe_da_oracao.oracoes_justapostas",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 21,
+  "unidade": "Sintaxe da Oração",
+  "titulo": "Orações coordenadas separadas por vírgula",
+  "bncc": [
+    "EF06LP07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "No trecho “O sinal tocou, a turma entrou, a professora começou a leitura”, marque os núcleos verbais e delimite as orações; nomeie a coordenação e explique a ausência de conectivos. Compare com “Trouxe livros, cadernos e lápis”. Produza uma sequência com três orações coordenadas assindéticas."
+    ],
+    "resumo": "Orações coordenadas separadas por vírgula",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Orações coordenadas separadas por vírgula</h2><p>Um período pode reunir orações coordenadas sem conectivo explícito entre elas. Quando aparecem lado a lado, separadas por vírgula e sem conjunção, são coordenadas assindéticas. As orações se relacionam pelo sentido, mas uma não exerce função sintática dentro da outra nos exemplos estudados. Essa organização pode dar ritmo de sequência à narrativa. A presença de vírgula, sozinha, não prova que há várias orações: ela também pode separar itens de uma lista ou destacar uma expressão.</p><h3>Exemplo comentado</h3><p>Em “A turma entrou, os monitores distribuíram livros, todos leram”, os núcleos entrou, distribuíram e leram organizam três orações coordenadas assindéticas. Em “Na mesa havia livros, cadernos e lápis”, as vírgulas separam itens de uma enumeração: não criam novas orações. Já em “A turma entrou e todos leram”, existe conjunção ligando as orações, portanto essa ligação não é assindética.</p><h3>Produza e revise</h3><p>No trecho “O sinal tocou, a turma entrou, a professora começou a leitura”, marque os núcleos verbais e delimite as orações; nomeie a coordenação e explique a ausência de conectivos. Compare com “Trouxe livros, cadernos e lápis”. Produza uma sequência com três orações coordenadas assindéticas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "oracoes_justapostas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual trecho contém orações coordenadas assindéticas?",
+      "alternativas": [
+        "Trouxe livros, lápis e folhas.",
+        "A turma entrou, Lia abriu o livro.",
+        "Lia e Rui chegaram.",
+        "Os novos livros coloridos chegaram."
+      ],
+      "correta": 1,
+      "explicacao": "Em “A turma entrou, os monitores distribuíram livros, todos leram”, os núcleos entrou, distribuíram e leram organizam três orações coordenadas assindéticas. Em “Na mesa havia livros, cadernos e lápis”, as vírgulas separam itens de uma enumeração: não criam novas orações. Já em “A turma entrou e todos leram”, existe conjunção ligando as orações, portanto essa ligação não é assindética.",
+      "bncc": [
+        "EF06LP07"
+      ]
+    },
+    {
+      "id": "oracoes_justapostas.producao",
+      "tipo": "discursiva",
+      "enunciado": "No trecho “O sinal tocou, a turma entrou, a professora começou a leitura”, marque os núcleos verbais e delimite as orações; nomeie a coordenação e explique a ausência de conectivos. Compare com “Trouxe livros, cadernos e lápis”. Produza uma sequência com três orações coordenadas assindéticas.",
+      "gabarito": "Tocou, entrou e começou a leitura (começou é o núcleo verbal) organizam três orações coordenadas assindéticas, separadas por vírgula e sem conjunções. Em trouxe livros, cadernos e lápis há uma oração e enumeração de nomes. Exigir sequência autoral coerente com três orações sem conectivos; não aceitar somente uma lista de objetos.",
+      "rubrica": [
+        "Identificar a organização sintática e explicar as relações solicitadas.",
+        "Tocou, entrou e começou a leitura (começou é o núcleo verbal) organizam três orações coordenadas assindéticas, separadas por vírgula e sem conjunções. Em trouxe livros, cadernos e lápis há uma oração e enumeração de nomes. Exigir sequência autoral coerente com três orações sem conectivos; não aceitar somente uma lista de objetos.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF06LP07"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        180,
+        181,
+        182,
+        219,
+        220,
+        221,
+        224,
+        225
+      ],
+      "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+      "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

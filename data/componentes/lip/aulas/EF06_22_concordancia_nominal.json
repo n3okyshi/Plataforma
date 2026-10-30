@@ -1,0 +1,101 @@
+{
+  "id": "lip.ef06.sintaxe_da_oracao.concordancia_nominal",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 22,
+  "unidade": "Sintaxe da Oração",
+  "titulo": "Concordância nominal na revisão",
+  "bncc": [
+    "EF06LP06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Revise para um mural escolar: “Os nossas duas revista novo chegaram. A primeira edição ilustrado está na biblioteca”. Explique as relações de concordância, mantendo a informação. Depois escreva um aviso com dois grupos nominais e peça a um colega que confira suas escolhas."
+    ],
+    "resumo": "Concordância nominal na revisão",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Concordância nominal na revisão</h2><p>Na norma-padrão, determinantes e adjetivos concordam com o substantivo a que se referem em gênero e número, quando suas formas admitem essa variação. Não basta copiar a terminação da palavra mais próxima: é preciso reconhecer a relação. Em “as nossas duas revistas novas”, artigos, pronome, numeral e adjetivo se organizam em torno de revistas; duas e novas apresentam formas coerentes com o feminino plural. Há palavras que não variam em gênero, como interessante, mas recebem plural: interessantes.</p><h3>Exemplo comentado</h3><p>A revisão de “As revista novo chegaram” produz “As revistas novas chegaram”. O substantivo deve estar no plural para expressar a quantidade e novas concorda com revistas. Em “os livros interessantes”, interessante varia em número, não se torna interessantos. Revisar uma escrita para um contexto formal ensina convenções sem desqualificar a fala de quem escreveu.</p><h3>Produza e revise</h3><p>Revise para um mural escolar: “Os nossas duas revista novo chegaram. A primeira edição ilustrado está na biblioteca”. Explique as relações de concordância, mantendo a informação. Depois escreva um aviso com dois grupos nominais e peça a um colega que confira suas escolhas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "concordancia_nominal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual grupo nominal segue a concordância padrão?",
+      "alternativas": [
+        "As nossos livros novo",
+        "As nossas revistas novas",
+        "Os nossa revista novas",
+        "A nossas revistas novo"
+      ],
+      "correta": 1,
+      "explicacao": "A revisão de “As revista novo chegaram” produz “As revistas novas chegaram”. O substantivo deve estar no plural para expressar a quantidade e novas concorda com revistas. Em “os livros interessantes”, interessante varia em número, não se torna interessantos. Revisar uma escrita para um contexto formal ensina convenções sem desqualificar a fala de quem escreveu.",
+      "bncc": [
+        "EF06LP06"
+      ]
+    },
+    {
+      "id": "concordancia_nominal.producao",
+      "tipo": "discursiva",
+      "enunciado": "Revise para um mural escolar: “Os nossas duas revista novo chegaram. A primeira edição ilustrado está na biblioteca”. Explique as relações de concordância, mantendo a informação. Depois escreva um aviso com dois grupos nominais e peça a um colega que confira suas escolhas.",
+      "gabarito": "“As nossas duas revistas novas chegaram. A primeira edição ilustrada está na biblioteca.” As/nossas/duas/novas se referem a revistas; primeira e ilustrada a edição. Exigir aviso autoral e registro da conferência. Não avaliar a pessoa ou seu sotaque a partir da versão inicial.",
+      "rubrica": [
+        "Identificar a organização sintática e explicar as relações solicitadas.",
+        "“As nossas duas revistas novas chegaram. A primeira edição ilustrada está na biblioteca.” As/nossas/duas/novas se referem a revistas; primeira e ilustrada a edição. Exigir aviso autoral e registro da conferência. Não avaliar a pessoa ou seu sotaque a partir da versão inicial.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF06LP06"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        180,
+        181,
+        182,
+        219,
+        220,
+        221,
+        224,
+        225
+      ],
+      "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+      "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

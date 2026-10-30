@@ -1,0 +1,101 @@
+{
+  "id": "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 20,
+  "unidade": "Sintaxe da Oração",
+  "titulo": "Sintagmas nominais e verbais",
+  "bncc": [
+    "EF06LP10"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Divida “Os novos monitores organizaram a pequena biblioteca” nos dois constituintes imediatos trabalhados. Identifique os núcleos e um sintagma nominal dentro do sintagma verbal. Substitua o sujeito por eles e o objeto por a sala; confira se a nova oração permanece coerente."
+    ],
+    "resumo": "Sintagmas nominais e verbais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Sintagmas nominais e verbais</h2><p>Palavras se organizam em grupos que exercem funções na oração. Um sintagma nominal tem como núcleo um nome ou pronome e pode conter determinantes e modificadores. Um sintagma verbal se organiza em torno de um verbo. Nos exemplos básicos desta aula, a oração apresenta um sintagma nominal como sujeito e um sintagma verbal como predicado. Essa organização não significa que toda oração da língua tenha sujeito expresso nem que qualquer sequência de palavras seja um sintagma.</p><h3>Exemplo comentado</h3><p>Em “As duas alunas curiosas abriram o livro novo”, o sintagma nominal sujeito é as duas alunas curiosas, com núcleo alunas. O sintagma verbal é abriram o livro novo, com núcleo verbal abriram. Dentro dele, o livro novo é outro sintagma nominal, com núcleo livro. Portanto, identificar um sintagma nominal não significa dizer que ele é sempre sujeito. Em “Elas leram”, elas constitui um sintagma nominal pronominal e leram, um sintagma verbal.</p><h3>Produza e revise</h3><p>Divida “Os novos monitores organizaram a pequena biblioteca” nos dois constituintes imediatos trabalhados. Identifique os núcleos e um sintagma nominal dentro do sintagma verbal. Substitua o sujeito por eles e o objeto por a sala; confira se a nova oração permanece coerente.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sintagma_nominal_e_verbal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em “As alunas organizaram a sala”, qual é o sintagma verbal?",
+      "alternativas": [
+        "As alunas",
+        "A sala",
+        "Organizaram a sala",
+        "As alunas organizaram"
+      ],
+      "correta": 2,
+      "explicacao": "Em “As duas alunas curiosas abriram o livro novo”, o sintagma nominal sujeito é as duas alunas curiosas, com núcleo alunas. O sintagma verbal é abriram o livro novo, com núcleo verbal abriram. Dentro dele, o livro novo é outro sintagma nominal, com núcleo livro. Portanto, identificar um sintagma nominal não significa dizer que ele é sempre sujeito. Em “Elas leram”, elas constitui um sintagma nominal pronominal e leram, um sintagma verbal.",
+      "bncc": [
+        "EF06LP10"
+      ]
+    },
+    {
+      "id": "sintagma_nominal_e_verbal.producao",
+      "tipo": "discursiva",
+      "enunciado": "Divida “Os novos monitores organizaram a pequena biblioteca” nos dois constituintes imediatos trabalhados. Identifique os núcleos e um sintagma nominal dentro do sintagma verbal. Substitua o sujeito por eles e o objeto por a sala; confira se a nova oração permanece coerente.",
+      "gabarito": "SN sujeito: os novos monitores, núcleo monitores; SV: organizaram a pequena biblioteca, núcleo organizaram. SN interno: a pequena biblioteca, núcleo biblioteca. Nova oração: “Eles organizaram a sala”. Distinguir o objeto nominal do sujeito e reconhecer a organização em grupos.",
+      "rubrica": [
+        "Identificar a organização sintática e explicar as relações solicitadas.",
+        "SN sujeito: os novos monitores, núcleo monitores; SV: organizaram a pequena biblioteca, núcleo organizaram. SN interno: a pequena biblioteca, núcleo biblioteca. Nova oração: “Eles organizaram a sala”. Distinguir o objeto nominal do sujeito e reconhecer a organização em grupos.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF06LP10"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        180,
+        181,
+        182,
+        219,
+        220,
+        221,
+        224,
+        225
+      ],
+      "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+      "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

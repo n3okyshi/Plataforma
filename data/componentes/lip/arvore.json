@@ -7902,7 +7902,7 @@
           "aulas": [
             {
               "id": "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo",
-              "titulo": "Frase, Oração e Período",
+              "titulo": "Frase, oração e período",
               "bncc": [
                 "EF06LP08"
               ],
@@ -7917,17 +7917,39 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "167"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Distinguir frase, oração e período e reconhecer o núcleo verbal da oração."
+              "resumo": "Distinguir frase, oração e período e reconhecer o núcleo verbal da oração.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto",
-              "titulo": "Período Simples e Composto",
+              "titulo": "Períodos simples e compostos",
               "bncc": [
-                "EF06LP09"
+                "EF06LP09",
+                "EF06LP08"
               ],
               "areas": [
                 "linguagens",
@@ -7940,15 +7962,36 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "183"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar períodos em simples e compostos."
+              "resumo": "Classificar períodos em simples e compostos.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal",
-              "titulo": "Sintagmas Nominais e Verbais",
+              "titulo": "Sintagmas nominais e verbais",
               "bncc": [
                 "EF06LP10"
               ],
@@ -7963,15 +8006,36 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "169"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar sintagmas nominais e verbais como constituintes da oração."
+              "resumo": "Identificar sintagmas nominais e verbais como constituintes da oração.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.oracoes_justapostas",
-              "titulo": "Orações Justapostas por Vírgula",
+              "titulo": "Orações coordenadas separadas por vírgula",
               "bncc": [
                 "EF06LP07"
               ],
@@ -7986,15 +8050,36 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "183"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer orações coordenadas assindéticas separadas por vírgula."
+              "resumo": "Reconhecer orações coordenadas assindéticas separadas por vírgula.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.concordancia_nominal",
-              "titulo": "Concordância Nominal",
+              "titulo": "Concordância nominal na revisão",
               "bncc": [
                 "EF06LP06"
               ],
@@ -8009,16 +8094,38 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "227"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Aplicar as regras de concordância entre substantivos e seus determinantes."
+              "resumo": "Aplicar as regras de concordância entre substantivos e seus determinantes.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.concordancia_verbal",
-              "titulo": "Concordância Verbal",
+              "titulo": "Concordância verbal e produção revisada",
               "bncc": [
+                "EF06LP06",
                 "EF06LP11"
               ],
               "areas": [
@@ -8032,11 +8139,32 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "222"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Fazer o verbo concordar com o sujeito em número e pessoa."
+              "resumo": "Fazer o verbo concordar com o sujeito em número e pessoa.",
+              "estado": "piloto"
             }
           ]
         },

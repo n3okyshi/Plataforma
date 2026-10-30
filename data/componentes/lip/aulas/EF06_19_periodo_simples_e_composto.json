@@ -1,0 +1,104 @@
+{
+  "id": "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 19,
+  "unidade": "Sintaxe da Oração",
+  "titulo": "Períodos simples e compostos",
+  "bncc": [
+    "EF06LP09",
+    "EF06LP08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Classifique e justifique: “Lia e Rui chegaram cedo”; “Lia chegou e Rui saiu”; “A turma está preparando a exposição”. Depois transforme o primeiro período em composto acrescentando outra oração coerente, sem apenas inserir um nome."
+    ],
+    "resumo": "Períodos simples e compostos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Períodos simples e compostos</h2><p>Período simples tem uma oração; composto reúne duas ou mais. Essa diferença não depende do tamanho da frase. Um período longo pode conter apenas uma oração, enquanto “Li e sorri” contém duas. Localize os núcleos verbais, reconheça as locuções e observe as relações. A expressão “e” pode ligar nomes, não somente orações: em “Lia e Rui leram”, há um sujeito composto, mas uma só oração.</p><h3>Exemplo comentado</h3><p>“Lia e Rui estão lendo na biblioteca silenciosa” é período simples: estão lendo funciona como locução verbal. “Lia leu e Rui desenhou” é composto: leu e desenhou organizam duas orações. “Quando a aula terminou, os alunos saíram” também é composto, com terminou e saíram; a relação entre as orações é diferente, mas a classificação simples/composto depende de haver uma ou mais orações.</p><h3>Produza e revise</h3><p>Classifique e justifique: “Lia e Rui chegaram cedo”; “Lia chegou e Rui saiu”; “A turma está preparando a exposição”. Depois transforme o primeiro período em composto acrescentando outra oração coerente, sem apenas inserir um nome.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "periodo_simples_e_composto.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual período é composto?",
+      "alternativas": [
+        "Lia e Rui leram juntos.",
+        "A turma vai estudar na biblioteca.",
+        "O livro caiu e a aluna o recolheu.",
+        "Os três cartazes coloridos chegaram."
+      ],
+      "correta": 2,
+      "explicacao": "“Lia e Rui estão lendo na biblioteca silenciosa” é período simples: estão lendo funciona como locução verbal. “Lia leu e Rui desenhou” é composto: leu e desenhou organizam duas orações. “Quando a aula terminou, os alunos saíram” também é composto, com terminou e saíram; a relação entre as orações é diferente, mas a classificação simples/composto depende de haver uma ou mais orações.",
+      "bncc": [
+        "EF06LP09",
+        "EF06LP08"
+      ]
+    },
+    {
+      "id": "periodo_simples_e_composto.producao",
+      "tipo": "discursiva",
+      "enunciado": "Classifique e justifique: “Lia e Rui chegaram cedo”; “Lia chegou e Rui saiu”; “A turma está preparando a exposição”. Depois transforme o primeiro período em composto acrescentando outra oração coerente, sem apenas inserir um nome.",
+      "gabarito": "O primeiro é simples (chegaram), o segundo composto (chegou e saiu), o terceiro simples com locução está preparando. Uma transformação possível: “Lia e Rui chegaram cedo e abriram a sala”. Justificar pelos núcleos, não pela quantidade de palavras ou de conjunções.",
+      "rubrica": [
+        "Identificar a organização sintática e explicar as relações solicitadas.",
+        "O primeiro é simples (chegaram), o segundo composto (chegou e saiu), o terceiro simples com locução está preparando. Uma transformação possível: “Lia e Rui chegaram cedo e abriram a sala”. Justificar pelos núcleos, não pela quantidade de palavras ou de conjunções.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF06LP09",
+        "EF06LP08"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        180,
+        181,
+        182,
+        219,
+        220,
+        221,
+        224,
+        225
+      ],
+      "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+      "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
