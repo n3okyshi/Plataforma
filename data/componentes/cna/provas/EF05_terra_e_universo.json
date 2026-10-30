@@ -1,0 +1,162 @@
+{
+  "id": "cna.ef05.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF05",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF05CI10",
+    "EF05CI11",
+    "EF05CI12",
+    "EF05CI13"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef05.terra_e_universo.prova.10",
+    "cna.ef05.terra_e_universo.prova.11",
+    "cna.ef05.terra_e_universo.prova.12",
+    "cna.ef05.terra_e_universo.prova.13"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef05.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF05CI10",
+      "EF05CI11",
+      "EF05CI12",
+      "EF05CI13"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Constelações e mapas do céu",
+        "enunciado": "Com adulto, use mapa ou aplicativo datado e identificado para sua localidade. Escolha duas constelações possíveis, compare a previsão no início da noite em duas épocas do ano e registre o que foi efetivamente observado em noite segura ou por sessão escolar mediada. Anote diferenças entre previsão e observação.",
+        "gabarito": "Exigir recurso, data/local/horário e comparação de épocas, sem dados inventados. Não obrigar observação noturna domiciliar nem identificar planeta como estrela por brilho. Quando não houver céu acessível, registrar uso de simulação e sua limitação.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir recurso, data/local/horário e comparação de épocas, sem dados inventados. Não obrigar observação noturna domiciliar nem identificar planeta como estrela por brilho. Quando não houver céu acessível, registrar uso de simulação e sua limitação.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI10"
+        ],
+        "atividadeOrigem": "cna.ef05.observando_o_ceu.constelacoes#constelacoes.investigacao"
+      },
+      {
+        "titulo": "Rotação e movimento aparente diário",
+        "enunciado": "Construa com professor um modelo globo/lanterna comum, sem apontar aos olhos, marcando um observador. Explique como a rotação altera a região iluminada e a direção observada. Relacione a registros seguros de sombras e a sequência noturna identificada de estrelas; indique dois limites do modelo e não confunda ciclo diário com estações.",
+        "gabarito": "Exigir explicação do referencial do observador, rotação e movimento aparente, com limites da analogia. Não aceitar que o globo iluminado sozinho prove todos os movimentos do céu. Estrelas podem ser estudadas em registros identificados se a observação não for viável.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir explicação do referencial do observador, rotação e movimento aparente, com limites da analogia. Não aceitar que o globo iluminado sozinho prove todos os movimentos do céu. Estrelas podem ser estudadas em registros identificados se a observação não for viável.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI11"
+        ],
+        "atividadeOrigem": "cna.ef05.observando_o_ceu.movimento_diurno#movimento_diurno.investigacao"
+      },
+      {
+        "titulo": "Lua: registros por pelo menos dois meses",
+        "enunciado": "Com mediação, mantenha diário por pelo menos dois meses, com datas, horários, desenhos da forma aparente e condições do céu. Use registros escolares compartilhados ou fontes astronômicas datadas quando necessário, identificando a origem. Compare retornos de formas semelhantes e conclua com limites; até completar o período, a evidência permanece em andamento.",
+        "gabarito": "Exigir intervalo mínimo de dois meses e procedência dos registros, sem inventar noites faltantes. Distinguir observação própria, compartilhada e fonte. A conclusão deve explicar recorrência aproximada e separar nuvens de fase nova; nota objetiva não encerra o acompanhamento.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir intervalo mínimo de dois meses e procedência dos registros, sem inventar noites faltantes. Distinguir observação própria, compartilhada e fonte. A conclusão deve explicar recorrência aproximada e separar nuvens de fase nova; nota objetiva não encerra o acompanhamento.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI12"
+        ],
+        "atividadeOrigem": "cna.ef05.lua_e_instrumentos.fases_da_lua#fases_da_lua.investigacao"
+      },
+      {
+        "titulo": "Projetar um instrumento de observação",
+        "enunciado": "Projete e construa com adulto um periscópio ou outro dispositivo óptico seguro, indicando função e percurso da luz. Teste em objeto comum do ambiente, registre um problema e uma melhoria. Explique dois usos sociais e um limite. Sem olhar Sol, laser, ferramentas quentes ou corte por estudantes; quando só houver plano, registre construção pendente.",
+        "gabarito": "Exigir desenho, dispositivo real, teste e revisão, com justificativa da função e dos usos sociais. Não confundir lupa que amplia com aparelho que registra foto. Material e montagem precisam ser conferidos pelo adulto.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir desenho, dispositivo real, teste e revisão, com justificativa da função e dos usos sociais. Não confundir lupa que amplia com aparelho que registra foto. Material e montagem precisam ser conferidos pelo adulto.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI13"
+        ],
+        "atividadeOrigem": "cna.ef05.lua_e_instrumentos.luneta_e_periscopio#luneta_e_periscopio.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF05CI10",
+      "questoes": [
+        "cna.ef05.terra_e_universo.prova.10"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.observando_o_ceu.constelacoes#constelacoes.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI11",
+      "questoes": [
+        "cna.ef05.terra_e_universo.prova.11"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.observando_o_ceu.movimento_diurno#movimento_diurno.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI12",
+      "questoes": [
+        "cna.ef05.terra_e_universo.prova.12"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.lua_e_instrumentos.fases_da_lua#fases_da_lua.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI13",
+      "questoes": [
+        "cna.ef05.terra_e_universo.prova.13"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.lua_e_instrumentos.luneta_e_periscopio#luneta_e_periscopio.investigacao"
+      ]
+    }
+  ]
+}

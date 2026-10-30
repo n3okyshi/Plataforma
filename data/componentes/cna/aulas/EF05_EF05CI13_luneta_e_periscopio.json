@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef05.lua_e_instrumentos.luneta_e_periscopio",
+  "componente": "cna",
+  "nivel": "EF05",
+  "ordem": 13,
+  "unidade": "Terra e Universo",
+  "titulo": "Projetar um instrumento de observação",
+  "bncc": [
+    "EF05CI13"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Projete e construa com adulto um periscópio ou outro dispositivo óptico seguro, indicando função e percurso da luz. Teste em objeto comum do ambiente, registre um problema e uma melhoria. Explique dois usos sociais e um limite. Sem olhar Sol, laser, ferramentas quentes ou corte por estudantes; quando só houver plano, registre construção pendente."
+    ],
+    "resumo": "Projetar um instrumento de observação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Projetar um instrumento de observação</h2><h3>Ideias para investigar</h3><p>Instrumentos ópticos ajudam a observar, ampliar ou registrar imagens. Lupa, luneta, periscópio e câmera têm princípios e usos diferentes. Projetar envolve escolher função, materiais, disposição e forma de testar. Construir não é apenas desenhar: o dispositivo precisa existir e ser avaliado. Nenhum instrumento desta aula será usado para olhar o Sol ou concentrar sua luz.</p><h3>Exemplo comentado</h3><p>Um periscópio simples pode usar dois espelhos seguros orientados de modo que a luz mude de direção até o observador. A caixa opaca organiza o percurso. Um adulto faz cortes e prende as partes; espelhos sem bordas expostas ou material refletor próprio para escola reduzem risco. Uma superfície refletora mal alinhada pode impedir a visão do alvo.</p><h3>Observe, registre e explique</h3><p>Projete e construa com adulto um periscópio ou outro dispositivo óptico seguro, indicando função e percurso da luz. Teste em objeto comum do ambiente, registre um problema e uma melhoria. Explique dois usos sociais e um limite. Sem olhar Sol, laser, ferramentas quentes ou corte por estudantes; quando só houver plano, registre construção pendente.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "luneta_e_periscopio.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um projeto se torna dispositivo construído quando:",
+      "alternativas": [
+        "O desenho existe sozinho.",
+        "O objeto é montado e sua função pode ser testada.",
+        "O estudante promete fazê-lo depois."
+      ],
+      "correta": 1,
+      "explicacao": "Um periscópio simples pode usar dois espelhos seguros orientados de modo que a luz mude de direção até o observador. A caixa opaca organiza o percurso. Um adulto faz cortes e prende as partes; espelhos sem bordas expostas ou material refletor próprio para escola reduzem risco. Uma superfície refletora mal alinhada pode impedir a visão do alvo.",
+      "bncc": [
+        "EF05CI13"
+      ]
+    },
+    {
+      "id": "luneta_e_periscopio.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Projete e construa com adulto um periscópio ou outro dispositivo óptico seguro, indicando função e percurso da luz. Teste em objeto comum do ambiente, registre um problema e uma melhoria. Explique dois usos sociais e um limite. Sem olhar Sol, laser, ferramentas quentes ou corte por estudantes; quando só houver plano, registre construção pendente.",
+      "gabarito": "Exigir desenho, dispositivo real, teste e revisão, com justificativa da função e dos usos sociais. Não confundir lupa que amplia com aparelho que registra foto. Material e montagem precisam ser conferidos pelo adulto.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir desenho, dispositivo real, teste e revisão, com justificativa da função e dos usos sociais. Não confundir lupa que amplia com aparelho que registra foto. Material e montagem precisam ser conferidos pelo adulto.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF05CI13"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Lua e Instrumentos de Observação",
+    "titulo": "Luneta e Periscópio"
+  }
+}

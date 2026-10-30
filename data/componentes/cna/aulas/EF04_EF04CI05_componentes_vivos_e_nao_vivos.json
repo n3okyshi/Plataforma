@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 5,
+  "unidade": "Vida e Evolução",
+  "titulo": "Matéria em ciclo e energia em fluxo",
+  "bncc": [
+    "EF04CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe dois esquemas separados para um ambiente: percurso da matéria entre planta, consumidor, restos e decompositores; fluxo de energia com entrada luminosa e transferências ao ambiente. Compare uma semelhança e duas diferenças e explique por que matéria e energia não devem receber o mesmo desenho circular."
+    ],
+    "resumo": "Matéria em ciclo e energia em fluxo",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Matéria em ciclo e energia em fluxo</h2><h3>Ideias para investigar</h3><p>Nos ecossistemas, matéria passa entre ambiente e seres vivos e pode voltar a ser incorporada em outros processos. Energia entra nos exemplos principalmente pela luz solar e se transforma; parte é transferida ao ambiente como calor. Não se deve desenhar a energia como se reciclasse indefinidamente no mesmo circuito. Decompositores participam da transformação da matéria, não fabricam energia do nada.</p><h3>Exemplo comentado</h3><p>Folhas caem, são transformadas por decompositores e seus componentes podem participar novamente do ambiente e da nutrição de plantas. Isso não significa que a mesma folha volta intacta. A energia usada em cada etapa não retorna integralmente à planta como luz solar nova.</p><h3>Observe, registre e explique</h3><p>Desenhe dois esquemas separados para um ambiente: percurso da matéria entre planta, consumidor, restos e decompositores; fluxo de energia com entrada luminosa e transferências ao ambiente. Compare uma semelhança e duas diferenças e explique por que matéria e energia não devem receber o mesmo desenho circular.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "componentes_vivos_e_nao_vivos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual afirmação distingue os modelos?",
+      "alternativas": [
+        "A matéria pode circular; a energia flui e se transforma com transferência de calor.",
+        "Energia e matéria sempre fazem o mesmo circuito fechado.",
+        "Decompositores criam energia do nada."
+      ],
+      "correta": 0,
+      "explicacao": "Folhas caem, são transformadas por decompositores e seus componentes podem participar novamente do ambiente e da nutrição de plantas. Isso não significa que a mesma folha volta intacta. A energia usada em cada etapa não retorna integralmente à planta como luz solar nova.",
+      "bncc": [
+        "EF04CI05"
+      ]
+    },
+    {
+      "id": "componentes_vivos_e_nao_vivos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe dois esquemas separados para um ambiente: percurso da matéria entre planta, consumidor, restos e decompositores; fluxo de energia com entrada luminosa e transferências ao ambiente. Compare uma semelhança e duas diferenças e explique por que matéria e energia não devem receber o mesmo desenho circular.",
+      "gabarito": "Exigir setas e legendas que diferenciem ciclagem da matéria e fluxo de energia, incluindo componentes não vivos. Não aceitar energia criada pelos decompositores ou retorno integral da energia como nova luz solar.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir setas e legendas que diferenciem ciclagem da matéria e fluxo de energia, incluindo componentes não vivos. Não aceitar energia criada pelos decompositores ou retorno integral da energia como nova luz solar.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF04CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "titulo": "Componentes Vivos e Não Vivos"
+  }
+}

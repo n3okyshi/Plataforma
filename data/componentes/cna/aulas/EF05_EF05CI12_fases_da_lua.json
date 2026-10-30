@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef05.lua_e_instrumentos.fases_da_lua",
+  "componente": "cna",
+  "nivel": "EF05",
+  "ordem": 12,
+  "unidade": "Terra e Universo",
+  "titulo": "Lua: registros por pelo menos dois meses",
+  "bncc": [
+    "EF05CI12"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com mediação, mantenha diário por pelo menos dois meses, com datas, horários, desenhos da forma aparente e condições do céu. Use registros escolares compartilhados ou fontes astronômicas datadas quando necessário, identificando a origem. Compare retornos de formas semelhantes e conclua com limites; até completar o período, a evidência permanece em andamento."
+    ],
+    "resumo": "Lua: registros por pelo menos dois meses",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Lua: registros por pelo menos dois meses</h2><h3>Ideias para investigar</h3><p>As fases descrevem diferentes porções iluminadas da Lua que vemos da Terra. Não são causadas, em geral, pela sombra da Terra; eclipses são outra situação. O ciclo entre fases equivalentes dura aproximadamente 29 dias e meio, sem coincidir exatamente com todos os meses do calendário. Concluir periodicidade exige registros ao longo do tempo, não uma única noite.</p><h3>Exemplo comentado</h3><p>Um modelo com esfera iluminada ajuda a discutir a porção vista em posições diferentes, mas não substitui o diário. Registros podem incluir crescente, cheia, minguante e nova, com transições. Em fase nova, a observação direta pode não mostrar a Lua; céu nublado também impede vê-la, e as situações não devem ser confundidas.</p><h3>Observe, registre e explique</h3><p>Com mediação, mantenha diário por pelo menos dois meses, com datas, horários, desenhos da forma aparente e condições do céu. Use registros escolares compartilhados ou fontes astronômicas datadas quando necessário, identificando a origem. Compare retornos de formas semelhantes e conclua com limites; até completar o período, a evidência permanece em andamento.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fases_da_lua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "As fases da Lua são normalmente causadas pela sombra da Terra?",
+      "alternativas": [
+        "Sim, todas as noites.",
+        "Não; dependem da porção iluminada que vemos em diferentes posições.",
+        "Sim, como qualquer nuvem."
+      ],
+      "correta": 1,
+      "explicacao": "Um modelo com esfera iluminada ajuda a discutir a porção vista em posições diferentes, mas não substitui o diário. Registros podem incluir crescente, cheia, minguante e nova, com transições. Em fase nova, a observação direta pode não mostrar a Lua; céu nublado também impede vê-la, e as situações não devem ser confundidas.",
+      "bncc": [
+        "EF05CI12"
+      ]
+    },
+    {
+      "id": "fases_da_lua.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com mediação, mantenha diário por pelo menos dois meses, com datas, horários, desenhos da forma aparente e condições do céu. Use registros escolares compartilhados ou fontes astronômicas datadas quando necessário, identificando a origem. Compare retornos de formas semelhantes e conclua com limites; até completar o período, a evidência permanece em andamento.",
+      "gabarito": "Exigir intervalo mínimo de dois meses e procedência dos registros, sem inventar noites faltantes. Distinguir observação própria, compartilhada e fonte. A conclusão deve explicar recorrência aproximada e separar nuvens de fase nova; nota objetiva não encerra o acompanhamento.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir intervalo mínimo de dois meses e procedência dos registros, sem inventar noites faltantes. Distinguir observação própria, compartilhada e fonte. A conclusão deve explicar recorrência aproximada e separar nuvens de fase nova; nota objetiva não encerra o acompanhamento.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF05CI12"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Lua e Instrumentos de Observação",
+    "titulo": "Fases da Lua"
+  }
+}

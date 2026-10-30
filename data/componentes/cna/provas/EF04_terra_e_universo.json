@@ -1,0 +1,133 @@
+{
+  "id": "cna.ef04.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF04CI09",
+    "EF04CI10",
+    "EF04CI11"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 3, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef04.terra_e_universo.prova.09",
+    "cna.ef04.terra_e_universo.prova.10",
+    "cna.ef04.terra_e_universo.prova.11"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF04CI09",
+      "EF04CI10",
+      "EF04CI11"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Pontos cardeais pelo registro de sombras",
+        "enunciado": "Execute a observação com adulto em espaço seguro e marque horários e duas pontas de sombra de mesmo comprimento, usando a circunferência. Desenhe a linha estimada leste-oeste e a perpendicular norte-sul com mediação. Registre condições, orientação atribuída e limitações; em dia sem sombra definida, adie sem inventar dados.",
+        "gabarito": "Exigir registros comparáveis, identificação dos quatro pontos e explicação do procedimento. Conferir atribuição das direções com professor, evitando regra universal de sombra ao meio-dia. A montagem não permite olhar o Sol nem usar lentes.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registros comparáveis, identificação dos quatro pontos e explicação do procedimento. Conferir atribuição das direções com professor, evitando regra universal de sombra ao meio-dia. A montagem não permite olhar o Sol nem usar lentes.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI09"
+        ],
+        "atividadeOrigem": "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.investigacao"
+      },
+      {
+        "titulo": "Comparar gnômon e bússola",
+        "enunciado": "Use os registros do gnômon e uma bússola escolar em local seguro, manejada com orientação. Marque as direções sobre o mesmo esquema, sem aproximar ímãs. Registre uma semelhança, uma diferença e hipóteses para explicá-la. Repita a leitura afastando objetos metálicos próximos, sem alterar os dados anteriores.",
+        "gabarito": "Exigir duas leituras reais e comparação no mesmo referencial, com limites. Não obrigar coincidência perfeita nem tratar bússola como detector universal do norte geográfico. Se um recurso faltar, registrar a comparação como pendente.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir duas leituras reais e comparação no mesmo referencial, com limites. Não obrigar coincidência perfeita nem tratar bússola como detector universal do norte geográfico. Se um recurso faltar, registrar a comparação como pendente.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI10"
+        ],
+        "atividadeOrigem": "cna.ef04.orientacao_pelo_sol.bussola#bussola.investigacao"
+      },
+      {
+        "titulo": "Ciclos e calendários em diferentes culturas",
+        "enunciado": "Compare dois calendários culturais em fontes identificadas, um deles podendo ser o usado na escola. Registre o ciclo de referência, como organiza meses/ano e uma necessidade de ajuste ou diferença. Relacione uma data observada ao sistema, sem inventar equivalências; explique por que calendários diferentes não significam povos com mais ou menos conhecimento.",
+        "gabarito": "Exigir fontes e duas descrições contextualizadas, relacionando ciclos e organização cultural. Evitar estereótipos e a ideia de que mês gregoriano corresponde sempre a uma lunação. Não exigir cálculo avançado de conversão de datas.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir fontes e duas descrições contextualizadas, relacionando ciclos e organização cultural. Evitar estereótipos e a ideia de que mês gregoriano corresponde sempre a uma lunação. Não exigir cálculo avançado de conversão de datas.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI11"
+        ],
+        "atividadeOrigem": "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI09",
+      "questoes": [
+        "cna.ef04.terra_e_universo.prova.09"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI10",
+      "questoes": [
+        "cna.ef04.terra_e_universo.prova.10"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.orientacao_pelo_sol.bussola#bussola.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI11",
+      "questoes": [
+        "cna.ef04.terra_e_universo.prova.11"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.investigacao"
+      ]
+    }
+  ]
+}

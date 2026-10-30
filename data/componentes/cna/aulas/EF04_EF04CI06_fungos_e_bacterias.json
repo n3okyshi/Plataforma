@@ -1,0 +1,97 @@
+{
+  "id": "cna.ef04.microrganismos.fungos_e_bacterias",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 6,
+  "unidade": "Vida e Evolução",
+  "titulo": "Fungos, bactérias e decomposição",
+  "bncc": [
+    "EF04CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise registros de três momentos de compostagem ou decomposição fornecidos com fonte/data, ou observação externa segura organizada pelo professor. Descreva mudanças e explique a participação de fungos/bactérias e a importância ambiental. Não toque mofo, não cheire diretamente nem leve culturas para casa."
+    ],
+    "resumo": "Fungos, bactérias e decomposição",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Fungos, bactérias e decomposição</h2><h3>Ideias para investigar</h3><p>Fungos e bactérias participam da decomposição de matéria orgânica, junto a outros processos e organismos. Isso ajuda a disponibilizar componentes no ambiente. Nem todos os fungos ou bactérias são causadores de doenças. Observar decomposição não exige cultivar microrganismos desconhecidos ou abrir material mofado.</p><h3>Exemplo comentado</h3><p>Folhas acumuladas em ambiente úmido podem se fragmentar e mudar com o tempo. A aparência sozinha não identifica quais espécies de fungos ou bactérias atuaram. O professor pode oferecer registros identificados de compostagem; eles ajudam a analisar sem manipular amostras contaminadas.</p><h3>Observe, registre e explique</h3><p>Analise registros de três momentos de compostagem ou decomposição fornecidos com fonte/data, ou observação externa segura organizada pelo professor. Descreva mudanças e explique a participação de fungos/bactérias e a importância ambiental. Não toque mofo, não cheire diretamente nem leve culturas para casa.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fungos_e_bacterias.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual papel de fungos e bactérias está em estudo?",
+      "alternativas": [
+        "Transformar matéria orgânica na decomposição.",
+        "Criar luz solar.",
+        "Impedir qualquer ciclo de matéria."
+      ],
+      "correta": 0,
+      "explicacao": "Folhas acumuladas em ambiente úmido podem se fragmentar e mudar com o tempo. A aparência sozinha não identifica quais espécies de fungos ou bactérias atuaram. O professor pode oferecer registros identificados de compostagem; eles ajudam a analisar sem manipular amostras contaminadas.",
+      "bncc": [
+        "EF04CI06"
+      ]
+    },
+    {
+      "id": "fungos_e_bacterias.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Analise registros de três momentos de compostagem ou decomposição fornecidos com fonte/data, ou observação externa segura organizada pelo professor. Descreva mudanças e explique a participação de fungos/bactérias e a importância ambiental. Não toque mofo, não cheire diretamente nem leve culturas para casa.",
+      "gabarito": "Exigir sequência com origem, descrição e relação com transformação da matéria. Não identificar espécie só pela cor ou afirmar que todo fungo é patógeno. Se usar dados de terceiros, registrar essa condição em vez de alegar experimento próprio.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir sequência com origem, descrição e relação com transformação da matéria. Não identificar espécie só pela cor ou afirmar que todo fungo é patógeno. Se usar dados de terceiros, registrar essa condição em vez de alegar experimento próprio.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF04CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        199,
+        200,
+        201
+      ],
+      "paginasImpressas": "199–201",
+      "uso": "Fungos, decomposição e usos produtivos. Não reproduz a formulação inadequada de que medicamento seria simplesmente fungo em sua composição."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Microrganismos",
+    "titulo": "Fungos e Bactérias"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef05.consumo_consciente.usos_da_agua",
+  "componente": "cna",
+  "nivel": "EF05",
+  "ordem": 4,
+  "unidade": "Matéria e Energia",
+  "titulo": "Usos de água e materiais: propor redução",
+  "bncc": [
+    "EF05CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça levantamento escolar autorizado de três usos da água e três materiais, sem expor dados privados. Distinga necessidade e possível desperdício. Proponha duas ações com responsável, condição e indicador de acompanhamento; execute uma ação segura e registre resultado real ou o motivo da pendência."
+    ],
+    "resumo": "Usos de água e materiais: propor redução",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Usos de água e materiais: propor redução</h2><h3>Ideias para investigar</h3><p>Água e materiais participam de alimentação, higiene, limpeza, produção e outras atividades. Uso sustentável envolve reduzir desperdício e considerar necessidades e acesso, não impedir cuidados essenciais. Para propor mudança, identifique onde o recurso é usado, quem pode agir e como verificar o resultado. Estimativa não deve ser apresentada como medida.</p><h3>Exemplo comentado</h3><p>Um vazamento pede comunicar a equipe responsável; deixá-lo correr não é resolvido apenas por um cartaz. Usar o verso de papel limpo pode reduzir consumo, conforme a atividade. Economizar água não significa reutilizar água desconhecida para beber ou deixar de lavar as mãos.</p><h3>Observe, registre e explique</h3><p>Faça levantamento escolar autorizado de três usos da água e três materiais, sem expor dados privados. Distinga necessidade e possível desperdício. Proponha duas ações com responsável, condição e indicador de acompanhamento; execute uma ação segura e registre resultado real ou o motivo da pendência.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "usos_da_agua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual ação enfrenta um vazamento observado?",
+      "alternativas": [
+        "Ignorá-lo porque cartaz basta.",
+        "Avisar a equipe responsável e acompanhar o encaminhamento.",
+        "Provar a água para avaliar."
+      ],
+      "correta": 1,
+      "explicacao": "Um vazamento pede comunicar a equipe responsável; deixá-lo correr não é resolvido apenas por um cartaz. Usar o verso de papel limpo pode reduzir consumo, conforme a atividade. Economizar água não significa reutilizar água desconhecida para beber ou deixar de lavar as mãos.",
+      "bncc": [
+        "EF05CI04"
+      ]
+    },
+    {
+      "id": "usos_da_agua.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Faça levantamento escolar autorizado de três usos da água e três materiais, sem expor dados privados. Distinga necessidade e possível desperdício. Proponha duas ações com responsável, condição e indicador de acompanhamento; execute uma ação segura e registre resultado real ou o motivo da pendência.",
+      "gabarito": "Exigir usos identificados e ações viáveis com indicador, sem números inventados. Evitar culpabilizar famílias ou comprometer higiene. A execução deve ser registrada separadamente da proposta.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir usos identificados e ações viáveis com indicador, sem números inventados. Evitar culpabilizar famílias ou comprometer higiene. A execução deve ser registrada separadamente da proposta.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF05CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Consumo Consciente",
+    "titulo": "Usos da Água"
+  }
+}

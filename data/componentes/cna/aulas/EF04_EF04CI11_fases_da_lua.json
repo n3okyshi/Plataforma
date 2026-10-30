@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef04.calendarios_e_ciclos.fases_da_lua",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 11,
+  "unidade": "Terra e Universo",
+  "titulo": "Ciclos e calendários em diferentes culturas",
+  "bncc": [
+    "EF04CI11"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare dois calendários culturais em fontes identificadas, um deles podendo ser o usado na escola. Registre o ciclo de referência, como organiza meses/ano e uma necessidade de ajuste ou diferença. Relacione uma data observada ao sistema, sem inventar equivalências; explique por que calendários diferentes não significam povos com mais ou menos conhecimento."
+    ],
+    "resumo": "Ciclos e calendários em diferentes culturas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Ciclos e calendários em diferentes culturas</h2><h3>Ideias para investigar</h3><p>Dia, mês e ano relacionam-se a ciclos astronômicos, mas calendários são construções culturais que organizam esses ciclos de maneiras distintas. A rotação da Terra relaciona-se ao dia; a translação, ao ano; ciclos das fases da Lua inspiram meses em calendários lunares e lunissolares. Esses períodos não se encaixam em números inteiros perfeitos, exigindo ajustes em certos sistemas.</p><h3>Exemplo comentado</h3><p>O calendário gregoriano organiza meses de durações diferentes e usa ajustes de ano bissexto. Um calendário lunar acompanha ciclos da Lua; calendários lunissolares articulam referências lunares e solares com regras próprias. Não atribua uma única prática a todos os povos indígenas ou comunidades de uma mesma região.</p><h3>Observe, registre e explique</h3><p>Compare dois calendários culturais em fontes identificadas, um deles podendo ser o usado na escola. Registre o ciclo de referência, como organiza meses/ano e uma necessidade de ajuste ou diferença. Relacione uma data observada ao sistema, sem inventar equivalências; explique por que calendários diferentes não significam povos com mais ou menos conhecimento.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fases_da_lua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um mês do calendário gregoriano coincide sempre exatamente com um ciclo lunar?",
+      "alternativas": [
+        "Sim, sem exceção.",
+        "Não; calendários organizam ciclos com regras e ajustes.",
+        "O ano não tem relação com ciclos."
+      ],
+      "correta": 1,
+      "explicacao": "O calendário gregoriano organiza meses de durações diferentes e usa ajustes de ano bissexto. Um calendário lunar acompanha ciclos da Lua; calendários lunissolares articulam referências lunares e solares com regras próprias. Não atribua uma única prática a todos os povos indígenas ou comunidades de uma mesma região.",
+      "bncc": [
+        "EF04CI11"
+      ]
+    },
+    {
+      "id": "fases_da_lua.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare dois calendários culturais em fontes identificadas, um deles podendo ser o usado na escola. Registre o ciclo de referência, como organiza meses/ano e uma necessidade de ajuste ou diferença. Relacione uma data observada ao sistema, sem inventar equivalências; explique por que calendários diferentes não significam povos com mais ou menos conhecimento.",
+      "gabarito": "Exigir fontes e duas descrições contextualizadas, relacionando ciclos e organização cultural. Evitar estereótipos e a ideia de que mês gregoriano corresponde sempre a uma lunação. Não exigir cálculo avançado de conversão de datas.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir fontes e duas descrições contextualizadas, relacionando ciclos e organização cultural. Evitar estereótipos e a ideia de que mês gregoriano corresponde sempre a uma lunação. Não exigir cálculo avançado de conversão de datas.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF04CI11"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Calendários e Ciclos",
+    "titulo": "Fases da Lua"
+  }
+}

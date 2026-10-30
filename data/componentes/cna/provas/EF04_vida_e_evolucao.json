@@ -1,0 +1,206 @@
+{
+  "id": "cna.ef04.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF04CI04",
+    "EF04CI05",
+    "EF04CI06",
+    "EF04CI07",
+    "EF04CI08"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef04.vida_e_evolucao.prova.04",
+    "cna.ef04.vida_e_evolucao.prova.05",
+    "cna.ef04.vida_e_evolucao.prova.06",
+    "cna.ef04.vida_e_evolucao.prova.07",
+    "cna.ef04.vida_e_evolucao.prova.08"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF04CI04",
+      "EF04CI05",
+      "EF04CI06",
+      "EF04CI07",
+      "EF04CI08"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Cadeias alimentares e energia do Sol",
+        "enunciado": "Com fontes indicadas, selecione três ou quatro seres vivos de um ambiente conhecido e construa duas cadeias simples com setas e legenda. Identifique produtor, consumidores e papel do Sol. Explique uma limitação do modelo e confira se os animais realmente consomem o alimento indicado, sem alimentar ou capturar animais.",
+        "gabarito": "Exigir relações sustentadas por fonte, convenção de seta clara e posição dos componentes. Não aceitar Sol como consumidor nem uma sequência apenas por tamanho. Registrar que cadeias podem integrar redes mais complexas.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir relações sustentadas por fonte, convenção de seta clara e posição dos componentes. Não aceitar Sol como consumidor nem uma sequência apenas por tamanho. Registrar que cadeias podem integrar redes mais complexas.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI04"
+        ],
+        "atividadeOrigem": "cna.ef04.cadeias_alimentares.produtores#produtores.investigacao"
+      },
+      {
+        "titulo": "Matéria em ciclo e energia em fluxo",
+        "enunciado": "Desenhe dois esquemas separados para um ambiente: percurso da matéria entre planta, consumidor, restos e decompositores; fluxo de energia com entrada luminosa e transferências ao ambiente. Compare uma semelhança e duas diferenças e explique por que matéria e energia não devem receber o mesmo desenho circular.",
+        "gabarito": "Exigir setas e legendas que diferenciem ciclagem da matéria e fluxo de energia, incluindo componentes não vivos. Não aceitar energia criada pelos decompositores ou retorno integral da energia como nova luz solar.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir setas e legendas que diferenciem ciclagem da matéria e fluxo de energia, incluindo componentes não vivos. Não aceitar energia criada pelos decompositores ou retorno integral da energia como nova luz solar.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI05"
+        ],
+        "atividadeOrigem": "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.investigacao"
+      },
+      {
+        "titulo": "Fungos, bactérias e decomposição",
+        "enunciado": "Analise registros de três momentos de compostagem ou decomposição fornecidos com fonte/data, ou observação externa segura organizada pelo professor. Descreva mudanças e explique a participação de fungos/bactérias e a importância ambiental. Não toque mofo, não cheire diretamente nem leve culturas para casa.",
+        "gabarito": "Exigir sequência com origem, descrição e relação com transformação da matéria. Não identificar espécie só pela cor ou afirmar que todo fungo é patógeno. Se usar dados de terceiros, registrar essa condição em vez de alegar experimento próprio.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir sequência com origem, descrição e relação com transformação da matéria. Não identificar espécie só pela cor ou afirmar que todo fungo é patógeno. Se usar dados de terceiros, registrar essa condição em vez de alegar experimento próprio.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI06"
+        ],
+        "atividadeOrigem": "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.investigacao"
+      },
+      {
+        "titulo": "Microrganismos em processos produtivos",
+        "enunciado": "Com fontes identificadas, faça quadro de três usos: alimento, combustível e substância usada em medicamento, indicando o microrganismo ou grupo e sua participação. Observe uma demonstração de fermento comercial conduzida pelo adulto ou registro audiovisual identificado. Não consuma a montagem nem cultive microrganismos desconhecidos.",
+        "gabarito": "Exigir fontes reais, três usos e descrição do processo, sem atribuir todos a uma mesma espécie ou recomendar uso doméstico medicinal. Distinguir fermento comercial de mofo não identificado e demonstração de observação indireta.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir fontes reais, três usos e descrição do processo, sem atribuir todos a uma mesma espécie ou recomendar uso doméstico medicinal. Distinguir fermento comercial de mofo não identificado e demonstração de observação indireta.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI07"
+        ],
+        "atividadeOrigem": "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.investigacao"
+      },
+      {
+        "titulo": "Transmissão e prevenção: relacionar medidas",
+        "enunciado": "Compare três fichas de estudo, com mediação e fonte oficial: infecção viral por água/alimento contaminado, infecção bacteriana nessa via e protozoose relacionada à água. Para cada uma, registre agente/grupo, via e duas medidas coerentes. Produza explicação que inclua uma ação coletiva e não exponha casos de colegas.",
+        "gabarito": "Exigir relação agente/via/medida com fonte, sem diagnóstico, automedicação ou promessa de risco zero. Não tratar aparência da água como teste de potabilidade. As fichas podem usar rotavírus, bactérias intestinais e Giardia como exemplos mediados, mantendo a fonte e os limites.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir relação agente/via/medida com fonte, sem diagnóstico, automedicação ou promessa de risco zero. Não tratar aparência da água como teste de potabilidade. As fichas podem usar rotavírus, bactérias intestinais e Giardia como exemplos mediados, mantendo a fonte e os limites.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI08"
+        ],
+        "atividadeOrigem": "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        199,
+        200,
+        201
+      ],
+      "paginasImpressas": "199–201",
+      "uso": "Fungos, decomposição e usos produtivos. Não reproduz a formulação inadequada de que medicamento seria simplesmente fungo em sua composição."
+    },
+    {
+      "documento": "WHO — Diarrhoeal disease",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/Diarrhoeal-disease",
+      "uso": "Fonte oficial consultada sobre vias por água/alimentos e prevenção por água segura, saneamento e higiene; não é orientação de tratamento."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI04",
+      "questoes": [
+        "cna.ef04.vida_e_evolucao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.cadeias_alimentares.produtores#produtores.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI05",
+      "questoes": [
+        "cna.ef04.vida_e_evolucao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI06",
+      "questoes": [
+        "cna.ef04.vida_e_evolucao.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI07",
+      "questoes": [
+        "cna.ef04.vida_e_evolucao.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI08",
+      "questoes": [
+        "cna.ef04.vida_e_evolucao.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.investigacao"
+      ]
+    }
+  ]
+}

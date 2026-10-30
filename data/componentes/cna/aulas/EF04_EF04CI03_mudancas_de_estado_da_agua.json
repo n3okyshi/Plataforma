@@ -1,0 +1,100 @@
+{
+  "id": "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 3,
+  "unidade": "Matéria e Energia",
+  "titulo": "Mudanças reversíveis e não reversíveis",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Execute com adulto o ciclo gelo/água/gelo e registre os momentos. Compare com sequência identificada de um alimento antes/depois do cozimento, fornecida pelo professor. Explique qual mudança foi revertida e por que simplesmente resfriar não desfaz o cozimento. Indique as condições que você realmente observou."
+    ],
+    "resumo": "Mudanças reversíveis e não reversíveis",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Mudanças reversíveis e não reversíveis</h2><h3>Ideias para investigar</h3><p>Algumas transformações podem ser revertidas nas condições estudadas, como derreter e voltar a congelar água. Outras não retornam ao estado inicial apenas desfazendo o aquecimento, como ovo cozido. Reversível depende do processo e das condições: não é uma etiqueta que permite explicar toda transformação só pela aparência.</p><h3>Exemplo comentado</h3><p>Depois de derreter gelo, o adulto pode colocar a água no congelador e obter gelo novamente. Resfriar um ovo já cozido não o torna cru. O cozimento é discutido por registro ou alimento já preparado, sem manipulação de calor pelo estudante. Não se faz queima de papel para demonstrar irreversibilidade.</p><h3>Observe, registre e explique</h3><p>Execute com adulto o ciclo gelo/água/gelo e registre os momentos. Compare com sequência identificada de um alimento antes/depois do cozimento, fornecida pelo professor. Explique qual mudança foi revertida e por que simplesmente resfriar não desfaz o cozimento. Indique as condições que você realmente observou.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "mudancas_de_estado_da_agua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual mudança pode ser revertida no exemplo estudado?",
+      "alternativas": [
+        "Derreter água sólida e voltar a congelá-la.",
+        "Cozinhar ovo e apenas resfriá-lo para torná-lo cru.",
+        "Queimar papel e recolher as cinzas como folha original."
+      ],
+      "correta": 0,
+      "explicacao": "Depois de derreter gelo, o adulto pode colocar a água no congelador e obter gelo novamente. Resfriar um ovo já cozido não o torna cru. O cozimento é discutido por registro ou alimento já preparado, sem manipulação de calor pelo estudante. Não se faz queima de papel para demonstrar irreversibilidade.",
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "mudancas_de_estado_da_agua.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Execute com adulto o ciclo gelo/água/gelo e registre os momentos. Compare com sequência identificada de um alimento antes/depois do cozimento, fornecida pelo professor. Explique qual mudança foi revertida e por que simplesmente resfriar não desfaz o cozimento. Indique as condições que você realmente observou.",
+      "gabarito": "Exigir ciclo registrado e comparação fundamentada, sem afirmar que toda mudança é reversível ou que resfriamento desfaz qualquer transformação. Se o ciclo não for concluído, registrar pendência; imagens de modelo não equivalem à execução.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir ciclo registrado e comparação fundamentada, sem afirmar que toda mudança é reversível ou que resfriamento desfaz qualquer transformação. Se o ciclo não for concluído, registrar pendência; imagens de modelo não equivalem à execução.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "paginasImpressas": "73–78",
+      "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "titulo": "Mudanças de Estado da Água"
+  }
+}

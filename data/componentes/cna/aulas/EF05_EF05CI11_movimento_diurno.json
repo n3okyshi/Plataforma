@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef05.observando_o_ceu.movimento_diurno",
+  "componente": "cna",
+  "nivel": "EF05",
+  "ordem": 11,
+  "unidade": "Terra e Universo",
+  "titulo": "Rotação e movimento aparente diário",
+  "bncc": [
+    "EF05CI11"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construa com professor um modelo globo/lanterna comum, sem apontar aos olhos, marcando um observador. Explique como a rotação altera a região iluminada e a direção observada. Relacione a registros seguros de sombras e a sequência noturna identificada de estrelas; indique dois limites do modelo e não confunda ciclo diário com estações."
+    ],
+    "resumo": "Rotação e movimento aparente diário",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Rotação e movimento aparente diário</h2><h3>Ideias para investigar</h3><p>A rotação da Terra ajuda a explicar o movimento diário aparente do Sol e das demais estrelas. Ao mudar a orientação do lugar onde estamos, muda a direção para a qual observamos o céu. O Sol não precisa dar uma volta diária ao redor da Terra para explicar esse padrão. Rotação e translação são movimentos diferentes; nesta aula o foco é o ciclo diário.</p><h3>Exemplo comentado</h3><p>Um globo iluminado por uma lanterna fixa pode representar dia/noite. Marcando um ponto no globo e girando-o de oeste para leste, a iluminação desse ponto muda. A lanterna é analogia simplificada: distâncias e tamanhos não estão em escala. Observar a sombra de objetos evita olhar diretamente para o Sol.</p><h3>Observe, registre e explique</h3><p>Construa com professor um modelo globo/lanterna comum, sem apontar aos olhos, marcando um observador. Explique como a rotação altera a região iluminada e a direção observada. Relacione a registros seguros de sombras e a sequência noturna identificada de estrelas; indique dois limites do modelo e não confunda ciclo diário com estações.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "movimento_diurno.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O movimento aparente diário do Sol se relaciona principalmente à:",
+      "alternativas": [
+        "Rotação da Terra.",
+        "Mudança diária do tamanho do Sol.",
+        "Parada completa da Terra."
+      ],
+      "correta": 0,
+      "explicacao": "Um globo iluminado por uma lanterna fixa pode representar dia/noite. Marcando um ponto no globo e girando-o de oeste para leste, a iluminação desse ponto muda. A lanterna é analogia simplificada: distâncias e tamanhos não estão em escala. Observar a sombra de objetos evita olhar diretamente para o Sol.",
+      "bncc": [
+        "EF05CI11"
+      ]
+    },
+    {
+      "id": "movimento_diurno.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa com professor um modelo globo/lanterna comum, sem apontar aos olhos, marcando um observador. Explique como a rotação altera a região iluminada e a direção observada. Relacione a registros seguros de sombras e a sequência noturna identificada de estrelas; indique dois limites do modelo e não confunda ciclo diário com estações.",
+      "gabarito": "Exigir explicação do referencial do observador, rotação e movimento aparente, com limites da analogia. Não aceitar que o globo iluminado sozinho prove todos os movimentos do céu. Estrelas podem ser estudadas em registros identificados se a observação não for viável.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir explicação do referencial do observador, rotação e movimento aparente, com limites da analogia. Não aceitar que o globo iluminado sozinho prove todos os movimentos do céu. Estrelas podem ser estudadas em registros identificados se a observação não for viável.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF05CI11"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Observando o Céu",
+    "titulo": "Movimento Diurno do Céu"
+  }
+}
