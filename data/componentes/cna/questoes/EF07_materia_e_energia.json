@@ -1,0 +1,422 @@
+[
+  {
+    "id": "cna.ef07.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.maquinas_simples.alavanca",
+    "bncc": [
+      "EF07CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma rampa pode reduzir a força necessária à elevação ao:",
+    "opcoes": [
+      "Eliminar toda distância.",
+      "Aumentar o percurso em condições adequadas.",
+      "Criar energia do nada."
+    ],
+    "correta": 1,
+    "explicacao": "Uma rampa pode permitir elevar uma carga-modelo com menor força aplicada ao longo de percurso maior. Uma roldana fixa pode mudar a direção da força sem multiplicá-la no modelo ideal. Atrito e deformação tornam resultados reais diferentes das aproximações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.maquinas_simples.alavanca",
+    "bncc": [
+      "EF07CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma máquina simples deve ser analisada considerando:",
+    "opcoes": [
+      "Somente sua cor.",
+      "Força, percurso, direção e limitações reais.",
+      "Que sempre realiza qualquer tarefa sem energia."
+    ],
+    "correta": 1,
+    "explicacao": "O ganho mecânico não equivale a criação de energia nem ignora atrito e condições de uso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.calor_e_temperatura.temperatura",
+    "bncc": [
+      "EF07CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Calor é:",
+    "opcoes": [
+      "Uma substância presa na madeira.",
+      "Energia transferida devido a diferença de temperatura.",
+      "Sinônimo obrigatório de sensação agradável."
+    ],
+    "correta": 1,
+    "explicacao": "Metal e madeira deixados por tempo suficiente na mesma sala podem estar a temperaturas próximas, mas o metal pode retirar energia da mão mais rapidamente e parecer mais frio. Isso não faz do toque um termômetro preciso. Não se faz comparação com superfícies muito quentes ou frias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.calor_e_temperatura.temperatura",
+    "bncc": [
+      "EF07CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um metal parecer mais frio que madeira no mesmo ambiente pode se relacionar:",
+    "opcoes": [
+      "À criação de frio pelo metal.",
+      "À ausência total de energia na madeira.",
+      "À rapidez das trocas térmicas, sem provar por toque uma temperatura menor."
+    ],
+    "correta": 2,
+    "explicacao": "A sensação depende de como ocorre a transferência, não apenas da temperatura dos materiais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.garrafa_termica",
+    "bncc": [
+      "EF07CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O vácuo entre paredes reduz principalmente:",
+    "opcoes": [
+      "Toda transferência de modo absoluto.",
+      "A existência da energia.",
+      "Condução e convecção nesse espaço, sem eliminar radiação."
+    ],
+    "correta": 2,
+    "explicacao": "Uma garrafa térmica combina estratégias para reduzir diferentes trocas, como paredes separadas por vácuo e superfícies que influenciam radiação. O vácuo reduz condução/convecção entre paredes, mas não elimina radiação. Um coletor solar usa radiação recebida e transfere energia a um fluido; não equivale automaticamente a painel fotovoltaico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.garrafa_termica",
+    "bncc": [
+      "EF07CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um coletor solar térmico e um painel fotovoltaico:",
+    "opcoes": [
+      "Só funcionam porque não recebem radiação.",
+      "São obrigatoriamente o mesmo dispositivo.",
+      "Podem ter funções diferentes: aquecer fluido e converter energia luminosa em elétrica."
+    ],
+    "correta": 2,
+    "explicacao": "Relacionar função e mecanismo evita confundir tecnologias diferentes que usam energia solar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida",
+    "bncc": [
+      "EF07CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Equilíbrio térmico entre dois corpos significa:",
+    "opcoes": [
+      "Fonte ilimitada de trabalho.",
+      "Temperaturas iguais no modelo, sem calor por diferença entre eles.",
+      "Ausência de toda energia."
+    ],
+    "correta": 1,
+    "explicacao": "Uma bebida aproximando-se da temperatura da sala ilustra tendência ao equilíbrio. Um organismo pode manter condições internas por processos que exigem energia e trocas. Numa máquina térmica idealizada, parte da energia transferida pode virar trabalho e parte vai a uma fonte mais fria; não se converte tudo ciclicamente em trabalho sem outras consequências.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida",
+    "bncc": [
+      "EF07CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um organismo vivo deve ser tratado como:",
+    "opcoes": [
+      "Sistema que nunca troca energia.",
+      "Sistema aberto com processos e trocas, não simples equilíbrio uniforme com ambiente.",
+      "Máquina que dispensa alimento e energia."
+    ],
+    "correta": 1,
+    "explicacao": "A manutenção de condições internas envolve processos e fluxos, não isolamento absoluto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao",
+    "bncc": [
+      "EF07CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Renovável significa necessariamente impacto ambiental nulo?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; produção e uso também precisam ser avaliados.",
+      "Sim, se há propaganda favorável."
+    ],
+    "correta": 1,
+    "explicacao": "Vapor em certas máquinas históricas e motores de combustão em veículos representam usos diferentes de energia. Carvão, derivados de petróleo e biocombustíveis têm cadeias produtivas distintas. Dizer que um combustível é renovável não resolve sozinho questões de uso da terra, processamento e emissão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao",
+    "bncc": [
+      "EF07CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma comparação de combustíveis deve:",
+    "opcoes": [
+      "Usar somente o preço sem contexto.",
+      "Exigir queima na sala.",
+      "Considerar origem, infraestrutura, uso e impactos com fontes."
+    ],
+    "correta": 2,
+    "explicacao": "A decisão reúne múltiplos critérios e não transforma um atributo em avaliação completa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.tecnologia_e_sociedade.novos_materiais",
+    "bncc": [
+      "EF07CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma avaliação de automação deve perguntar:",
+    "opcoes": [
+      "Quem se beneficia, quem enfrenta barreiras e que mudanças de tarefa ocorrem.",
+      "Se toda pessoa pode ser excluída sem análise.",
+      "Só se o equipamento é bonito."
+    ],
+    "correta": 0,
+    "explicacao": "Um sistema digital de registro de empréstimos pode agilizar buscas e também exigir equipamentos, formação e cuidado com dados. Quem não tem acesso precisa de alternativa. Um material mais leve pode facilitar transporte, mas gerar desafios de produção e descarte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.tecnologia_e_sociedade.novos_materiais",
+    "bncc": [
+      "EF07CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um sistema digital mais rápido em uma tarefa:",
+    "opcoes": [
+      "Ainda pode exigir infraestrutura, formação e alternativas de acesso.",
+      "Garante acesso igual para todos automaticamente.",
+      "Elimina qualquer necessidade de formação."
+    ],
+    "correta": 0,
+    "explicacao": "Ganhos de desempenho não eliminam condições sociais e materiais de uso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

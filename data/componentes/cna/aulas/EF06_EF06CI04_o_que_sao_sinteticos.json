@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos",
+  "componente": "cna",
+  "nivel": "EF06",
+  "ordem": 4,
+  "unidade": "Matéria e Energia",
+  "titulo": "Materiais sintéticos, pesquisa e impactos",
+  "bncc": [
+    "EF06CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha um material sintético de objeto seguro e um exemplo de medicamento estudado em fonte institucional. Faça quadro com problema atendido, contribuição de pesquisa/tecnologia, benefício, impacto potencial e descarte segundo orientação verificada. Compare duas alternativas sem abrir comprimidos ou realizar síntese. Registre fontes e incertezas."
+    ],
+    "resumo": "Materiais sintéticos, pesquisa e impactos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Materiais sintéticos, pesquisa e impactos</h2><h3>Ideias para investigar</h3><p>Materiais sintéticos são produzidos por processos tecnológicos que podem transformar substâncias e controlar propriedades. Medicamentos e polímeros resultam de pesquisa, testes e produção regulada, com benefícios e impactos. Natural não é sinônimo de seguro, e sintético não é sinônimo de prejudicial. Avalie função, acesso, ciclo de produção, uso e descarte.</p><h3>Exemplo comentado</h3><p>Um plástico pode permitir dispositivo leve e resistente, mas seu descarte inadequado pode gerar persistência e fragmentação no ambiente. Medicamentos podem beneficiar a saúde quando usados adequadamente, mas a atividade não ensina fabricação, escolha de tratamento ou consumo. Uma avaliação considera o benefício e as condições de controle.</p><h3>Observe, registre e explique</h3><p>Escolha um material sintético de objeto seguro e um exemplo de medicamento estudado em fonte institucional. Faça quadro com problema atendido, contribuição de pesquisa/tecnologia, benefício, impacto potencial e descarte segundo orientação verificada. Compare duas alternativas sem abrir comprimidos ou realizar síntese. Registre fontes e incertezas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "o_que_sao_sinteticos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comparação é adequada?",
+      "alternativas": [
+        "Natural é sempre seguro.",
+        "Sintético é sempre inútil.",
+        "Benefícios e impactos dependem do material, do uso e do ciclo de vida."
+      ],
+      "correta": 2,
+      "explicacao": "Um plástico pode permitir dispositivo leve e resistente, mas seu descarte inadequado pode gerar persistência e fragmentação no ambiente. Medicamentos podem beneficiar a saúde quando usados adequadamente, mas a atividade não ensina fabricação, escolha de tratamento ou consumo. Uma avaliação considera o benefício e as condições de controle.",
+      "bncc": [
+        "EF06CI04"
+      ]
+    },
+    {
+      "id": "o_que_sao_sinteticos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha um material sintético de objeto seguro e um exemplo de medicamento estudado em fonte institucional. Faça quadro com problema atendido, contribuição de pesquisa/tecnologia, benefício, impacto potencial e descarte segundo orientação verificada. Compare duas alternativas sem abrir comprimidos ou realizar síntese. Registre fontes e incertezas.",
+      "gabarito": "Exigir análise equilibrada e referências, sem receituário ou afirmação de risco zero. Não generalizar todo produto de origem natural como seguro. Descarte deve ser conferido com fonte institucional/local; ausência de informação permanece pendente.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir análise equilibrada e referências, sem receituário ou afirmação de risco zero. Não generalizar todo produto de origem natural como seguro. Descarte deve ser conferido com fonte institucional/local; ausência de informação permanece pendente.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF06CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Materiais Sintéticos",
+    "titulo": "O Que São Materiais Sintéticos"
+  }
+}

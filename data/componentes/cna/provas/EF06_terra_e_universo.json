@@ -1,0 +1,167 @@
+{
+  "id": "cna.ef06.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF06",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF06CI11",
+    "EF06CI12",
+    "EF06CI13",
+    "EF06CI14"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef06.terra_e_universo.prova.11",
+    "cna.ef06.terra_e_universo.prova.12",
+    "cna.ef06.terra_e_universo.prova.13",
+    "cna.ef06.terra_e_universo.prova.14"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef06.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF06CI11",
+      "EF06CI12",
+      "EF06CI13",
+      "EF06CI14"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Camadas da Terra e atmosfera",
+        "enunciado": "Produza dois esquemas legendados: camadas por composição e distinção entre crosta/litosfera. Acrescente atmosfera e duas de suas regiões com fonte indicada, explicando mudança de critério. Identifique ao menos três simplificações do desenho e corrija a frase placas flutuam sobre um oceano inteiro de magma.",
+        "gabarito": "Exigir crosta/manto/núcleo, núcleo externo/interno e diferenciação litosfera/atmosfera. Não transferir o erro do manto líquido global. Registrar fontes e limites de escala/cor, sem prometer observação direta do interior.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir crosta/manto/núcleo, núcleo externo/interno e diferenciação litosfera/atmosfera. Não transferir o erro do manto líquido global. Registrar fontes e limites de escala/cor, sem prometer observação direta do interior.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI11"
+        ],
+        "atividadeOrigem": "cna.ef06.estrutura_da_terra.camadas_internas#camadas_internas.investigacao"
+      },
+      {
+        "titulo": "Rochas, formação e fósseis",
+        "enunciado": "Compare amostras seguras ou imagens identificadas dos três tipos de rocha. Faça quadro com processo de formação e evidência usada na identificação. Analise duas imagens de fósseis com contexto de camada/período fornecido por fonte e explique relação com sedimentação. Se criar molde, indique seus limites e não atribua idade real.",
+        "gabarito": "Exigir distinção de processos e relação contextual com fósseis. Não classificar só por cor nem afirmar que toda sedimentar possui fóssil. Usar períodos da fonte, sem inventar datação por aparência; não coletar em sítios protegidos.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir distinção de processos e relação contextual com fósseis. Não classificar só por cor nem afirmar que toda sedimentar possui fóssil. Usar períodos da fonte, sem inventar datação por aparência; não coletar em sítios protegidos.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI12"
+        ],
+        "atividadeOrigem": "cna.ef06.rochas_e_fosseis.tipos_de_rocha#tipos_de_rocha.investigacao"
+      },
+      {
+        "titulo": "Evidências da forma aproximadamente esférica",
+        "enunciado": "Selecione três conjuntos de evidências em fontes institucionais, registre origem e explique como cada um se relaciona à forma da Terra. Compare com a limitação de uma fotografia local do chão. Monte argumento com conclusão e limites, sem confundir modelo em papel com observação de toda a superfície.",
+        "gabarito": "Exigir três evidências explicadas e rastreáveis, não só lista de nomes. Não depender de autoridade sem examinar a relação evidência/conclusão. Diferenciar eclipse lunar de observação solar e reconhecer aproximação esférica.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir três evidências explicadas e rastreáveis, não só lista de nomes. Não depender de autoridade sem examinar a relação evidência/conclusão. Diferenciar eclipse lunar de observação solar e reconhecer aproximação esférica.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI13"
+        ],
+        "atividadeOrigem": "cna.ef06.forma_e_movimentos_da_terra.esfericidade#esfericidade.investigacao"
+      },
+      {
+        "titulo": "Sombras, movimentos e estações do ano",
+        "enunciado": "Registre sombras do mesmo gnômon em três horários de um dia e compare com outra época do ano por observação futura ou conjunto institucional identificado. Relacione diferenças à rotação, translação e inclinação, usando modelo seguro sem olhar o Sol. Distinga o que foi observado por você, o que é fonte e o que ainda depende de acompanhamento.",
+        "gabarito": "Exigir dados com local/data/horário, comparação entre épocas e modelo explicado. Não inventar meses de observação nem usar distância ao Sol como explicação única das estações. Quando faltar a segunda época, manter a conclusão anual pendente.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir dados com local/data/horário, comparação entre épocas e modelo explicado. Não inventar meses de observação nem usar distância ao Sol como explicação única das estações. Quando faltar a segunda época, manter a conclusão anual pendente.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI14"
+        ],
+        "atividadeOrigem": "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras#gnomon_e_sombras.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "USGS — Are the tectonic plates floating on magma?",
+      "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+      "uso": "Texto institucional recuperado pela busca: manto majoritariamente sólido, deformação lenta e distinção do núcleo externo líquido. Abertura direta retornou restrição de acesso; não se declara inspeção de figuras."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF06CI11",
+      "questoes": [
+        "cna.ef06.terra_e_universo.prova.11"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.estrutura_da_terra.camadas_internas#camadas_internas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI12",
+      "questoes": [
+        "cna.ef06.terra_e_universo.prova.12"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.rochas_e_fosseis.tipos_de_rocha#tipos_de_rocha.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI13",
+      "questoes": [
+        "cna.ef06.terra_e_universo.prova.13"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.forma_e_movimentos_da_terra.esfericidade#esfericidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI14",
+      "questoes": [
+        "cna.ef06.terra_e_universo.prova.14"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras#gnomon_e_sombras.investigacao"
+      ]
+    }
+  ]
+}

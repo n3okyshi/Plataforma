@@ -1,0 +1,206 @@
+{
+  "id": "cna.ef07.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF07",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF07CI07",
+    "EF07CI08",
+    "EF07CI09",
+    "EF07CI10",
+    "EF07CI11"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef07.vida_e_evolucao.prova.07",
+    "cna.ef07.vida_e_evolucao.prova.08",
+    "cna.ef07.vida_e_evolucao.prova.09",
+    "cna.ef07.vida_e_evolucao.prova.10",
+    "cna.ef07.vida_e_evolucao.prova.11"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef07.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF07CI07",
+      "EF07CI08",
+      "EF07CI09",
+      "EF07CI10",
+      "EF07CI11"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Ecossistemas brasileiros: comparar condições",
+        "enunciado": "Com fontes institucionais e mapas identificados, faça quadro dos seis biomas com água/sazonalidade, solo, luz/vegetação, temperatura em contexto e dois exemplos de flora/fauna para cada um. Escolha dois ecossistemas específicos e explique relações entre condições e seres vivos. Não invente medidas nem trate toda a região como igual.",
+        "gabarito": "Exigir quadro com fontes e exemplos verificados, comparação em escala adequada e relação condição/vida sem determinismo simples. Indicar dados ausentes e diferenças internas. Não usar porcentagens territoriais sem data e fonte.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir quadro com fontes e exemplos verificados, comparação em escala adequada e relação condição/vida sem determinismo simples. Indicar dados ausentes e diferenças internas. Não usar porcentagens territoriais sem data e fonte.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI07"
+        ],
+        "atividadeOrigem": "cna.ef07.ecossistemas_brasileiros.amazonia#amazonia.investigacao"
+      },
+      {
+        "titulo": "Mudanças ambientais e populações",
+        "enunciado": "Analise um caso real com fonte identificada ou conjunto de dados didáticos explicitamente simulado. Faça rede de relações entre alteração, habitat, recursos e populações. Distinga observado, hipótese e dado faltante; compare duas respostas possíveis e proponha monitoramento ou ação com critério, sem interferir em animais.",
+        "gabarito": "Exigir mecanismo plausível e sustentação, sem causalidade automática por simples sequência temporal. Diferenciar migração/redução local/extinção. Se os dados forem simulados, não apresentá-los como levantamento real.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir mecanismo plausível e sustentação, sem causalidade automática por simples sequência temporal. Diferenciar migração/redução local/extinção. Se os dados forem simulados, não apresentá-los como levantamento real.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI08"
+        ],
+        "atividadeOrigem": "cna.ef07.impactos_ambientais.catastrofes_naturais#catastrofes_naturais.investigacao"
+      },
+      {
+        "titulo": "Indicadores e políticas de saúde",
+        "enunciado": "Calcule e compare as taxas do modelo. Depois consulte painel oficial mediado de município/estado, registrando definição, fonte, ano e denominador para mortalidade infantil, saneamento e um indicador de doença. Relacione a uma política documentada e apresente uma hipótese de efeito com limites, sem dados identificáveis de pessoas.",
+        "gabarito": "Exigir contas corretas e fontes reais para a etapa local. Se não houver dado comparável, registrar limite. Não diagnosticar comunidade por um único indicador nem confundir correlação com prova de causalidade. Modelo não substitui pesquisa executada.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir contas corretas e fontes reais para a etapa local. Se não houver dado comparável, registrar limite. Não diagnosticar comunidade por um único indicador nem confundir correlação com prova de causalidade. Modelo não substitui pesquisa executada.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI09"
+        ],
+        "atividadeOrigem": "cna.ef07.saude_publica.indicadores_de_saude#indicadores_de_saude.investigacao"
+      },
+      {
+        "titulo": "Vacinação: mecanismo e história pública",
+        "enunciado": "Com fontes oficiais, construa esquema antígeno/resposta/memória e linha do tempo do caso da varíola, com vacinação e vigilância. Escreva argumento com benefício individual e coletivo, esclarecendo limites de proteção. Compare uma alegação sem fonte com evidência institucional, sem solicitar caderneta ou informações privadas de colegas.",
+        "gabarito": "Exigir mecanismo básico e história rastreável, sem promessa de risco zero ou afirmação de que toda vacina contém microrganismo vivo. Não prescrever calendário ou avaliar situação vacinal de estudantes; decisões individuais são outra atividade de saúde.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir mecanismo básico e história rastreável, sem promessa de risco zero ou afirmação de que toda vacina contém microrganismo vivo. Não prescrever calendário ou avaliar situação vacinal de estudantes; decisões individuais são outra atividade de saúde.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI10"
+        ],
+        "atividadeOrigem": "cna.ef07.vacinacao.como_a_vacina_age#como_a_vacina_age.investigacao"
+      },
+      {
+        "titulo": "Tecnologias, ambiente e qualidade de vida",
+        "enunciado": "Escolha uma tecnologia em dois períodos históricos e monte quadro com função, acesso, condições de trabalho, uso de recursos e um indicador de qualidade de vida pertinente. Use fontes identificadas e faça uma avaliação com benefício, custo e grupo afetado. Proponha melhoria sem desmontar equipamentos ou coletar resíduos perigosos.",
+        "gabarito": "Exigir comparação temporal contextualizada e indicadores com limites. Não confundir quantidade de dispositivos com acesso efetivo nem generalizar experiência individual a toda população.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir comparação temporal contextualizada e indicadores com limites. Não confundir quantidade de dispositivos com acesso efetivo nem generalizar experiência individual a toda população.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI11"
+        ],
+        "atividadeOrigem": "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia#historia_da_tecnologia.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        349
+      ],
+      "paginasImpressas": "347",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "IBGE — Biomas brasileiros",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18307-biomas-brasileiros.html",
+      "uso": "Descrição institucional recuperada por busca e nomenclatura dos seis biomas. Abertura direta restrita; não usa percentuais atuais nem declara acesso às figuras."
+    },
+    {
+      "documento": "WHO — How do vaccines work?",
+      "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+      "uso": "Mecanismo de resposta/memória e história da erradicação da varíola, sem calendário ou prescrição individual."
+    },
+    {
+      "documento": "CDC — Explaining How Vaccines Work",
+      "url": "https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html",
+      "uso": "Fonte oficial consultada sobre proteção e seus limites, sem transpor recomendações nacionais de calendário."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF07CI07",
+      "questoes": [
+        "cna.ef07.vida_e_evolucao.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.ecossistemas_brasileiros.amazonia#amazonia.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI08",
+      "questoes": [
+        "cna.ef07.vida_e_evolucao.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.impactos_ambientais.catastrofes_naturais#catastrofes_naturais.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI09",
+      "questoes": [
+        "cna.ef07.vida_e_evolucao.prova.09"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.saude_publica.indicadores_de_saude#indicadores_de_saude.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI10",
+      "questoes": [
+        "cna.ef07.vida_e_evolucao.prova.10"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.vacinacao.como_a_vacina_age#como_a_vacina_age.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI11",
+      "questoes": [
+        "cna.ef07.vida_e_evolucao.prova.11"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia#historia_da_tecnologia.investigacao"
+      ]
+    }
+  ]
+}

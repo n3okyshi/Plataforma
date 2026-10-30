@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida",
+  "componente": "cna",
+  "nivel": "EF07",
+  "ordem": 4,
+  "unidade": "Matéria e Energia",
+  "titulo": "Equilíbrio térmico, vida e máquinas",
+  "bncc": [
+    "EF07CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare três casos por esquemas: bebida na sala, ser vivo em troca com ambiente e máquina térmica. Identifique fronteira, trocas e diferenças relevantes. Avalie por que equilíbrio não é sinônimo de vida parada nem fonte ilimitada de trabalho; apresente um limite de cada modelo."
+    ],
+    "resumo": "Equilíbrio térmico, vida e máquinas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Equilíbrio térmico, vida e máquinas</h2><h3>Ideias para investigar</h3><p>Corpos em contato podem transferir energia até não haver diferença de temperatura que sustente calor entre eles. Esse equilíbrio térmico não significa ausência de toda energia. Seres vivos são sistemas abertos que trocam matéria e energia e mantêm processos; não precisam ter todo o corpo e ambiente à mesma temperatura para viver. Máquinas térmicas operam com diferenças e fluxos, não a partir de equilíbrio uniforme sem fonte.</p><h3>Exemplo comentado</h3><p>Uma bebida aproximando-se da temperatura da sala ilustra tendência ao equilíbrio. Um organismo pode manter condições internas por processos que exigem energia e trocas. Numa máquina térmica idealizada, parte da energia transferida pode virar trabalho e parte vai a uma fonte mais fria; não se converte tudo ciclicamente em trabalho sem outras consequências.</p><h3>Observe, registre e explique</h3><p>Compare três casos por esquemas: bebida na sala, ser vivo em troca com ambiente e máquina térmica. Identifique fronteira, trocas e diferenças relevantes. Avalie por que equilíbrio não é sinônimo de vida parada nem fonte ilimitada de trabalho; apresente um limite de cada modelo.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "equilibrio_e_vida.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Equilíbrio térmico entre dois corpos significa:",
+      "alternativas": [
+        "Temperaturas iguais no modelo, sem calor por diferença entre eles.",
+        "Ausência de toda energia.",
+        "Fonte ilimitada de trabalho."
+      ],
+      "correta": 0,
+      "explicacao": "Uma bebida aproximando-se da temperatura da sala ilustra tendência ao equilíbrio. Um organismo pode manter condições internas por processos que exigem energia e trocas. Numa máquina térmica idealizada, parte da energia transferida pode virar trabalho e parte vai a uma fonte mais fria; não se converte tudo ciclicamente em trabalho sem outras consequências.",
+      "bncc": [
+        "EF07CI04"
+      ]
+    },
+    {
+      "id": "equilibrio_e_vida.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare três casos por esquemas: bebida na sala, ser vivo em troca com ambiente e máquina térmica. Identifique fronteira, trocas e diferenças relevantes. Avalie por que equilíbrio não é sinônimo de vida parada nem fonte ilimitada de trabalho; apresente um limite de cada modelo.",
+      "gabarito": "Exigir distinção entre equilíbrio, manutenção de condições e fluxo energético. Não dizer que vida exige equilíbrio térmico total com ambiente ou que máquina funciona sem diferença de condições. Não envolver testes corporais.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir distinção entre equilíbrio, manutenção de condições e fluxo energético. Não dizer que vida exige equilíbrio térmico total com ambiente ou que máquina funciona sem diferença de condições. Não envolver testes corporais.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF07CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        349
+      ],
+      "paginasImpressas": "347",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Aplicações do Calor",
+    "titulo": "Equilíbrio Térmico e Vida"
+  }
+}

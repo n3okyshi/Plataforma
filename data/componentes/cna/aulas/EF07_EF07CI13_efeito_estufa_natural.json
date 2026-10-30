@@ -1,0 +1,92 @@
+{
+  "id": "cna.ef07.ar_e_atmosfera.efeito_estufa_natural",
+  "componente": "cna",
+  "nivel": "EF07",
+  "ordem": 13,
+  "unidade": "Terra e Universo",
+  "titulo": "Efeito estufa natural e intensificação",
+  "bncc": [
+    "EF07CI13"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza esquema do balanço de energia e compare efeito natural/intensificado. Com fonte institucional, relacione duas ações humanas a emissões ou perda de absorção. Selecione em grupo uma proposta escolar viável, execute ação autorizada e registre indicador e limite; não calcule emissões evitadas sem método e dados."
+    ],
+    "resumo": "Efeito estufa natural e intensificação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Efeito estufa natural e intensificação</h2><h3>Ideias para investigar</h3><p>Gases de efeito estufa absorvem e emitem radiação infravermelha, influenciando o balanço de energia e a temperatura terrestre. O fenômeno natural contribui para condições compatíveis com a vida. Aumento por ações humanas, como emissões de combustíveis fósseis e mudanças no uso da terra, intensifica o aquecimento. Não é o mesmo mecanismo da redução de ozônio estratosférico.</p><h3>Exemplo comentado</h3><p>No modelo, parte da energia solar é absorvida e a superfície emite infravermelho; gases interagem com essa radiação. A atmosfera não funciona como tampa impermeável que impede toda saída. Uma experiência de garrafa ao Sol não isola automaticamente o mecanismo radiativo e não deve ser apresentada como prova completa.</p><h3>Observe, registre e explique</h3><p>Produza esquema do balanço de energia e compare efeito natural/intensificado. Com fonte institucional, relacione duas ações humanas a emissões ou perda de absorção. Selecione em grupo uma proposta escolar viável, execute ação autorizada e registre indicador e limite; não calcule emissões evitadas sem método e dados.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "efeito_estufa_natural.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O efeito estufa natural:",
+      "alternativas": [
+        "Contribui para as condições térmicas da Terra.",
+        "É idêntico ao buraco de ozônio.",
+        "Impede toda energia de sair para sempre."
+      ],
+      "correta": 0,
+      "explicacao": "No modelo, parte da energia solar é absorvida e a superfície emite infravermelho; gases interagem com essa radiação. A atmosfera não funciona como tampa impermeável que impede toda saída. Uma experiência de garrafa ao Sol não isola automaticamente o mecanismo radiativo e não deve ser apresentada como prova completa.",
+      "bncc": [
+        "EF07CI13"
+      ]
+    },
+    {
+      "id": "efeito_estufa_natural.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Produza esquema do balanço de energia e compare efeito natural/intensificado. Com fonte institucional, relacione duas ações humanas a emissões ou perda de absorção. Selecione em grupo uma proposta escolar viável, execute ação autorizada e registre indicador e limite; não calcule emissões evitadas sem método e dados.",
+      "gabarito": "Exigir mecanismo e distinção do ozônio, causas antrópicas e proposta executada ou pendência explícita. Não afirmar que toda redução de consumo equivale a quantidade conhecida de carbono sem cálculo rastreável.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir mecanismo e distinção do ozônio, causas antrópicas e proposta executada ou pendência explícita. Não afirmar que toda redução de consumo equivale a quantidade conhecida de carbono sem cálculo rastreável.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF07CI13"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        349
+      ],
+      "paginasImpressas": "347",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — What is the greenhouse effect?",
+      "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+      "uso": "Mecanismo natural, intensificação antrópica e balanço energético; exemplos e tarefas autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Ar e Atmosfera",
+    "titulo": "Efeito Estufa Natural"
+  }
+}

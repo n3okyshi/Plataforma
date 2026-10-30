@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef07.impactos_ambientais.catastrofes_naturais",
+  "componente": "cna",
+  "nivel": "EF07",
+  "ordem": 8,
+  "unidade": "Vida e Evolução",
+  "titulo": "Mudanças ambientais e populações",
+  "bncc": [
+    "EF07CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise um caso real com fonte identificada ou conjunto de dados didáticos explicitamente simulado. Faça rede de relações entre alteração, habitat, recursos e populações. Distinga observado, hipótese e dado faltante; compare duas respostas possíveis e proponha monitoramento ou ação com critério, sem interferir em animais."
+    ],
+    "resumo": "Mudanças ambientais e populações",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Mudanças ambientais e populações</h2><h3>Ideias para investigar</h3><p>Alterações físicas, biológicas e sociais podem mudar habitats, alimento, abrigo e possibilidades de reprodução. Populações podem reduzir, deslocar-se ou alterar hábitos; a resposta depende de intensidade, duração, espécie e contexto. Desaparecer de um ponto observado não comprova extinção da espécie em todo o planeta. Causa e consequência precisam de evidências.</p><h3>Exemplo comentado</h3><p>Caso fictício: após retirada de vegetação junto a um curso de água, registros apontam menos abrigos e mudança nos encontros com aves. Isso pode motivar hipóteses de deslocamento ou redução local, não uma conclusão imediata de extinção global. Uma enchente e uma intervenção humana podem interagir, com efeitos diferentes sobre grupos.</p><h3>Observe, registre e explique</h3><p>Analise um caso real com fonte identificada ou conjunto de dados didáticos explicitamente simulado. Faça rede de relações entre alteração, habitat, recursos e populações. Distinga observado, hipótese e dado faltante; compare duas respostas possíveis e proponha monitoramento ou ação com critério, sem interferir em animais.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "catastrofes_naturais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Não observar uma espécie num local uma vez prova extinção global?",
+      "alternativas": [
+        "Sim, sempre.",
+        "Não; são necessárias evidências e escala de investigação adequadas.",
+        "Sim, se houve mudança ambiental."
+      ],
+      "correta": 1,
+      "explicacao": "Caso fictício: após retirada de vegetação junto a um curso de água, registros apontam menos abrigos e mudança nos encontros com aves. Isso pode motivar hipóteses de deslocamento ou redução local, não uma conclusão imediata de extinção global. Uma enchente e uma intervenção humana podem interagir, com efeitos diferentes sobre grupos.",
+      "bncc": [
+        "EF07CI08"
+      ]
+    },
+    {
+      "id": "catastrofes_naturais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Analise um caso real com fonte identificada ou conjunto de dados didáticos explicitamente simulado. Faça rede de relações entre alteração, habitat, recursos e populações. Distinga observado, hipótese e dado faltante; compare duas respostas possíveis e proponha monitoramento ou ação com critério, sem interferir em animais.",
+      "gabarito": "Exigir mecanismo plausível e sustentação, sem causalidade automática por simples sequência temporal. Diferenciar migração/redução local/extinção. Se os dados forem simulados, não apresentá-los como levantamento real.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir mecanismo plausível e sustentação, sem causalidade automática por simples sequência temporal. Diferenciar migração/redução local/extinção. Se os dados forem simulados, não apresentá-los como levantamento real.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF07CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        349
+      ],
+      "paginasImpressas": "347",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Impactos Ambientais",
+    "titulo": "Catástrofes Naturais"
+  }
+}
