@@ -1,0 +1,196 @@
+{
+  "id": "lip.ef06.midia_e_efeitos_de_sentido.prova",
+  "titulo": "Avaliação: Mídia e Efeitos de Sentido",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Mídia e Efeitos de Sentido",
+  "bncc": [
+    "EF67LP06",
+    "EF67LP07",
+    "EF67LP08",
+    "EF69LP04",
+    "EF69LP05"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos; nota proporcional aos acertos, divididos por 5, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+  "questoes": [
+    "lip.ef06.midia_e_efeitos_de_sentido.prova.01",
+    "lip.ef06.midia_e_efeitos_de_sentido.prova.02",
+    "lip.ef06.midia_e_efeitos_de_sentido.prova.03",
+    "lip.ef06.midia_e_efeitos_de_sentido.prova.04",
+    "lip.ef06.midia_e_efeitos_de_sentido.prova.05"
+  ],
+  "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.midia_e_efeitos_de_sentido.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Mídia e Efeitos de Sentido",
+    "enunciado": "Reúna as produções e versões revisadas. Gravações e imagens exigem recursos efetivamente produzidos; roteiro não comprova execução. Registre as limitações de suporte.",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF67LP06",
+      "EF67LP07",
+      "EF67LP08",
+      "EF69LP04",
+      "EF69LP05"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Seleção Lexical e Hierarquização",
+        "enunciado": "Compare A e B citando uma escolha lexical e a hierarquia das informações. Reescreva um título preservando os dados e explique seu novo recorte. Transforme um depoimento em terceira pessoa e discuta o efeito de distanciamento.",
+        "gabarito": "Exigir análise de ganha/só, posição de ampliação/número e reescrita sem alteração factual. A terceira pessoa deve ser reconhecida como escolha enunciativa, não prova de verdade.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir análise de ganha/só, posição de ampliação/número e reescrita sem alteração factual. A terceira pessoa deve ser reconhecida como escolha enunciativa, não prova de verdade.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP06"
+        ],
+        "atividadeOrigem": "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical#selecao_lexical.producao"
+      },
+      {
+        "titulo": "Recursos Persuasivos no Texto Argumentativo",
+        "enunciado": "Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida.",
+        "gabarito": "Esperar metáfora como associação positiva, registro como fonte conferível e crítica a todo mundo. Possível revisão: “Precisamos consultar outras turmas para conhecer a demanda”. Não exigir abandono da tese para reconhecer limites.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Esperar metáfora como associação positiva, registro como fonte conferível e crítica a todo mundo. Possível revisão: “Precisamos consultar outras turmas para conhecer a demanda”. Não exigir abandono da tese para reconhecer limites.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP07"
+        ],
+        "atividadeOrigem": "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos#recursos_persuasivos.producao"
+      },
+      {
+        "titulo": "Imagens, Sequências e Sobreposições",
+        "enunciado": "Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto.",
+        "gabarito": "Conferir árvores e contexto em A e recorte do banco em B; a ausência no enquadramento não prova inexistência. Legenda delimitada pode indicar detalhe do banco; enganosa pode afirmar ausência de árvores. Avaliar três quadros reais e justificativas.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir árvores e contexto em A e recorte do banco em B; a ausência no enquadramento não prova inexistência. Legenda delimitada pode indicar detalhe do banco; enganosa pode afirmar ausência de árvores. Avaliar três quadros reais e justificativas.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP08"
+        ],
+        "atividadeOrigem": "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido#imagens_e_sentido.producao"
+      },
+      {
+        "titulo": "Persuasão Publicitária",
+        "enunciado": "Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar.",
+        "gabarito": "Exigir ligação entre promessa identitária, destaque visual e urgência; separar preço declarado de resultado pessoal não comprovado. A decisão pode ser comprar, adiar ou não comprar, desde que justificada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir ligação entre promessa identitária, destaque visual e urgência; separar preço declarado de resultado pessoal não comprovado. A decisão pode ser comprar, adiar ou não comprar, desde que justificada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP04"
+        ],
+        "atividadeOrigem": "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria#persuasao_publicitaria.producao"
+      },
+      {
+        "titulo": "Humor, Ironia e Memes",
+        "enunciado": "Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas.",
+        "gabarito": "Exigir referência à economia declarada e ao desperdício visual, explicação da incongruência e dois quadros produzidos. Legenda alternativa pode mudar a voz ou intenção; avaliar pelas pistas, sem impor uma única formulação.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir referência à economia declarada e ao desperdício visual, explicação da incongruência e dois quadros produzidos. Legenda alternativa pode mudar a voz ou intenção; avaliar pelas pistas, sem impor uma única formulação.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP05"
+        ],
+        "atividadeOrigem": "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes#humor_ironia_e_memes.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF67LP06",
+      "questoes": [
+        "lip.ef06.midia_e_efeitos_de_sentido.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical#selecao_lexical.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP07",
+      "questoes": [
+        "lip.ef06.midia_e_efeitos_de_sentido.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos#recursos_persuasivos.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP08",
+      "questoes": [
+        "lip.ef06.midia_e_efeitos_de_sentido.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido#imagens_e_sentido.producao"
+      ]
+    },
+    {
+      "bncc": "EF69LP04",
+      "questoes": [
+        "lip.ef06.midia_e_efeitos_de_sentido.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria#persuasao_publicitaria.producao"
+      ]
+    },
+    {
+      "bncc": "EF69LP05",
+      "questoes": [
+        "lip.ef06.midia_e_efeitos_de_sentido.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes#humor_ironia_e_memes.producao"
+      ]
+    }
+  ]
+}

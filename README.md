@@ -83,3 +83,7 @@ Cinco aulas, dez atividades, cinco questões de treino e cinco itens próprios d
 ## Português EF06: Leitura e Gêneros
 
 Sete aulas, quatorze atividades, sete questões de treino e sete itens próprios de prova, com portfólio. Hiperlinks internos reais e textos fictícios identificados. Publicação e comparação real exigem registros. Acumulado: 35 aulas, 70 atividades, 34 itens por banco e sete avaliações (uma complementar). Restam 26 entradas planejadas de EF06 sem autoria. Homologação docente, aplicação, visual/acessibilidade e Firebase/cache reais continuam pendentes.
+
+## Português EF06: Mídia e Produção de Textos
+
+Doze aulas e vinte e quatro atividades adicionais, com doze itens por banco, duas provas e portfólios. Ilustrações autorais incorporadas para enquadramento, publicidade e humor. Notícias apuradas, gravações e apresentações exigem entregas reais; roteiros e modelos não comprovam execução. Acumulado: 47 aulas, 94 atividades, 46 itens por banco e nove avaliações (uma complementar). Restam 14 entradas planejadas de EF06. Demais anos e Ciências seguem pendentes de autoria. Homologação docente, visual/acessibilidade e Firebase/cache reais continuam pendentes.

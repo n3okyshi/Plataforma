@@ -1,0 +1,254 @@
+{
+  "id": "lip.ef06.producao_de_textos.prova",
+  "titulo": "Avaliação: Produção de Textos",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Produção de Textos",
+  "bncc": [
+    "EF06LP12",
+    "EF67LP09",
+    "EF67LP10",
+    "EF67LP11",
+    "EF67LP12",
+    "EF67LP13",
+    "EF67LP22"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "7 itens objetivos; nota proporcional aos acertos, divididos por 7, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+  "questoes": [
+    "lip.ef06.producao_de_textos.prova.01",
+    "lip.ef06.producao_de_textos.prova.02",
+    "lip.ef06.producao_de_textos.prova.03",
+    "lip.ef06.producao_de_textos.prova.04",
+    "lip.ef06.producao_de_textos.prova.05",
+    "lip.ef06.producao_de_textos.prova.06",
+    "lip.ef06.producao_de_textos.prova.07"
+  ],
+  "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.producao_de_textos.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Produção de Textos",
+    "enunciado": "Reúna as produções e versões revisadas. Gravações e imagens exigem recursos efetivamente produzidos; roteiro não comprova execução. Registre as limitações de suporte.",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF06LP12",
+      "EF67LP09",
+      "EF67LP10",
+      "EF67LP11",
+      "EF67LP12",
+      "EF67LP13",
+      "EF67LP22"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Planejar uma Notícia",
+        "enunciado": "Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências.",
+        "gabarito": "Exigir pauta real com dados de fontes e distinção entre previsto e apurado. Imagens e entrevistas exigem cuidados de autorização escolar. O roteiro deve adaptar a informação para escuta; não tratar a simples lista de perguntas como apuração executada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir pauta real com dados de fontes e distinção entre previsto e apurado. Imagens e entrevistas exigem cuidados de autorização escolar. O roteiro deve adaptar a informação para escuta; não tratar a simples lista de perguntas como apuração executada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP09"
+        ],
+        "atividadeOrigem": "lip.ef06.producao_de_textos.planejar_noticia#planejar_noticia.producao"
+      },
+      {
+        "titulo": "Textualizar a Notícia",
+        "enunciado": "Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade.",
+        "gabarito": "Conferir dados com a pauta, hierarquia, título e precisão. Na versão sonora, exigir áudio realmente produzido e registro de edição, não apenas roteiro. Se houver barreira de acesso, admitir trabalho mediado ou outro suporte com registro do limite, sem afirmar a modalidade executada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir dados com a pauta, hierarquia, título e precisão. Na versão sonora, exigir áudio realmente produzido e registro de edição, não apenas roteiro. Se houver barreira de acesso, admitir trabalho mediado ou outro suporte com registro do limite, sem afirmar a modalidade executada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP10"
+        ],
+        "atividadeOrigem": "lip.ef06.producao_de_textos.textualizar_noticia#textualizar_noticia.producao"
+      },
+      {
+        "titulo": "Planejar Resenha e Vlog",
+        "enunciado": "Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação.",
+        "gabarito": "Exigir identificação correta da obra, critérios específicos e exemplos verificáveis, não pesquisa inventada. O plano deve distinguir síntese e avaliação e adaptar a exposição ao público. Gravação não é exigida como evidência de planejamento.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir identificação correta da obra, critérios específicos e exemplos verificáveis, não pesquisa inventada. O plano deve distinguir síntese e avaliação e adaptar a exposição ao público. Gravação não é exigida como evidência de planejamento.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP11"
+        ],
+        "atividadeOrigem": "lip.ef06.producao_de_textos.planejar_resenha#planejar_resenha.producao"
+      },
+      {
+        "titulo": "Produzir Resenha Crítica",
+        "enunciado": "Produza resenha de 150 a 250 palavras a partir do plano. Inclua identificação, síntese, duas avaliações justificadas e recomendação delimitada. Grave uma apresentação de até dois minutos, ou execute versão oral mediada se necessário, registrando o suporte adotado. Revise após ouvir ou receber devolutiva.",
+        "gabarito": "Conferir relação com a obra e plano, duas razões com exemplos, recomendação e revisão. Exigir arquivo ou registro real da apresentação, com o suporte indicado. Não impor opinião favorável nem confundir limite de acesso com produção executada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir relação com a obra e plano, duas razões com exemplos, recomendação e revisão. Exigir arquivo ou registro real da apresentação, com o suporte indicado. Não impor opinião favorável nem confundir limite de acesso com produção executada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP12"
+        ],
+        "atividadeOrigem": "lip.ef06.producao_de_textos.produzir_resenha#produzir_resenha.producao"
+      },
+      {
+        "titulo": "Produzir e Editar Texto Publicitário",
+        "enunciado": "Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas.",
+        "gabarito": "Exigir duas versões, imagem efetiva, texto legível, relação persuasiva explicada e dados de serviço coerentes. Em simulação, sinalização visível. Avaliar teste e revisões; não exigir publicação externa nem avaliar pelo sucesso comercial.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir duas versões, imagem efetiva, texto legível, relação persuasiva explicada e dados de serviço coerentes. Em simulação, sinalização visível. Avaliar teste e revisões; não exigir publicação externa nem avaliar pelo sucesso comercial.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP13"
+        ],
+        "atividadeOrigem": "lip.ef06.producao_de_textos.produzir_publicidade#produzir_publicidade.producao"
+      },
+      {
+        "titulo": "Coesão Referencial e Sequencial na Produção",
+        "enunciado": "Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas.",
+        "gabarito": "Conferir produção efetiva e identificação de todos os recursos: retomada, sinonímia, antonímia, homonímia e duas formas de representar a voz. Aceitar exemplos diversos justificados. Exigir correspondência de sentido entre fala direta e indireta; a simples marcação de classes não encerra a tarefa.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir produção efetiva e identificação de todos os recursos: retomada, sinonímia, antonímia, homonímia e duas formas de representar a voz. Aceitar exemplos diversos justificados. Exigir correspondência de sentido entre fala direta e indireta; a simples marcação de classes não encerra a tarefa.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF06LP12"
+        ],
+        "atividadeOrigem": "lip.ef06.producao_de_textos.coesao_referencial_na_producao#coesao_referencial_na_producao.producao"
+      },
+      {
+        "titulo": "Resumo, Paráfrase e Citação",
+        "enunciado": "Faça notas e um esquema do texto-base. Escreva resumo de duas frases com paráfrase e uma citação curta identificada como proveniente do texto autoral fictício desta aula. Compare com a fonte, retirando repetição desnecessária e qualquer generalização sobre os demais dias.",
+        "gabarito": "Exigir notas/esquema anteriores, preservação das três informações relevantes, paráfrase própria e citação literal delimitada e atribuída. Não transformar primeiro dia em frequência diária. Conferir coerência entre resumo e fonte e registro da revisão.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir notas/esquema anteriores, preservação das três informações relevantes, paráfrase própria e citação literal delimitada e atribuída. Não transformar primeiro dia em frequência diária. Conferir coerência entre resumo e fonte e registro da revisão.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP22"
+        ],
+        "atividadeOrigem": "lip.ef06.producao_de_textos.resumo_e_parafrase#resumo_e_parafrase.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF06LP12",
+      "questoes": [
+        "lip.ef06.producao_de_textos.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.producao_de_textos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.producao_de_textos.coesao_referencial_na_producao#coesao_referencial_na_producao.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP09",
+      "questoes": [
+        "lip.ef06.producao_de_textos.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.producao_de_textos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.producao_de_textos.planejar_noticia#planejar_noticia.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP10",
+      "questoes": [
+        "lip.ef06.producao_de_textos.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.producao_de_textos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.producao_de_textos.textualizar_noticia#textualizar_noticia.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP11",
+      "questoes": [
+        "lip.ef06.producao_de_textos.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.producao_de_textos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.producao_de_textos.planejar_resenha#planejar_resenha.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP12",
+      "questoes": [
+        "lip.ef06.producao_de_textos.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.producao_de_textos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.producao_de_textos.produzir_resenha#produzir_resenha.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP13",
+      "questoes": [
+        "lip.ef06.producao_de_textos.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.producao_de_textos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.producao_de_textos.produzir_publicidade#produzir_publicidade.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP22",
+      "questoes": [
+        "lip.ef06.producao_de_textos.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.producao_de_textos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.producao_de_textos.resumo_e_parafrase#resumo_e_parafrase.producao"
+      ]
+    }
+  ]
+}

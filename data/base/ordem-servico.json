@@ -3,46 +3,6 @@
   "etapas": [
     {
       "ordem": 1,
-      "trabalho": "Inventariar a base e registrar lacunas técnicas e pedagógicas",
-      "estado": "em_andamento"
-    },
-    {
-      "ordem": 2,
-      "trabalho": "Formalizar esquemas de aulas, questões e provas",
-      "estado": "entregue_inicial"
-    },
-    {
-      "ordem": 3,
-      "trabalho": "Normalizar níveis e componentes",
-      "estado": "em_andamento"
-    },
-    {
-      "ordem": 4,
-      "trabalho": "Corrigir seleção da arena",
-      "estado": "entregue_inicial"
-    },
-    {
-      "ordem": 5,
-      "trabalho": "Catalogar fontes por etapa, área e série",
-      "estado": "em_andamento"
-    },
-    {
-      "ordem": 6,
-      "trabalho": "Confrontar habilidades, conteúdos existentes e ausentes",
-      "estado": "em_andamento"
-    },
-    {
-      "trabalho": "Completar Matemática EF01–EF09 e EM01–EM03 em todas as camadas para testes",
-      "estado": "conteudo_integral_para_testes",
-      "pendencias": [
-        "Homologação docente e aplicação real.",
-        "Revisão visual e acessibilidade.",
-        "Autenticação, Firebase e cache real."
-      ],
-      "ordem": 7
-    },
-    {
-      "ordem": 8,
       "trabalho": "Completar todas as unidades de Língua Portuguesa do 1º ao 9º ano em todas as camadas",
       "estado": "em_andamento",
       "subescopos": [
@@ -54,7 +14,9 @@
             "Classes Gramaticais",
             "Sintaxe da Oração",
             "Ortografia e Pontuação",
-            "Leitura e Gêneros"
+            "Leitura e Gêneros",
+            "Mídia e Efeitos de Sentido",
+            "Produção de Textos"
           ],
           "demaisUnidades": "pendentes",
           "pendencias": [
@@ -69,22 +31,62 @@
       ]
     },
     {
-      "ordem": 9,
+      "ordem": 2,
       "trabalho": "Completar Língua Portuguesa do 1º ao 3º ano do Ensino Médio em todas as camadas e realizar testes",
       "estado": "pendente"
     },
     {
-      "ordem": 10,
+      "ordem": 3,
       "trabalho": "Completar todas as unidades de Ciências da Natureza do 1º ao 9º ano em todas as camadas",
       "estado": "pendente"
     },
     {
-      "ordem": 11,
+      "ordem": 4,
       "trabalho": "Expandir por componente e etapa até finalizar todas as disciplinas das etapas correspondentes",
       "estado": "pendente"
+    },
+    {
+      "ordem": 5,
+      "trabalho": "Inventariar a base e registrar lacunas técnicas e pedagógicas",
+      "estado": "em_andamento"
+    },
+    {
+      "ordem": 6,
+      "trabalho": "Formalizar esquemas de aulas, questões e provas",
+      "estado": "entregue_inicial"
+    },
+    {
+      "ordem": 7,
+      "trabalho": "Normalizar níveis e componentes",
+      "estado": "em_andamento"
+    },
+    {
+      "ordem": 8,
+      "trabalho": "Corrigir seleção da arena",
+      "estado": "entregue_inicial"
+    },
+    {
+      "ordem": 9,
+      "trabalho": "Catalogar fontes por etapa, área e série",
+      "estado": "em_andamento"
+    },
+    {
+      "ordem": 10,
+      "trabalho": "Confrontar habilidades, conteúdos existentes e ausentes",
+      "estado": "em_andamento"
+    },
+    {
+      "trabalho": "Completar Matemática EF01–EF09 e EM01–EM03 em todas as camadas para testes",
+      "estado": "conteudo_integral_para_testes",
+      "pendencias": [
+        "Homologação docente e aplicação real.",
+        "Revisão visual e acessibilidade.",
+        "Autenticação, Firebase e cache real."
+      ],
+      "ordem": 11
     }
   ],
-  "marcoAtual": "Matemática nos 12 anos e seis unidades curriculares de Português EF06 para testes. Próxima autoria: Mídia e Efeitos de Sentido EF06. Nenhum lote homologado.",
+  "marcoAtual": "Matemática nos 12 anos e oito unidades curriculares de Português EF06 para testes. Próxima autoria: Oralidade EF06. Nenhum lote homologado.",
   "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos.",
   "criteriosDeConclusao": [
     "Todas as camadas têm fonte rastreável e conteúdo efetivo.",

@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.producao_de_textos.planejar_resenha",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 43,
+  "unidade": "Produção de Textos",
+  "titulo": "Planejar Resenha e Vlog",
+  "bncc": [
+    "EF67LP11"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação."
+    ],
+    "resumo": "Planejar Resenha e Vlog",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planejar Resenha e Vlog</h2><p>Planejar resenha é selecionar uma obra ou evento realmente conhecido, identificar autoria e contexto e escolher critérios de apreciação. Resumo apresenta aspectos da obra; avaliação julga com razões. Defina público e suporte: texto, áudio ou vídeo pedem organização diferente. Evite spoilers sem aviso e não atribua à obra características que não verificou.</p><h3>Exemplo comentado</h3><p>Microrrelato autoral para apreciação: “A chave. Lia procurou a chave pela casa. No bolso do casaco, encontrou um bilhete: A chave está na porta. Riu e saiu.” Uma resenha pode discutir a brevidade, a busca e a solução, em vez de apenas dizer gostei. Essa obra curta pode ser usada como apoio, mas não substitui contato com a obra escolhida.</p><h3>Produza e revise</h3><p>Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "planejar_resenha.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual escolha melhora o planejamento de resenha?",
+      "alternativas": [
+        "Avaliar sem conhecer a obra.",
+        "Definir critérios e exemplos observados na obra.",
+        "Copiar uma avaliação alheia sem crédito.",
+        "Omitir o público."
+      ],
+      "correta": 1,
+      "explicacao": "Microrrelato autoral para apreciação: “A chave. Lia procurou a chave pela casa. No bolso do casaco, encontrou um bilhete: A chave está na porta. Riu e saiu.” Uma resenha pode discutir a brevidade, a busca e a solução, em vez de apenas dizer gostei. Essa obra curta pode ser usada como apoio, mas não substitui contato com a obra escolhida.",
+      "bncc": [
+        "EF67LP11"
+      ]
+    },
+    {
+      "id": "planejar_resenha.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação.",
+      "gabarito": "Exigir identificação correta da obra, critérios específicos e exemplos verificáveis, não pesquisa inventada. O plano deve distinguir síntese e avaliação e adaptar a exposição ao público. Gravação não é exigida como evidência de planejamento.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir identificação correta da obra, critérios específicos e exemplos verificáveis, não pesquisa inventada. O plano deve distinguir síntese e avaliação e adaptar a exposição ao público. Gravação não é exigida como evidência de planejamento.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP11"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

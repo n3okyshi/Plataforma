@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.producao_de_textos.planejar_noticia",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 41,
+  "unidade": "Produção de Textos",
+  "titulo": "Planejar uma Notícia",
+  "bncc": [
+    "EF67LP09"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências."
+    ],
+    "resumo": "Planejar uma Notícia",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planejar uma Notícia</h2><p>Planejar notícia exige escolher fato relevante, público, veículo e fontes. Registre o que sabe e o que ainda precisa apurar. Diferencie informação observada, documento e fala de entrevistado. Planeje também imagens, legendas, permissões e, na internet, links com função. Um plano não é uma apuração concluída.</p><h3>Exemplo comentado</h3><p>Plano-modelo fictício: fato, abertura de biblioteca; público, comunidade escolar; fontes a consultar, comunicado de horário e responsável; perguntas, quando começa e quem será atendido; imagem, entrada sem rostos identificáveis; link, comunicado. Um roteiro de rádio transforma informações em falas curtas e indica sons que precisam ser produzidos.</p><h3>Produza e revise</h3><p>Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "planejar_noticia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual item indica apuração a realizar, sem fingir conclusão?",
+      "alternativas": [
+        "Inventar uma fala para completar a pauta.",
+        "Listar fonte e pergunta ainda não respondida como pendência.",
+        "Apagar toda dúvida.",
+        "Usar uma foto sem origem."
+      ],
+      "correta": 1,
+      "explicacao": "Plano-modelo fictício: fato, abertura de biblioteca; público, comunidade escolar; fontes a consultar, comunicado de horário e responsável; perguntas, quando começa e quem será atendido; imagem, entrada sem rostos identificáveis; link, comunicado. Um roteiro de rádio transforma informações em falas curtas e indica sons que precisam ser produzidos.",
+      "bncc": [
+        "EF67LP09"
+      ]
+    },
+    {
+      "id": "planejar_noticia.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências.",
+      "gabarito": "Exigir pauta real com dados de fontes e distinção entre previsto e apurado. Imagens e entrevistas exigem cuidados de autorização escolar. O roteiro deve adaptar a informação para escuta; não tratar a simples lista de perguntas como apuração executada.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir pauta real com dados de fontes e distinção entre previsto e apurado. Imagens e entrevistas exigem cuidados de autorização escolar. O roteiro deve adaptar a informação para escuta; não tratar a simples lista de perguntas como apuração executada.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP09"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

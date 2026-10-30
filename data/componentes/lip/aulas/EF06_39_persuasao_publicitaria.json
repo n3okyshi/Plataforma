@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 39,
+  "unidade": "Mídia e Efeitos de Sentido",
+  "titulo": "Persuasão Publicitária",
+  "bncc": [
+    "EF69LP04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar."
+    ],
+    "resumo": "Persuasão Publicitária",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Persuasão Publicitária</h2><p>Publicidade associa recursos verbais e visuais a um produto, serviço ou ideia. Slogan, imperativo, promessa de identidade e urgência podem influenciar uma decisão. Ler criticamente envolve separar características verificáveis de promessas vagas e perguntar se a compra atende a uma necessidade. Nem todo anúncio informa preço total, condições ou limites.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 520 200\" role=\"img\" aria-label=\"Anúncio fictício de caderno: letras grandes dizem Sua melhor versão começa aqui; abaixo, oferta de 30 reais e frase estoque limitado. Um caderno amarelo ocupa o centro.\"><rect width=\"520\" height=\"200\" fill=\"#173b52\"/><rect x=\"370\" y=\"50\" width=\"95\" height=\"120\" rx=\"5\" fill=\"#ffd65a\"/><g fill=\"white\" font-size=\"21\"><text x=\"20\" y=\"40\">SUA MELHOR VERSÃO</text><text x=\"20\" y=\"70\">COMEÇA AQUI</text><text x=\"20\" y=\"120\">Caderno: R$ 30</text><text x=\"20\" y=\"160\" font-size=\"16\">Estoque limitado — oferta fictícia</text></g></svg><p>No anúncio fictício, a frase associa comprar um caderno a tornar-se uma versão melhor de si. A cor e o tamanho tornam o produto destacado. Estoque limitado cria urgência, sem informar quantidade. O preço não prova qualidade nem mudança pessoal.</p></p><h3>Produza e revise</h3><p>Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "persuasao_publicitaria.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "“Sua melhor versão começa aqui” procura principalmente:",
+      "alternativas": [
+        "Comprovar uma mudança pessoal.",
+        "Associar o produto a uma imagem desejada de si.",
+        "Informar a gramatura exata.",
+        "Demonstrar durabilidade por ensaio."
+      ],
+      "correta": 1,
+      "explicacao": "O slogan associa o produto a uma identidade desejada, sem demonstrar mudança pessoal nem informações técnicas.",
+      "bncc": [
+        "EF69LP04"
+      ]
+    },
+    {
+      "id": "persuasao_publicitaria.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar.",
+      "gabarito": "Exigir ligação entre promessa identitária, destaque visual e urgência; separar preço declarado de resultado pessoal não comprovado. A decisão pode ser comprar, adiar ou não comprar, desde que justificada.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir ligação entre promessa identitária, destaque visual e urgência; separar preço declarado de resultado pessoal não comprovado. A decisão pode ser comprar, adiar ou não comprar, desde que justificada.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF69LP04"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

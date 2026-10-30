@@ -27,7 +27,19 @@ registrarTeoria({
   "lip.ef06.leitura_e_generos.tese_e_argumentos": "<h2>Tese, razões e resposta argumentada</h2><p>Tese é a posição defendida; argumentos são razões que procuram sustentá-la. Uma razão pode ser pertinente ou insuficiente, e precisa ser examinada. Identificar a tese não obriga a concordar. Ao responder, explique o ponto de concordância ou discordância e avalie as razões. Ataques pessoais e repetição da tese não substituem argumentos.</p><h3>Exemplo comentado</h3><p><strong>Carta autoral fictícia.</strong> “Defendo divulgar melhor o horário da biblioteca. Minha turma soube da mudança depois de uma semana e pode haver outras na mesma situação. Um aviso nos dois turnos e nos canais escolares ajudaria a orientar o acesso.” A tese é melhorar a divulgação. A experiência da turma é uma razão, mas não comprova que todas as turmas desconheciam o horário. A proposta oferece um caminho de ação que ainda pode ser avaliado.</p><h3>Produza e revise</h3><p>Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio.</p>",
   "lip.ef06.leitura_e_generos.noticia_fato_central": "<h2>Fato central, circunstâncias e decorrências</h2><p>Identificar o fato central de uma notícia exige distinguir o acontecimento principal de detalhes, avaliações e consequências. Pergunte o que ocorreu, quem participou, quando e onde. Nem toda notícia informa todas as circunstâncias; registre o que falta. Separe uma decorrência efetivamente relatada de uma previsão. Este é o recorte noticioso da habilidade, que também abrange outros gêneros a trabalhar em unidades posteriores.</p><h3>Exemplo comentado</h3><p><strong>Notícia autoral fictícia.</strong> “Escola Horizonte abre hora extra de biblioteca. Na segunda-feira, 20 de outubro, a escola iniciou uma hora adicional de atendimento no turno da tarde. Dezoito estudantes usaram o serviço no primeiro dia, segundo o registro de entrada. A equipe anunciou que avaliará a experiência após quatro semanas. Por enquanto, não há dados dos demais dias.” Fato central: início do horário adicional. O uso por 18 estudantes é uma decorrência relatada; a avaliação em quatro semanas é ação futura anunciada, não resultado já observado.</p><h3>Produza e revise</h3><p>Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes.</p>",
   "lip.ef06.leitura_e_generos.sequencias_textuais": "<h2>Prescrição, causa, descrição, exposição e ordenação</h2><p>Um gênero pode combinar sequências com funções diferentes. Prescrição orienta ações e pode usar imperativos; descrição caracteriza; exposição apresenta informações e explicações; ordenação de eventos organiza uma sequência temporal. Relações de causalidade associam razões e consequências, mas um conectivo não prova que a causa seja real. Analise o efeito no texto, em vez de classificar tudo por uma palavra isolada.</p><h3>Exemplo comentado</h3><p><strong>Conjunto autoral.</strong> A: “Registre o empréstimo e devolva o livro na data indicada.” orienta conduta. B: “A sala é clara, ampla e silenciosa.” caracteriza espaço. C: “O catálogo organiza informações de autoria e título; assim, permite localizar obras.” explica uma função. D: “Primeiro abrimos o catálogo; depois localizamos o livro.” ordena eventos. E: “A leitura foi transferida porque a sala estava em manutenção.” apresenta uma razão. Cada recurso guia uma compreensão diferente, mesmo quando todos aparecem no mesmo boletim.</p><h3>Produza e revise</h3><p>Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração.</p>",
+  "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical": "<h2>Seleção Lexical e Hierarquização</h2><p>A escolha das palavras, a informação colocada no início e a voz usada no texto orientam a leitura. Isso não significa que toda seleção seja mentira. Analise o que é destacado, o que fica em segundo plano e quais avaliações aparecem como se fossem descrição. A terceira pessoa pode criar efeito de distanciamento, mas não garante neutralidade.</p><h3>Exemplo comentado</h3><p>Textos fictícios sobre a mesma mudança: A: “Biblioteca ganha uma hora para leitura; 18 estudantes participaram no primeiro dia.” B: “Só 18 estudantes utilizam hora extra; biblioteca mudou o horário.” Ganha enfatiza benefício; só avalia a quantidade como pequena. A começa pela ampliação e B pelo número. Nenhum texto permite concluir sozinho o efeito após um mês.</p><h3>Produza e revise</h3><p>Compare A e B citando uma escolha lexical e a hierarquia das informações. Reescreva um título preservando os dados e explique seu novo recorte. Transforme um depoimento em terceira pessoa e discuta o efeito de distanciamento.</p>",
+  "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos": "<h2>Recursos Persuasivos no Texto Argumentativo</h2><p>Em textos argumentativos, título, metáforas, escolha lexical e fontes podem persuadir. Uma comparação pode tornar uma ideia acessível sem constituir prova. Pergunte se o dado tem origem e se sustenta o alcance da conclusão. A ocultação da fonte dificulta conferir a afirmação.</p><h3>Exemplo comentado</h3><p>Carta fictícia: “Biblioteca: uma porta aberta ao futuro. Defendo ampliar o horário porque o registro do primeiro dia anotou 18 participantes. Todo mundo quer mais tempo!” Porta aberta é metáfora positiva. O número tem fonte declarada, mas não prova todo mundo; a última afirmação generaliza sem levantamento.</p><h3>Produza e revise</h3><p>Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida.</p>",
+  "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido": "<h2>Imagens, Sequências e Sobreposições</h2><p>Enquadramento seleciona o que aparece e o que fica fora. Figura/fundo, escala, foco, cor e sequência podem destacar sentidos. Uma imagem recortada não representa necessariamente a cena completa. A legenda pode repetir, complementar ou contrariar a imagem. Esta aula analisa ilustração estática, sem alegar cobertura de fotografia, vídeo e todos os gêneros da habilidade.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 600 240\" role=\"img\" aria-label=\"Dois enquadramentos da mesma cena fictícia: A mostra três árvores e um banco vazio; B recorta apenas o banco. A legenda comum diz praça do bairro.\"><rect x=\"5\" y=\"5\" width=\"285\" height=\"225\" fill=\"#e8f3df\" stroke=\"#344\"/><rect x=\"310\" y=\"5\" width=\"285\" height=\"225\" fill=\"#eee\" stroke=\"#344\"/><g fill=\"#356b39\"><circle cx=\"55\" cy=\"65\" r=\"30\"/><circle cx=\"140\" cy=\"65\" r=\"30\"/><circle cx=\"230\" cy=\"65\" r=\"30\"/></g><g stroke=\"#765b3f\" stroke-width=\"8\"><path d=\"M55 95v45m85-45v45m90-45v45\"/><path d=\"M100 155h100m-90 0v25m80-25v25M365 110h175m-160 0v65m145-65v65\"/></g><g fill=\"#111\" font-size=\"16\"><text x=\"15\" y=\"215\">A: praça, árvores e banco</text><text x=\"320\" y=\"215\">B: somente o banco</text></g></svg><p>As duas imagens são recortes ilustrados de uma mesma cena fictícia. A mostra vegetação e banco; B amplia só o banco. “Praça sem árvores” não é sustentado pelo recorte B: as árvores ficaram fora dele. Uma sequência B seguida de A revela contexto antes oculto.</p></p><h3>Produza e revise</h3><p>Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto.</p>",
+  "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria": "<h2>Persuasão Publicitária</h2><p>Publicidade associa recursos verbais e visuais a um produto, serviço ou ideia. Slogan, imperativo, promessa de identidade e urgência podem influenciar uma decisão. Ler criticamente envolve separar características verificáveis de promessas vagas e perguntar se a compra atende a uma necessidade. Nem todo anúncio informa preço total, condições ou limites.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 520 200\" role=\"img\" aria-label=\"Anúncio fictício de caderno: letras grandes dizem Sua melhor versão começa aqui; abaixo, oferta de 30 reais e frase estoque limitado. Um caderno amarelo ocupa o centro.\"><rect width=\"520\" height=\"200\" fill=\"#173b52\"/><rect x=\"370\" y=\"50\" width=\"95\" height=\"120\" rx=\"5\" fill=\"#ffd65a\"/><g fill=\"white\" font-size=\"21\"><text x=\"20\" y=\"40\">SUA MELHOR VERSÃO</text><text x=\"20\" y=\"70\">COMEÇA AQUI</text><text x=\"20\" y=\"120\">Caderno: R$ 30</text><text x=\"20\" y=\"160\" font-size=\"16\">Estoque limitado — oferta fictícia</text></g></svg><p>No anúncio fictício, a frase associa comprar um caderno a tornar-se uma versão melhor de si. A cor e o tamanho tornam o produto destacado. Estoque limitado cria urgência, sem informar quantidade. O preço não prova qualidade nem mudança pessoal.</p></p><h3>Produza e revise</h3><p>Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar.</p>",
   "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao": "<h2>Uma língua, muitos usos</h2><p>O português varia entre regiões, gerações, grupos sociais e situações. “Mandioca”, “aipim” e “macaxeira” podem nomear o mesmo alimento em diferentes comunidades. A pronúncia também varia. Nenhum sotaque torna alguém mais inteligente ou mais digno de respeito.</p><p>A norma-padrão é um modelo de referência para certos usos formais; não é a reprodução exata da fala de todas as pessoas escolarizadas. As variedades efetivamente faladas possuem regularidades. Aprender convenções valorizadas socialmente amplia possibilidades de participação, sem exigir abandonar a identidade linguística.</p><h3>Uma situação para analisar</h3><p>Em um diálogo fictício, Lia diz: “Lá em casa chamamos de macaxeira”. Um colega responde: “Então sua família não sabe falar”. O problema não está na palavra de Lia: o colega desqualifica os falantes por sua variedade. Isso é preconceito linguístico.</p><p>Outra coisa é revisar um aviso que exige convenções formais, explicando a escolha sem humilhar ninguém. Adequação depende de interlocutores, finalidade e gênero; não basta classificar toda fala como informal e toda escrita como formal.</p><h3>Exemplo comentado</h3><p>Responder “Na minha região dizemos mandioca; macaxeira também é uma denominação usada em outras comunidades” reconhece a variação e não estabelece uma hierarquia de pessoas.</p>",
+  "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes": "<h2>Humor, Ironia e Memes</h2><p>Humor e ironia podem surgir da distância entre fala e ação, de duplo sentido ou da relação inesperada entre imagem e legenda. Inferir não é adivinhar sem pista: a interpretação precisa apontar elementos do texto. Uma crítica pode atingir um comportamento, sem humilhar grupos ou expor pessoas.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 600 220\" role=\"img\" aria-label=\"Tirinha autoral em dois quadros: no primeiro, uma personagem junto a uma torneira diz Eu economizo cada gota. No segundo, olha o celular enquanto a torneira continua aberta e a água escorre.\"><rect x=\"5\" y=\"5\" width=\"285\" height=\"205\" fill=\"#fafafa\" stroke=\"#222\"/><rect x=\"310\" y=\"5\" width=\"285\" height=\"205\" fill=\"#fafafa\" stroke=\"#222\"/><g stroke=\"#222\" fill=\"none\" stroke-width=\"4\"><circle cx=\"80\" cy=\"90\" r=\"20\"/><path d=\"M80 110v60m0-45-30 25m30-25 35 20M200 95h45v25\"/><circle cx=\"385\" cy=\"90\" r=\"20\"/><path d=\"M385 110v60m0-45 35 20m80-50h45v25\"/><rect x=\"420\" y=\"120\" width=\"18\" height=\"30\"/></g><g stroke=\"#197ab0\" stroke-width=\"5\"><path d=\"M245 125v60m300-60v60\"/></g><g fill=\"#111\" font-size=\"14\"><text x=\"15\" y=\"35\">Eu economizo cada gota!</text><text x=\"320\" y=\"35\">Só mais uma mensagem...</text></g></svg><p>A fala de economizar contrasta com a torneira aberta enquanto a personagem olha o celular. A incongruência critica a distância entre discurso e prática. A tirinha é autoral e não retrata uma pessoa real.</p></p><h3>Produza e revise</h3><p>Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas.</p>",
+  "lip.ef06.producao_de_textos.planejar_noticia": "<h2>Planejar uma Notícia</h2><p>Planejar notícia exige escolher fato relevante, público, veículo e fontes. Registre o que sabe e o que ainda precisa apurar. Diferencie informação observada, documento e fala de entrevistado. Planeje também imagens, legendas, permissões e, na internet, links com função. Um plano não é uma apuração concluída.</p><h3>Exemplo comentado</h3><p>Plano-modelo fictício: fato, abertura de biblioteca; público, comunidade escolar; fontes a consultar, comunicado de horário e responsável; perguntas, quando começa e quem será atendido; imagem, entrada sem rostos identificáveis; link, comunicado. Um roteiro de rádio transforma informações em falas curtas e indica sons que precisam ser produzidos.</p><h3>Produza e revise</h3><p>Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências.</p>",
+  "lip.ef06.producao_de_textos.textualizar_noticia": "<h2>Textualizar a Notícia</h2><p>Uma notícia impressa pode apresentar título com verbo no presente, lide com informações centrais e corpo com detalhes em ordem de relevância. A precisão exige datas, quantidades e fontes quando disponíveis. A terceira pessoa produz distanciamento, não neutralidade garantida. Áudio e internet exigem adaptar linguagem e recursos, sem alterar os fatos.</p><h3>Exemplo comentado</h3><p>Modelo fictício: “Escola amplia horário da biblioteca”. Lide: “A Escola Horizonte iniciou na segunda-feira uma hora extra de atendimento à tarde, segundo comunicado escolar”. Corpo: “O registro apontou 18 participantes no primeiro dia; a avaliação de quatro semanas ainda será feita”. Não se pode acrescentar que todos aprovaram.</p><h3>Produza e revise</h3><p>Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade.</p>",
+  "lip.ef06.producao_de_textos.planejar_resenha": "<h2>Planejar Resenha e Vlog</h2><p>Planejar resenha é selecionar uma obra ou evento realmente conhecido, identificar autoria e contexto e escolher critérios de apreciação. Resumo apresenta aspectos da obra; avaliação julga com razões. Defina público e suporte: texto, áudio ou vídeo pedem organização diferente. Evite spoilers sem aviso e não atribua à obra características que não verificou.</p><h3>Exemplo comentado</h3><p>Microrrelato autoral para apreciação: “A chave. Lia procurou a chave pela casa. No bolso do casaco, encontrou um bilhete: A chave está na porta. Riu e saiu.” Uma resenha pode discutir a brevidade, a busca e a solução, em vez de apenas dizer gostei. Essa obra curta pode ser usada como apoio, mas não substitui contato com a obra escolhida.</p><h3>Produza e revise</h3><p>Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação.</p>",
+  "lip.ef06.producao_de_textos.produzir_resenha": "<h2>Produzir Resenha Crítica</h2><p>Resenha crítica apresenta uma obra, seleciona aspectos relevantes e avalia com justificativas para um público. Gostar ou não gostar é legítimo, mas não basta como argumento. A recomendação deve esclarecer para quem a obra pode interessar e por quê. No áudio ou vídeo, organização, clareza e referências continuam necessárias.</p><h3>Exemplo comentado</h3><p>Sobre o microrrelato A chave: “O texto apresenta uma busca resolvida por um bilhete. A brevidade acelera a leitura e o desfecho pode divertir quem aprecia pequenas surpresas; quem espera mistério desenvolvido talvez ache a solução rápida”. A avaliação explicita critérios e admite públicos diferentes, sem afirmar consenso.</p><h3>Produza e revise</h3><p>Produza resenha de 150 a 250 palavras a partir do plano. Inclua identificação, síntese, duas avaliações justificadas e recomendação delimitada. Grave uma apresentação de até dois minutos, ou execute versão oral mediada se necessário, registrando o suporte adotado. Revise após ouvir ou receber devolutiva.</p>",
+  "lip.ef06.producao_de_textos.produzir_publicidade": "<h2>Produzir e Editar Texto Publicitário</h2><p>Produzir publicidade exige definir objetivo, público e suporte e relacionar elementos verbais e visuais. Slogan chama atenção; informações de serviço precisam ser claras. Convencer não autoriza promessas falsas ou pressão discriminatória. Faça rascunho, teste legibilidade e revise com base na resposta do público.</p><h3>Exemplo comentado</h3><p>Campanha fictícia de troca de livros: “Uma história continua com você”. A imagem pode mostrar livros passando entre mãos, e o texto precisa informar local, data e condições. O slogan sozinho não diz como participar. Se o evento é fictício, o cartaz deve indicar simulação; não divulgue uma data inventada como acontecimento real.</p><h3>Produza e revise</h3><p>Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas.</p>",
+  "lip.ef06.producao_de_textos.coesao_referencial_na_producao": "<h2>Coesão Referencial e Sequencial na Produção</h2><p>Coesão referencial liga as partes do texto por nomes e pronomes; relações semânticas podem produzir aproximação, contraste ou jogo com palavras iguais. Discurso direto apresenta uma voz citada; indireto relata essa fala com ajustes. Não troque todo nome por pronome: referências ambíguas prejudicam a leitura. Semelhança de sentido não torna toda substituição equivalente.</p><h3>Exemplo comentado</h3><p>“Lia falou: Estou contente. A estudante explicou que estava alegre, mas Rui estava triste.” Lia e a estudante retomam a mesma pessoa; contente/alegre aproximam sentidos e alegre/triste contrastam. Para homonímia, “O banco da praça ficava em frente ao banco da cidade” usa banco com sentidos distintos. A voz relatada deve continuar atribuída, sem alterar o que a personagem disse.</p><h3>Produza e revise</h3><p>Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas.</p>",
+  "lip.ef06.producao_de_textos.resumo_e_parafrase": "<h2>Resumo, Paráfrase e Citação</h2><p>Resumir parte de notas ou esquema e seleciona ideias centrais sem acrescentar conclusões inexistentes. Paráfrase reorganiza uma ideia com palavras próprias, preservando o sentido e indicando a origem. Citação direta mantém o trecho literal, delimitado e atribuído. Trocar poucas palavras não basta para construir um resumo autônomo. A referência permite ao leitor localizar a fonte.</p><h3>Exemplo comentado</h3><p>Texto-base autoral fictício: “A biblioteca ampliou o horário por uma hora. No primeiro dia, 18 estudantes usaram o período adicional. O uso nos outros dias ainda não foi levantado.” Notas: ampliação de uma hora; 18 no primeiro dia; demais dias desconhecidos. Resumo possível: “O texto informa a ampliação do atendimento e registra 18 participantes no primeiro dia, sem dados dos demais”.</p><h3>Produza e revise</h3><p>Faça notas e um esquema do texto-base. Escreva resumo de duas frases com paráfrase e uma citação curta identificada como proveniente do texto autoral fictício desta aula. Compare com a fonte, retirando repetição desnecessária e qualquer generalização sobre os demais dias.</p>",
   "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao": "<h2>Revisar com finalidade</h2><p>Para escrever um pedido à direção, precisamos tornar claros o destinatário, a solicitação e seus motivos. Quando o gênero e a situação pedem norma-padrão, podemos revisar concordância, pontuação e grafia, sem desqualificar quem produziu a primeira versão.</p><h3>Da conversa ao pedido</h3><p><strong>Mensagem fictícia entre colegas:</strong> “A gente quer mais livros. As turma vai mandar os pedido amanhã.”</p><p><strong>Versão para a direção:</strong> “À direção: solicitamos a ampliação do acervo da biblioteca. As turmas enviarão os pedidos amanhã. Agradecemos a atenção.”</p><p>“A gente quer” tem concordância compatível com a norma-padrão; sua troca por “solicitamos” foi uma escolha de registro, não uma correção obrigatória. Em “as turma vai”, a revisão formal estabelece “as turmas vão”; “os pedido” passa a “os pedidos”. A forma “enviarão” também explicita uma ação futura. Não altere a data, a solicitação ou o responsável ao revisar.</p><h3>Procedimento</h3><ol><li>Identifique destinatário e finalidade.</li><li>Confira se as informações estão completas.</li><li>Revise concordância, grafia e pontuação.</li><li>Explique duas escolhas e compare o sentido com o original.</li></ol><p>A fala também pode ser planejada e formal, como em uma apresentação ao conselho escolar. Uma mensagem escrita a um amigo pode admitir outro registro.</p>",
   "lip.ef06.lingua_texto_e_contexto.comunicacao_e_linguagem": "<h2>Comunicar com palavras e outros recursos</h2><p>Esta aula é um apoio complementar de conceitos; não recebe artificialmente um código BNCC jornalístico. Linguagem verbal utiliza palavras; recursos não verbais podem envolver cores, imagens e gestos. Um cartaz pode combinar palavras e imagens. Línguas de sinais são línguas com estrutura própria: não devem ser reduzidas a gestos avulsos.</p><h3>Exemplo autoral</h3><p>Um aviso escrito “Biblioteca aberta até 17h” informa um horário. Um desenho de livro pode ajudar a localizar o serviço, mas sozinho não informa que o fechamento será às 17h. Ao combinar o desenho e a frase, os recursos se complementam.</p><p>Para planejar uma mensagem, defina quem a produz, quem precisa recebê-la, qual informação é necessária e em que suporte circulará. Contraste e tamanho da letra influenciam a leitura; não dependa só da cor para transmitir a informação.</p><h3>No caderno</h3><p>Recursos distintos podem atuar juntos. Interpretá-los requer contexto; uma mesma cor não tem significado universal em toda situação.</p>",
   "lip.ef06.morfologia.estrutura_das_palavras": "<h2>Estrutura das palavras e famílias lexicais</h2><p>Palavras podem conter partes que contribuem para seu sentido. Em flor, florista e florido, reconhecemos uma família lexical e a base flor-. Um prefixo aparece antes de uma base, como des- em desleal; um sufixo aparece depois, como -ista em florista. Esses afixos participam da derivação. Já o -s de flores marca plural: flexionar não é criar outra palavra por derivação. Não basta encontrar letras iguais: sol e soldado não pertencem à mesma família apenas por começarem por sol. É preciso relacionar forma e significado.</p><h3>Exemplo comentado</h3><p>Florista combina flor- e -ista. Desleal combina des- e leal. Guarda-chuva combina duas bases e é composta. Esses exemplos permitem distinguir acréscimo de afixos de combinação de bases.</p><h3>Produza e revise</h3><p>Organize flor, flores, florista, desleal e guarda-chuva em um quadro: indique as partes relevantes e se há flexão, derivação ou composição. Explique por que a semelhança de letras não basta.</p>",
@@ -2874,6 +2886,366 @@ registrarAula({
     "preRequisitos": [],
     "proximosPassos": []
   },
+  "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical": {
+    "id": "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 36,
+    "unidade": "Mídia e Efeitos de Sentido",
+    "titulo": "Seleção Lexical e Hierarquização",
+    "bncc": [
+      "EF67LP06"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Compare A e B citando uma escolha lexical e a hierarquia das informações. Reescreva um título preservando os dados e explique seu novo recorte. Transforme um depoimento em terceira pessoa e discuta o efeito de distanciamento."
+      ],
+      "resumo": "Seleção Lexical e Hierarquização",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Seleção Lexical e Hierarquização</h2><p>A escolha das palavras, a informação colocada no início e a voz usada no texto orientam a leitura. Isso não significa que toda seleção seja mentira. Analise o que é destacado, o que fica em segundo plano e quais avaliações aparecem como se fossem descrição. A terceira pessoa pode criar efeito de distanciamento, mas não garante neutralidade.</p><h3>Exemplo comentado</h3><p>Textos fictícios sobre a mesma mudança: A: “Biblioteca ganha uma hora para leitura; 18 estudantes participaram no primeiro dia.” B: “Só 18 estudantes utilizam hora extra; biblioteca mudou o horário.” Ganha enfatiza benefício; só avalia a quantidade como pequena. A começa pela ampliação e B pelo número. Nenhum texto permite concluir sozinho o efeito após um mês.</p><h3>Produza e revise</h3><p>Compare A e B citando uma escolha lexical e a hierarquia das informações. Reescreva um título preservando os dados e explique seu novo recorte. Transforme um depoimento em terceira pessoa e discuta o efeito de distanciamento.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "selecao_lexical.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual palavra apresenta 18 como quantidade pequena?",
+        "alternativas": [
+          "Biblioteca",
+          "Só",
+          "Estudantes",
+          "Horário"
+        ],
+        "correta": 1,
+        "explicacao": "Textos fictícios sobre a mesma mudança: A: “Biblioteca ganha uma hora para leitura; 18 estudantes participaram no primeiro dia.” B: “Só 18 estudantes utilizam hora extra; biblioteca mudou o horário.” Ganha enfatiza benefício; só avalia a quantidade como pequena. A começa pela ampliação e B pelo número. Nenhum texto permite concluir sozinho o efeito após um mês.",
+        "bncc": [
+          "EF67LP06"
+        ]
+      },
+      {
+        "id": "selecao_lexical.producao",
+        "tipo": "discursiva",
+        "enunciado": "Compare A e B citando uma escolha lexical e a hierarquia das informações. Reescreva um título preservando os dados e explique seu novo recorte. Transforme um depoimento em terceira pessoa e discuta o efeito de distanciamento.",
+        "gabarito": "Exigir análise de ganha/só, posição de ampliação/número e reescrita sem alteração factual. A terceira pessoa deve ser reconhecida como escolha enunciativa, não prova de verdade.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir análise de ganha/só, posição de ampliação/número e reescrita sem alteração factual. A terceira pessoa deve ser reconhecida como escolha enunciativa, não prova de verdade.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP06"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos": {
+    "id": "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 37,
+    "unidade": "Mídia e Efeitos de Sentido",
+    "titulo": "Recursos Persuasivos no Texto Argumentativo",
+    "bncc": [
+      "EF67LP07"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida."
+      ],
+      "resumo": "Recursos Persuasivos no Texto Argumentativo",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Recursos Persuasivos no Texto Argumentativo</h2><p>Em textos argumentativos, título, metáforas, escolha lexical e fontes podem persuadir. Uma comparação pode tornar uma ideia acessível sem constituir prova. Pergunte se o dado tem origem e se sustenta o alcance da conclusão. A ocultação da fonte dificulta conferir a afirmação.</p><h3>Exemplo comentado</h3><p>Carta fictícia: “Biblioteca: uma porta aberta ao futuro. Defendo ampliar o horário porque o registro do primeiro dia anotou 18 participantes. Todo mundo quer mais tempo!” Porta aberta é metáfora positiva. O número tem fonte declarada, mas não prova todo mundo; a última afirmação generaliza sem levantamento.</p><h3>Produza e revise</h3><p>Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "recursos_persuasivos.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "“Todo mundo quer” sem pesquisa apresenta qual problema?",
+        "alternativas": [
+          "É uma fonte completa.",
+          "Comprova a unanimidade.",
+          "Generaliza além da evidência oferecida.",
+          "É necessariamente uma citação literal."
+        ],
+        "correta": 2,
+        "explicacao": "Carta fictícia: “Biblioteca: uma porta aberta ao futuro. Defendo ampliar o horário porque o registro do primeiro dia anotou 18 participantes. Todo mundo quer mais tempo!” Porta aberta é metáfora positiva. O número tem fonte declarada, mas não prova todo mundo; a última afirmação generaliza sem levantamento.",
+        "bncc": [
+          "EF67LP07"
+        ]
+      },
+      {
+        "id": "recursos_persuasivos.producao",
+        "tipo": "discursiva",
+        "enunciado": "Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida.",
+        "gabarito": "Esperar metáfora como associação positiva, registro como fonte conferível e crítica a todo mundo. Possível revisão: “Precisamos consultar outras turmas para conhecer a demanda”. Não exigir abandono da tese para reconhecer limites.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Esperar metáfora como associação positiva, registro como fonte conferível e crítica a todo mundo. Possível revisão: “Precisamos consultar outras turmas para conhecer a demanda”. Não exigir abandono da tese para reconhecer limites.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP07"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido": {
+    "id": "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 38,
+    "unidade": "Mídia e Efeitos de Sentido",
+    "titulo": "Imagens, Sequências e Sobreposições",
+    "bncc": [
+      "EF67LP08"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto."
+      ],
+      "resumo": "Imagens, Sequências e Sobreposições",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Imagens, Sequências e Sobreposições</h2><p>Enquadramento seleciona o que aparece e o que fica fora. Figura/fundo, escala, foco, cor e sequência podem destacar sentidos. Uma imagem recortada não representa necessariamente a cena completa. A legenda pode repetir, complementar ou contrariar a imagem. Esta aula analisa ilustração estática, sem alegar cobertura de fotografia, vídeo e todos os gêneros da habilidade.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 600 240\" role=\"img\" aria-label=\"Dois enquadramentos da mesma cena fictícia: A mostra três árvores e um banco vazio; B recorta apenas o banco. A legenda comum diz praça do bairro.\"><rect x=\"5\" y=\"5\" width=\"285\" height=\"225\" fill=\"#e8f3df\" stroke=\"#344\"/><rect x=\"310\" y=\"5\" width=\"285\" height=\"225\" fill=\"#eee\" stroke=\"#344\"/><g fill=\"#356b39\"><circle cx=\"55\" cy=\"65\" r=\"30\"/><circle cx=\"140\" cy=\"65\" r=\"30\"/><circle cx=\"230\" cy=\"65\" r=\"30\"/></g><g stroke=\"#765b3f\" stroke-width=\"8\"><path d=\"M55 95v45m85-45v45m90-45v45\"/><path d=\"M100 155h100m-90 0v25m80-25v25M365 110h175m-160 0v65m145-65v65\"/></g><g fill=\"#111\" font-size=\"16\"><text x=\"15\" y=\"215\">A: praça, árvores e banco</text><text x=\"320\" y=\"215\">B: somente o banco</text></g></svg><p>As duas imagens são recortes ilustrados de uma mesma cena fictícia. A mostra vegetação e banco; B amplia só o banco. “Praça sem árvores” não é sustentado pelo recorte B: as árvores ficaram fora dele. Uma sequência B seguida de A revela contexto antes oculto.</p></p><h3>Produza e revise</h3><p>Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "imagens_e_sentido.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "O recorte B permite concluir que não há árvores na praça?",
+        "alternativas": [
+          "Sim, tudo fora do quadro inexiste.",
+          "Não; o enquadramento excluiu parte da cena.",
+          "Sim, o banco comprova isso.",
+          "A legenda sempre torna qualquer conclusão verdadeira."
+        ],
+        "correta": 1,
+        "explicacao": "O enquadramento B exclui as árvores presentes em A; um recorte não comprova a inexistência de elementos fora da imagem.",
+        "bncc": [
+          "EF67LP08"
+        ]
+      },
+      {
+        "id": "imagens_e_sentido.producao",
+        "tipo": "discursiva",
+        "enunciado": "Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto.",
+        "gabarito": "Conferir árvores e contexto em A e recorte do banco em B; a ausência no enquadramento não prova inexistência. Legenda delimitada pode indicar detalhe do banco; enganosa pode afirmar ausência de árvores. Avaliar três quadros reais e justificativas.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir árvores e contexto em A e recorte do banco em B; a ausência no enquadramento não prova inexistência. Legenda delimitada pode indicar detalhe do banco; enganosa pode afirmar ausência de árvores. Avaliar três quadros reais e justificativas.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP08"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria": {
+    "id": "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 39,
+    "unidade": "Mídia e Efeitos de Sentido",
+    "titulo": "Persuasão Publicitária",
+    "bncc": [
+      "EF69LP04"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar."
+      ],
+      "resumo": "Persuasão Publicitária",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Persuasão Publicitária</h2><p>Publicidade associa recursos verbais e visuais a um produto, serviço ou ideia. Slogan, imperativo, promessa de identidade e urgência podem influenciar uma decisão. Ler criticamente envolve separar características verificáveis de promessas vagas e perguntar se a compra atende a uma necessidade. Nem todo anúncio informa preço total, condições ou limites.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 520 200\" role=\"img\" aria-label=\"Anúncio fictício de caderno: letras grandes dizem Sua melhor versão começa aqui; abaixo, oferta de 30 reais e frase estoque limitado. Um caderno amarelo ocupa o centro.\"><rect width=\"520\" height=\"200\" fill=\"#173b52\"/><rect x=\"370\" y=\"50\" width=\"95\" height=\"120\" rx=\"5\" fill=\"#ffd65a\"/><g fill=\"white\" font-size=\"21\"><text x=\"20\" y=\"40\">SUA MELHOR VERSÃO</text><text x=\"20\" y=\"70\">COMEÇA AQUI</text><text x=\"20\" y=\"120\">Caderno: R$ 30</text><text x=\"20\" y=\"160\" font-size=\"16\">Estoque limitado — oferta fictícia</text></g></svg><p>No anúncio fictício, a frase associa comprar um caderno a tornar-se uma versão melhor de si. A cor e o tamanho tornam o produto destacado. Estoque limitado cria urgência, sem informar quantidade. O preço não prova qualidade nem mudança pessoal.</p></p><h3>Produza e revise</h3><p>Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "persuasao_publicitaria.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "“Sua melhor versão começa aqui” procura principalmente:",
+        "alternativas": [
+          "Comprovar uma mudança pessoal.",
+          "Associar o produto a uma imagem desejada de si.",
+          "Informar a gramatura exata.",
+          "Demonstrar durabilidade por ensaio."
+        ],
+        "correta": 1,
+        "explicacao": "O slogan associa o produto a uma identidade desejada, sem demonstrar mudança pessoal nem informações técnicas.",
+        "bncc": [
+          "EF69LP04"
+        ]
+      },
+      {
+        "id": "persuasao_publicitaria.producao",
+        "tipo": "discursiva",
+        "enunciado": "Analise a relação entre slogan, caderno destacado e urgência. Liste o que o anúncio informa e o que não demonstra. Escreva uma decisão de consumo fundamentada em necessidade, orçamento e informações ainda necessárias, sem pressupor que todos devem comprar.",
+        "gabarito": "Exigir ligação entre promessa identitária, destaque visual e urgência; separar preço declarado de resultado pessoal não comprovado. A decisão pode ser comprar, adiar ou não comprar, desde que justificada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir ligação entre promessa identitária, destaque visual e urgência; separar preço declarado de resultado pessoal não comprovado. A decisão pode ser comprar, adiar ou não comprar, desde que justificada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP04"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
   "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao": {
     "id": "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao",
     "componente": "lip",
@@ -2967,6 +3339,726 @@ registrarAula({
       "autor": "produção autoral assistida",
       "estado": "piloto",
       "revisao": "Conferência conceitual assistida; homologação docente e aplicação pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes": {
+    "id": "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 40,
+    "unidade": "Mídia e Efeitos de Sentido",
+    "titulo": "Humor, Ironia e Memes",
+    "bncc": [
+      "EF69LP05"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas."
+      ],
+      "resumo": "Humor, Ironia e Memes",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Humor, Ironia e Memes</h2><p>Humor e ironia podem surgir da distância entre fala e ação, de duplo sentido ou da relação inesperada entre imagem e legenda. Inferir não é adivinhar sem pista: a interpretação precisa apontar elementos do texto. Uma crítica pode atingir um comportamento, sem humilhar grupos ou expor pessoas.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 600 220\" role=\"img\" aria-label=\"Tirinha autoral em dois quadros: no primeiro, uma personagem junto a uma torneira diz Eu economizo cada gota. No segundo, olha o celular enquanto a torneira continua aberta e a água escorre.\"><rect x=\"5\" y=\"5\" width=\"285\" height=\"205\" fill=\"#fafafa\" stroke=\"#222\"/><rect x=\"310\" y=\"5\" width=\"285\" height=\"205\" fill=\"#fafafa\" stroke=\"#222\"/><g stroke=\"#222\" fill=\"none\" stroke-width=\"4\"><circle cx=\"80\" cy=\"90\" r=\"20\"/><path d=\"M80 110v60m0-45-30 25m30-25 35 20M200 95h45v25\"/><circle cx=\"385\" cy=\"90\" r=\"20\"/><path d=\"M385 110v60m0-45 35 20m80-50h45v25\"/><rect x=\"420\" y=\"120\" width=\"18\" height=\"30\"/></g><g stroke=\"#197ab0\" stroke-width=\"5\"><path d=\"M245 125v60m300-60v60\"/></g><g fill=\"#111\" font-size=\"14\"><text x=\"15\" y=\"35\">Eu economizo cada gota!</text><text x=\"320\" y=\"35\">Só mais uma mensagem...</text></g></svg><p>A fala de economizar contrasta com a torneira aberta enquanto a personagem olha o celular. A incongruência critica a distância entre discurso e prática. A tirinha é autoral e não retrata uma pessoa real.</p></p><h3>Produza e revise</h3><p>Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "humor_ironia_e_memes.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual relação produz a crítica da tirinha?",
+        "alternativas": [
+          "Concordância perfeita entre fala e ação.",
+          "Ausência de qualquer elemento visual.",
+          "Contraste entre economizar declarado e água desperdiçada.",
+          "Apenas a cor do fundo."
+        ],
+        "correta": 2,
+        "explicacao": "A fala de economizar contrasta com a torneira aberta e o desperdício visual, produzindo crítica à distância entre discurso e prática.",
+        "bncc": [
+          "EF69LP05"
+        ]
+      },
+      {
+        "id": "humor_ironia_e_memes.producao",
+        "tipo": "discursiva",
+        "enunciado": "Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas.",
+        "gabarito": "Exigir referência à economia declarada e ao desperdício visual, explicação da incongruência e dois quadros produzidos. Legenda alternativa pode mudar a voz ou intenção; avaliar pelas pistas, sem impor uma única formulação.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir referência à economia declarada e ao desperdício visual, explicação da incongruência e dois quadros produzidos. Legenda alternativa pode mudar a voz ou intenção; avaliar pelas pistas, sem impor uma única formulação.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP05"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.producao_de_textos.planejar_noticia": {
+    "id": "lip.ef06.producao_de_textos.planejar_noticia",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 41,
+    "unidade": "Produção de Textos",
+    "titulo": "Planejar uma Notícia",
+    "bncc": [
+      "EF67LP09"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências."
+      ],
+      "resumo": "Planejar uma Notícia",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Planejar uma Notícia</h2><p>Planejar notícia exige escolher fato relevante, público, veículo e fontes. Registre o que sabe e o que ainda precisa apurar. Diferencie informação observada, documento e fala de entrevistado. Planeje também imagens, legendas, permissões e, na internet, links com função. Um plano não é uma apuração concluída.</p><h3>Exemplo comentado</h3><p>Plano-modelo fictício: fato, abertura de biblioteca; público, comunidade escolar; fontes a consultar, comunicado de horário e responsável; perguntas, quando começa e quem será atendido; imagem, entrada sem rostos identificáveis; link, comunicado. Um roteiro de rádio transforma informações em falas curtas e indica sons que precisam ser produzidos.</p><h3>Produza e revise</h3><p>Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "planejar_noticia.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual item indica apuração a realizar, sem fingir conclusão?",
+        "alternativas": [
+          "Inventar uma fala para completar a pauta.",
+          "Listar fonte e pergunta ainda não respondida como pendência.",
+          "Apagar toda dúvida.",
+          "Usar uma foto sem origem."
+        ],
+        "correta": 1,
+        "explicacao": "Plano-modelo fictício: fato, abertura de biblioteca; público, comunidade escolar; fontes a consultar, comunicado de horário e responsável; perguntas, quando começa e quem será atendido; imagem, entrada sem rostos identificáveis; link, comunicado. Um roteiro de rádio transforma informações em falas curtas e indica sons que precisam ser produzidos.",
+        "bncc": [
+          "EF67LP09"
+        ]
+      },
+      {
+        "id": "planejar_noticia.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escolha um fato escolar real. Faça ficha de pauta com público, relevância, duas fontes possíveis, perguntas e plano de imagem. Apure e registre as informações efetivamente obtidas, sem inventar falas. Planeje versão impressa e roteiro de áudio, indicando adaptações e pendências.",
+        "gabarito": "Exigir pauta real com dados de fontes e distinção entre previsto e apurado. Imagens e entrevistas exigem cuidados de autorização escolar. O roteiro deve adaptar a informação para escuta; não tratar a simples lista de perguntas como apuração executada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir pauta real com dados de fontes e distinção entre previsto e apurado. Imagens e entrevistas exigem cuidados de autorização escolar. O roteiro deve adaptar a informação para escuta; não tratar a simples lista de perguntas como apuração executada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP09"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.producao_de_textos.textualizar_noticia": {
+    "id": "lip.ef06.producao_de_textos.textualizar_noticia",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 42,
+    "unidade": "Produção de Textos",
+    "titulo": "Textualizar a Notícia",
+    "bncc": [
+      "EF67LP10"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade."
+      ],
+      "resumo": "Textualizar a Notícia",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Textualizar a Notícia</h2><p>Uma notícia impressa pode apresentar título com verbo no presente, lide com informações centrais e corpo com detalhes em ordem de relevância. A precisão exige datas, quantidades e fontes quando disponíveis. A terceira pessoa produz distanciamento, não neutralidade garantida. Áudio e internet exigem adaptar linguagem e recursos, sem alterar os fatos.</p><h3>Exemplo comentado</h3><p>Modelo fictício: “Escola amplia horário da biblioteca”. Lide: “A Escola Horizonte iniciou na segunda-feira uma hora extra de atendimento à tarde, segundo comunicado escolar”. Corpo: “O registro apontou 18 participantes no primeiro dia; a avaliação de quatro semanas ainda será feita”. Não se pode acrescentar que todos aprovaram.</p><h3>Produza e revise</h3><p>Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "textualizar_noticia.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual título segue o modelo noticioso com verbo no presente?",
+        "alternativas": [
+          "Escola amplia horário da biblioteca.",
+          "A melhor escola de todas, sem dados.",
+          "Biblioteca talvez, ninguém sabe.",
+          "Todos aprovaram, com certeza."
+        ],
+        "correta": 0,
+        "explicacao": "Modelo fictício: “Escola amplia horário da biblioteca”. Lide: “A Escola Horizonte iniciou na segunda-feira uma hora extra de atendimento à tarde, segundo comunicado escolar”. Corpo: “O registro apontou 18 participantes no primeiro dia; a avaliação de quatro semanas ainda será feita”. Não se pode acrescentar que todos aprovaram.",
+        "bncc": [
+          "EF67LP10"
+        ]
+      },
+      {
+        "id": "textualizar_noticia.producao",
+        "tipo": "discursiva",
+        "enunciado": "Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade.",
+        "gabarito": "Conferir dados com a pauta, hierarquia, título e precisão. Na versão sonora, exigir áudio realmente produzido e registro de edição, não apenas roteiro. Se houver barreira de acesso, admitir trabalho mediado ou outro suporte com registro do limite, sem afirmar a modalidade executada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir dados com a pauta, hierarquia, título e precisão. Na versão sonora, exigir áudio realmente produzido e registro de edição, não apenas roteiro. Se houver barreira de acesso, admitir trabalho mediado ou outro suporte com registro do limite, sem afirmar a modalidade executada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP10"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.producao_de_textos.planejar_resenha": {
+    "id": "lip.ef06.producao_de_textos.planejar_resenha",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 43,
+    "unidade": "Produção de Textos",
+    "titulo": "Planejar Resenha e Vlog",
+    "bncc": [
+      "EF67LP11"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação."
+      ],
+      "resumo": "Planejar Resenha e Vlog",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Planejar Resenha e Vlog</h2><p>Planejar resenha é selecionar uma obra ou evento realmente conhecido, identificar autoria e contexto e escolher critérios de apreciação. Resumo apresenta aspectos da obra; avaliação julga com razões. Defina público e suporte: texto, áudio ou vídeo pedem organização diferente. Evite spoilers sem aviso e não atribua à obra características que não verificou.</p><h3>Exemplo comentado</h3><p>Microrrelato autoral para apreciação: “A chave. Lia procurou a chave pela casa. No bolso do casaco, encontrou um bilhete: A chave está na porta. Riu e saiu.” Uma resenha pode discutir a brevidade, a busca e a solução, em vez de apenas dizer gostei. Essa obra curta pode ser usada como apoio, mas não substitui contato com a obra escolhida.</p><h3>Produza e revise</h3><p>Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "planejar_resenha.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual escolha melhora o planejamento de resenha?",
+        "alternativas": [
+          "Avaliar sem conhecer a obra.",
+          "Definir critérios e exemplos observados na obra.",
+          "Copiar uma avaliação alheia sem crédito.",
+          "Omitir o público."
+        ],
+        "correta": 1,
+        "explicacao": "Microrrelato autoral para apreciação: “A chave. Lia procurou a chave pela casa. No bolso do casaco, encontrou um bilhete: A chave está na porta. Riu e saiu.” Uma resenha pode discutir a brevidade, a busca e a solução, em vez de apenas dizer gostei. Essa obra curta pode ser usada como apoio, mas não substitui contato com a obra escolhida.",
+        "bncc": [
+          "EF67LP11"
+        ]
+      },
+      {
+        "id": "planejar_resenha.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escolha uma produção cultural acessível ou o microrrelato incorporado. Registre título, autoria (neste caso, texto autoral da plataforma), público, síntese sem copiar e três critérios de avaliação. Planeje resenha escrita e roteiro de apresentação sonora ou visual, indicando exemplos que sustentariam a avaliação.",
+        "gabarito": "Exigir identificação correta da obra, critérios específicos e exemplos verificáveis, não pesquisa inventada. O plano deve distinguir síntese e avaliação e adaptar a exposição ao público. Gravação não é exigida como evidência de planejamento.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir identificação correta da obra, critérios específicos e exemplos verificáveis, não pesquisa inventada. O plano deve distinguir síntese e avaliação e adaptar a exposição ao público. Gravação não é exigida como evidência de planejamento.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP11"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.producao_de_textos.produzir_resenha": {
+    "id": "lip.ef06.producao_de_textos.produzir_resenha",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 44,
+    "unidade": "Produção de Textos",
+    "titulo": "Produzir Resenha Crítica",
+    "bncc": [
+      "EF67LP12"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Produza resenha de 150 a 250 palavras a partir do plano. Inclua identificação, síntese, duas avaliações justificadas e recomendação delimitada. Grave uma apresentação de até dois minutos, ou execute versão oral mediada se necessário, registrando o suporte adotado. Revise após ouvir ou receber devolutiva."
+      ],
+      "resumo": "Produzir Resenha Crítica",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Produzir Resenha Crítica</h2><p>Resenha crítica apresenta uma obra, seleciona aspectos relevantes e avalia com justificativas para um público. Gostar ou não gostar é legítimo, mas não basta como argumento. A recomendação deve esclarecer para quem a obra pode interessar e por quê. No áudio ou vídeo, organização, clareza e referências continuam necessárias.</p><h3>Exemplo comentado</h3><p>Sobre o microrrelato A chave: “O texto apresenta uma busca resolvida por um bilhete. A brevidade acelera a leitura e o desfecho pode divertir quem aprecia pequenas surpresas; quem espera mistério desenvolvido talvez ache a solução rápida”. A avaliação explicita critérios e admite públicos diferentes, sem afirmar consenso.</p><h3>Produza e revise</h3><p>Produza resenha de 150 a 250 palavras a partir do plano. Inclua identificação, síntese, duas avaliações justificadas e recomendação delimitada. Grave uma apresentação de até dois minutos, ou execute versão oral mediada se necessário, registrando o suporte adotado. Revise após ouvir ou receber devolutiva.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "produzir_resenha.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual avaliação apresenta justificativa?",
+        "alternativas": [
+          "É ótima porque sim.",
+          "Não conheço, mas é ruim.",
+          "O final breve acelera a leitura e combina com quem prefere relatos curtos.",
+          "Todo mundo vai amar."
+        ],
+        "correta": 2,
+        "explicacao": "Sobre o microrrelato A chave: “O texto apresenta uma busca resolvida por um bilhete. A brevidade acelera a leitura e o desfecho pode divertir quem aprecia pequenas surpresas; quem espera mistério desenvolvido talvez ache a solução rápida”. A avaliação explicita critérios e admite públicos diferentes, sem afirmar consenso.",
+        "bncc": [
+          "EF67LP12"
+        ]
+      },
+      {
+        "id": "produzir_resenha.producao",
+        "tipo": "discursiva",
+        "enunciado": "Produza resenha de 150 a 250 palavras a partir do plano. Inclua identificação, síntese, duas avaliações justificadas e recomendação delimitada. Grave uma apresentação de até dois minutos, ou execute versão oral mediada se necessário, registrando o suporte adotado. Revise após ouvir ou receber devolutiva.",
+        "gabarito": "Conferir relação com a obra e plano, duas razões com exemplos, recomendação e revisão. Exigir arquivo ou registro real da apresentação, com o suporte indicado. Não impor opinião favorável nem confundir limite de acesso com produção executada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir relação com a obra e plano, duas razões com exemplos, recomendação e revisão. Exigir arquivo ou registro real da apresentação, com o suporte indicado. Não impor opinião favorável nem confundir limite de acesso com produção executada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP12"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.producao_de_textos.produzir_publicidade": {
+    "id": "lip.ef06.producao_de_textos.produzir_publicidade",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 45,
+    "unidade": "Produção de Textos",
+    "titulo": "Produzir e Editar Texto Publicitário",
+    "bncc": [
+      "EF67LP13"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas."
+      ],
+      "resumo": "Produzir e Editar Texto Publicitário",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Produzir e Editar Texto Publicitário</h2><p>Produzir publicidade exige definir objetivo, público e suporte e relacionar elementos verbais e visuais. Slogan chama atenção; informações de serviço precisam ser claras. Convencer não autoriza promessas falsas ou pressão discriminatória. Faça rascunho, teste legibilidade e revise com base na resposta do público.</p><h3>Exemplo comentado</h3><p>Campanha fictícia de troca de livros: “Uma história continua com você”. A imagem pode mostrar livros passando entre mãos, e o texto precisa informar local, data e condições. O slogan sozinho não diz como participar. Se o evento é fictício, o cartaz deve indicar simulação; não divulgue uma data inventada como acontecimento real.</p><h3>Produza e revise</h3><p>Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "produzir_publicidade.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual informação não pode ser substituída apenas pelo slogan de uma campanha?",
+        "alternativas": [
+          "Cor preferida do autor.",
+          "Condições e local de participação.",
+          "Opinião sobre toda publicidade.",
+          "Promessa de fama."
+        ],
+        "correta": 1,
+        "explicacao": "Campanha fictícia de troca de livros: “Uma história continua com você”. A imagem pode mostrar livros passando entre mãos, e o texto precisa informar local, data e condições. O slogan sozinho não diz como participar. Se o evento é fictício, o cartaz deve indicar simulação; não divulgue uma data inventada como acontecimento real.",
+        "bncc": [
+          "EF67LP13"
+        ]
+      },
+      {
+        "id": "produzir_publicidade.producao",
+        "tipo": "discursiva",
+        "enunciado": "Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas.",
+        "gabarito": "Exigir duas versões, imagem efetiva, texto legível, relação persuasiva explicada e dados de serviço coerentes. Em simulação, sinalização visível. Avaliar teste e revisões; não exigir publicação externa nem avaliar pelo sucesso comercial.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir duas versões, imagem efetiva, texto legível, relação persuasiva explicada e dados de serviço coerentes. Em simulação, sinalização visível. Avaliar teste e revisões; não exigir publicação externa nem avaliar pelo sucesso comercial.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP13"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.producao_de_textos.coesao_referencial_na_producao": {
+    "id": "lip.ef06.producao_de_textos.coesao_referencial_na_producao",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 46,
+    "unidade": "Produção de Textos",
+    "titulo": "Coesão Referencial e Sequencial na Produção",
+    "bncc": [
+      "EF06LP12"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas."
+      ],
+      "resumo": "Coesão Referencial e Sequencial na Produção",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Coesão Referencial e Sequencial na Produção</h2><p>Coesão referencial liga as partes do texto por nomes e pronomes; relações semânticas podem produzir aproximação, contraste ou jogo com palavras iguais. Discurso direto apresenta uma voz citada; indireto relata essa fala com ajustes. Não troque todo nome por pronome: referências ambíguas prejudicam a leitura. Semelhança de sentido não torna toda substituição equivalente.</p><h3>Exemplo comentado</h3><p>“Lia falou: Estou contente. A estudante explicou que estava alegre, mas Rui estava triste.” Lia e a estudante retomam a mesma pessoa; contente/alegre aproximam sentidos e alegre/triste contrastam. Para homonímia, “O banco da praça ficava em frente ao banco da cidade” usa banco com sentidos distintos. A voz relatada deve continuar atribuída, sem alterar o que a personagem disse.</p><h3>Produza e revise</h3><p>Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "coesao_referencial_na_producao.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual revisão resolve um pronome ambíguo?",
+        "alternativas": [
+          "Repetir sempre ele sem contexto.",
+          "Nomear o referente quando necessário.",
+          "Apagar todas as personagens.",
+          "Trocar qualquer substantivo por seu."
+        ],
+        "correta": 1,
+        "explicacao": "“Lia falou: Estou contente. A estudante explicou que estava alegre, mas Rui estava triste.” Lia e a estudante retomam a mesma pessoa; contente/alegre aproximam sentidos e alegre/triste contrastam. Para homonímia, “O banco da praça ficava em frente ao banco da cidade” usa banco com sentidos distintos. A voz relatada deve continuar atribuída, sem alterar o que a personagem disse.",
+        "bncc": [
+          "EF06LP12"
+        ]
+      },
+      {
+        "id": "coesao_referencial_na_producao.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas.",
+        "gabarito": "Conferir produção efetiva e identificação de todos os recursos: retomada, sinonímia, antonímia, homonímia e duas formas de representar a voz. Aceitar exemplos diversos justificados. Exigir correspondência de sentido entre fala direta e indireta; a simples marcação de classes não encerra a tarefa.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir produção efetiva e identificação de todos os recursos: retomada, sinonímia, antonímia, homonímia e duas formas de representar a voz. Aceitar exemplos diversos justificados. Exigir correspondência de sentido entre fala direta e indireta; a simples marcação de classes não encerra a tarefa.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF06LP12"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.producao_de_textos.resumo_e_parafrase": {
+    "id": "lip.ef06.producao_de_textos.resumo_e_parafrase",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 47,
+    "unidade": "Produção de Textos",
+    "titulo": "Resumo, Paráfrase e Citação",
+    "bncc": [
+      "EF67LP22"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Faça notas e um esquema do texto-base. Escreva resumo de duas frases com paráfrase e uma citação curta identificada como proveniente do texto autoral fictício desta aula. Compare com a fonte, retirando repetição desnecessária e qualquer generalização sobre os demais dias."
+      ],
+      "resumo": "Resumo, Paráfrase e Citação",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Resumo, Paráfrase e Citação</h2><p>Resumir parte de notas ou esquema e seleciona ideias centrais sem acrescentar conclusões inexistentes. Paráfrase reorganiza uma ideia com palavras próprias, preservando o sentido e indicando a origem. Citação direta mantém o trecho literal, delimitado e atribuído. Trocar poucas palavras não basta para construir um resumo autônomo. A referência permite ao leitor localizar a fonte.</p><h3>Exemplo comentado</h3><p>Texto-base autoral fictício: “A biblioteca ampliou o horário por uma hora. No primeiro dia, 18 estudantes usaram o período adicional. O uso nos outros dias ainda não foi levantado.” Notas: ampliação de uma hora; 18 no primeiro dia; demais dias desconhecidos. Resumo possível: “O texto informa a ampliação do atendimento e registra 18 participantes no primeiro dia, sem dados dos demais”.</p><h3>Produza e revise</h3><p>Faça notas e um esquema do texto-base. Escreva resumo de duas frases com paráfrase e uma citação curta identificada como proveniente do texto autoral fictício desta aula. Compare com a fonte, retirando repetição desnecessária e qualquer generalização sobre os demais dias.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "resumo_e_parafrase.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual resumo preserva os limites do texto-base?",
+        "alternativas": [
+          "Todos os dias receberam 18 pessoas.",
+          "A ampliação foi avaliada por anos.",
+          "O primeiro dia teve 18 participantes; os demais ainda não foram levantados.",
+          "Não houve ampliação."
+        ],
+        "correta": 2,
+        "explicacao": "Texto-base autoral fictício: “A biblioteca ampliou o horário por uma hora. No primeiro dia, 18 estudantes usaram o período adicional. O uso nos outros dias ainda não foi levantado.” Notas: ampliação de uma hora; 18 no primeiro dia; demais dias desconhecidos. Resumo possível: “O texto informa a ampliação do atendimento e registra 18 participantes no primeiro dia, sem dados dos demais”.",
+        "bncc": [
+          "EF67LP22"
+        ]
+      },
+      {
+        "id": "resumo_e_parafrase.producao",
+        "tipo": "discursiva",
+        "enunciado": "Faça notas e um esquema do texto-base. Escreva resumo de duas frases com paráfrase e uma citação curta identificada como proveniente do texto autoral fictício desta aula. Compare com a fonte, retirando repetição desnecessária e qualquer generalização sobre os demais dias.",
+        "gabarito": "Exigir notas/esquema anteriores, preservação das três informações relevantes, paráfrase própria e citação literal delimitada e atribuída. Não transformar primeiro dia em frequência diária. Conferir coerência entre resumo e fonte e registro da revisão.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir notas/esquema anteriores, preservação das três informações relevantes, paráfrase própria e citação literal delimitada e atribuída. Não transformar primeiro dia em frequência diária. Conferir coerência entre resumo e fonte e registro da revisão.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP22"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
     },
     "complementar": false,
     "preRequisitos": [],

@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 38,
+  "unidade": "Mídia e Efeitos de Sentido",
+  "titulo": "Imagens, Sequências e Sobreposições",
+  "bncc": [
+    "EF67LP08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto."
+    ],
+    "resumo": "Imagens, Sequências e Sobreposições",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Imagens, Sequências e Sobreposições</h2><p>Enquadramento seleciona o que aparece e o que fica fora. Figura/fundo, escala, foco, cor e sequência podem destacar sentidos. Uma imagem recortada não representa necessariamente a cena completa. A legenda pode repetir, complementar ou contrariar a imagem. Esta aula analisa ilustração estática, sem alegar cobertura de fotografia, vídeo e todos os gêneros da habilidade.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 600 240\" role=\"img\" aria-label=\"Dois enquadramentos da mesma cena fictícia: A mostra três árvores e um banco vazio; B recorta apenas o banco. A legenda comum diz praça do bairro.\"><rect x=\"5\" y=\"5\" width=\"285\" height=\"225\" fill=\"#e8f3df\" stroke=\"#344\"/><rect x=\"310\" y=\"5\" width=\"285\" height=\"225\" fill=\"#eee\" stroke=\"#344\"/><g fill=\"#356b39\"><circle cx=\"55\" cy=\"65\" r=\"30\"/><circle cx=\"140\" cy=\"65\" r=\"30\"/><circle cx=\"230\" cy=\"65\" r=\"30\"/></g><g stroke=\"#765b3f\" stroke-width=\"8\"><path d=\"M55 95v45m85-45v45m90-45v45\"/><path d=\"M100 155h100m-90 0v25m80-25v25M365 110h175m-160 0v65m145-65v65\"/></g><g fill=\"#111\" font-size=\"16\"><text x=\"15\" y=\"215\">A: praça, árvores e banco</text><text x=\"320\" y=\"215\">B: somente o banco</text></g></svg><p>As duas imagens são recortes ilustrados de uma mesma cena fictícia. A mostra vegetação e banco; B amplia só o banco. “Praça sem árvores” não é sustentado pelo recorte B: as árvores ficaram fora dele. Uma sequência B seguida de A revela contexto antes oculto.</p></p><h3>Produza e revise</h3><p>Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "imagens_e_sentido.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O recorte B permite concluir que não há árvores na praça?",
+      "alternativas": [
+        "Sim, tudo fora do quadro inexiste.",
+        "Não; o enquadramento excluiu parte da cena.",
+        "Sim, o banco comprova isso.",
+        "A legenda sempre torna qualquer conclusão verdadeira."
+      ],
+      "correta": 1,
+      "explicacao": "O enquadramento B exclui as árvores presentes em A; um recorte não comprova a inexistência de elementos fora da imagem.",
+      "bncc": [
+        "EF67LP08"
+      ]
+    },
+    {
+      "id": "imagens_e_sentido.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare A e B: descreva figura e fundo, informação retirada e efeito da ampliação. Crie duas legendas para B, uma delimitada e outra enganosa, explicando a diferença. Desenhe uma sequência de três quadros que revele progressivamente o contexto.",
+      "gabarito": "Conferir árvores e contexto em A e recorte do banco em B; a ausência no enquadramento não prova inexistência. Legenda delimitada pode indicar detalhe do banco; enganosa pode afirmar ausência de árvores. Avaliar três quadros reais e justificativas.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir árvores e contexto em A e recorte do banco em B; a ausência no enquadramento não prova inexistência. Legenda delimitada pode indicar detalhe do banco; enganosa pode afirmar ausência de árvores. Avaliar três quadros reais e justificativas.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP08"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
