@@ -279,8 +279,172 @@ registrarCurriculo("Ciências Naturais", {
       }
     ]
   },
-  "EF06": {},
-  "EF07": {},
+  "EF06": {
+    "Matéria e Energia": [
+      {
+        "id": "cna.ef06.misturas_e_separacao.sistemas_homogeneos",
+        "titulo": "Misturas e fases observáveis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.transformacoes_quimicas.evidencias_de_reacao",
+        "titulo": "Evidências de transformação química",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.misturas_e_separacao.separacao_de_materiais",
+        "titulo": "Separar materiais: escolher o método",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos",
+        "titulo": "Materiais sintéticos, pesquisa e impactos",
+        "complementar": false
+      }
+    ],
+    "Vida e Evolução": [
+      {
+        "id": "cna.ef06.celula.unidade_da_vida",
+        "titulo": "Células: estrutura e função",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.celula.niveis_de_organizacao",
+        "titulo": "Níveis de organização do organismo",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.sistema_nervoso.neuronios",
+        "titulo": "Sistema nervoso: perceber e coordenar",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.visao.olho_humano",
+        "titulo": "Visão e lentes em modelos ópticos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.locomocao.ossos",
+        "titulo": "Sustentação e movimento: sistemas integrados",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.sistema_nervoso.substancias_psicoativas",
+        "titulo": "Substâncias psicoativas e comunicação nervosa",
+        "complementar": false
+      }
+    ],
+    "Terra e Universo": [
+      {
+        "id": "cna.ef06.estrutura_da_terra.camadas_internas",
+        "titulo": "Camadas da Terra e atmosfera",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.rochas_e_fosseis.tipos_de_rocha",
+        "titulo": "Rochas, formação e fósseis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.forma_e_movimentos_da_terra.esfericidade",
+        "titulo": "Evidências da forma aproximadamente esférica",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras",
+        "titulo": "Sombras, movimentos e estações do ano",
+        "complementar": false
+      }
+    ]
+  },
+  "EF07": {
+    "Matéria e Energia": [
+      {
+        "id": "cna.ef07.maquinas_simples.alavanca",
+        "titulo": "Máquinas simples: tarefa, força e percurso",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.calor_e_temperatura.temperatura",
+        "titulo": "Temperatura, calor e sensação térmica",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.aplicacoes_do_calor.garrafa_termica",
+        "titulo": "Condução, convecção e radiação em soluções",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida",
+        "titulo": "Equilíbrio térmico, vida e máquinas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao",
+        "titulo": "Combustíveis e máquinas ao longo do tempo",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.tecnologia_e_sociedade.novos_materiais",
+        "titulo": "Novos materiais, automação e trabalho",
+        "complementar": false
+      }
+    ],
+    "Vida e Evolução": [
+      {
+        "id": "cna.ef07.ecossistemas_brasileiros.amazonia",
+        "titulo": "Ecossistemas brasileiros: comparar condições",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.impactos_ambientais.catastrofes_naturais",
+        "titulo": "Mudanças ambientais e populações",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.saude_publica.indicadores_de_saude",
+        "titulo": "Indicadores e políticas de saúde",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.vacinacao.como_a_vacina_age",
+        "titulo": "Vacinação: mecanismo e história pública",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia",
+        "titulo": "Tecnologias, ambiente e qualidade de vida",
+        "complementar": false
+      }
+    ],
+    "Terra e Universo": [
+      {
+        "id": "cna.ef07.ar_e_atmosfera.composicao_do_ar",
+        "titulo": "Ar: mistura e variações na composição",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.ar_e_atmosfera.efeito_estufa_natural",
+        "titulo": "Efeito estufa natural e intensificação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.ar_e_atmosfera.camada_de_ozonio",
+        "titulo": "Ozônio: função, alterações e preservação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.terra_dinamica.placas_tectonicas",
+        "titulo": "Placas, sismos, vulcões e tsunamis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef07.terra_dinamica.deriva_continental",
+        "titulo": "Deriva continental: costas e outras evidências",
+        "complementar": false
+      }
+    ]
+  },
   "EF08": {},
   "EF09": {}
 });

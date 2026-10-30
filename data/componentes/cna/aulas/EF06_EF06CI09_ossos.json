@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef06.locomocao.ossos",
+  "componente": "cna",
+  "nivel": "EF06",
+  "ordem": 9,
+  "unidade": "Vida e Evolução",
+  "titulo": "Sustentação e movimento: sistemas integrados",
+  "bncc": [
+    "EF06CI09"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construa com adulto um modelo articulado com papel/cartão e barbantes, sem ferramentas cortantes pelo estudante. Explique o papel representado por cada peça, compare com fonte anatômica e indique limites. Descreva a integração nervos/músculos/esqueleto em ação cotidiana, sem exigir esforço corporal, medir força ou imitar limitações de alguém."
+    ],
+    "resumo": "Sustentação e movimento: sistemas integrados",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Sustentação e movimento: sistemas integrados</h2><h3>Ideias para investigar</h3><p>Nos animais estudados com esqueleto interno, ossos, articulações e músculos atuam com o sistema nervoso para sustentar e produzir movimentos. Músculos exercem tração; articulações permitem movimentos dentro de certas possibilidades. A estrutura varia entre animais; nem todo animal tem ossos internos. Tecnologia assistiva pode ampliar formas de participação sem tornar um corpo menos válido.</p><h3>Exemplo comentado</h3><p>Flexionar um modelo de cotovelo ajuda a pensar em ossos articulados e músculos que tracionam de modos complementares. Um osso não decide sozinho o movimento e músculo não substitui a coordenação nervosa. Barbantes e cartões são analogias e não reproduzem todos os tecidos.</p><h3>Observe, registre e explique</h3><p>Construa com adulto um modelo articulado com papel/cartão e barbantes, sem ferramentas cortantes pelo estudante. Explique o papel representado por cada peça, compare com fonte anatômica e indique limites. Descreva a integração nervos/músculos/esqueleto em ação cotidiana, sem exigir esforço corporal, medir força ou imitar limitações de alguém.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ossos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No modelo de movimento, o músculo principalmente:",
+      "alternativas": [
+        "Traciona, em interação com estruturas e coordenação.",
+        "Vira um osso a cada movimento.",
+        "Decide sozinho sem qualquer sinal."
+      ],
+      "correta": 0,
+      "explicacao": "Flexionar um modelo de cotovelo ajuda a pensar em ossos articulados e músculos que tracionam de modos complementares. Um osso não decide sozinho o movimento e músculo não substitui a coordenação nervosa. Barbantes e cartões são analogias e não reproduzem todos os tecidos.",
+      "bncc": [
+        "EF06CI09"
+      ]
+    },
+    {
+      "id": "ossos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa com adulto um modelo articulado com papel/cartão e barbantes, sem ferramentas cortantes pelo estudante. Explique o papel representado por cada peça, compare com fonte anatômica e indique limites. Descreva a integração nervos/músculos/esqueleto em ação cotidiana, sem exigir esforço corporal, medir força ou imitar limitações de alguém.",
+      "gabarito": "Exigir modelo testado, integração dos sistemas e limites da analogia. Não dizer que músculo empurra osso como haste rígida nem generalizar esqueleto ósseo a todos os animais. Aceitar participação por manipulação assistida e fala.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir modelo testado, integração dos sistemas e limites da analogia. Não dizer que músculo empurra osso como haste rígida nem generalizar esqueleto ósseo a todos os animais. Aceitar participação por manipulação assistida e fala.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF06CI09"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Sustentação e Movimento",
+    "titulo": "Ossos"
+  }
+}

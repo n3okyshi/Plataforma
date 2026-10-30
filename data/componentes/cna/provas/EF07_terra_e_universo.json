@@ -1,0 +1,223 @@
+{
+  "id": "cna.ef07.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF07",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF07CI12",
+    "EF07CI13",
+    "EF07CI14",
+    "EF07CI15",
+    "EF07CI16"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef07.terra_e_universo.prova.12",
+    "cna.ef07.terra_e_universo.prova.13",
+    "cna.ef07.terra_e_universo.prova.14",
+    "cna.ef07.terra_e_universo.prova.15",
+    "cna.ef07.terra_e_universo.prova.16"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef07.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF07CI12",
+      "EF07CI13",
+      "EF07CI14",
+      "EF07CI15",
+      "EF07CI16"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Ar: mistura e variações na composição",
+        "enunciado": "Construa gráfico/modelo de composição aproximada do ar seco com legenda e limite. Analise dois casos, como erupção e emissão de veículos, distinguindo gases e partículas com fonte. Faça demonstração segura de ar ocupando espaço com recipiente e água ou seringa sem agulha, manejada pelo professor, sem experimento de combustão.",
+        "gabarito": "Exigir composição e proporções aproximadas, limite ar seco/umidade e discussão de fontes de alteração. A demonstração de volume não mede por si só a composição. Não usar vela em copo para inferir porcentagem exata de oxigênio.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir composição e proporções aproximadas, limite ar seco/umidade e discussão de fontes de alteração. A demonstração de volume não mede por si só a composição. Não usar vela em copo para inferir porcentagem exata de oxigênio.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI12"
+        ],
+        "atividadeOrigem": "cna.ef07.ar_e_atmosfera.composicao_do_ar#composicao_do_ar.investigacao"
+      },
+      {
+        "titulo": "Efeito estufa natural e intensificação",
+        "enunciado": "Produza esquema do balanço de energia e compare efeito natural/intensificado. Com fonte institucional, relacione duas ações humanas a emissões ou perda de absorção. Selecione em grupo uma proposta escolar viável, execute ação autorizada e registre indicador e limite; não calcule emissões evitadas sem método e dados.",
+        "gabarito": "Exigir mecanismo e distinção do ozônio, causas antrópicas e proposta executada ou pendência explícita. Não afirmar que toda redução de consumo equivale a quantidade conhecida de carbono sem cálculo rastreável.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir mecanismo e distinção do ozônio, causas antrópicas e proposta executada ou pendência explícita. Não afirmar que toda redução de consumo equivale a quantidade conhecida de carbono sem cálculo rastreável.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI13"
+        ],
+        "atividadeOrigem": "cna.ef07.ar_e_atmosfera.efeito_estufa_natural#efeito_estufa_natural.investigacao"
+      },
+      {
+        "titulo": "Ozônio: função, alterações e preservação",
+        "enunciado": "Com fontes institucionais, faça quadro: onde o ozônio tem função protetora, como se forma/destrói em termos gerais, fatores antrópicos e medidas coletivas. Proponha duas ações responsáveis, como encaminhamento de manutenção/descarte por equipe habilitada e informação pública. Compare com efeito estufa sem recomendar manipulação de gases.",
+        "gabarito": "Exigir função ligada a UV, distinção de localização e comparação dos mecanismos. Não atribuir aquecimento global apenas ao buraco de ozônio. A ação proposta não deve exigir abrir refrigerador, aerossol ou recipiente pressurizado.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir função ligada a UV, distinção de localização e comparação dos mecanismos. Não atribuir aquecimento global apenas ao buraco de ozônio. A ação proposta não deve exigir abrir refrigerador, aerossol ou recipiente pressurizado.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI14"
+        ],
+        "atividadeOrigem": "cna.ef07.ar_e_atmosfera.camada_de_ozonio#camada_de_ozonio.investigacao"
+      },
+      {
+        "titulo": "Placas, sismos, vulcões e tsunamis",
+        "enunciado": "Compare mapa institucional de limites e distribuição de eventos com posição do Brasil. Explique um processo para sismo, vulcanismo e tsunami, distinguindo condições necessárias. Analise por que raridade relativa não significa impossibilidade e registre limites do mapa. Sem simulações com ondas perigosas, deslocamento de pessoas ou afirmação de previsão de data.",
+        "gabarito": "Exigir interpretação de mapa real com fonte/período e mecanismos coerentes. Não afirmar que Brasil nunca tem terremoto nem que todo terremoto oceânico provoca tsunami. Não usar o estudo para prever evento específico.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir interpretação de mapa real com fonte/período e mecanismos coerentes. Não afirmar que Brasil nunca tem terremoto nem que todo terremoto oceânico provoca tsunami. Não usar o estudo para prever evento específico.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI15"
+        ],
+        "atividadeOrigem": "cna.ef07.terra_dinamica.placas_tectonicas#placas_tectonicas.investigacao"
+      },
+      {
+        "titulo": "Deriva continental: costas e outras evidências",
+        "enunciado": "Use mapas identificados das margens e duas fontes de evidências geológicas/paleontológicas para comparar América do Sul e África. Produza reconstrução esquemática com legenda e argumento que una forma e registros. Indique limites do encaixe e diferença entre propor hipótese e explicar mecanismos por placas.",
+        "gabarito": "Exigir mapa com origem, duas evidências além da forma e limitações de contornos atuais. Não tratar um encaixe de papel como prova única nem reproduzir oceano global de magma como suporte. Registrar escalas e tempos qualitativos sem inventar datação.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir mapa com origem, duas evidências além da forma e limitações de contornos atuais. Não tratar um encaixe de papel como prova única nem reproduzir oceano global de magma como suporte. Registrar escalas e tempos qualitativos sem inventar datação.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF07CI16"
+        ],
+        "atividadeOrigem": "cna.ef07.terra_dinamica.deriva_continental#deriva_continental.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        349
+      ],
+      "paginasImpressas": "347",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — What is the greenhouse effect?",
+      "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+      "uso": "Mecanismo natural, intensificação antrópica e balanço energético; exemplos e tarefas autorais."
+    },
+    {
+      "documento": "NASA — Is the ozone hole causing climate change?",
+      "url": "https://science.nasa.gov/climate-change/faq/is-the-ozone-hole-causing-climate-change/",
+      "uso": "Diferencia proteção UV e mecanismos climáticos; não reproduz estimativas temporais de recuperação."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "paginasImpressas": "25–28",
+      "uso": "História e tectônica consultadas criticamente: não reproduz representação incorreta de placas sobre oceano de magma."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "paginasImpressas": "25–28",
+      "uso": "Evidências históricas e deriva, com distinção entre hipótese histórica e mecanismo de placas."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF07CI12",
+      "questoes": [
+        "cna.ef07.terra_e_universo.prova.12"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.ar_e_atmosfera.composicao_do_ar#composicao_do_ar.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI13",
+      "questoes": [
+        "cna.ef07.terra_e_universo.prova.13"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.ar_e_atmosfera.efeito_estufa_natural#efeito_estufa_natural.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI14",
+      "questoes": [
+        "cna.ef07.terra_e_universo.prova.14"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.ar_e_atmosfera.camada_de_ozonio#camada_de_ozonio.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI15",
+      "questoes": [
+        "cna.ef07.terra_e_universo.prova.15"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.terra_dinamica.placas_tectonicas#placas_tectonicas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07CI16",
+      "questoes": [
+        "cna.ef07.terra_e_universo.prova.16"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef07.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef07.terra_dinamica.deriva_continental#deriva_continental.investigacao"
+      ]
+    }
+  ]
+}

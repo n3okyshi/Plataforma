@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef06.transformacoes_quimicas.evidencias_de_reacao",
+  "componente": "cna",
+  "nivel": "EF06",
+  "ordem": 2,
+  "unidade": "Matéria e Energia",
+  "titulo": "Evidências de transformação química",
+  "bncc": [
+    "EF06CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "O professor demonstra pequena quantidade de vinagre alimentar e bicarbonato em bandeja, sem consumo, aquecimento ou fechamento. Registre antes/depois e compare a evidência com modelo de água em ebulição apresentado por registro seguro. Explique por que bolhas não bastam sem conhecer o processo e identifique o que indica produtos diferentes no primeiro caso."
+    ],
+    "resumo": "Evidências de transformação química",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Evidências de transformação química</h2><h3>Ideias para investigar</h3><p>Transformação química envolve formação de substâncias diferentes das iniciais. Liberação de gás, mudança de cor ou temperatura podem ser indícios, mas isoladamente não provam toda reação: água fervendo produz bolhas sem mudar sua identidade química. Relacione evidência, materiais e condições; nem toda mudança visual é transformação química.</p><h3>Exemplo comentado</h3><p>Vinagre com bicarbonato pode formar gás e outros produtos. O gás não é apenas o ar que já estava numa mistura agitada. O teste deve usar pequenas porções identificadas, recipiente aberto e supervisão, nunca frasco fechado. Não se misturam produtos de limpeza para procurar uma reação.</p><h3>Observe, registre e explique</h3><p>O professor demonstra pequena quantidade de vinagre alimentar e bicarbonato em bandeja, sem consumo, aquecimento ou fechamento. Registre antes/depois e compare a evidência com modelo de água em ebulição apresentado por registro seguro. Explique por que bolhas não bastam sem conhecer o processo e identifique o que indica produtos diferentes no primeiro caso.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "evidencias_de_reacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Bolhas em água fervendo provam, por si só, transformação química?",
+      "alternativas": [
+        "Sim, toda bolha é substância nova.",
+        "Não; podem resultar de mudança de estado.",
+        "Sim, água deixa de ser água sempre."
+      ],
+      "correta": 1,
+      "explicacao": "Vinagre com bicarbonato pode formar gás e outros produtos. O gás não é apenas o ar que já estava numa mistura agitada. O teste deve usar pequenas porções identificadas, recipiente aberto e supervisão, nunca frasco fechado. Não se misturam produtos de limpeza para procurar uma reação.",
+      "bncc": [
+        "EF06CI02"
+      ]
+    },
+    {
+      "id": "evidencias_de_reacao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "O professor demonstra pequena quantidade de vinagre alimentar e bicarbonato em bandeja, sem consumo, aquecimento ou fechamento. Registre antes/depois e compare a evidência com modelo de água em ebulição apresentado por registro seguro. Explique por que bolhas não bastam sem conhecer o processo e identifique o que indica produtos diferentes no primeiro caso.",
+      "gabarito": "Exigir registro e argumento que diferencie reação de mudança de estado. Não exigir identificação por cheiro ou provar o gás. Sem demonstração, indicar uso de registro identificado e a limitação. Não generalizar toda efervescência como prova única.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir registro e argumento que diferencie reação de mudança de estado. Não exigir identificação por cheiro ou provar o gás. Sem demonstração, indicar uso de registro identificado e a limitação. Não generalizar toda efervescência como prova única.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF06CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Transformações Químicas",
+    "titulo": "Evidências de Reação"
+  }
+}

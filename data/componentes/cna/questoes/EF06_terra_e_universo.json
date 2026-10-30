@@ -1,0 +1,292 @@
+[
+  {
+    "id": "cna.ef06.terra_e_universo.treino.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.estrutura_da_terra.camadas_internas",
+    "bncc": [
+      "EF06CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A litosfera inclui:",
+    "opcoes": [
+      "Crosta e parte rígida superior do manto.",
+      "Somente o núcleo externo.",
+      "Apenas nuvens."
+    ],
+    "correta": 0,
+    "explicacao": "Um corte desenhado em cores facilita comparar camadas, mas muitas figuras ampliam a crosta para permitir vê-la. Cor no modelo não é a cor observada do interior. As informações vêm de diferentes evidências, incluindo comportamento de ondas sísmicas, e não de uma viagem humana ao núcleo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "USGS — Are the tectonic plates floating on magma?",
+        "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+        "uso": "Texto institucional recuperado pela busca: manto majoritariamente sólido, deformação lenta e distinção do núcleo externo líquido. Abertura direta retornou restrição de acesso; não se declara inspeção de figuras."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.estrutura_da_terra.camadas_internas",
+    "bncc": [
+      "EF06CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual afirmação é adequada sobre o manto?",
+    "opcoes": [
+      "É majoritariamente sólido e pode deformar em longos tempos geológicos.",
+      "É inteiro um oceano de magma.",
+      "Não pode apresentar deformação em nenhuma escala de tempo."
+    ],
+    "correta": 0,
+    "explicacao": "Estado e comportamento mecânico precisam ser distinguidos; deformação lenta não exige um oceano global de magma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "USGS — Are the tectonic plates floating on magma?",
+        "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+        "uso": "Texto institucional recuperado pela busca: manto majoritariamente sólido, deformação lenta e distinção do núcleo externo líquido. Abertura direta retornou restrição de acesso; não se declara inspeção de figuras."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.treino.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.rochas_e_fosseis.tipos_de_rocha",
+    "bncc": [
+      "EF06CI12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma pegada preservada pode ser considerada fóssil?",
+    "opcoes": [
+      "Somente se foi feita na massa hoje.",
+      "Sim, como vestígio de atividade de ser vivo.",
+      "Não, só ossos podem ser fósseis."
+    ],
+    "correta": 1,
+    "explicacao": "Um registro de pegadas preservadas pode ser fóssil, não apenas um osso. Sedimentação pode cobrir vestígios e favorecer preservação em certas condições. Um molde de folha em massa feito na aula é analogia, não fóssil real nem prova de idade geológica.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.rochas_e_fosseis.tipos_de_rocha",
+    "bncc": [
+      "EF06CI12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um molde escolar de folha é:",
+    "opcoes": [
+      "Um fóssil real com milhões de anos.",
+      "Uma analogia que precisa ter seus limites identificados.",
+      "Uma forma de medir a idade de qualquer rocha."
+    ],
+    "correta": 1,
+    "explicacao": "O modelo demonstra uma possibilidade de registro de forma, mas não reproduz tempo e condições de fossilização.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.treino.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.esfericidade",
+    "bncc": [
+      "EF06CI13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma foto de pequeno trecho de chão aparentemente plano:",
+    "opcoes": [
+      "Prova que toda a Terra é plana.",
+      "É um recorte local e não determina sozinha a forma global.",
+      "Elimina qualquer outra evidência."
+    ],
+    "correta": 1,
+    "explicacao": "A borda curva da sombra terrestre em eclipses lunares é uma evidência histórica a comparar com outras, não uma autorização para olhar o Sol. Fusos e diferenças de estrelas visíveis também podem integrar o raciocínio com dados identificados. A Terra não é esfera geométrica perfeita; o modelo escolar aproxima sua forma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.esfericidade",
+    "bncc": [
+      "EF06CI13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um argumento mais forte sobre a forma terrestre usa:",
+    "opcoes": [
+      "Uma única observação sem contexto.",
+      "Conjunto de evidências independentes ou complementares e análise de seus limites.",
+      "Somente opinião sem fonte."
+    ],
+    "correta": 1,
+    "explicacao": "A força do argumento decorre da convergência e da relação explícita entre dados e modelo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.treino.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras",
+    "bncc": [
+      "EF06CI14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Mudanças diárias de sombra se relacionam principalmente à:",
+    "opcoes": [
+      "Desaparecimento da Terra.",
+      "Mudança de forma da vara a cada hora, obrigatoriamente.",
+      "Rotação e movimento aparente diário do Sol."
+    ],
+    "correta": 2,
+    "explicacao": "Um gnômon fixo pode gerar trajetórias e comprimentos diferentes em datas distintas, comparados em condições documentadas. Uma semana de dados não demonstra sozinha um padrão anual. Um modelo com globo e luz fixa ajuda a discutir movimentos relativos, mas escala e distâncias são simplificadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras",
+    "bncc": [
+      "EF06CI14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para analisar variação entre épocas do ano, é necessário considerar:",
+    "opcoes": [
+      "Apenas a cor da haste.",
+      "Só a distância ao Sol como causa única das estações.",
+      "Inclinação do eixo, posição orbital e condições comparáveis dos registros."
+    ],
+    "correta": 2,
+    "explicacao": "A explicação articula movimentos e geometria de iluminação, sem confundir dados de um dia com padrão anual.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

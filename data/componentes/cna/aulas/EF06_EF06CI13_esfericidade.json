@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef06.forma_e_movimentos_da_terra.esfericidade",
+  "componente": "cna",
+  "nivel": "EF06",
+  "ordem": 13,
+  "unidade": "Terra e Universo",
+  "titulo": "Evidências da forma aproximadamente esférica",
+  "bncc": [
+    "EF06CI13"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Selecione três conjuntos de evidências em fontes institucionais, registre origem e explique como cada um se relaciona à forma da Terra. Compare com a limitação de uma fotografia local do chão. Monte argumento com conclusão e limites, sem confundir modelo em papel com observação de toda a superfície."
+    ],
+    "resumo": "Evidências da forma aproximadamente esférica",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Evidências da forma aproximadamente esférica</h2><h3>Ideias para investigar</h3><p>Argumentar sobre a forma da Terra envolve convergência de evidências, não uma única imagem sem origem. Fotografias de diferentes missões, observações do céu em latitudes distintas e a sombra terrestre em eclipses lunares podem ser analisadas em conjunto. Um horizonte local aparentemente plano é um recorte pequeno, compatível com uma superfície muito maior e curva.</p><h3>Exemplo comentado</h3><p>A borda curva da sombra terrestre em eclipses lunares é uma evidência histórica a comparar com outras, não uma autorização para olhar o Sol. Fusos e diferenças de estrelas visíveis também podem integrar o raciocínio com dados identificados. A Terra não é esfera geométrica perfeita; o modelo escolar aproxima sua forma.</p><h3>Observe, registre e explique</h3><p>Selecione três conjuntos de evidências em fontes institucionais, registre origem e explique como cada um se relaciona à forma da Terra. Compare com a limitação de uma fotografia local do chão. Monte argumento com conclusão e limites, sem confundir modelo em papel com observação de toda a superfície.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "esfericidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma foto de pequeno trecho de chão aparentemente plano:",
+      "alternativas": [
+        "Prova que toda a Terra é plana.",
+        "É um recorte local e não determina sozinha a forma global.",
+        "Elimina qualquer outra evidência."
+      ],
+      "correta": 1,
+      "explicacao": "A borda curva da sombra terrestre em eclipses lunares é uma evidência histórica a comparar com outras, não uma autorização para olhar o Sol. Fusos e diferenças de estrelas visíveis também podem integrar o raciocínio com dados identificados. A Terra não é esfera geométrica perfeita; o modelo escolar aproxima sua forma.",
+      "bncc": [
+        "EF06CI13"
+      ]
+    },
+    {
+      "id": "esfericidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Selecione três conjuntos de evidências em fontes institucionais, registre origem e explique como cada um se relaciona à forma da Terra. Compare com a limitação de uma fotografia local do chão. Monte argumento com conclusão e limites, sem confundir modelo em papel com observação de toda a superfície.",
+      "gabarito": "Exigir três evidências explicadas e rastreáveis, não só lista de nomes. Não depender de autoridade sem examinar a relação evidência/conclusão. Diferenciar eclipse lunar de observação solar e reconhecer aproximação esférica.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir três evidências explicadas e rastreáveis, não só lista de nomes. Não depender de autoridade sem examinar a relação evidência/conclusão. Diferenciar eclipse lunar de observação solar e reconhecer aproximação esférica.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF06CI13"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Forma e Movimentos da Terra",
+    "titulo": "A Esfericidade da Terra"
+  }
+}

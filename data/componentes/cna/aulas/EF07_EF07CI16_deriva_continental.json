@@ -1,0 +1,98 @@
+{
+  "id": "cna.ef07.terra_dinamica.deriva_continental",
+  "componente": "cna",
+  "nivel": "EF07",
+  "ordem": 16,
+  "unidade": "Terra e Universo",
+  "titulo": "Deriva continental: costas e outras evidências",
+  "bncc": [
+    "EF07CI16"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Use mapas identificados das margens e duas fontes de evidências geológicas/paleontológicas para comparar América do Sul e África. Produza reconstrução esquemática com legenda e argumento que una forma e registros. Indique limites do encaixe e diferença entre propor hipótese e explicar mecanismos por placas."
+    ],
+    "resumo": "Deriva continental: costas e outras evidências",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Deriva continental: costas e outras evidências</h2><h3>Ideias para investigar</h3><p>As margens da América do Sul e da África sugerem correspondências, que ganham força quando combinadas com fósseis, rochas e outros registros. A teoria da deriva continental e a tectônica de placas articulam reconstruções da história geológica. O melhor ajuste não é simplesmente encaixar a linha atual da praia, modificada por erosão e variação do nível do mar; margens continentais e escalas precisam ser consideradas.</p><h3>Exemplo comentado</h3><p>Um quebra-cabeça de contornos pode iniciar uma hipótese, mas não prova sozinho uma história completa. Fósseis e conjuntos rochosos correspondentes em lados opostos do Atlântico acrescentam evidências. O movimento ocorre em tempos geológicos e não significa que os continentes deslizem como barcos independentes sobre água.</p><h3>Observe, registre e explique</h3><p>Use mapas identificados das margens e duas fontes de evidências geológicas/paleontológicas para comparar América do Sul e África. Produza reconstrução esquemática com legenda e argumento que una forma e registros. Indique limites do encaixe e diferença entre propor hipótese e explicar mecanismos por placas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "deriva_continental.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O encaixe visual das costas, sozinho:",
+      "alternativas": [
+        "É ponto de partida, mas deve ser combinado a outras evidências.",
+        "Prova toda a história sem outros dados.",
+        "Dispensa geologia e fósseis."
+      ],
+      "correta": 0,
+      "explicacao": "Um quebra-cabeça de contornos pode iniciar uma hipótese, mas não prova sozinho uma história completa. Fósseis e conjuntos rochosos correspondentes em lados opostos do Atlântico acrescentam evidências. O movimento ocorre em tempos geológicos e não significa que os continentes deslizem como barcos independentes sobre água.",
+      "bncc": [
+        "EF07CI16"
+      ]
+    },
+    {
+      "id": "deriva_continental.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use mapas identificados das margens e duas fontes de evidências geológicas/paleontológicas para comparar América do Sul e África. Produza reconstrução esquemática com legenda e argumento que una forma e registros. Indique limites do encaixe e diferença entre propor hipótese e explicar mecanismos por placas.",
+      "gabarito": "Exigir mapa com origem, duas evidências além da forma e limitações de contornos atuais. Não tratar um encaixe de papel como prova única nem reproduzir oceano global de magma como suporte. Registrar escalas e tempos qualitativos sem inventar datação.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir mapa com origem, duas evidências além da forma e limitações de contornos atuais. Não tratar um encaixe de papel como prova única nem reproduzir oceano global de magma como suporte. Registrar escalas e tempos qualitativos sem inventar datação.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF07CI16"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        349
+      ],
+      "paginasImpressas": "347",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "paginasImpressas": "25–28",
+      "uso": "Evidências históricas e deriva, com distinção entre hipótese histórica e mecanismo de placas."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Terra Dinâmica",
+    "titulo": "Deriva Continental"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "id": "cna.ef06.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF06",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF06CI05",
+    "EF06CI06",
+    "EF06CI07",
+    "EF06CI08",
+    "EF06CI09",
+    "EF06CI10"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "6 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 6, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef06.vida_e_evolucao.prova.05",
+    "cna.ef06.vida_e_evolucao.prova.06",
+    "cna.ef06.vida_e_evolucao.prova.07",
+    "cna.ef06.vida_e_evolucao.prova.08",
+    "cna.ef06.vida_e_evolucao.prova.09",
+    "cna.ef06.vida_e_evolucao.prova.10"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef06.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF06CI05",
+      "EF06CI06",
+      "EF06CI07",
+      "EF06CI08",
+      "EF06CI09",
+      "EF06CI10"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Células: estrutura e função",
+        "enunciado": "Use o esquema incorporado para identificar limites, citoplasma e núcleo da célula eucariótica representada. Construa modelo próprio com legenda funcional e compare com descrição de bactéria de fonte indicada: quais características compartilham e qual diferença de organização genética? Explique por que uma célula também realiza funções, não é só uma peça de construção.",
+        "gabarito": "Exigir modelo efetivo, legendas e funções, distinguindo núcleo delimitado de presença de material genético. Não afirmar que bactéria não tem DNA nem que modelo representa toda célula. A análise não exige cultivo ou coleta biológica.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir modelo efetivo, legendas e funções, distinguindo núcleo delimitado de presença de material genético. Não afirmar que bactéria não tem DNA nem que modelo representa toda célula. A análise não exige cultivo ou coleta biológica.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI05"
+        ],
+        "atividadeOrigem": "cna.ef06.celula.unidade_da_vida#unidade_da_vida.investigacao"
+      },
+      {
+        "titulo": "Níveis de organização do organismo",
+        "enunciado": "Analise o esquema incorporado de níveis e produza um modelo com cartões para célula, tecido, órgão, sistema e organismo. Escolha um exemplo verificado em fonte indicada e explique as relações sem confundir nível e função. Compare com organismo unicelular e registre dois limites da representação em caixas.",
+        "gabarito": "Exigir ordenação e exemplos coerentes, como tecido muscular/órgão coração/sistema circulatório, reconhecendo tecidos múltiplos em órgãos. Não exigir que todo organismo tenha os cinco níveis nem desenhar sistemas sem relação entre si.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir ordenação e exemplos coerentes, como tecido muscular/órgão coração/sistema circulatório, reconhecendo tecidos múltiplos em órgãos. Não exigir que todo organismo tenha os cinco níveis nem desenhar sistemas sem relação entre si.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI06"
+        ],
+        "atividadeOrigem": "cna.ef06.celula.niveis_de_organizacao#niveis_de_organizacao.investigacao"
+      },
+      {
+        "titulo": "Sistema nervoso: perceber e coordenar",
+        "enunciado": "Faça dois esquemas: percepção de um sinal e ação voluntária segura, como ouvir uma instrução e mover um cartão; e modelo de resposta reflexa estudado em fonte. Identifique receptores, nervos, estruturas centrais e resposta muscular. Justifique o papel de cada parte, sem realizar testes clínicos ou estímulos dolorosos.",
+        "gabarito": "Exigir integração das estruturas e funções e distinção entre descrição de modelo e ação observada. Não diagnosticar tempo de resposta de colegas nem supor que reflexo não se relaciona ao sistema nervoso.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir integração das estruturas e funções e distinção entre descrição de modelo e ação observada. Não diagnosticar tempo de resposta de colegas nem supor que reflexo não se relaciona ao sistema nervoso.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI07"
+        ],
+        "atividadeOrigem": "cna.ef06.sistema_nervoso.neuronios#neuronios.investigacao"
+      },
+      {
+        "titulo": "Visão e lentes em modelos ópticos",
+        "enunciado": "Analise três diagramas do professor ou modelos construídos: foco sobre, antes e depois da retina. Explique captação/interpretação e selecione lente pelo modelo idealizado, justificando o efeito sobre raios. Monte demonstração segura com lente/lanterna comum se disponível, sem dirigir luz aos olhos ou ao Sol. Não testar ou trocar óculos de colegas.",
+        "gabarito": "Exigir relações modelo/foco/lente e reconhecimento do limite clínico, sem receita ou diagnóstico. Quando os diagramas forem produzidos, identificar que são esquemas, não imagens do olho de alguém. Não usar observação solar nem exposição luminosa intensa.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir relações modelo/foco/lente e reconhecimento do limite clínico, sem receita ou diagnóstico. Quando os diagramas forem produzidos, identificar que são esquemas, não imagens do olho de alguém. Não usar observação solar nem exposição luminosa intensa.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI08"
+        ],
+        "atividadeOrigem": "cna.ef06.visao.olho_humano#olho_humano.investigacao"
+      },
+      {
+        "titulo": "Sustentação e movimento: sistemas integrados",
+        "enunciado": "Construa com adulto um modelo articulado com papel/cartão e barbantes, sem ferramentas cortantes pelo estudante. Explique o papel representado por cada peça, compare com fonte anatômica e indique limites. Descreva a integração nervos/músculos/esqueleto em ação cotidiana, sem exigir esforço corporal, medir força ou imitar limitações de alguém.",
+        "gabarito": "Exigir modelo testado, integração dos sistemas e limites da analogia. Não dizer que músculo empurra osso como haste rígida nem generalizar esqueleto ósseo a todos os animais. Aceitar participação por manipulação assistida e fala.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir modelo testado, integração dos sistemas e limites da analogia. Não dizer que músculo empurra osso como haste rígida nem generalizar esqueleto ósseo a todos os animais. Aceitar participação por manipulação assistida e fala.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI09"
+        ],
+        "atividadeOrigem": "cna.ef06.locomocao.ossos#ossos.investigacao"
+      },
+      {
+        "titulo": "Substâncias psicoativas e comunicação nervosa",
+        "enunciado": "Com fonte institucional indicada, construa mapa de duas maneiras gerais de alterar a comunicação nervosa e relacione a possíveis efeitos sobre atenção/coordenação. Analise um caso fictício de mensagem publicitária que promete desempenho sem risco e produza resposta crítica. Não relatar consumo pessoal ou familiar nem testar substâncias.",
+        "gabarito": "Exigir explicação baseada em fonte, distinção entre mecanismo e julgamento moral, e crítica à promessa de risco zero. Não diagnosticar colegas, sugerir tratamento ou apresentar medicamento como universalmente seguro/perigoso.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir explicação baseada em fonte, distinção entre mecanismo e julgamento moral, e crítica à promessa de risco zero. Não diagnosticar colegas, sugerir tratamento ou apresentar medicamento como universalmente seguro/perigoso.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI10"
+        ],
+        "atividadeOrigem": "cna.ef06.sistema_nervoso.substancias_psicoativas#substancias_psicoativas.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        183,
+        184,
+        185
+      ],
+      "paginasImpressas": "183–185",
+      "uso": "Organização celular consultada; modelos autorais distinguem células eucarióticas e organização sem núcleo delimitado."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        183,
+        184,
+        185
+      ],
+      "paginasImpressas": "183–185",
+      "uso": "Referência sobre células e pluricelularidade; esquema de níveis é autoral e explicitamente simplificado."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295
+      ],
+      "paginasImpressas": "289–295",
+      "uso": "Estruturas e funções básicas, com cuidado para não universalizar explicações simplificadas das sinapses e circuitos."
+    },
+    {
+      "documento": "NEI — Refractive Errors",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors",
+      "uso": "Fonte oficial consultada sobre refração, retina e limites entre modelo escolar e prescrição clínica."
+    },
+    {
+      "documento": "NIDA — Drugs, Brains, and Behavior",
+      "url": "https://irp.nida.nih.gov/wp-content/uploads/2019/12/NIDA_DrugsBrainsAddiction_2018.pdf",
+      "uso": "Fonte institucional consultada sobre interferência na sinalização por neurotransmissores; não oferece dosagem, experimentação ou diagnóstico."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF06CI05",
+      "questoes": [
+        "cna.ef06.vida_e_evolucao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.celula.unidade_da_vida#unidade_da_vida.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI06",
+      "questoes": [
+        "cna.ef06.vida_e_evolucao.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.celula.niveis_de_organizacao#niveis_de_organizacao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI07",
+      "questoes": [
+        "cna.ef06.vida_e_evolucao.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.sistema_nervoso.neuronios#neuronios.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI08",
+      "questoes": [
+        "cna.ef06.vida_e_evolucao.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.visao.olho_humano#olho_humano.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI09",
+      "questoes": [
+        "cna.ef06.vida_e_evolucao.prova.09"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.locomocao.ossos#ossos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI10",
+      "questoes": [
+        "cna.ef06.vida_e_evolucao.prova.10"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.sistema_nervoso.substancias_psicoativas#substancias_psicoativas.investigacao"
+      ]
+    }
+  ]
+}

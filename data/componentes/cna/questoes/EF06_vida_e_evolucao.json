@@ -1,0 +1,510 @@
+[
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.unidade_da_vida",
+    "bncc": [
+      "EF06CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma bactéria sem núcleo delimitado possui material genético?",
+    "opcoes": [
+      "Sim; ausência de núcleo delimitado não significa ausência de material genético.",
+      "Somente se for célula animal.",
+      "Não, nunca."
+    ],
+    "correta": 0,
+    "explicacao": "Um esquema de célula animal típico mostra membrana, citoplasma e núcleo. Ele simplifica forma, escala e diversidade. Nem toda célula é uma bolinha com o mesmo tamanho, e não se deve transformar o desenho eucariótico em regra de núcleo para todas as células.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Organização celular consultada; modelos autorais distinguem células eucarióticas e organização sem núcleo delimitado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.unidade_da_vida",
+    "bncc": [
+      "EF06CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual função está associada à membrana celular?",
+    "opcoes": [
+      "Eliminar toda comunicação com o ambiente.",
+      "Delimitar a célula e participar das trocas.",
+      "Ser o planeta inteiro."
+    ],
+    "correta": 1,
+    "explicacao": "A membrana estabelece um limite seletivo, não uma parede que impede toda troca.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Organização celular consultada; modelos autorais distinguem células eucarióticas e organização sem núcleo delimitado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.niveis_de_organizacao",
+    "bncc": [
+      "EF06CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual sequência representa níveis do exemplo humano?",
+    "opcoes": [
+      "Sistema, livro, rocha.",
+      "Órgão, átomo, calendário.",
+      "Célula, tecido, órgão, sistema, organismo."
+    ],
+    "correta": 2,
+    "explicacao": "No exemplo esquemático, células musculares participam de tecido muscular presente em órgãos; no coração, tecidos diferentes integram a estrutura de um órgão ligado ao sistema circulatório. Um sistema interage com outros. O coração não é apenas um tecido, nem o sangue é um organismo independente nesse exemplo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Referência sobre células e pluricelularidade; esquema de níveis é autoral e explicitamente simplificado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.niveis_de_organizacao",
+    "bncc": [
+      "EF06CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Todo ser vivo precisa ter órgãos e sistemas?",
+    "opcoes": [
+      "Sim, inclusive toda bactéria.",
+      "Não; organismos unicelulares não têm essa organização em órgãos.",
+      "Sim, porque qualquer modelo vale para todos."
+    ],
+    "correta": 1,
+    "explicacao": "A hierarquia apresentada é própria de certos pluricelulares e não deve ser universalizada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Referência sobre células e pluricelularidade; esquema de níveis é autoral e explicitamente simplificado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.neuronios",
+    "bncc": [
+      "EF06CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto pertence ao sistema nervoso central?",
+    "opcoes": [
+      "Somente músculos e tendões.",
+      "Encéfalo e medula espinal.",
+      "Estômago e intestino."
+    ],
+    "correta": 1,
+    "explicacao": "Ao acompanhar uma bola e mover a mão, sinais sensoriais, processamento e comandos motores participam de um circuito. Num reflexo, circuitos da medula podem participar de resposta rápida, sem exigir uma decisão consciente anterior. O exemplo é discutido por modelo: não provocar dor, susto ou risco para demonstrá-lo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295
+        ],
+        "paginasImpressas": "289–295",
+        "uso": "Estruturas e funções básicas, com cuidado para não universalizar explicações simplificadas das sinapses e circuitos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.neuronios",
+    "bncc": [
+      "EF06CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um reflexo deve ser estudado nesta aula:",
+    "opcoes": [
+      "Por modelos e fontes, sem teste doloroso ou diagnóstico.",
+      "Como prova de que nervos não participam.",
+      "Provocando dor para testar colegas."
+    ],
+    "correta": 0,
+    "explicacao": "A função pode ser analisada sem reproduzir estímulo nocivo ou interpretar condições individuais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295
+        ],
+        "paginasImpressas": "289–295",
+        "uso": "Estruturas e funções básicas, com cuidado para não universalizar explicações simplificadas das sinapses e circuitos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.visao.olho_humano",
+    "bncc": [
+      "EF06CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No modelo simples de miopia, o foco sem correção pode ocorrer:",
+    "opcoes": [
+      "Somente no cabelo.",
+      "Sempre exatamente sobre a retina.",
+      "Antes da retina."
+    ],
+    "correta": 2,
+    "explicacao": "Em modelos escolares usuais, lente divergente pode compensar miopia e convergente pode compensar hipermetropia. O mesmo relato de visão borrada não permite identificar grau, causa ou lente adequada a um estudante. A avaliação clínica é outra atividade, realizada por profissional.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NEI — Refractive Errors",
+        "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors",
+        "uso": "Fonte oficial consultada sobre refração, retina e limites entre modelo escolar e prescrição clínica."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.visao.olho_humano",
+    "bncc": [
+      "EF06CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No modelo escolar usual de hipermetropia, a lente corretiva discutida é:",
+    "opcoes": [
+      "Qualquer lente escolhida pela cor.",
+      "Divergente em qualquer situação real.",
+      "Convergente para ajustar o foco no modelo."
+    ],
+    "correta": 2,
+    "explicacao": "O raciocínio é sobre modelos ópticos, sem determinar prescrição individual.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NEI — Refractive Errors",
+        "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors",
+        "uso": "Fonte oficial consultada sobre refração, retina e limites entre modelo escolar e prescrição clínica."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.locomocao.ossos",
+    "bncc": [
+      "EF06CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No modelo de movimento, o músculo principalmente:",
+    "opcoes": [
+      "Decide sozinho sem qualquer sinal.",
+      "Traciona, em interação com estruturas e coordenação.",
+      "Vira um osso a cada movimento."
+    ],
+    "correta": 1,
+    "explicacao": "Flexionar um modelo de cotovelo ajuda a pensar em ossos articulados e músculos que tracionam de modos complementares. Um osso não decide sozinho o movimento e músculo não substitui a coordenação nervosa. Barbantes e cartões são analogias e não reproduzem todos os tecidos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.locomocao.ossos",
+    "bncc": [
+      "EF06CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual explicação é integrada?",
+    "opcoes": [
+      "Ossos decidem toda ação.",
+      "Movimento depende de relações entre nervos, músculos e sustentação, conforme o animal.",
+      "Todo animal tem os mesmos ossos humanos."
+    ],
+    "correta": 1,
+    "explicacao": "A coordenação e a estrutura se relacionam; modelos de um grupo não representam todos os animais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.substancias_psicoativas",
+    "bncc": [
+      "EF06CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma substância psicoativa pode:",
+    "opcoes": [
+      "Interferir na comunicação entre neurônios e em funções do sistema nervoso.",
+      "Não afetar o cérebro por definição.",
+      "Garantir desempenho sem risco."
+    ],
+    "correta": 0,
+    "explicacao": "Num esquema didático, a sinapse relaciona liberação, receptor e resposta. Uma substância pode imitar um sinal ou alterar sua disponibilidade, modificando circuitos. Não é adequado afirmar que todo efeito é igual ou que uma pessoa com problema de uso de substância é moralmente inferior. Cuidado e acesso a serviços são questões coletivas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIDA — Drugs, Brains, and Behavior",
+        "url": "https://irp.nida.nih.gov/wp-content/uploads/2019/12/NIDA_DrugsBrainsAddiction_2018.pdf",
+        "uso": "Fonte institucional consultada sobre interferência na sinalização por neurotransmissores; não oferece dosagem, experimentação ou diagnóstico."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.substancias_psicoativas",
+    "bncc": [
+      "EF06CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma análise científica do tema deve:",
+    "opcoes": [
+      "Tratar todos os efeitos e pessoas como idênticos.",
+      "Usar fontes, mecanismos e contexto sem estigma ou experimentação.",
+      "Exigir relatos privados para avaliar o aluno."
+    ],
+    "correta": 1,
+    "explicacao": "O estudo explica processos e cuidados, sem exposição pessoal ou teste de substâncias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIDA — Drugs, Brains, and Behavior",
+        "url": "https://irp.nida.nih.gov/wp-content/uploads/2019/12/NIDA_DrugsBrainsAddiction_2018.pdf",
+        "uso": "Fonte institucional consultada sobre interferência na sinalização por neurotransmissores; não oferece dosagem, experimentação ou diagnóstico."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "cna.ef07.ar_e_atmosfera.camada_de_ozonio",
+  "componente": "cna",
+  "nivel": "EF07",
+  "ordem": 14,
+  "unidade": "Terra e Universo",
+  "titulo": "Ozônio: função, alterações e preservação",
+  "bncc": [
+    "EF07CI14"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com fontes institucionais, faça quadro: onde o ozônio tem função protetora, como se forma/destrói em termos gerais, fatores antrópicos e medidas coletivas. Proponha duas ações responsáveis, como encaminhamento de manutenção/descarte por equipe habilitada e informação pública. Compare com efeito estufa sem recomendar manipulação de gases."
+    ],
+    "resumo": "Ozônio: função, alterações e preservação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Ozônio: função, alterações e preservação</h2><h3>Ideias para investigar</h3><p>A região estratosférica com maior concentração de ozônio absorve parte importante da radiação ultravioleta prejudicial. Formação e destruição de ozônio ocorrem naturalmente, mas certas substâncias produzidas por atividades humanas, como CFCs, podem intensificar a destruição. Ozônio próximo ao solo pode integrar poluição: lugar e condição importam. Redução de ozônio e intensificação do efeito estufa são fenômenos distintos, embora possam ter relações.</p><h3>Exemplo comentado</h3><p>Um refrigerante de equipamento antigo pode conter substâncias que exigem manejo específico. Não liberar gases nem desmontar aparelhos para investigar. Acordos internacionais e substituição e controle de substâncias mostram que a preservação envolve ações coletivas, não só uma decisão de consumo isolada.</p><h3>Observe, registre e explique</h3><p>Com fontes institucionais, faça quadro: onde o ozônio tem função protetora, como se forma/destrói em termos gerais, fatores antrópicos e medidas coletivas. Proponha duas ações responsáveis, como encaminhamento de manutenção/descarte por equipe habilitada e informação pública. Compare com efeito estufa sem recomendar manipulação de gases.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "camada_de_ozonio.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A camada de ozônio estratosférico é importante por:",
+      "alternativas": [
+        "Absorver parte relevante da radiação ultravioleta prejudicial.",
+        "Ser a mesma coisa que todo oxigênio do ar.",
+        "Eliminar necessidade de qualquer outro cuidado."
+      ],
+      "correta": 0,
+      "explicacao": "Um refrigerante de equipamento antigo pode conter substâncias que exigem manejo específico. Não liberar gases nem desmontar aparelhos para investigar. Acordos internacionais e substituição e controle de substâncias mostram que a preservação envolve ações coletivas, não só uma decisão de consumo isolada.",
+      "bncc": [
+        "EF07CI14"
+      ]
+    },
+    {
+      "id": "camada_de_ozonio.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com fontes institucionais, faça quadro: onde o ozônio tem função protetora, como se forma/destrói em termos gerais, fatores antrópicos e medidas coletivas. Proponha duas ações responsáveis, como encaminhamento de manutenção/descarte por equipe habilitada e informação pública. Compare com efeito estufa sem recomendar manipulação de gases.",
+      "gabarito": "Exigir função ligada a UV, distinção de localização e comparação dos mecanismos. Não atribuir aquecimento global apenas ao buraco de ozônio. A ação proposta não deve exigir abrir refrigerador, aerossol ou recipiente pressurizado.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir função ligada a UV, distinção de localização e comparação dos mecanismos. Não atribuir aquecimento global apenas ao buraco de ozônio. A ação proposta não deve exigir abrir refrigerador, aerossol ou recipiente pressurizado.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF07CI14"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        349
+      ],
+      "paginasImpressas": "347",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — Is the ozone hole causing climate change?",
+      "url": "https://science.nasa.gov/climate-change/faq/is-the-ozone-hole-causing-climate-change/",
+      "uso": "Diferencia proteção UV e mecanismos climáticos; não reproduz estimativas temporais de recuperação."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Ar e Atmosfera",
+    "titulo": "Camada de Ozônio"
+  }
+}

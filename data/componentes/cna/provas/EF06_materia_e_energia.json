@@ -1,0 +1,162 @@
+{
+  "id": "cna.ef06.materia_e_energia.prova",
+  "titulo": "Avaliação: Matéria e Energia",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF06",
+  "unidade": "Matéria e Energia",
+  "bncc": [
+    "EF06CI01",
+    "EF06CI02",
+    "EF06CI03",
+    "EF06CI04"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef06.materia_e_energia.prova.01",
+    "cna.ef06.materia_e_energia.prova.02",
+    "cna.ef06.materia_e_energia.prova.03",
+    "cna.ef06.materia_e_energia.prova.04"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef06.materia_e_energia.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Matéria e Energia",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF06CI01",
+      "EF06CI02",
+      "EF06CI03",
+      "EF06CI04"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Misturas e fases observáveis",
+        "enunciado": "Com mediação, compare pequenas misturas identificadas de água/sal, água/areia e água/óleo em recipientes seguros e sem consumo. Registre composição, quantidade aproximada, aparência ao misturar e após repouso. Classifique pelo número de fases observadas e explique a diferença entre fase e componente.",
+        "gabarito": "Exigir registros reais e classificação contextualizada. Não afirmar que toda combinação água/sal é sempre homogênea. Se não houver execução, registrar observação por fonte ou modelo, sem inventar dados.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registros reais e classificação contextualizada. Não afirmar que toda combinação água/sal é sempre homogênea. Se não houver execução, registrar observação por fonte ou modelo, sem inventar dados.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI01"
+        ],
+        "atividadeOrigem": "cna.ef06.misturas_e_separacao.sistemas_homogeneos#sistemas_homogeneos.investigacao"
+      },
+      {
+        "titulo": "Evidências de transformação química",
+        "enunciado": "O professor demonstra pequena quantidade de vinagre alimentar e bicarbonato em bandeja, sem consumo, aquecimento ou fechamento. Registre antes/depois e compare a evidência com modelo de água em ebulição apresentado por registro seguro. Explique por que bolhas não bastam sem conhecer o processo e identifique o que indica produtos diferentes no primeiro caso.",
+        "gabarito": "Exigir registro e argumento que diferencie reação de mudança de estado. Não exigir identificação por cheiro ou provar o gás. Sem demonstração, indicar uso de registro identificado e a limitação. Não generalizar toda efervescência como prova única.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registro e argumento que diferencie reação de mudança de estado. Não exigir identificação por cheiro ou provar o gás. Sem demonstração, indicar uso de registro identificado e a limitação. Não generalizar toda efervescência como prova única.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI02"
+        ],
+        "atividadeOrigem": "cna.ef06.transformacoes_quimicas.evidencias_de_reacao#evidencias_de_reacao.investigacao"
+      },
+      {
+        "titulo": "Separar materiais: escolher o método",
+        "enunciado": "Elabore fluxograma para areia/pedrinhas, água/areia e água/óleo, justificando método por propriedade. Execute com professor uma separação segura por peneiração ou filtração com material limpo. Compare com esquema de salina ou destilação fornecido com fonte e explique por que filtrar não retira sal dissolvido nem garante água potável.",
+        "gabarito": "Exigir escolhas e justificativas, execução registrada e distinção dos sistemas homogêneos. Não chamar água filtrada do experimento de potável nem realizar destilação de combustível ou aquecimento por estudante.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir escolhas e justificativas, execução registrada e distinção dos sistemas homogêneos. Não chamar água filtrada do experimento de potável nem realizar destilação de combustível ou aquecimento por estudante.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI03"
+        ],
+        "atividadeOrigem": "cna.ef06.misturas_e_separacao.separacao_de_materiais#separacao_de_materiais.investigacao"
+      },
+      {
+        "titulo": "Materiais sintéticos, pesquisa e impactos",
+        "enunciado": "Escolha um material sintético de objeto seguro e um exemplo de medicamento estudado em fonte institucional. Faça quadro com problema atendido, contribuição de pesquisa/tecnologia, benefício, impacto potencial e descarte segundo orientação verificada. Compare duas alternativas sem abrir comprimidos ou realizar síntese. Registre fontes e incertezas.",
+        "gabarito": "Exigir análise equilibrada e referências, sem receituário ou afirmação de risco zero. Não generalizar todo produto de origem natural como seguro. Descarte deve ser conferido com fonte institucional/local; ausência de informação permanece pendente.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir análise equilibrada e referências, sem receituário ou afirmação de risco zero. Não generalizar todo produto de origem natural como seguro. Descarte deve ser conferido com fonte institucional/local; ausência de informação permanece pendente.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF06CI04"
+        ],
+        "atividadeOrigem": "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos#o_que_sao_sinteticos.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF06CI01",
+      "questoes": [
+        "cna.ef06.materia_e_energia.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.misturas_e_separacao.sistemas_homogeneos#sistemas_homogeneos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI02",
+      "questoes": [
+        "cna.ef06.materia_e_energia.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.transformacoes_quimicas.evidencias_de_reacao#evidencias_de_reacao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI03",
+      "questoes": [
+        "cna.ef06.materia_e_energia.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.misturas_e_separacao.separacao_de_materiais#separacao_de_materiais.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF06CI04",
+      "questoes": [
+        "cna.ef06.materia_e_energia.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef06.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos#o_que_sao_sinteticos.investigacao"
+      ]
+    }
+  ]
+}

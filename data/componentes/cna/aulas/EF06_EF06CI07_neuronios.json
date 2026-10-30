@@ -1,0 +1,101 @@
+{
+  "id": "cna.ef06.sistema_nervoso.neuronios",
+  "componente": "cna",
+  "nivel": "EF06",
+  "ordem": 7,
+  "unidade": "Vida e Evolução",
+  "titulo": "Sistema nervoso: perceber e coordenar",
+  "bncc": [
+    "EF06CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça dois esquemas: percepção de um sinal e ação voluntária segura, como ouvir uma instrução e mover um cartão; e modelo de resposta reflexa estudado em fonte. Identifique receptores, nervos, estruturas centrais e resposta muscular. Justifique o papel de cada parte, sem realizar testes clínicos ou estímulos dolorosos."
+    ],
+    "resumo": "Sistema nervoso: perceber e coordenar",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Sistema nervoso: perceber e coordenar</h2><h3>Ideias para investigar</h3><p>O sistema nervoso integra informações sensoriais e participa da coordenação de ações. O sistema central inclui encéfalo e medula espinal; nervos ligam estruturas a diferentes regiões do corpo. Neurônios comunicam-se por sinais elétricos e químicos em circuitos. A resposta a um estímulo não deve ser atribuída a uma única peça isolada, e nem toda resposta é consciente.</p><h3>Exemplo comentado</h3><p>Ao acompanhar uma bola e mover a mão, sinais sensoriais, processamento e comandos motores participam de um circuito. Num reflexo, circuitos da medula podem participar de resposta rápida, sem exigir uma decisão consciente anterior. O exemplo é discutido por modelo: não provocar dor, susto ou risco para demonstrá-lo.</p><h3>Observe, registre e explique</h3><p>Faça dois esquemas: percepção de um sinal e ação voluntária segura, como ouvir uma instrução e mover um cartão; e modelo de resposta reflexa estudado em fonte. Identifique receptores, nervos, estruturas centrais e resposta muscular. Justifique o papel de cada parte, sem realizar testes clínicos ou estímulos dolorosos.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "neuronios.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual conjunto pertence ao sistema nervoso central?",
+      "alternativas": [
+        "Somente músculos e tendões.",
+        "Encéfalo e medula espinal.",
+        "Estômago e intestino."
+      ],
+      "correta": 1,
+      "explicacao": "Ao acompanhar uma bola e mover a mão, sinais sensoriais, processamento e comandos motores participam de um circuito. Num reflexo, circuitos da medula podem participar de resposta rápida, sem exigir uma decisão consciente anterior. O exemplo é discutido por modelo: não provocar dor, susto ou risco para demonstrá-lo.",
+      "bncc": [
+        "EF06CI07"
+      ]
+    },
+    {
+      "id": "neuronios.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Faça dois esquemas: percepção de um sinal e ação voluntária segura, como ouvir uma instrução e mover um cartão; e modelo de resposta reflexa estudado em fonte. Identifique receptores, nervos, estruturas centrais e resposta muscular. Justifique o papel de cada parte, sem realizar testes clínicos ou estímulos dolorosos.",
+      "gabarito": "Exigir integração das estruturas e funções e distinção entre descrição de modelo e ação observada. Não diagnosticar tempo de resposta de colegas nem supor que reflexo não se relaciona ao sistema nervoso.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir integração das estruturas e funções e distinção entre descrição de modelo e ação observada. Não diagnosticar tempo de resposta de colegas nem supor que reflexo não se relaciona ao sistema nervoso.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF06CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        347
+      ],
+      "paginasImpressas": "345",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295
+      ],
+      "paginasImpressas": "289–295",
+      "uso": "Estruturas e funções básicas, com cuidado para não universalizar explicações simplificadas das sinapses e circuitos."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Sistema Nervoso",
+    "titulo": "Neurônios"
+  }
+}

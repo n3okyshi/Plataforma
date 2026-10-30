@@ -3588,6 +3588,2298 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.misturas_e_separacao.sistemas_homogeneos",
+    "bncc": [
+      "EF06CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Água com sal completamente dissolvido pode ter:",
+    "opcoes": [
+      "Uma fase e mais de um componente.",
+      "Um componente obrigatório.",
+      "Sempre três fases visíveis."
+    ],
+    "correta": 0,
+    "explicacao": "Água e pequena quantidade de sal dissolvido: uma fase; água e areia: partes distinguíveis; água e óleo após repouso: camadas. Sal em excesso pode deixar cristais não dissolvidos, mudando o sistema observado. Transparência não garante que seja uma substância pura ou água potável.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.misturas_e_separacao.sistemas_homogeneos",
+    "bncc": [
+      "EF06CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para classificar uma mistura por fases, é importante:",
+    "opcoes": [
+      "Observar o sistema nas condições registradas e distinguir fase de componente.",
+      "Provar a amostra.",
+      "Ignorar quantidades e condições."
+    ],
+    "correta": 0,
+    "explicacao": "A classificação corresponde ao sistema efetivamente observado, não a uma regra sem condições.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.treino.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.transformacoes_quimicas.evidencias_de_reacao",
+    "bncc": [
+      "EF06CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Bolhas em água fervendo provam, por si só, transformação química?",
+    "opcoes": [
+      "Não; podem resultar de mudança de estado.",
+      "Sim, água deixa de ser água sempre.",
+      "Sim, toda bolha é substância nova."
+    ],
+    "correta": 0,
+    "explicacao": "Vinagre com bicarbonato pode formar gás e outros produtos. O gás não é apenas o ar que já estava numa mistura agitada. O teste deve usar pequenas porções identificadas, recipiente aberto e supervisão, nunca frasco fechado. Não se misturam produtos de limpeza para procurar uma reação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.prova.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.transformacoes_quimicas.evidencias_de_reacao",
+    "bncc": [
+      "EF06CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na análise de uma reação, deve-se:",
+    "opcoes": [
+      "Misturar produtos desconhecidos.",
+      "Relacionar materiais, condições e evidências de novos produtos.",
+      "Usar apenas uma cor qualquer como prova definitiva."
+    ],
+    "correta": 1,
+    "explicacao": "A interpretação pede contexto do processo e distinção entre indício e conclusão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.treino.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.misturas_e_separacao.separacao_de_materiais",
+    "bncc": [
+      "EF06CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual método pode reter areia insolúvel em água?",
+    "opcoes": [
+      "Filtrar para eliminar necessariamente todo sal dissolvido.",
+      "Filtração apropriada.",
+      "Somente olhar o recipiente."
+    ],
+    "correta": 1,
+    "explicacao": "Para água/areia, filtrar pode reter areia; para água/óleo, decantar fases pode ser apropriado. Água com sal dissolvido atravessa filtro comum com o sal. Na produção de sal, evaporação/cristalização tem papel; destilação usa diferenças de volatilidade e pode recuperar componentes, como em processos de refino. São exemplos para análise, não reprodução de destilação industrial na sala.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.prova.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.misturas_e_separacao.separacao_de_materiais",
+    "bncc": [
+      "EF06CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um filtro comum retirará todo o sal dissolvido em água?",
+    "opcoes": [
+      "Sim, por definição.",
+      "Não; a escolha do método depende das propriedades e do sistema.",
+      "Sim, tornando qualquer água potável."
+    ],
+    "correta": 1,
+    "explicacao": "Solutos dissolvidos não são separados como grãos de areia por filtragem comum.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.treino.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos",
+    "bncc": [
+      "EF06CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual comparação é adequada?",
+    "opcoes": [
+      "Natural é sempre seguro.",
+      "Sintético é sempre inútil.",
+      "Benefícios e impactos dependem do material, do uso e do ciclo de vida."
+    ],
+    "correta": 2,
+    "explicacao": "Um plástico pode permitir dispositivo leve e resistente, mas seu descarte inadequado pode gerar persistência e fragmentação no ambiente. Medicamentos podem beneficiar a saúde quando usados adequadamente, mas a atividade não ensina fabricação, escolha de tratamento ou consumo. Uma avaliação considera o benefício e as condições de controle.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.materia_e_energia.prova.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos",
+    "bncc": [
+      "EF06CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A produção de medicamentos se relaciona à ciência e tecnologia porque:",
+    "opcoes": [
+      "Envolve investigação, testes e processos controlados, sem autorizar fabricação doméstica.",
+      "Todo produto desconhecido pode ser testado em pessoas.",
+      "Dispensa pesquisa e avaliação."
+    ],
+    "correta": 0,
+    "explicacao": "A análise curricular relaciona desenvolvimento e impactos, não prescreve nem reproduz produção medicinal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.treino.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.estrutura_da_terra.camadas_internas",
+    "bncc": [
+      "EF06CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A litosfera inclui:",
+    "opcoes": [
+      "Crosta e parte rígida superior do manto.",
+      "Somente o núcleo externo.",
+      "Apenas nuvens."
+    ],
+    "correta": 0,
+    "explicacao": "Um corte desenhado em cores facilita comparar camadas, mas muitas figuras ampliam a crosta para permitir vê-la. Cor no modelo não é a cor observada do interior. As informações vêm de diferentes evidências, incluindo comportamento de ondas sísmicas, e não de uma viagem humana ao núcleo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "USGS — Are the tectonic plates floating on magma?",
+        "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+        "uso": "Texto institucional recuperado pela busca: manto majoritariamente sólido, deformação lenta e distinção do núcleo externo líquido. Abertura direta retornou restrição de acesso; não se declara inspeção de figuras."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.estrutura_da_terra.camadas_internas",
+    "bncc": [
+      "EF06CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual afirmação é adequada sobre o manto?",
+    "opcoes": [
+      "É majoritariamente sólido e pode deformar em longos tempos geológicos.",
+      "É inteiro um oceano de magma.",
+      "Não pode apresentar deformação em nenhuma escala de tempo."
+    ],
+    "correta": 0,
+    "explicacao": "Estado e comportamento mecânico precisam ser distinguidos; deformação lenta não exige um oceano global de magma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "USGS — Are the tectonic plates floating on magma?",
+        "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+        "uso": "Texto institucional recuperado pela busca: manto majoritariamente sólido, deformação lenta e distinção do núcleo externo líquido. Abertura direta retornou restrição de acesso; não se declara inspeção de figuras."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.treino.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.rochas_e_fosseis.tipos_de_rocha",
+    "bncc": [
+      "EF06CI12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma pegada preservada pode ser considerada fóssil?",
+    "opcoes": [
+      "Somente se foi feita na massa hoje.",
+      "Sim, como vestígio de atividade de ser vivo.",
+      "Não, só ossos podem ser fósseis."
+    ],
+    "correta": 1,
+    "explicacao": "Um registro de pegadas preservadas pode ser fóssil, não apenas um osso. Sedimentação pode cobrir vestígios e favorecer preservação em certas condições. Um molde de folha em massa feito na aula é analogia, não fóssil real nem prova de idade geológica.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.rochas_e_fosseis.tipos_de_rocha",
+    "bncc": [
+      "EF06CI12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um molde escolar de folha é:",
+    "opcoes": [
+      "Um fóssil real com milhões de anos.",
+      "Uma analogia que precisa ter seus limites identificados.",
+      "Uma forma de medir a idade de qualquer rocha."
+    ],
+    "correta": 1,
+    "explicacao": "O modelo demonstra uma possibilidade de registro de forma, mas não reproduz tempo e condições de fossilização.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.treino.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.esfericidade",
+    "bncc": [
+      "EF06CI13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma foto de pequeno trecho de chão aparentemente plano:",
+    "opcoes": [
+      "Prova que toda a Terra é plana.",
+      "É um recorte local e não determina sozinha a forma global.",
+      "Elimina qualquer outra evidência."
+    ],
+    "correta": 1,
+    "explicacao": "A borda curva da sombra terrestre em eclipses lunares é uma evidência histórica a comparar com outras, não uma autorização para olhar o Sol. Fusos e diferenças de estrelas visíveis também podem integrar o raciocínio com dados identificados. A Terra não é esfera geométrica perfeita; o modelo escolar aproxima sua forma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.esfericidade",
+    "bncc": [
+      "EF06CI13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um argumento mais forte sobre a forma terrestre usa:",
+    "opcoes": [
+      "Uma única observação sem contexto.",
+      "Conjunto de evidências independentes ou complementares e análise de seus limites.",
+      "Somente opinião sem fonte."
+    ],
+    "correta": 1,
+    "explicacao": "A força do argumento decorre da convergência e da relação explícita entre dados e modelo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.treino.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras",
+    "bncc": [
+      "EF06CI14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Mudanças diárias de sombra se relacionam principalmente à:",
+    "opcoes": [
+      "Desaparecimento da Terra.",
+      "Mudança de forma da vara a cada hora, obrigatoriamente.",
+      "Rotação e movimento aparente diário do Sol."
+    ],
+    "correta": 2,
+    "explicacao": "Um gnômon fixo pode gerar trajetórias e comprimentos diferentes em datas distintas, comparados em condições documentadas. Uma semana de dados não demonstra sozinha um padrão anual. Um modelo com globo e luz fixa ajuda a discutir movimentos relativos, mas escala e distâncias são simplificadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.terra_e_universo.prova.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras",
+    "bncc": [
+      "EF06CI14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para analisar variação entre épocas do ano, é necessário considerar:",
+    "opcoes": [
+      "Apenas a cor da haste.",
+      "Só a distância ao Sol como causa única das estações.",
+      "Inclinação do eixo, posição orbital e condições comparáveis dos registros."
+    ],
+    "correta": 2,
+    "explicacao": "A explicação articula movimentos e geometria de iluminação, sem confundir dados de um dia com padrão anual.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.unidade_da_vida",
+    "bncc": [
+      "EF06CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma bactéria sem núcleo delimitado possui material genético?",
+    "opcoes": [
+      "Sim; ausência de núcleo delimitado não significa ausência de material genético.",
+      "Somente se for célula animal.",
+      "Não, nunca."
+    ],
+    "correta": 0,
+    "explicacao": "Um esquema de célula animal típico mostra membrana, citoplasma e núcleo. Ele simplifica forma, escala e diversidade. Nem toda célula é uma bolinha com o mesmo tamanho, e não se deve transformar o desenho eucariótico em regra de núcleo para todas as células.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Organização celular consultada; modelos autorais distinguem células eucarióticas e organização sem núcleo delimitado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.unidade_da_vida",
+    "bncc": [
+      "EF06CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual função está associada à membrana celular?",
+    "opcoes": [
+      "Eliminar toda comunicação com o ambiente.",
+      "Delimitar a célula e participar das trocas.",
+      "Ser o planeta inteiro."
+    ],
+    "correta": 1,
+    "explicacao": "A membrana estabelece um limite seletivo, não uma parede que impede toda troca.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Organização celular consultada; modelos autorais distinguem células eucarióticas e organização sem núcleo delimitado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.niveis_de_organizacao",
+    "bncc": [
+      "EF06CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual sequência representa níveis do exemplo humano?",
+    "opcoes": [
+      "Sistema, livro, rocha.",
+      "Órgão, átomo, calendário.",
+      "Célula, tecido, órgão, sistema, organismo."
+    ],
+    "correta": 2,
+    "explicacao": "No exemplo esquemático, células musculares participam de tecido muscular presente em órgãos; no coração, tecidos diferentes integram a estrutura de um órgão ligado ao sistema circulatório. Um sistema interage com outros. O coração não é apenas um tecido, nem o sangue é um organismo independente nesse exemplo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Referência sobre células e pluricelularidade; esquema de níveis é autoral e explicitamente simplificado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.celula.niveis_de_organizacao",
+    "bncc": [
+      "EF06CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Todo ser vivo precisa ter órgãos e sistemas?",
+    "opcoes": [
+      "Sim, inclusive toda bactéria.",
+      "Não; organismos unicelulares não têm essa organização em órgãos.",
+      "Sim, porque qualquer modelo vale para todos."
+    ],
+    "correta": 1,
+    "explicacao": "A hierarquia apresentada é própria de certos pluricelulares e não deve ser universalizada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Referência sobre células e pluricelularidade; esquema de níveis é autoral e explicitamente simplificado."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.neuronios",
+    "bncc": [
+      "EF06CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto pertence ao sistema nervoso central?",
+    "opcoes": [
+      "Somente músculos e tendões.",
+      "Encéfalo e medula espinal.",
+      "Estômago e intestino."
+    ],
+    "correta": 1,
+    "explicacao": "Ao acompanhar uma bola e mover a mão, sinais sensoriais, processamento e comandos motores participam de um circuito. Num reflexo, circuitos da medula podem participar de resposta rápida, sem exigir uma decisão consciente anterior. O exemplo é discutido por modelo: não provocar dor, susto ou risco para demonstrá-lo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295
+        ],
+        "paginasImpressas": "289–295",
+        "uso": "Estruturas e funções básicas, com cuidado para não universalizar explicações simplificadas das sinapses e circuitos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.neuronios",
+    "bncc": [
+      "EF06CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um reflexo deve ser estudado nesta aula:",
+    "opcoes": [
+      "Por modelos e fontes, sem teste doloroso ou diagnóstico.",
+      "Como prova de que nervos não participam.",
+      "Provocando dor para testar colegas."
+    ],
+    "correta": 0,
+    "explicacao": "A função pode ser analisada sem reproduzir estímulo nocivo ou interpretar condições individuais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295
+        ],
+        "paginasImpressas": "289–295",
+        "uso": "Estruturas e funções básicas, com cuidado para não universalizar explicações simplificadas das sinapses e circuitos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.visao.olho_humano",
+    "bncc": [
+      "EF06CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No modelo simples de miopia, o foco sem correção pode ocorrer:",
+    "opcoes": [
+      "Somente no cabelo.",
+      "Sempre exatamente sobre a retina.",
+      "Antes da retina."
+    ],
+    "correta": 2,
+    "explicacao": "Em modelos escolares usuais, lente divergente pode compensar miopia e convergente pode compensar hipermetropia. O mesmo relato de visão borrada não permite identificar grau, causa ou lente adequada a um estudante. A avaliação clínica é outra atividade, realizada por profissional.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NEI — Refractive Errors",
+        "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors",
+        "uso": "Fonte oficial consultada sobre refração, retina e limites entre modelo escolar e prescrição clínica."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.visao.olho_humano",
+    "bncc": [
+      "EF06CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No modelo escolar usual de hipermetropia, a lente corretiva discutida é:",
+    "opcoes": [
+      "Qualquer lente escolhida pela cor.",
+      "Divergente em qualquer situação real.",
+      "Convergente para ajustar o foco no modelo."
+    ],
+    "correta": 2,
+    "explicacao": "O raciocínio é sobre modelos ópticos, sem determinar prescrição individual.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NEI — Refractive Errors",
+        "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors",
+        "uso": "Fonte oficial consultada sobre refração, retina e limites entre modelo escolar e prescrição clínica."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.locomocao.ossos",
+    "bncc": [
+      "EF06CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No modelo de movimento, o músculo principalmente:",
+    "opcoes": [
+      "Decide sozinho sem qualquer sinal.",
+      "Traciona, em interação com estruturas e coordenação.",
+      "Vira um osso a cada movimento."
+    ],
+    "correta": 1,
+    "explicacao": "Flexionar um modelo de cotovelo ajuda a pensar em ossos articulados e músculos que tracionam de modos complementares. Um osso não decide sozinho o movimento e músculo não substitui a coordenação nervosa. Barbantes e cartões são analogias e não reproduzem todos os tecidos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.locomocao.ossos",
+    "bncc": [
+      "EF06CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual explicação é integrada?",
+    "opcoes": [
+      "Ossos decidem toda ação.",
+      "Movimento depende de relações entre nervos, músculos e sustentação, conforme o animal.",
+      "Todo animal tem os mesmos ossos humanos."
+    ],
+    "correta": 1,
+    "explicacao": "A coordenação e a estrutura se relacionam; modelos de um grupo não representam todos os animais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.treino.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.substancias_psicoativas",
+    "bncc": [
+      "EF06CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma substância psicoativa pode:",
+    "opcoes": [
+      "Interferir na comunicação entre neurônios e em funções do sistema nervoso.",
+      "Não afetar o cérebro por definição.",
+      "Garantir desempenho sem risco."
+    ],
+    "correta": 0,
+    "explicacao": "Num esquema didático, a sinapse relaciona liberação, receptor e resposta. Uma substância pode imitar um sinal ou alterar sua disponibilidade, modificando circuitos. Não é adequado afirmar que todo efeito é igual ou que uma pessoa com problema de uso de substância é moralmente inferior. Cuidado e acesso a serviços são questões coletivas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIDA — Drugs, Brains, and Behavior",
+        "url": "https://irp.nida.nih.gov/wp-content/uploads/2019/12/NIDA_DrugsBrainsAddiction_2018.pdf",
+        "uso": "Fonte institucional consultada sobre interferência na sinalização por neurotransmissores; não oferece dosagem, experimentação ou diagnóstico."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef06.vida_e_evolucao.prova.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef06.sistema_nervoso.substancias_psicoativas",
+    "bncc": [
+      "EF06CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma análise científica do tema deve:",
+    "opcoes": [
+      "Tratar todos os efeitos e pessoas como idênticos.",
+      "Usar fontes, mecanismos e contexto sem estigma ou experimentação.",
+      "Exigir relatos privados para avaliar o aluno."
+    ],
+    "correta": 1,
+    "explicacao": "O estudo explica processos e cuidados, sem exposição pessoal ou teste de substâncias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIDA — Drugs, Brains, and Behavior",
+        "url": "https://irp.nida.nih.gov/wp-content/uploads/2019/12/NIDA_DrugsBrainsAddiction_2018.pdf",
+        "uso": "Fonte institucional consultada sobre interferência na sinalização por neurotransmissores; não oferece dosagem, experimentação ou diagnóstico."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.maquinas_simples.alavanca",
+    "bncc": [
+      "EF07CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma rampa pode reduzir a força necessária à elevação ao:",
+    "opcoes": [
+      "Eliminar toda distância.",
+      "Aumentar o percurso em condições adequadas.",
+      "Criar energia do nada."
+    ],
+    "correta": 1,
+    "explicacao": "Uma rampa pode permitir elevar uma carga-modelo com menor força aplicada ao longo de percurso maior. Uma roldana fixa pode mudar a direção da força sem multiplicá-la no modelo ideal. Atrito e deformação tornam resultados reais diferentes das aproximações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.maquinas_simples.alavanca",
+    "bncc": [
+      "EF07CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma máquina simples deve ser analisada considerando:",
+    "opcoes": [
+      "Somente sua cor.",
+      "Força, percurso, direção e limitações reais.",
+      "Que sempre realiza qualquer tarefa sem energia."
+    ],
+    "correta": 1,
+    "explicacao": "O ganho mecânico não equivale a criação de energia nem ignora atrito e condições de uso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.calor_e_temperatura.temperatura",
+    "bncc": [
+      "EF07CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Calor é:",
+    "opcoes": [
+      "Uma substância presa na madeira.",
+      "Energia transferida devido a diferença de temperatura.",
+      "Sinônimo obrigatório de sensação agradável."
+    ],
+    "correta": 1,
+    "explicacao": "Metal e madeira deixados por tempo suficiente na mesma sala podem estar a temperaturas próximas, mas o metal pode retirar energia da mão mais rapidamente e parecer mais frio. Isso não faz do toque um termômetro preciso. Não se faz comparação com superfícies muito quentes ou frias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.calor_e_temperatura.temperatura",
+    "bncc": [
+      "EF07CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um metal parecer mais frio que madeira no mesmo ambiente pode se relacionar:",
+    "opcoes": [
+      "À criação de frio pelo metal.",
+      "À ausência total de energia na madeira.",
+      "À rapidez das trocas térmicas, sem provar por toque uma temperatura menor."
+    ],
+    "correta": 2,
+    "explicacao": "A sensação depende de como ocorre a transferência, não apenas da temperatura dos materiais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.garrafa_termica",
+    "bncc": [
+      "EF07CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O vácuo entre paredes reduz principalmente:",
+    "opcoes": [
+      "Toda transferência de modo absoluto.",
+      "A existência da energia.",
+      "Condução e convecção nesse espaço, sem eliminar radiação."
+    ],
+    "correta": 2,
+    "explicacao": "Uma garrafa térmica combina estratégias para reduzir diferentes trocas, como paredes separadas por vácuo e superfícies que influenciam radiação. O vácuo reduz condução/convecção entre paredes, mas não elimina radiação. Um coletor solar usa radiação recebida e transfere energia a um fluido; não equivale automaticamente a painel fotovoltaico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.garrafa_termica",
+    "bncc": [
+      "EF07CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um coletor solar térmico e um painel fotovoltaico:",
+    "opcoes": [
+      "Só funcionam porque não recebem radiação.",
+      "São obrigatoriamente o mesmo dispositivo.",
+      "Podem ter funções diferentes: aquecer fluido e converter energia luminosa em elétrica."
+    ],
+    "correta": 2,
+    "explicacao": "Relacionar função e mecanismo evita confundir tecnologias diferentes que usam energia solar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida",
+    "bncc": [
+      "EF07CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Equilíbrio térmico entre dois corpos significa:",
+    "opcoes": [
+      "Fonte ilimitada de trabalho.",
+      "Temperaturas iguais no modelo, sem calor por diferença entre eles.",
+      "Ausência de toda energia."
+    ],
+    "correta": 1,
+    "explicacao": "Uma bebida aproximando-se da temperatura da sala ilustra tendência ao equilíbrio. Um organismo pode manter condições internas por processos que exigem energia e trocas. Numa máquina térmica idealizada, parte da energia transferida pode virar trabalho e parte vai a uma fonte mais fria; não se converte tudo ciclicamente em trabalho sem outras consequências.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida",
+    "bncc": [
+      "EF07CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um organismo vivo deve ser tratado como:",
+    "opcoes": [
+      "Sistema que nunca troca energia.",
+      "Sistema aberto com processos e trocas, não simples equilíbrio uniforme com ambiente.",
+      "Máquina que dispensa alimento e energia."
+    ],
+    "correta": 1,
+    "explicacao": "A manutenção de condições internas envolve processos e fluxos, não isolamento absoluto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao",
+    "bncc": [
+      "EF07CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Renovável significa necessariamente impacto ambiental nulo?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; produção e uso também precisam ser avaliados.",
+      "Sim, se há propaganda favorável."
+    ],
+    "correta": 1,
+    "explicacao": "Vapor em certas máquinas históricas e motores de combustão em veículos representam usos diferentes de energia. Carvão, derivados de petróleo e biocombustíveis têm cadeias produtivas distintas. Dizer que um combustível é renovável não resolve sozinho questões de uso da terra, processamento e emissão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao",
+    "bncc": [
+      "EF07CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma comparação de combustíveis deve:",
+    "opcoes": [
+      "Usar somente o preço sem contexto.",
+      "Exigir queima na sala.",
+      "Considerar origem, infraestrutura, uso e impactos com fontes."
+    ],
+    "correta": 2,
+    "explicacao": "A decisão reúne múltiplos critérios e não transforma um atributo em avaliação completa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.tecnologia_e_sociedade.novos_materiais",
+    "bncc": [
+      "EF07CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma avaliação de automação deve perguntar:",
+    "opcoes": [
+      "Quem se beneficia, quem enfrenta barreiras e que mudanças de tarefa ocorrem.",
+      "Se toda pessoa pode ser excluída sem análise.",
+      "Só se o equipamento é bonito."
+    ],
+    "correta": 0,
+    "explicacao": "Um sistema digital de registro de empréstimos pode agilizar buscas e também exigir equipamentos, formação e cuidado com dados. Quem não tem acesso precisa de alternativa. Um material mais leve pode facilitar transporte, mas gerar desafios de produção e descarte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.materia_e_energia.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef07.tecnologia_e_sociedade.novos_materiais",
+    "bncc": [
+      "EF07CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um sistema digital mais rápido em uma tarefa:",
+    "opcoes": [
+      "Ainda pode exigir infraestrutura, formação e alternativas de acesso.",
+      "Garante acesso igual para todos automaticamente.",
+      "Elimina qualquer necessidade de formação."
+    ],
+    "correta": 0,
+    "explicacao": "Ganhos de desempenho não eliminam condições sociais e materiais de uso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.treino.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.ar_e_atmosfera.composicao_do_ar",
+    "bncc": [
+      "EF07CI12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O ar é:",
+    "opcoes": [
+      "Mistura em que predominam nitrogênio e oxigênio no modelo de ar seco.",
+      "Somente vapor de água em todo lugar.",
+      "Oxigênio puro."
+    ],
+    "correta": 0,
+    "explicacao": "Em 100 unidades de um modelo de ar seco, cerca de 78 representam nitrogênio e 21 oxigênio; o restante reúne outros gases. Não se deve usar esse modelo para dizer que o vapor é sempre zero na atmosfera real. Fumaça, poeira e gases de emissões também devem ser distinguidos: nem todo componente visível é um gás.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.prova.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.ar_e_atmosfera.composicao_do_ar",
+    "bncc": [
+      "EF07CI12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um gás em pequena proporção:",
+    "opcoes": [
+      "É necessariamente inexistente.",
+      "Nunca tem efeito importante.",
+      "Pode ter papel relevante, e sua importância não depende só da quantidade relativa."
+    ],
+    "correta": 2,
+    "explicacao": "Proporção e efeito são aspectos diferentes na análise da atmosfera.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.treino.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.ar_e_atmosfera.efeito_estufa_natural",
+    "bncc": [
+      "EF07CI13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O efeito estufa natural:",
+    "opcoes": [
+      "Impede toda energia de sair para sempre.",
+      "Contribui para as condições térmicas da Terra.",
+      "É idêntico ao buraco de ozônio."
+    ],
+    "correta": 1,
+    "explicacao": "No modelo, parte da energia solar é absorvida e a superfície emite infravermelho; gases interagem com essa radiação. A atmosfera não funciona como tampa impermeável que impede toda saída. Uma experiência de garrafa ao Sol não isola automaticamente o mecanismo radiativo e não deve ser apresentada como prova completa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "uso": "Mecanismo natural, intensificação antrópica e balanço energético; exemplos e tarefas autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.prova.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.ar_e_atmosfera.efeito_estufa_natural",
+    "bncc": [
+      "EF07CI13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma proposta de mitigação bem avaliada deve:",
+    "opcoes": [
+      "Prometer emissões zero sem dados.",
+      "Relacionar ação, execução, indicador e limites da estimativa.",
+      "Confundir qualquer lixo com medida exata de carbono."
+    ],
+    "correta": 1,
+    "explicacao": "O projeto precisa de relação explicada e registro verificável, sem equivalências inventadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "uso": "Mecanismo natural, intensificação antrópica e balanço energético; exemplos e tarefas autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.treino.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.ar_e_atmosfera.camada_de_ozonio",
+    "bncc": [
+      "EF07CI14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A camada de ozônio estratosférico é importante por:",
+    "opcoes": [
+      "Absorver parte relevante da radiação ultravioleta prejudicial.",
+      "Ser a mesma coisa que todo oxigênio do ar.",
+      "Eliminar necessidade de qualquer outro cuidado."
+    ],
+    "correta": 0,
+    "explicacao": "Um refrigerante de equipamento antigo pode conter substâncias que exigem manejo específico. Não liberar gases nem desmontar aparelhos para investigar. Acordos internacionais e substituição e controle de substâncias mostram que a preservação envolve ações coletivas, não só uma decisão de consumo isolada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Is the ozone hole causing climate change?",
+        "url": "https://science.nasa.gov/climate-change/faq/is-the-ozone-hole-causing-climate-change/",
+        "uso": "Diferencia proteção UV e mecanismos climáticos; não reproduz estimativas temporais de recuperação."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.prova.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.ar_e_atmosfera.camada_de_ozonio",
+    "bncc": [
+      "EF07CI14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual comparação é adequada?",
+    "opcoes": [
+      "Os dois termos sempre descrevem o mesmo mecanismo.",
+      "Ozônio e efeito estufa envolvem mecanismos distintos que precisam ser diferenciados.",
+      "Buraco de ozônio é a única causa do aquecimento global."
+    ],
+    "correta": 1,
+    "explicacao": "A proteção contra UV não é a mesma interação radiativa central discutida no aquecimento por gases de efeito estufa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Is the ozone hole causing climate change?",
+        "url": "https://science.nasa.gov/climate-change/faq/is-the-ozone-hole-causing-climate-change/",
+        "uso": "Diferencia proteção UV e mecanismos climáticos; não reproduz estimativas temporais de recuperação."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.treino.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.terra_dinamica.placas_tectonicas",
+    "bncc": [
+      "EF07CI15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O interior da placa permite concluir que o Brasil nunca tem tremores?",
+    "opcoes": [
+      "Não; posição tectônica não significa ausência absoluta de sismos.",
+      "Sim, qualquer mapa prova ausência eterna.",
+      "Sim, por definição."
+    ],
+    "correta": 0,
+    "explicacao": "Comparar um limite de subducção com área continental interna permite relacionar processos e distribuição. Uma placa não é uma ilha solta sobre um oceano global de magma. Mapas mostram padrões e precisam de legenda e período; um símbolo isolado não mede todos os riscos de um país.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "paginasImpressas": "25–28",
+        "uso": "História e tectônica consultadas criticamente: não reproduz representação incorreta de placas sobre oceano de magma."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.prova.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.terra_dinamica.placas_tectonicas",
+    "bncc": [
+      "EF07CI15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Todo terremoto submarino gera tsunami?",
+    "opcoes": [
+      "Sim, se o nome terremoto aparece.",
+      "Sim, sem depender de deslocamento de água.",
+      "Não; mecanismo, deslocamento e outras condições importam."
+    ],
+    "correta": 2,
+    "explicacao": "Tsunami exige condições de geração e propagação que não estão presentes em todo sismo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "paginasImpressas": "25–28",
+        "uso": "História e tectônica consultadas criticamente: não reproduz representação incorreta de placas sobre oceano de magma."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.treino.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.terra_dinamica.deriva_continental",
+    "bncc": [
+      "EF07CI16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O encaixe visual das costas, sozinho:",
+    "opcoes": [
+      "Dispensa geologia e fósseis.",
+      "É ponto de partida, mas deve ser combinado a outras evidências.",
+      "Prova toda a história sem outros dados."
+    ],
+    "correta": 1,
+    "explicacao": "Um quebra-cabeça de contornos pode iniciar uma hipótese, mas não prova sozinho uma história completa. Fósseis e conjuntos rochosos correspondentes em lados opostos do Atlântico acrescentam evidências. O movimento ocorre em tempos geológicos e não significa que os continentes deslizem como barcos independentes sobre água.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "paginasImpressas": "25–28",
+        "uso": "Evidências históricas e deriva, com distinção entre hipótese histórica e mecanismo de placas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.terra_e_universo.prova.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef07.terra_dinamica.deriva_continental",
+    "bncc": [
+      "EF07CI16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto fortalece a reconstrução continental?",
+    "opcoes": [
+      "Somente a cor dos mapas.",
+      "Correspondência de margens, fósseis e rochas contextualizados.",
+      "Praias atuais recortadas sem escala como prova única."
+    ],
+    "correta": 1,
+    "explicacao": "Evidências independentes/complementares e escala adequada dão sustentação ao modelo histórico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "paginasImpressas": "25–28",
+        "uso": "Evidências históricas e deriva, com distinção entre hipótese histórica e mecanismo de placas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.ecossistemas_brasileiros.amazonia",
+    "bncc": [
+      "EF07CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual afirmação respeita variação ambiental?",
+    "opcoes": [
+      "A Caatinga não tem biodiversidade.",
+      "Todo Pantanal fica submerso o tempo todo.",
+      "Biomas incluem ecossistemas diversos e variações internas."
+    ],
+    "correta": 2,
+    "explicacao": "Florestas úmidas amazônicas, formações savânicas do Cerrado, vegetação ajustada à sazonalidade seca na Caatinga, formações florestais atlânticas, campos do Pampa e ambientes de inundação sazonal do Pantanal oferecem exemplos contrastantes. Caatinga não é sinônimo de ambiente sem vida; Pantanal não está todo permanentemente submerso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "IBGE — Biomas brasileiros",
+        "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18307-biomas-brasileiros.html",
+        "uso": "Descrição institucional recuperada por busca e nomenclatura dos seis biomas. Abertura direta restrita; não usa percentuais atuais nem declara acesso às figuras."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.ecossistemas_brasileiros.amazonia",
+    "bncc": [
+      "EF07CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Comparar ecossistemas pede:",
+    "opcoes": [
+      "Usar apenas uma foto sem contexto para toda a região.",
+      "Relacionar água, solo, luz e temperatura a flora/fauna com fontes e escala.",
+      "Inventar espécies pela cor do mapa."
+    ],
+    "correta": 1,
+    "explicacao": "A caracterização precisa de condições e exemplos contextualizados, sem homogeneizar grandes áreas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "IBGE — Biomas brasileiros",
+        "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18307-biomas-brasileiros.html",
+        "uso": "Descrição institucional recuperada por busca e nomenclatura dos seis biomas. Abertura direta restrita; não usa percentuais atuais nem declara acesso às figuras."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.impactos_ambientais.catastrofes_naturais",
+    "bncc": [
+      "EF07CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Não observar uma espécie num local uma vez prova extinção global?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; são necessárias evidências e escala de investigação adequadas.",
+      "Sim, se houve mudança ambiental."
+    ],
+    "correta": 1,
+    "explicacao": "Caso fictício: após retirada de vegetação junto a um curso de água, registros apontam menos abrigos e mudança nos encontros com aves. Isso pode motivar hipóteses de deslocamento ou redução local, não uma conclusão imediata de extinção global. Uma enchente e uma intervenção humana podem interagir, com efeitos diferentes sobre grupos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.impactos_ambientais.catastrofes_naturais",
+    "bncc": [
+      "EF07CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma análise de impacto mais rigorosa:",
+    "opcoes": [
+      "Atribui toda mudança a uma causa sem verificar.",
+      "Exige capturar animais para qualquer conclusão.",
+      "Distingue dados, mecanismos possíveis e limites de causalidade."
+    ],
+    "correta": 2,
+    "explicacao": "A interpretação precisa considerar alternativas, escala e condições de observação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.saude_publica.indicadores_de_saude",
+    "bncc": [
+      "EF07CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "20 óbitos entre 2.000 nascidos vivos correspondem a:",
+    "opcoes": [
+      "20 por cento obrigatoriamente.",
+      "2 por mil.",
+      "10 por mil."
+    ],
+    "correta": 2,
+    "explicacao": "Dados didáticos simulados: A, 20 óbitos infantis e 2.000 nascidos vivos; B, 18 e 3.000. Taxas: 10 e 6 por mil, respectivamente. Saneamento simulado: 60% e 75%. As mudanças podem ser discutidas junto a políticas, mas os dados não descrevem município real nem identificam uma causa única.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.saude_publica.indicadores_de_saude",
+    "bncc": [
+      "EF07CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma queda de taxa após uma política prova que apenas ela causou a mudança?",
+    "opcoes": [
+      "Sim, denominadores são irrelevantes.",
+      "Sim, sequência temporal basta.",
+      "Não; outros fatores e qualidade/comparabilidade dos dados precisam ser avaliados."
+    ],
+    "correta": 2,
+    "explicacao": "A interpretação de políticas requer evidências adicionais e consideração de fatores concomitantes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.treino.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.vacinacao.como_a_vacina_age",
+    "bncc": [
+      "EF07CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual ideia ajuda a explicar a vacinação?",
+    "opcoes": [
+      "Substituição de todo saneamento.",
+      "Estímulo de resposta e memória imunológica específica.",
+      "Garantia de nunca ter qualquer doença."
+    ],
+    "correta": 1,
+    "explicacao": "A erradicação da varíola foi certificada em 1980 após esforços internacionais de vacinação e vigilância. Esse marco não permite afirmar que todas as doenças já foram erradicadas. A memória imunológica ajuda a explicar resposta posterior mais preparada, sem transformar a aula em indicação individual de imunizante ou calendário.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — How do vaccines work?",
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "uso": "Mecanismo de resposta/memória e história da erradicação da varíola, sem calendário ou prescrição individual."
+      },
+      {
+        "documento": "CDC — Explaining How Vaccines Work",
+        "url": "https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html",
+        "uso": "Fonte oficial consultada sobre proteção e seus limites, sem transpor recomendações nacionais de calendário."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.prova.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.vacinacao.como_a_vacina_age",
+    "bncc": [
+      "EF07CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A erradicação da varíola mostra:",
+    "opcoes": [
+      "Que todas as doenças já desapareceram.",
+      "Um resultado histórico de esforços de vacinação e vigilância, sem generalização para toda doença.",
+      "Que fontes e acompanhamento foram dispensáveis."
+    ],
+    "correta": 1,
+    "explicacao": "O caso permite argumentar sobre saúde pública com contexto histórico e limites de alcance.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — How do vaccines work?",
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "uso": "Mecanismo de resposta/memória e história da erradicação da varíola, sem calendário ou prescrição individual."
+      },
+      {
+        "documento": "CDC — Explaining How Vaccines Work",
+        "url": "https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html",
+        "uso": "Fonte oficial consultada sobre proteção e seus limites, sem transpor recomendações nacionais de calendário."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.treino.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia",
+    "bncc": [
+      "EF07CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual indicador sozinho é insuficiente para resumir toda qualidade de vida?",
+    "opcoes": [
+      "Quantidade de aparelhos por pessoa.",
+      "Conjunto de dados contextualizados.",
+      "Critérios discutidos com fontes."
+    ],
+    "correta": 0,
+    "explicacao": "Comparar uma comunicação por carta e uma rede digital pode mostrar mudança de tempo e alcance, mas também novas necessidades de infraestrutura e descarte eletrônico. Mais dispositivos por pessoa não comprova sozinho melhor qualidade de vida em toda dimensão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef07.vida_e_evolucao.prova.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia",
+    "bncc": [
+      "EF07CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Avaliar historicamente uma tecnologia exige:",
+    "opcoes": [
+      "Comparar funções, acesso, impactos e critérios de qualidade de vida.",
+      "Ignorar quem fica excluído.",
+      "Considerar só se é nova."
+    ],
+    "correta": 0,
+    "explicacao": "A análise relaciona condições sociais e ambientais, sem tratar novidade como benefício universal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
   }
 ]);
 registrarProvas({
@@ -5729,6 +8021,1248 @@ registrarProvas({
         ],
         "atividadesPraticas": [
           "cna.ef05.disturbios_nutricionais.obesidade#obesidade.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef06.materia_e_energia.prova": {
+    "id": "cna.ef06.materia_e_energia.prova",
+    "titulo": "Avaliação: Matéria e Energia",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Matéria e Energia",
+    "bncc": [
+      "EF06CI01",
+      "EF06CI02",
+      "EF06CI03",
+      "EF06CI04"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef06.materia_e_energia.prova.01",
+      "cna.ef06.materia_e_energia.prova.02",
+      "cna.ef06.materia_e_energia.prova.03",
+      "cna.ef06.materia_e_energia.prova.04"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef06.materia_e_energia.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Matéria e Energia",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF06CI01",
+        "EF06CI02",
+        "EF06CI03",
+        "EF06CI04"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Misturas e fases observáveis",
+          "enunciado": "Com mediação, compare pequenas misturas identificadas de água/sal, água/areia e água/óleo em recipientes seguros e sem consumo. Registre composição, quantidade aproximada, aparência ao misturar e após repouso. Classifique pelo número de fases observadas e explique a diferença entre fase e componente.",
+          "gabarito": "Exigir registros reais e classificação contextualizada. Não afirmar que toda combinação água/sal é sempre homogênea. Se não houver execução, registrar observação por fonte ou modelo, sem inventar dados.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir registros reais e classificação contextualizada. Não afirmar que toda combinação água/sal é sempre homogênea. Se não houver execução, registrar observação por fonte ou modelo, sem inventar dados.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI01"
+          ],
+          "atividadeOrigem": "cna.ef06.misturas_e_separacao.sistemas_homogeneos#sistemas_homogeneos.investigacao"
+        },
+        {
+          "titulo": "Evidências de transformação química",
+          "enunciado": "O professor demonstra pequena quantidade de vinagre alimentar e bicarbonato em bandeja, sem consumo, aquecimento ou fechamento. Registre antes/depois e compare a evidência com modelo de água em ebulição apresentado por registro seguro. Explique por que bolhas não bastam sem conhecer o processo e identifique o que indica produtos diferentes no primeiro caso.",
+          "gabarito": "Exigir registro e argumento que diferencie reação de mudança de estado. Não exigir identificação por cheiro ou provar o gás. Sem demonstração, indicar uso de registro identificado e a limitação. Não generalizar toda efervescência como prova única.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir registro e argumento que diferencie reação de mudança de estado. Não exigir identificação por cheiro ou provar o gás. Sem demonstração, indicar uso de registro identificado e a limitação. Não generalizar toda efervescência como prova única.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI02"
+          ],
+          "atividadeOrigem": "cna.ef06.transformacoes_quimicas.evidencias_de_reacao#evidencias_de_reacao.investigacao"
+        },
+        {
+          "titulo": "Separar materiais: escolher o método",
+          "enunciado": "Elabore fluxograma para areia/pedrinhas, água/areia e água/óleo, justificando método por propriedade. Execute com professor uma separação segura por peneiração ou filtração com material limpo. Compare com esquema de salina ou destilação fornecido com fonte e explique por que filtrar não retira sal dissolvido nem garante água potável.",
+          "gabarito": "Exigir escolhas e justificativas, execução registrada e distinção dos sistemas homogêneos. Não chamar água filtrada do experimento de potável nem realizar destilação de combustível ou aquecimento por estudante.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir escolhas e justificativas, execução registrada e distinção dos sistemas homogêneos. Não chamar água filtrada do experimento de potável nem realizar destilação de combustível ou aquecimento por estudante.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI03"
+          ],
+          "atividadeOrigem": "cna.ef06.misturas_e_separacao.separacao_de_materiais#separacao_de_materiais.investigacao"
+        },
+        {
+          "titulo": "Materiais sintéticos, pesquisa e impactos",
+          "enunciado": "Escolha um material sintético de objeto seguro e um exemplo de medicamento estudado em fonte institucional. Faça quadro com problema atendido, contribuição de pesquisa/tecnologia, benefício, impacto potencial e descarte segundo orientação verificada. Compare duas alternativas sem abrir comprimidos ou realizar síntese. Registre fontes e incertezas.",
+          "gabarito": "Exigir análise equilibrada e referências, sem receituário ou afirmação de risco zero. Não generalizar todo produto de origem natural como seguro. Descarte deve ser conferido com fonte institucional/local; ausência de informação permanece pendente.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir análise equilibrada e referências, sem receituário ou afirmação de risco zero. Não generalizar todo produto de origem natural como seguro. Descarte deve ser conferido com fonte institucional/local; ausência de informação permanece pendente.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI04"
+          ],
+          "atividadeOrigem": "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos#o_que_sao_sinteticos.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF06CI01",
+        "questoes": [
+          "cna.ef06.materia_e_energia.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.misturas_e_separacao.sistemas_homogeneos#sistemas_homogeneos.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI02",
+        "questoes": [
+          "cna.ef06.materia_e_energia.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.transformacoes_quimicas.evidencias_de_reacao#evidencias_de_reacao.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI03",
+        "questoes": [
+          "cna.ef06.materia_e_energia.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.misturas_e_separacao.separacao_de_materiais#separacao_de_materiais.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI04",
+        "questoes": [
+          "cna.ef06.materia_e_energia.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos#o_que_sao_sinteticos.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef06.terra_e_universo.prova": {
+    "id": "cna.ef06.terra_e_universo.prova",
+    "titulo": "Avaliação: Terra e Universo",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Terra e Universo",
+    "bncc": [
+      "EF06CI11",
+      "EF06CI12",
+      "EF06CI13",
+      "EF06CI14"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef06.terra_e_universo.prova.11",
+      "cna.ef06.terra_e_universo.prova.12",
+      "cna.ef06.terra_e_universo.prova.13",
+      "cna.ef06.terra_e_universo.prova.14"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef06.terra_e_universo.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Terra e Universo",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF06CI11",
+        "EF06CI12",
+        "EF06CI13",
+        "EF06CI14"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Camadas da Terra e atmosfera",
+          "enunciado": "Produza dois esquemas legendados: camadas por composição e distinção entre crosta/litosfera. Acrescente atmosfera e duas de suas regiões com fonte indicada, explicando mudança de critério. Identifique ao menos três simplificações do desenho e corrija a frase placas flutuam sobre um oceano inteiro de magma.",
+          "gabarito": "Exigir crosta/manto/núcleo, núcleo externo/interno e diferenciação litosfera/atmosfera. Não transferir o erro do manto líquido global. Registrar fontes e limites de escala/cor, sem prometer observação direta do interior.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir crosta/manto/núcleo, núcleo externo/interno e diferenciação litosfera/atmosfera. Não transferir o erro do manto líquido global. Registrar fontes e limites de escala/cor, sem prometer observação direta do interior.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI11"
+          ],
+          "atividadeOrigem": "cna.ef06.estrutura_da_terra.camadas_internas#camadas_internas.investigacao"
+        },
+        {
+          "titulo": "Rochas, formação e fósseis",
+          "enunciado": "Compare amostras seguras ou imagens identificadas dos três tipos de rocha. Faça quadro com processo de formação e evidência usada na identificação. Analise duas imagens de fósseis com contexto de camada/período fornecido por fonte e explique relação com sedimentação. Se criar molde, indique seus limites e não atribua idade real.",
+          "gabarito": "Exigir distinção de processos e relação contextual com fósseis. Não classificar só por cor nem afirmar que toda sedimentar possui fóssil. Usar períodos da fonte, sem inventar datação por aparência; não coletar em sítios protegidos.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir distinção de processos e relação contextual com fósseis. Não classificar só por cor nem afirmar que toda sedimentar possui fóssil. Usar períodos da fonte, sem inventar datação por aparência; não coletar em sítios protegidos.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI12"
+          ],
+          "atividadeOrigem": "cna.ef06.rochas_e_fosseis.tipos_de_rocha#tipos_de_rocha.investigacao"
+        },
+        {
+          "titulo": "Evidências da forma aproximadamente esférica",
+          "enunciado": "Selecione três conjuntos de evidências em fontes institucionais, registre origem e explique como cada um se relaciona à forma da Terra. Compare com a limitação de uma fotografia local do chão. Monte argumento com conclusão e limites, sem confundir modelo em papel com observação de toda a superfície.",
+          "gabarito": "Exigir três evidências explicadas e rastreáveis, não só lista de nomes. Não depender de autoridade sem examinar a relação evidência/conclusão. Diferenciar eclipse lunar de observação solar e reconhecer aproximação esférica.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir três evidências explicadas e rastreáveis, não só lista de nomes. Não depender de autoridade sem examinar a relação evidência/conclusão. Diferenciar eclipse lunar de observação solar e reconhecer aproximação esférica.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI13"
+          ],
+          "atividadeOrigem": "cna.ef06.forma_e_movimentos_da_terra.esfericidade#esfericidade.investigacao"
+        },
+        {
+          "titulo": "Sombras, movimentos e estações do ano",
+          "enunciado": "Registre sombras do mesmo gnômon em três horários de um dia e compare com outra época do ano por observação futura ou conjunto institucional identificado. Relacione diferenças à rotação, translação e inclinação, usando modelo seguro sem olhar o Sol. Distinga o que foi observado por você, o que é fonte e o que ainda depende de acompanhamento.",
+          "gabarito": "Exigir dados com local/data/horário, comparação entre épocas e modelo explicado. Não inventar meses de observação nem usar distância ao Sol como explicação única das estações. Quando faltar a segunda época, manter a conclusão anual pendente.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir dados com local/data/horário, comparação entre épocas e modelo explicado. Não inventar meses de observação nem usar distância ao Sol como explicação única das estações. Quando faltar a segunda época, manter a conclusão anual pendente.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI14"
+          ],
+          "atividadeOrigem": "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras#gnomon_e_sombras.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "USGS — Are the tectonic plates floating on magma?",
+        "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma",
+        "uso": "Texto institucional recuperado pela busca: manto majoritariamente sólido, deformação lenta e distinção do núcleo externo líquido. Abertura direta retornou restrição de acesso; não se declara inspeção de figuras."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF06CI11",
+        "questoes": [
+          "cna.ef06.terra_e_universo.prova.11"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.estrutura_da_terra.camadas_internas#camadas_internas.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI12",
+        "questoes": [
+          "cna.ef06.terra_e_universo.prova.12"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.rochas_e_fosseis.tipos_de_rocha#tipos_de_rocha.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI13",
+        "questoes": [
+          "cna.ef06.terra_e_universo.prova.13"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.forma_e_movimentos_da_terra.esfericidade#esfericidade.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI14",
+        "questoes": [
+          "cna.ef06.terra_e_universo.prova.14"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras#gnomon_e_sombras.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef06.vida_e_evolucao.prova": {
+    "id": "cna.ef06.vida_e_evolucao.prova",
+    "titulo": "Avaliação: Vida e Evolução",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF06",
+    "unidade": "Vida e Evolução",
+    "bncc": [
+      "EF06CI05",
+      "EF06CI06",
+      "EF06CI07",
+      "EF06CI08",
+      "EF06CI09",
+      "EF06CI10"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "6 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 6, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef06.vida_e_evolucao.prova.05",
+      "cna.ef06.vida_e_evolucao.prova.06",
+      "cna.ef06.vida_e_evolucao.prova.07",
+      "cna.ef06.vida_e_evolucao.prova.08",
+      "cna.ef06.vida_e_evolucao.prova.09",
+      "cna.ef06.vida_e_evolucao.prova.10"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef06.vida_e_evolucao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Vida e Evolução",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF06CI05",
+        "EF06CI06",
+        "EF06CI07",
+        "EF06CI08",
+        "EF06CI09",
+        "EF06CI10"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Células: estrutura e função",
+          "enunciado": "Use o esquema incorporado para identificar limites, citoplasma e núcleo da célula eucariótica representada. Construa modelo próprio com legenda funcional e compare com descrição de bactéria de fonte indicada: quais características compartilham e qual diferença de organização genética? Explique por que uma célula também realiza funções, não é só uma peça de construção.",
+          "gabarito": "Exigir modelo efetivo, legendas e funções, distinguindo núcleo delimitado de presença de material genético. Não afirmar que bactéria não tem DNA nem que modelo representa toda célula. A análise não exige cultivo ou coleta biológica.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir modelo efetivo, legendas e funções, distinguindo núcleo delimitado de presença de material genético. Não afirmar que bactéria não tem DNA nem que modelo representa toda célula. A análise não exige cultivo ou coleta biológica.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI05"
+          ],
+          "atividadeOrigem": "cna.ef06.celula.unidade_da_vida#unidade_da_vida.investigacao"
+        },
+        {
+          "titulo": "Níveis de organização do organismo",
+          "enunciado": "Analise o esquema incorporado de níveis e produza um modelo com cartões para célula, tecido, órgão, sistema e organismo. Escolha um exemplo verificado em fonte indicada e explique as relações sem confundir nível e função. Compare com organismo unicelular e registre dois limites da representação em caixas.",
+          "gabarito": "Exigir ordenação e exemplos coerentes, como tecido muscular/órgão coração/sistema circulatório, reconhecendo tecidos múltiplos em órgãos. Não exigir que todo organismo tenha os cinco níveis nem desenhar sistemas sem relação entre si.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir ordenação e exemplos coerentes, como tecido muscular/órgão coração/sistema circulatório, reconhecendo tecidos múltiplos em órgãos. Não exigir que todo organismo tenha os cinco níveis nem desenhar sistemas sem relação entre si.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI06"
+          ],
+          "atividadeOrigem": "cna.ef06.celula.niveis_de_organizacao#niveis_de_organizacao.investigacao"
+        },
+        {
+          "titulo": "Sistema nervoso: perceber e coordenar",
+          "enunciado": "Faça dois esquemas: percepção de um sinal e ação voluntária segura, como ouvir uma instrução e mover um cartão; e modelo de resposta reflexa estudado em fonte. Identifique receptores, nervos, estruturas centrais e resposta muscular. Justifique o papel de cada parte, sem realizar testes clínicos ou estímulos dolorosos.",
+          "gabarito": "Exigir integração das estruturas e funções e distinção entre descrição de modelo e ação observada. Não diagnosticar tempo de resposta de colegas nem supor que reflexo não se relaciona ao sistema nervoso.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir integração das estruturas e funções e distinção entre descrição de modelo e ação observada. Não diagnosticar tempo de resposta de colegas nem supor que reflexo não se relaciona ao sistema nervoso.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI07"
+          ],
+          "atividadeOrigem": "cna.ef06.sistema_nervoso.neuronios#neuronios.investigacao"
+        },
+        {
+          "titulo": "Visão e lentes em modelos ópticos",
+          "enunciado": "Analise três diagramas do professor ou modelos construídos: foco sobre, antes e depois da retina. Explique captação/interpretação e selecione lente pelo modelo idealizado, justificando o efeito sobre raios. Monte demonstração segura com lente/lanterna comum se disponível, sem dirigir luz aos olhos ou ao Sol. Não testar ou trocar óculos de colegas.",
+          "gabarito": "Exigir relações modelo/foco/lente e reconhecimento do limite clínico, sem receita ou diagnóstico. Quando os diagramas forem produzidos, identificar que são esquemas, não imagens do olho de alguém. Não usar observação solar nem exposição luminosa intensa.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir relações modelo/foco/lente e reconhecimento do limite clínico, sem receita ou diagnóstico. Quando os diagramas forem produzidos, identificar que são esquemas, não imagens do olho de alguém. Não usar observação solar nem exposição luminosa intensa.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI08"
+          ],
+          "atividadeOrigem": "cna.ef06.visao.olho_humano#olho_humano.investigacao"
+        },
+        {
+          "titulo": "Sustentação e movimento: sistemas integrados",
+          "enunciado": "Construa com adulto um modelo articulado com papel/cartão e barbantes, sem ferramentas cortantes pelo estudante. Explique o papel representado por cada peça, compare com fonte anatômica e indique limites. Descreva a integração nervos/músculos/esqueleto em ação cotidiana, sem exigir esforço corporal, medir força ou imitar limitações de alguém.",
+          "gabarito": "Exigir modelo testado, integração dos sistemas e limites da analogia. Não dizer que músculo empurra osso como haste rígida nem generalizar esqueleto ósseo a todos os animais. Aceitar participação por manipulação assistida e fala.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir modelo testado, integração dos sistemas e limites da analogia. Não dizer que músculo empurra osso como haste rígida nem generalizar esqueleto ósseo a todos os animais. Aceitar participação por manipulação assistida e fala.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI09"
+          ],
+          "atividadeOrigem": "cna.ef06.locomocao.ossos#ossos.investigacao"
+        },
+        {
+          "titulo": "Substâncias psicoativas e comunicação nervosa",
+          "enunciado": "Com fonte institucional indicada, construa mapa de duas maneiras gerais de alterar a comunicação nervosa e relacione a possíveis efeitos sobre atenção/coordenação. Analise um caso fictício de mensagem publicitária que promete desempenho sem risco e produza resposta crítica. Não relatar consumo pessoal ou familiar nem testar substâncias.",
+          "gabarito": "Exigir explicação baseada em fonte, distinção entre mecanismo e julgamento moral, e crítica à promessa de risco zero. Não diagnosticar colegas, sugerir tratamento ou apresentar medicamento como universalmente seguro/perigoso.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir explicação baseada em fonte, distinção entre mecanismo e julgamento moral, e crítica à promessa de risco zero. Não diagnosticar colegas, sugerir tratamento ou apresentar medicamento como universalmente seguro/perigoso.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF06CI10"
+          ],
+          "atividadeOrigem": "cna.ef06.sistema_nervoso.substancias_psicoativas#substancias_psicoativas.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          347
+        ],
+        "paginasImpressas": "345",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Organização celular consultada; modelos autorais distinguem células eucarióticas e organização sem núcleo delimitado."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          183,
+          184,
+          185
+        ],
+        "paginasImpressas": "183–185",
+        "uso": "Referência sobre células e pluricelularidade; esquema de níveis é autoral e explicitamente simplificado."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295
+        ],
+        "paginasImpressas": "289–295",
+        "uso": "Estruturas e funções básicas, com cuidado para não universalizar explicações simplificadas das sinapses e circuitos."
+      },
+      {
+        "documento": "NEI — Refractive Errors",
+        "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/refractive-errors",
+        "uso": "Fonte oficial consultada sobre refração, retina e limites entre modelo escolar e prescrição clínica."
+      },
+      {
+        "documento": "NIDA — Drugs, Brains, and Behavior",
+        "url": "https://irp.nida.nih.gov/wp-content/uploads/2019/12/NIDA_DrugsBrainsAddiction_2018.pdf",
+        "uso": "Fonte institucional consultada sobre interferência na sinalização por neurotransmissores; não oferece dosagem, experimentação ou diagnóstico."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF06CI05",
+        "questoes": [
+          "cna.ef06.vida_e_evolucao.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.celula.unidade_da_vida#unidade_da_vida.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI06",
+        "questoes": [
+          "cna.ef06.vida_e_evolucao.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.celula.niveis_de_organizacao#niveis_de_organizacao.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI07",
+        "questoes": [
+          "cna.ef06.vida_e_evolucao.prova.07"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.sistema_nervoso.neuronios#neuronios.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI08",
+        "questoes": [
+          "cna.ef06.vida_e_evolucao.prova.08"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.visao.olho_humano#olho_humano.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI09",
+        "questoes": [
+          "cna.ef06.vida_e_evolucao.prova.09"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.locomocao.ossos#ossos.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF06CI10",
+        "questoes": [
+          "cna.ef06.vida_e_evolucao.prova.10"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef06.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef06.sistema_nervoso.substancias_psicoativas#substancias_psicoativas.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef07.materia_e_energia.prova": {
+    "id": "cna.ef07.materia_e_energia.prova",
+    "titulo": "Avaliação: Matéria e Energia",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Matéria e Energia",
+    "bncc": [
+      "EF07CI01",
+      "EF07CI02",
+      "EF07CI03",
+      "EF07CI04",
+      "EF07CI05",
+      "EF07CI06"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "6 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 6, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef07.materia_e_energia.prova.01",
+      "cna.ef07.materia_e_energia.prova.02",
+      "cna.ef07.materia_e_energia.prova.03",
+      "cna.ef07.materia_e_energia.prova.04",
+      "cna.ef07.materia_e_energia.prova.05",
+      "cna.ef07.materia_e_energia.prova.06"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef07.materia_e_energia.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Matéria e Energia",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF07CI01",
+        "EF07CI02",
+        "EF07CI03",
+        "EF07CI04",
+        "EF07CI05",
+        "EF07CI06"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Máquinas simples: tarefa, força e percurso",
+          "enunciado": "Investigue duas aplicações históricas em fontes identificadas. Projete e teste solução para mover pequena carga de brinquedo usando rampa ou alavanca de cartão, com adulto e sem pessoas sob cargas. Compare percurso e esforço por medida segura ou registro qualitativo; explique um ganho e um limite.",
+          "gabarito": "Exigir fonte, protótipo testado e relação força/percurso/direção coerente. Não confundir toda roldana com redução de força nem usar corpo de colega como carga. Se não houver medida, não inventar valores.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir fonte, protótipo testado e relação força/percurso/direção coerente. Não confundir toda roldana com redução de força nem usar corpo de colega como carga. Se não houver medida, não inventar valores.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI01"
+          ],
+          "atividadeOrigem": "cna.ef07.maquinas_simples.alavanca#alavanca.investigacao"
+        },
+        {
+          "titulo": "Temperatura, calor e sensação térmica",
+          "enunciado": "Com materiais seguros à temperatura ambiente, registre uma hipótese de sensação sem exposição a extremos e compare com medição feita pelo adulto em condições adequadas. Explique a diferença entre medição, sensação e transferência de energia. Analise também o contato entre dois corpos inicialmente com temperaturas distintas por dados identificados.",
+          "gabarito": "Exigir distinções conceituais e limites do instrumento/contato, sem afirmar igualdade de temperatura antes de verificar condições. Não usar gelo prolongadamente na pele, chama ou água quente para testar colegas.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir distinções conceituais e limites do instrumento/contato, sem afirmar igualdade de temperatura antes de verificar condições. Não usar gelo prolongadamente na pele, chama ou água quente para testar colegas.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI02"
+          ],
+          "atividadeOrigem": "cna.ef07.calor_e_temperatura.temperatura#temperatura.investigacao"
+        },
+        {
+          "titulo": "Condução, convecção e radiação em soluções",
+          "enunciado": "Analise esquema de garrafa térmica e coletor em fonte indicada. Relacione três elementos a mecanismos de transferência. Construa proteção simples para recipiente à temperatura ambiente ou com água levemente morna manejada pelo adulto, sem calor intenso, e acompanhe medidas seguras. Explique teste, resultado e limites, sem desmontar equipamentos.",
+          "gabarito": "Exigir mecanismos diferenciados e funções dos materiais, com protótipo se realizado. Não afirmar isolamento perfeito ou ausência de radiação no vácuo. Se usar dados fornecidos, distinguir de medida própria.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir mecanismos diferenciados e funções dos materiais, com protótipo se realizado. Não afirmar isolamento perfeito ou ausência de radiação no vácuo. Se usar dados fornecidos, distinguir de medida própria.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI03"
+          ],
+          "atividadeOrigem": "cna.ef07.aplicacoes_do_calor.garrafa_termica#garrafa_termica.investigacao"
+        },
+        {
+          "titulo": "Equilíbrio térmico, vida e máquinas",
+          "enunciado": "Compare três casos por esquemas: bebida na sala, ser vivo em troca com ambiente e máquina térmica. Identifique fronteira, trocas e diferenças relevantes. Avalie por que equilíbrio não é sinônimo de vida parada nem fonte ilimitada de trabalho; apresente um limite de cada modelo.",
+          "gabarito": "Exigir distinção entre equilíbrio, manutenção de condições e fluxo energético. Não dizer que vida exige equilíbrio térmico total com ambiente ou que máquina funciona sem diferença de condições. Não envolver testes corporais.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir distinção entre equilíbrio, manutenção de condições e fluxo energético. Não dizer que vida exige equilíbrio térmico total com ambiente ou que máquina funciona sem diferença de condições. Não envolver testes corporais.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI04"
+          ],
+          "atividadeOrigem": "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida#equilibrio_e_vida.investigacao"
+        },
+        {
+          "titulo": "Combustíveis e máquinas ao longo do tempo",
+          "enunciado": "Construa linha do tempo com três aplicações verificadas em fontes. Compare dois combustíveis quanto à origem, uso, infraestrutura e ao menos dois impactos, indicando os critérios e limites dos dados. Faça recomendação argumentada para um cenário fictício, sem queimar combustíveis ou desmontar motores.",
+          "gabarito": "Exigir referências, análise econômica/socioambiental e critérios, sem ranking universal ou percentuais inventados. Distinguir modelo histórico de especificação atual de um produto; reconhecer impactos do ciclo de vida.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir referências, análise econômica/socioambiental e critérios, sem ranking universal ou percentuais inventados. Distinguir modelo histórico de especificação atual de um produto; reconhecer impactos do ciclo de vida.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI05"
+          ],
+          "atividadeOrigem": "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao#lenha_e_carvao.investigacao"
+        },
+        {
+          "titulo": "Novos materiais, automação e trabalho",
+          "enunciado": "Escolha uma tarefa antes/depois de mudança tecnológica em fonte histórica e, se possível, entrevista consentida. Compare ferramentas, conhecimentos exigidos, tempo de trabalho, acesso e impactos para grupos diferentes. Proponha duas medidas para ampliar benefícios e reduzir exclusão, sem coletar dados pessoais desnecessários.",
+          "gabarito": "Exigir contexto e fontes, distinção entre relato e generalização e avaliação de grupos afetados. Não afirmar que toda automação cria ou elimina empregos do mesmo modo. Entrevista prevista não conta como realizada.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir contexto e fontes, distinção entre relato e generalização e avaliação de grupos afetados. Não afirmar que toda automação cria ou elimina empregos do mesmo modo. Entrevista prevista não conta como realizada.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI06"
+          ],
+          "atividadeOrigem": "cna.ef07.tecnologia_e_sociedade.novos_materiais#novos_materiais.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF07CI01",
+        "questoes": [
+          "cna.ef07.materia_e_energia.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.maquinas_simples.alavanca#alavanca.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI02",
+        "questoes": [
+          "cna.ef07.materia_e_energia.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.calor_e_temperatura.temperatura#temperatura.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI03",
+        "questoes": [
+          "cna.ef07.materia_e_energia.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.aplicacoes_do_calor.garrafa_termica#garrafa_termica.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI04",
+        "questoes": [
+          "cna.ef07.materia_e_energia.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida#equilibrio_e_vida.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI05",
+        "questoes": [
+          "cna.ef07.materia_e_energia.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao#lenha_e_carvao.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI06",
+        "questoes": [
+          "cna.ef07.materia_e_energia.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.tecnologia_e_sociedade.novos_materiais#novos_materiais.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef07.terra_e_universo.prova": {
+    "id": "cna.ef07.terra_e_universo.prova",
+    "titulo": "Avaliação: Terra e Universo",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Terra e Universo",
+    "bncc": [
+      "EF07CI12",
+      "EF07CI13",
+      "EF07CI14",
+      "EF07CI15",
+      "EF07CI16"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef07.terra_e_universo.prova.12",
+      "cna.ef07.terra_e_universo.prova.13",
+      "cna.ef07.terra_e_universo.prova.14",
+      "cna.ef07.terra_e_universo.prova.15",
+      "cna.ef07.terra_e_universo.prova.16"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef07.terra_e_universo.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Terra e Universo",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF07CI12",
+        "EF07CI13",
+        "EF07CI14",
+        "EF07CI15",
+        "EF07CI16"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Ar: mistura e variações na composição",
+          "enunciado": "Construa gráfico/modelo de composição aproximada do ar seco com legenda e limite. Analise dois casos, como erupção e emissão de veículos, distinguindo gases e partículas com fonte. Faça demonstração segura de ar ocupando espaço com recipiente e água ou seringa sem agulha, manejada pelo professor, sem experimento de combustão.",
+          "gabarito": "Exigir composição e proporções aproximadas, limite ar seco/umidade e discussão de fontes de alteração. A demonstração de volume não mede por si só a composição. Não usar vela em copo para inferir porcentagem exata de oxigênio.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir composição e proporções aproximadas, limite ar seco/umidade e discussão de fontes de alteração. A demonstração de volume não mede por si só a composição. Não usar vela em copo para inferir porcentagem exata de oxigênio.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI12"
+          ],
+          "atividadeOrigem": "cna.ef07.ar_e_atmosfera.composicao_do_ar#composicao_do_ar.investigacao"
+        },
+        {
+          "titulo": "Efeito estufa natural e intensificação",
+          "enunciado": "Produza esquema do balanço de energia e compare efeito natural/intensificado. Com fonte institucional, relacione duas ações humanas a emissões ou perda de absorção. Selecione em grupo uma proposta escolar viável, execute ação autorizada e registre indicador e limite; não calcule emissões evitadas sem método e dados.",
+          "gabarito": "Exigir mecanismo e distinção do ozônio, causas antrópicas e proposta executada ou pendência explícita. Não afirmar que toda redução de consumo equivale a quantidade conhecida de carbono sem cálculo rastreável.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir mecanismo e distinção do ozônio, causas antrópicas e proposta executada ou pendência explícita. Não afirmar que toda redução de consumo equivale a quantidade conhecida de carbono sem cálculo rastreável.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI13"
+          ],
+          "atividadeOrigem": "cna.ef07.ar_e_atmosfera.efeito_estufa_natural#efeito_estufa_natural.investigacao"
+        },
+        {
+          "titulo": "Ozônio: função, alterações e preservação",
+          "enunciado": "Com fontes institucionais, faça quadro: onde o ozônio tem função protetora, como se forma/destrói em termos gerais, fatores antrópicos e medidas coletivas. Proponha duas ações responsáveis, como encaminhamento de manutenção/descarte por equipe habilitada e informação pública. Compare com efeito estufa sem recomendar manipulação de gases.",
+          "gabarito": "Exigir função ligada a UV, distinção de localização e comparação dos mecanismos. Não atribuir aquecimento global apenas ao buraco de ozônio. A ação proposta não deve exigir abrir refrigerador, aerossol ou recipiente pressurizado.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir função ligada a UV, distinção de localização e comparação dos mecanismos. Não atribuir aquecimento global apenas ao buraco de ozônio. A ação proposta não deve exigir abrir refrigerador, aerossol ou recipiente pressurizado.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI14"
+          ],
+          "atividadeOrigem": "cna.ef07.ar_e_atmosfera.camada_de_ozonio#camada_de_ozonio.investigacao"
+        },
+        {
+          "titulo": "Placas, sismos, vulcões e tsunamis",
+          "enunciado": "Compare mapa institucional de limites e distribuição de eventos com posição do Brasil. Explique um processo para sismo, vulcanismo e tsunami, distinguindo condições necessárias. Analise por que raridade relativa não significa impossibilidade e registre limites do mapa. Sem simulações com ondas perigosas, deslocamento de pessoas ou afirmação de previsão de data.",
+          "gabarito": "Exigir interpretação de mapa real com fonte/período e mecanismos coerentes. Não afirmar que Brasil nunca tem terremoto nem que todo terremoto oceânico provoca tsunami. Não usar o estudo para prever evento específico.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir interpretação de mapa real com fonte/período e mecanismos coerentes. Não afirmar que Brasil nunca tem terremoto nem que todo terremoto oceânico provoca tsunami. Não usar o estudo para prever evento específico.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI15"
+          ],
+          "atividadeOrigem": "cna.ef07.terra_dinamica.placas_tectonicas#placas_tectonicas.investigacao"
+        },
+        {
+          "titulo": "Deriva continental: costas e outras evidências",
+          "enunciado": "Use mapas identificados das margens e duas fontes de evidências geológicas/paleontológicas para comparar América do Sul e África. Produza reconstrução esquemática com legenda e argumento que una forma e registros. Indique limites do encaixe e diferença entre propor hipótese e explicar mecanismos por placas.",
+          "gabarito": "Exigir mapa com origem, duas evidências além da forma e limitações de contornos atuais. Não tratar um encaixe de papel como prova única nem reproduzir oceano global de magma como suporte. Registrar escalas e tempos qualitativos sem inventar datação.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir mapa com origem, duas evidências além da forma e limitações de contornos atuais. Não tratar um encaixe de papel como prova única nem reproduzir oceano global de magma como suporte. Registrar escalas e tempos qualitativos sem inventar datação.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI16"
+          ],
+          "atividadeOrigem": "cna.ef07.terra_dinamica.deriva_continental#deriva_continental.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "uso": "Mecanismo natural, intensificação antrópica e balanço energético; exemplos e tarefas autorais."
+      },
+      {
+        "documento": "NASA — Is the ozone hole causing climate change?",
+        "url": "https://science.nasa.gov/climate-change/faq/is-the-ozone-hole-causing-climate-change/",
+        "uso": "Diferencia proteção UV e mecanismos climáticos; não reproduz estimativas temporais de recuperação."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "paginasImpressas": "25–28",
+        "uso": "História e tectônica consultadas criticamente: não reproduz representação incorreta de placas sobre oceano de magma."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "paginasImpressas": "25–28",
+        "uso": "Evidências históricas e deriva, com distinção entre hipótese histórica e mecanismo de placas."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF07CI12",
+        "questoes": [
+          "cna.ef07.terra_e_universo.prova.12"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.ar_e_atmosfera.composicao_do_ar#composicao_do_ar.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI13",
+        "questoes": [
+          "cna.ef07.terra_e_universo.prova.13"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.ar_e_atmosfera.efeito_estufa_natural#efeito_estufa_natural.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI14",
+        "questoes": [
+          "cna.ef07.terra_e_universo.prova.14"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.ar_e_atmosfera.camada_de_ozonio#camada_de_ozonio.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI15",
+        "questoes": [
+          "cna.ef07.terra_e_universo.prova.15"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.terra_dinamica.placas_tectonicas#placas_tectonicas.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI16",
+        "questoes": [
+          "cna.ef07.terra_e_universo.prova.16"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.terra_dinamica.deriva_continental#deriva_continental.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef07.vida_e_evolucao.prova": {
+    "id": "cna.ef07.vida_e_evolucao.prova",
+    "titulo": "Avaliação: Vida e Evolução",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF07",
+    "unidade": "Vida e Evolução",
+    "bncc": [
+      "EF07CI07",
+      "EF07CI08",
+      "EF07CI09",
+      "EF07CI10",
+      "EF07CI11"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef07.vida_e_evolucao.prova.07",
+      "cna.ef07.vida_e_evolucao.prova.08",
+      "cna.ef07.vida_e_evolucao.prova.09",
+      "cna.ef07.vida_e_evolucao.prova.10",
+      "cna.ef07.vida_e_evolucao.prova.11"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef07.vida_e_evolucao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Vida e Evolução",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF07CI07",
+        "EF07CI08",
+        "EF07CI09",
+        "EF07CI10",
+        "EF07CI11"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Ecossistemas brasileiros: comparar condições",
+          "enunciado": "Com fontes institucionais e mapas identificados, faça quadro dos seis biomas com água/sazonalidade, solo, luz/vegetação, temperatura em contexto e dois exemplos de flora/fauna para cada um. Escolha dois ecossistemas específicos e explique relações entre condições e seres vivos. Não invente medidas nem trate toda a região como igual.",
+          "gabarito": "Exigir quadro com fontes e exemplos verificados, comparação em escala adequada e relação condição/vida sem determinismo simples. Indicar dados ausentes e diferenças internas. Não usar porcentagens territoriais sem data e fonte.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir quadro com fontes e exemplos verificados, comparação em escala adequada e relação condição/vida sem determinismo simples. Indicar dados ausentes e diferenças internas. Não usar porcentagens territoriais sem data e fonte.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI07"
+          ],
+          "atividadeOrigem": "cna.ef07.ecossistemas_brasileiros.amazonia#amazonia.investigacao"
+        },
+        {
+          "titulo": "Mudanças ambientais e populações",
+          "enunciado": "Analise um caso real com fonte identificada ou conjunto de dados didáticos explicitamente simulado. Faça rede de relações entre alteração, habitat, recursos e populações. Distinga observado, hipótese e dado faltante; compare duas respostas possíveis e proponha monitoramento ou ação com critério, sem interferir em animais.",
+          "gabarito": "Exigir mecanismo plausível e sustentação, sem causalidade automática por simples sequência temporal. Diferenciar migração/redução local/extinção. Se os dados forem simulados, não apresentá-los como levantamento real.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir mecanismo plausível e sustentação, sem causalidade automática por simples sequência temporal. Diferenciar migração/redução local/extinção. Se os dados forem simulados, não apresentá-los como levantamento real.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI08"
+          ],
+          "atividadeOrigem": "cna.ef07.impactos_ambientais.catastrofes_naturais#catastrofes_naturais.investigacao"
+        },
+        {
+          "titulo": "Indicadores e políticas de saúde",
+          "enunciado": "Calcule e compare as taxas do modelo. Depois consulte painel oficial mediado de município/estado, registrando definição, fonte, ano e denominador para mortalidade infantil, saneamento e um indicador de doença. Relacione a uma política documentada e apresente uma hipótese de efeito com limites, sem dados identificáveis de pessoas.",
+          "gabarito": "Exigir contas corretas e fontes reais para a etapa local. Se não houver dado comparável, registrar limite. Não diagnosticar comunidade por um único indicador nem confundir correlação com prova de causalidade. Modelo não substitui pesquisa executada.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir contas corretas e fontes reais para a etapa local. Se não houver dado comparável, registrar limite. Não diagnosticar comunidade por um único indicador nem confundir correlação com prova de causalidade. Modelo não substitui pesquisa executada.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI09"
+          ],
+          "atividadeOrigem": "cna.ef07.saude_publica.indicadores_de_saude#indicadores_de_saude.investigacao"
+        },
+        {
+          "titulo": "Vacinação: mecanismo e história pública",
+          "enunciado": "Com fontes oficiais, construa esquema antígeno/resposta/memória e linha do tempo do caso da varíola, com vacinação e vigilância. Escreva argumento com benefício individual e coletivo, esclarecendo limites de proteção. Compare uma alegação sem fonte com evidência institucional, sem solicitar caderneta ou informações privadas de colegas.",
+          "gabarito": "Exigir mecanismo básico e história rastreável, sem promessa de risco zero ou afirmação de que toda vacina contém microrganismo vivo. Não prescrever calendário ou avaliar situação vacinal de estudantes; decisões individuais são outra atividade de saúde.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir mecanismo básico e história rastreável, sem promessa de risco zero ou afirmação de que toda vacina contém microrganismo vivo. Não prescrever calendário ou avaliar situação vacinal de estudantes; decisões individuais são outra atividade de saúde.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI10"
+          ],
+          "atividadeOrigem": "cna.ef07.vacinacao.como_a_vacina_age#como_a_vacina_age.investigacao"
+        },
+        {
+          "titulo": "Tecnologias, ambiente e qualidade de vida",
+          "enunciado": "Escolha uma tecnologia em dois períodos históricos e monte quadro com função, acesso, condições de trabalho, uso de recursos e um indicador de qualidade de vida pertinente. Use fontes identificadas e faça uma avaliação com benefício, custo e grupo afetado. Proponha melhoria sem desmontar equipamentos ou coletar resíduos perigosos.",
+          "gabarito": "Exigir comparação temporal contextualizada e indicadores com limites. Não confundir quantidade de dispositivos com acesso efetivo nem generalizar experiência individual a toda população.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir comparação temporal contextualizada e indicadores com limites. Não confundir quantidade de dispositivos com acesso efetivo nem generalizar experiência individual a toda população.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF07CI11"
+          ],
+          "atividadeOrigem": "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia#historia_da_tecnologia.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          349
+        ],
+        "paginasImpressas": "347",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "IBGE — Biomas brasileiros",
+        "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18307-biomas-brasileiros.html",
+        "uso": "Descrição institucional recuperada por busca e nomenclatura dos seis biomas. Abertura direta restrita; não usa percentuais atuais nem declara acesso às figuras."
+      },
+      {
+        "documento": "WHO — How do vaccines work?",
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "uso": "Mecanismo de resposta/memória e história da erradicação da varíola, sem calendário ou prescrição individual."
+      },
+      {
+        "documento": "CDC — Explaining How Vaccines Work",
+        "url": "https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html",
+        "uso": "Fonte oficial consultada sobre proteção e seus limites, sem transpor recomendações nacionais de calendário."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF07CI07",
+        "questoes": [
+          "cna.ef07.vida_e_evolucao.prova.07"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.ecossistemas_brasileiros.amazonia#amazonia.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI08",
+        "questoes": [
+          "cna.ef07.vida_e_evolucao.prova.08"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.impactos_ambientais.catastrofes_naturais#catastrofes_naturais.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI09",
+        "questoes": [
+          "cna.ef07.vida_e_evolucao.prova.09"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.saude_publica.indicadores_de_saude#indicadores_de_saude.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI10",
+        "questoes": [
+          "cna.ef07.vida_e_evolucao.prova.10"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.vacinacao.como_a_vacina_age#como_a_vacina_age.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF07CI11",
+        "questoes": [
+          "cna.ef07.vida_e_evolucao.prova.11"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef07.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia#historia_da_tecnologia.investigacao"
         ]
       }
     ]
