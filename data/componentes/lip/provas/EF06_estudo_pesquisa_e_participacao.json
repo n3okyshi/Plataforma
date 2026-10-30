@@ -1,0 +1,283 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.prova",
+  "titulo": "Avaliação: Estudo, pesquisa e participação",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Estudo, pesquisa e participação",
+  "bncc": [
+    "EF67LP17",
+    "EF67LP18",
+    "EF67LP19",
+    "EF67LP21",
+    "EF67LP25",
+    "EF67LP26",
+    "EF67LP29",
+    "EF67LP36"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Oito itens objetivos; nota proporcional aos acertos, divididos por oito, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+  "questoes": [
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.01",
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.02",
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.03",
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.04",
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.05",
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.06",
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.07",
+    "lip.ef06.estudo_pesquisa_e_participacao.prova.08"
+  ],
+  "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Estudo, pesquisa e participação",
+    "enunciado": "Reúna as oito produções, fontes e versões revisadas. Observações, pesquisas e divulgação exigem registros de execução; modelos não comprovam realização.",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF67LP17",
+      "EF67LP18",
+      "EF67LP19",
+      "EF67LP21",
+      "EF67LP25",
+      "EF67LP26",
+      "EF67LP29",
+      "EF67LP36"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Cartas estrutura",
+        "enunciado": "Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização.",
+        "gabarito": "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP17"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura#cartas_estrutura.producao"
+      },
+      {
+        "titulo": "Pedido e justificativa",
+        "enunciado": "Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados.",
+        "gabarito": "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP18"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa#pedido_e_justificativa.producao"
+      },
+      {
+        "titulo": "Levantamento de problemas",
+        "enunciado": "Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático.",
+        "gabarito": "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP19"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas#levantamento_de_problemas.producao"
+      },
+      {
+        "titulo": "Divulgar pesquisa",
+        "enunciado": "Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real.",
+        "gabarito": "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP21"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa#divulgar_pesquisa.producao"
+      },
+      {
+        "titulo": "Organizacao topica",
+        "enunciado": "Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega.",
+        "gabarito": "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP25"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica#organizacao_topica.producao"
+      },
+      {
+        "titulo": "Hipertexto cientifico",
+        "enunciado": "Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura.",
+        "gabarito": "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP26"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico#hipertexto_cientifico.producao"
+      },
+      {
+        "titulo": "Texto dramatico",
+        "enunciado": "Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem.",
+        "gabarito": "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP29"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico#texto_dramatico.producao"
+      },
+      {
+        "titulo": "Coesao e sequencia",
+        "enunciado": "Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis.",
+        "gabarito": "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP36"
+        ],
+        "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia#coesao_e_sequencia.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF67LP17",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura#cartas_estrutura.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP18",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa#pedido_e_justificativa.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP19",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas#levantamento_de_problemas.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP21",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa#divulgar_pesquisa.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP25",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica#organizacao_topica.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP26",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico#hipertexto_cientifico.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP29",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico#texto_dramatico.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP36",
+      "questoes": [
+        "lip.ef06.estudo_pesquisa_e_participacao.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia#coesao_e_sequencia.producao"
+      ]
+    }
+  ]
+}

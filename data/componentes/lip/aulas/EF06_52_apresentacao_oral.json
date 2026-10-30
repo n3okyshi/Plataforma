@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.oralidade.apresentacao_oral",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 52,
+  "unidade": "Oralidade",
+  "titulo": "Planejar uma Apresentação Oral",
+  "bncc": [
+    "EF69LP38"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação."
+    ],
+    "resumo": "Planejar uma Apresentação Oral",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planejar uma Apresentação Oral</h2><p>Uma apresentação oral comunica resultados a um público dentro de um tempo. Selecione informações e fontes; organize abertura, desenvolvimento e conclusão. Painéis ou slides apoiam a fala com títulos, imagens pertinentes e letras legíveis, sem exigir leitura de longos parágrafos. Ensaio permite ajustar tempo, volume, ritmo, postura e referências, respeitando diferentes formas de comunicação.</p><h3>Exemplo comentado</h3><p>Plano de três minutos sobre a pesquisa de leitura: painel 1, pergunta e grupo consultado; painel 2, resultados realmente coletados e representação; painel 3, interpretação e limites. Se apenas uma turma foi ouvida, não concluir que a escola inteira pensa igual. O apresentador pode consultar cartões; decorar tudo não é requisito.</p><h3>Produza e revise</h3><p>Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "apresentacao_oral.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual painel evita uma generalização indevida?",
+      "alternativas": [
+        "Toda a escola pensa assim, sem pesquisa.",
+        "Resultado de uma turma consultada, com data e limites.",
+        "Número inventado para preencher o espaço.",
+        "Imagem sem relação com o tema."
+      ],
+      "correta": 1,
+      "explicacao": "Plano de três minutos sobre a pesquisa de leitura: painel 1, pergunta e grupo consultado; painel 2, resultados realmente coletados e representação; painel 3, interpretação e limites. Se apenas uma turma foi ouvida, não concluir que a escola inteira pensa igual. O apresentador pode consultar cartões; decorar tudo não é requisito.",
+      "bncc": [
+        "EF69LP38"
+      ]
+    },
+    {
+      "id": "apresentacao_oral.producao",
+      "tipo": "discursiva",
+      "enunciado": "Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação.",
+      "gabarito": "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF69LP38"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

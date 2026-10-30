@@ -40,8 +40,30 @@ registrarTeoria({
   "lip.ef06.producao_de_textos.produzir_publicidade": "<h2>Produzir e Editar Texto Publicitário</h2><p>Produzir publicidade exige definir objetivo, público e suporte e relacionar elementos verbais e visuais. Slogan chama atenção; informações de serviço precisam ser claras. Convencer não autoriza promessas falsas ou pressão discriminatória. Faça rascunho, teste legibilidade e revise com base na resposta do público.</p><h3>Exemplo comentado</h3><p>Campanha fictícia de troca de livros: “Uma história continua com você”. A imagem pode mostrar livros passando entre mãos, e o texto precisa informar local, data e condições. O slogan sozinho não diz como participar. Se o evento é fictício, o cartaz deve indicar simulação; não divulgue uma data inventada como acontecimento real.</p><h3>Produza e revise</h3><p>Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas.</p>",
   "lip.ef06.producao_de_textos.coesao_referencial_na_producao": "<h2>Coesão Referencial e Sequencial na Produção</h2><p>Coesão referencial liga as partes do texto por nomes e pronomes; relações semânticas podem produzir aproximação, contraste ou jogo com palavras iguais. Discurso direto apresenta uma voz citada; indireto relata essa fala com ajustes. Não troque todo nome por pronome: referências ambíguas prejudicam a leitura. Semelhança de sentido não torna toda substituição equivalente.</p><h3>Exemplo comentado</h3><p>“Lia falou: Estou contente. A estudante explicou que estava alegre, mas Rui estava triste.” Lia e a estudante retomam a mesma pessoa; contente/alegre aproximam sentidos e alegre/triste contrastam. Para homonímia, “O banco da praça ficava em frente ao banco da cidade” usa banco com sentidos distintos. A voz relatada deve continuar atribuída, sem alterar o que a personagem disse.</p><h3>Produza e revise</h3><p>Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas.</p>",
   "lip.ef06.producao_de_textos.resumo_e_parafrase": "<h2>Resumo, Paráfrase e Citação</h2><p>Resumir parte de notas ou esquema e seleciona ideias centrais sem acrescentar conclusões inexistentes. Paráfrase reorganiza uma ideia com palavras próprias, preservando o sentido e indicando a origem. Citação direta mantém o trecho literal, delimitado e atribuído. Trocar poucas palavras não basta para construir um resumo autônomo. A referência permite ao leitor localizar a fonte.</p><h3>Exemplo comentado</h3><p>Texto-base autoral fictício: “A biblioteca ampliou o horário por uma hora. No primeiro dia, 18 estudantes usaram o período adicional. O uso nos outros dias ainda não foi levantado.” Notas: ampliação de uma hora; 18 no primeiro dia; demais dias desconhecidos. Resumo possível: “O texto informa a ampliação do atendimento e registra 18 participantes no primeiro dia, sem dados dos demais”.</p><h3>Produza e revise</h3><p>Faça notas e um esquema do texto-base. Escreva resumo de duas frases com paráfrase e uma citação curta identificada como proveniente do texto autoral fictício desta aula. Compare com a fonte, retirando repetição desnecessária e qualquer generalização sobre os demais dias.</p>",
+  "lip.ef06.oralidade.turnos_de_fala": "<h2>Turnos de Fala em Discussões</h2><p>Conversar em grupo exige acompanhar o que foi dito, pedir a palavra e formular perguntas no momento oportuno. Turno é a oportunidade de fala, não um prêmio por falar mais alto. Uma pergunta pertinente se relaciona ao tema e ajuda a esclarecer; discordar não exige interromper. O moderador combina regras e pode convidar quem ainda não falou, respeitando o direito de não expor experiências pessoais. Recursos de comunicação alternativa e tempo adicional podem fazer parte da participação.</p><h3>Exemplo comentado</h3><p>Discussão-modelo: “Como organizar a troca de livros?” Lia: “Sugiro separar por tema”. Rui pede a palavra: “Como identificar livros que cabem em mais de um tema?” A pergunta retoma a proposta e revela um problema. “Você nunca sabe nada” atacaria a pessoa, sem analisar a ideia. Uma síntese útil registra a proposta e a dúvida, em vez de apenas nomes de quem falou.</p><h3>Produza e revise</h3><p>Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final.</p>",
+  "lip.ef06.oralidade.tomar_nota": "<h2>Tomar Nota de Aulas e Entrevistas</h2><p>Tomar nota é selecionar e organizar informações durante a escuta, considerando um objetivo. Não é copiar cada palavra nem registrar apenas a impressão pessoal. Título, data, fonte, tópicos e marcação de dúvidas ajudam a recuperar o conteúdo. Distinga informação dita, inferência sua e pergunta ainda aberta. Depois da escuta, reorganize as notas antes de produzir uma síntese.</p><h3>Exemplo comentado</h3><p>Fala autoral para leitura pelo professor: “Na troca de livros, cada pessoa poderá trazer até dois exemplares. A equipe verificará o estado de conservação. A organização proposta é por tema, mas essa classificação ainda será discutida. O encontro-modelo ocorrerá no pátio, numa data a combinar”. Notas possíveis: até dois; conferir estado; tema em debate; pátio; data indefinida. Escrever terça-feira inventaria um dado.</p><h3>Produza e revise</h3><p>Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida.</p>",
   "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao": "<h2>Revisar com finalidade</h2><p>Para escrever um pedido à direção, precisamos tornar claros o destinatário, a solicitação e seus motivos. Quando o gênero e a situação pedem norma-padrão, podemos revisar concordância, pontuação e grafia, sem desqualificar quem produziu a primeira versão.</p><h3>Da conversa ao pedido</h3><p><strong>Mensagem fictícia entre colegas:</strong> “A gente quer mais livros. As turma vai mandar os pedido amanhã.”</p><p><strong>Versão para a direção:</strong> “À direção: solicitamos a ampliação do acervo da biblioteca. As turmas enviarão os pedidos amanhã. Agradecemos a atenção.”</p><p>“A gente quer” tem concordância compatível com a norma-padrão; sua troca por “solicitamos” foi uma escolha de registro, não uma correção obrigatória. Em “as turma vai”, a revisão formal estabelece “as turmas vão”; “os pedido” passa a “os pedidos”. A forma “enviarão” também explicita uma ação futura. Não altere a data, a solicitação ou o responsável ao revisar.</p><h3>Procedimento</h3><ol><li>Identifique destinatário e finalidade.</li><li>Confira se as informações estão completas.</li><li>Revise concordância, grafia e pontuação.</li><li>Explique duas escolhas e compare o sentido com o original.</li></ol><p>A fala também pode ser planejada e formal, como em uma apresentação ao conselho escolar. Uma mensagem escrita a um amigo pode admitir outro registro.</p>",
+  "lip.ef06.oralidade.entrevista_oral": "<h2>Planejar e Fazer Entrevista</h2><p>Uma entrevista tem objetivo, interlocutor escolhido por sua relação com o tema e perguntas preparadas. Pesquise o que já se sabe para evitar perguntas desnecessárias. Escutar permite formular novas perguntas a partir da resposta, sem induzir ou colocar palavras na boca do entrevistado. Para gravar, combine consentimento e finalidade. A transcrição editada pode retirar repetições dispensáveis, mas não inverter o sentido.</p><h3>Exemplo comentado</h3><p>Objetivo: conhecer a organização da biblioteca. Pergunta: “Como são escolhidos os livros novos?” Resposta-modelo: “Recebemos sugestões das turmas e verificamos o acervo”. Pergunta de aprofundamento: “Como uma turma envia sua sugestão?” Ela nasce da resposta. “Então vocês nunca escutam ninguém?” seria uma acusação não sustentada por essa fala.</p><h3>Produza e revise</h3><p>Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido.</p>",
+  "lip.ef06.oralidade.discutir_temas_controversos": "<h2>Discutir Temas Controversos</h2><p>Uma discussão pode buscar uma decisão comum sem exigir unanimidade. Defina o problema e os critérios de comparação; ouça razões e separe fatos, hipóteses e preferências. Uma conclusão pode registrar um acordo parcial, uma experiência temporária ou a necessidade de mais dados. Contribuir não significa impor a própria solução nem aceitar ataques pessoais.</p><h3>Exemplo comentado</h3><p>Problema fictício: a biblioteca tem espaço limitado para atividades silenciosas e rodas de leitura. Proposta A: reservar horários diferentes; proposta B: criar zonas no mesmo horário. A escolha exige saber tamanho do espaço, ruído e demanda. Um acordo possível é testar horários por uma semana e depois avaliar; não declarar sucesso antes do teste.</p><h3>Produza e revise</h3><p>Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou.</p>",
+  "lip.ef06.oralidade.apresentacao_oral": "<h2>Planejar uma Apresentação Oral</h2><p>Uma apresentação oral comunica resultados a um público dentro de um tempo. Selecione informações e fontes; organize abertura, desenvolvimento e conclusão. Painéis ou slides apoiam a fala com títulos, imagens pertinentes e letras legíveis, sem exigir leitura de longos parágrafos. Ensaio permite ajustar tempo, volume, ritmo, postura e referências, respeitando diferentes formas de comunicação.</p><h3>Exemplo comentado</h3><p>Plano de três minutos sobre a pesquisa de leitura: painel 1, pergunta e grupo consultado; painel 2, resultados realmente coletados e representação; painel 3, interpretação e limites. Se apenas uma turma foi ouvida, não concluir que a escola inteira pensa igual. O apresentador pode consultar cartões; decorar tudo não é requisito.</p><h3>Produza e revise</h3><p>Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação.</p>",
+  "lip.ef06.literatura.literatura_e_outras_artes": "<h2>Literatura e Outras Artes</h2><p>Intertextualidade envolve relações entre obras, por referência explícita ou retomada de temas, personagens e formas. Duas obras com uma ponte não são necessariamente referência direta uma à outra; é preciso analisar pistas. Uma adaptação teatral pode transformar narração em fala, gesto, luz e cenário, preservando ou alterando sentidos. Compare os recursos, não apenas o assunto.</p><h3>Exemplo comentado</h3><p>O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>Adaptação cênica autoral de um trecho: Iara e Joel diante da mesa. IARA (vira a folha): “O quarto corredor sumiu”. JOEL (aponta o verso): “Talvez ainda não tenha sido contado”. Uma luz ilumina a parte em branco. A adaptação retoma mapa e personagens do conto, mas cria fala e recurso de luz que não são cópias literais da narração.</p></p><h3>Produza e revise</h3><p>Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem.</p>",
+  "lip.ef06.literatura.ler_literatura": "<h2>Ler e Compreender Literatura</h2><p>Ler literatura envolve acompanhar vozes, acontecimentos, imagens e ambiguidades, ajustando a estratégia ao objetivo. Numa primeira leitura, procure compreender o conjunto; depois releia pistas para sustentar uma interpretação. Um final aberto pode admitir leituras distintas sem aceitar qualquer resposta sem evidência. Avaliar a obra é expressar apreciação com referência ao texto, não adivinhar uma mensagem única.</p><h3>Exemplo comentado</h3><p>O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>O narrador apresenta ações de Iara e Joel, sem esclarecer quem desenhou a ponte. A frase no verso permite uma leitura fantástica ou uma brincadeira coletiva. A ponte acrescentada no dia seguinte sustenta o enigma, mas o texto não identifica uma pessoa específica como autora.</p></p><h3>Produza e revise</h3><p>Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor.</p>",
+  "lip.ef06.literatura.criar_narrativas": "<h2>Criar Narrativas Ficcionais</h2><p>Uma narrativa ficcional organiza personagens, espaço, tempo, conflito e desdobramentos por uma voz narradora. Suspense pode surgir do adiamento de uma informação e de pistas. O desfecho pode resolver ou manter parte do mistério, mas precisa dialogar com a construção anterior. Discurso direto apresenta uma fala; indireto a relata. Ao narrar no passado, revise a articulação dos tempos.</p><h3>Exemplo comentado</h3><p>No conto O mapa incompleto, o espaço em branco e a frase no verso criam expectativa; a ponte final retoma o motivo do caminho. Um início alternativo poderia começar pela ponte pronta e depois retornar à descoberta do mapa. A mudança reorganiza a curiosidade, sem exigir copiar as mesmas personagens.</p><h3>Produza e revise</h3><p>Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo.</p>",
+  "lip.ef06.literatura.criar_poemas": "<h2>Criar Poemas de Forma Fixa e Versos Livres</h2><p>Poemas organizam linguagem por versos, ritmo, imagens e disposição visual. Verso é uma linha poética; estrofe é um conjunto de versos. Quadra tem quatro versos, mas nem toda quadra tem a mesma métrica ou esquema de rimas. Verso livre não obriga ausência de ritmo: dispensa um padrão métrico fixo. Em poema visual, a distribuição das palavras participa do sentido. Este recorte não pretende ensinar toda a construção de sonetos e vídeo-poemas.</p><h3>Exemplo comentado</h3><p>Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Chão/versão aproximam finais sonoros; rio/vazio também podem ser lidos como rima. A ponte relaciona escuta e passagem. Versão livre autoral: “Deixo / no branco do mapa / um lugar / para tua voz”. A quebra pode destacar espera e abertura. O sentido depende da composição, não só de rimar palavras.</p></p><h3>Produza e revise</h3><p>Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar.</p>",
+  "lip.ef06.literatura.praticas_de_leitura_literaria": "<h2>Práticas de Leitura Literária</h2><p>Um percurso leitor reúne escolhas, desafios e encontros com obras diferentes. Registrar dificuldades e reler com apoio não é fracasso: faz parte da formação. Preferências podem mudar. Não se mede envolvimento apenas por velocidade, quantidade de páginas ou elogio obrigatório. O professor pode oferecer alternativas acessíveis e propor uma leitura que amplie o repertório sem desqualificar o gosto anterior.</p><h3>Exemplo comentado</h3><p>Uma ficha de percurso pode registrar: obra e autoria; expectativa; trecho que exigiu releitura; estratégia usada; apreciação após a conversa. No conto do mapa, a dificuldade pode ser aceitar que o final não explica tudo. Num poema, a pausa e a imagem podem pedir outro ritmo. São experiências distintas, não etapas de uma corrida.</p><h3>Produza e revise</h3><p>Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada.</p>",
+  "lip.ef06.literatura.recursos_dos_generos_literarios": "<h2>Recursos dos Gêneros Literários</h2><p>Recursos de linguagem e de apresentação produzem sentidos em conjunto. Metáfora aproxima campos sem uma comparação explícita; personificação atribui ação ou traço humano a algo; repetição sonora pode marcar ritmo. Pausas, entonação, gesto e postura modificam a realização oral. Uma figura precisa ser interpretada no contexto; nomear seu tipo não explica sozinho seu efeito.</p><h3>Exemplo comentado</h3><p>Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Verso adicional autoral: “O mapa escutou nossas vozes”. O mapa recebe ação humana, criando personificação. Ler “quando escuto outra versão” com pausa em outra pode destacar contraste; leitura acelerada e leitura pausada constroem ritmos distintos. Não há uma única entonação obrigatória, mas escolhas precisam ser justificadas.</p></p><h3>Produza e revise</h3><p>Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa.</p><h3>Comparar figuras e seus efeitos</h3><p>Exemplos autorais: “A voz era como uma ponte” faz comparação explícita; “A voz era uma ponte” constrói metáfora. “A escola aplaudiu” pode usar escola para representar as pessoas da instituição, uma metonímia. “O mapa escutou” personifica o objeto; “Esperei mil anos” pode exagerar a espera, produzindo hipérbole. Em contexto literal, mil anos poderia indicar duração, por isso a classificação exige leitura da situação. Nomear a figura não basta: explique o efeito sobre a imagem, a ênfase ou a avaliação.</p>",
+  "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais": "<h2>Ler Textos Legais e Normativos</h2><p>Textos normativos estabelecem direitos, proibições, deveres e condições de aplicação. Leia quem é destinatário, onde e quando a regra se aplica e quais exceções estão expressas. Não invente sanção ou exceção não escrita. Esta aula usa um regulamento fictício para análise linguística: ele não é lei nem orientação jurídica. Para discutir normas reais, consulte com o professor o documento escolar vigente e sua origem.</p><h3>Exemplo comentado</h3><p><strong>Regulamento didático fictício de biblioteca.</strong> Art. 1º: Todos os estudantes podem consultar o acervo durante o atendimento. Art. 2º: É proibido consumir alimentos junto às estantes. Art. 3º: O empréstimo pode ser feito com registro, por sete dias, com renovação se não houver reserva. O primeiro artigo garante acesso em uma condição temporal; o segundo proíbe uma conduta em um lugar; o terceiro condiciona empréstimo e renovação. Nenhum artigo menciona multa.</p><h3>Produza e revise</h3><p>Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais.</p>",
   "lip.ef06.lingua_texto_e_contexto.comunicacao_e_linguagem": "<h2>Comunicar com palavras e outros recursos</h2><p>Esta aula é um apoio complementar de conceitos; não recebe artificialmente um código BNCC jornalístico. Linguagem verbal utiliza palavras; recursos não verbais podem envolver cores, imagens e gestos. Um cartaz pode combinar palavras e imagens. Línguas de sinais são línguas com estrutura própria: não devem ser reduzidas a gestos avulsos.</p><h3>Exemplo autoral</h3><p>Um aviso escrito “Biblioteca aberta até 17h” informa um horário. Um desenho de livro pode ajudar a localizar o serviço, mas sozinho não informa que o fechamento será às 17h. Ao combinar o desenho e a frase, os recursos se complementam.</p><p>Para planejar uma mensagem, defina quem a produz, quem precisa recebê-la, qual informação é necessária e em que suporte circulará. Contraste e tamanho da letra influenciam a leitura; não dependa só da cor para transmitir a informação.</p><h3>No caderno</h3><p>Recursos distintos podem atuar juntos. Interpretá-los requer contexto; uma mesma cor não tem significado universal em toda situação.</p>",
+  "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao": "<h2>Canais de Reclamação e Solicitação</h2><p>Canais de solicitação e reclamação têm finalidades, destinatários e procedimentos próprios. Um pedido apresenta o que se deseja e por quê; uma reclamação relata um problema e o encaminhamento solicitado. Identifique a instituição responsável e os dados realmente necessários. Não confie em um formulário apenas por parecer oficial. Este exercício não envia mensagens nem fornece endereços de atendimento não verificados.</p><h3>Exemplo comentado</h3><p><strong>Canal escolar simulado.</strong> Campo 1: assunto; campo 2: relato com data/local; campo 3: providência pedida; campo 4: contato por meio escolar. Mensagem-modelo: “Solicito avaliar um horário adicional de consulta. Minha turma sai antes do atendimento atual. Proponho consultar os dois turnos”. O pedido tem motivo e encaminhamento, sem atacar pessoas ou exigir informação privada de estudantes.</p><h3>Produza e revise</h3><p>Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica.</p>",
+  "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao": "<h2>Curadoria de Informação</h2><p>Pesquisa começa com uma questão e um recorte, não com a coleta de qualquer texto sobre um tema amplo. Diferencie fontes indicadas, escolhidas com o professor, e fontes abertas encontradas na busca. Registre autoria, data, título, origem e pertinência. Uma fonte pode ser confiável para um dado e inadequada para outro; um anúncio de evento não prova seu resultado. Duas cópias do mesmo comunicado não são confirmação independente.</p><h3>Exemplo comentado</h3><p>Questão-modelo: “Quais condições permitem renovar livros na biblioteca escolar neste período?” Fonte indicada: regulamento vigente disponibilizado pela escola. Fonte aberta: página institucional que descreve o serviço, com data a conferir. Uma opinião em rede social pode revelar experiência, mas não substitui o regulamento para afirmar a regra. Divergências devem ser registradas e verificadas.</p><h3>Produza e revise</h3><p>Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura": "<h2>Cartas estrutura</h2><p>Cartas de solicitação e reclamação são organizadas por uma situação: alguém se dirige a um responsável para pedir providência ou relatar problema. Data, destinatário, contexto, justificativa, pedido e encerramento ajudam a orientar a leitura. Uma forma cortês não elimina a possibilidade de reivindicar com firmeza. O registro deve ser adequado ao destinatário e evitar acusações sem evidências.</p><h3>Exemplo comentado</h3><p>Carta autoral simulada: “Escola-modelo, 5 de maio. À equipe da biblioteca: solicitamos avaliar a instalação de uma caixa de devolução. O atendimento coincide com parte das aulas, dificultando a entrega de livros. Sugerimos consultar as turmas sobre locais possíveis. Agradecemos a análise. Representantes da turma-modelo”. O pedido é avaliar uma solução, não afirmar que ela já foi aprovada.</p><h3>Produza e revise</h3><p>Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa": "<h2>Pedido e justificativa</h2><p>Identificar um pedido não basta para julgar sua pertinência. Localize o objeto, a razão apresentada e o vínculo entre problema e providência. Uma justificativa pode ser relevante, insuficiente ou contraditória. Uma proposta com bons motivos ainda pode exigir verificar viabilidade. Não invente informações para torná-la mais convincente.</p><h3>Exemplo comentado</h3><p>Solicitação fictícia A: “Pedimos mais uma cadeira porque um dos assentos está quebrado”. B: “Pedimos cem cadeiras porque a cor atual não combina com a parede”. A relaciona uma necessidade funcional à quantidade pedida; B não oferece, por si só, justificativa para cem unidades. Pode haver outras razões, mas elas não aparecem no texto.</p><h3>Produza e revise</h3><p>Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas": "<h2>Levantamento de problemas</h2><p>Antes de reivindicar uma solução, delimite o problema, ouça envolvidos e examine a norma aplicável. Relate observações sem expor pessoas e diferencie fato registrado, opinião e suspeita. Um problema pode requerer solicitação, conversa ou avaliação institucional; não rotule automaticamente toda dificuldade como infração. A aula não oferece conclusão jurídica sobre casos reais.</p><h3>Exemplo comentado</h3><p>Exemplo simulado: estudantes relatam dificuldade de devolver livros por coincidência de horários. Levantamento possível: registrar horários oficiais e ouvir turmas sem nomes; consultar o regulamento de empréstimo; identificar o responsável pelo atendimento. O passo seguinte é discutir alternativas, não divulgar acusações pessoais.</p><h3>Produza e revise</h3><p>Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa": "<h2>Divulgar pesquisa</h2><p>Divulgar pesquisa é apresentar questão, procedimento, resultados e limites a um público. O formato pode ser painel, apresentação, texto ou áudio, mas deve permitir localizar as fontes. Um resultado de uma turma não descreve automaticamente toda a escola. Separar dado de interpretação e indicar como foi obtido protege o sentido da pesquisa.</p><h3>Exemplo comentado</h3><p>Painel-modelo fictício: pergunta, preferência de leitura; grupo, dez participantes simulados; resultado, seis escolheram conto e quatro poema; limite, não representa a escola. O título adequado é “Preferências neste grupo simulado”, não “Todos preferem contos”. Esses números servem para estudar comunicação, não como pesquisa realizada.</p><h3>Produza e revise</h3><p>Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica": "<h2>Organizacao topica</h2><p>Progressão temática organiza o que o leitor precisa saber primeiro e como as novas informações se relacionam. Podemos ir do geral para o específico ou partir de um exemplo para uma explicação mais ampla. Marcadores como primeiro, por exemplo e isto é indicam funções distintas; não são enfeites intercambiáveis. Paráfrase pode retomar uma ideia com outra formulação, sem repetir tudo.</p><h3>Exemplo comentado</h3><p>Texto autoral: “O catálogo organiza informações dos livros. Por exemplo, reúne título e autoria. Primeiro, consulte o título; depois, confira a localização. Em outras palavras, o catálogo orienta a busca”. O início define a função, o exemplo especifica, os marcadores ordenam ações e a última frase reformula uma ideia central.</p><h3>Produza e revise</h3><p>Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico": "<h2>Hipertexto cientifico</h2><p>Um texto de divulgação científica pode combinar explicação principal, links, notas e boxes que definem conceitos ou ampliam relações. O leitor escolhe caminhos, mas precisa saber como cada complemento contribui. Um box não deve esconder a informação essencial nem apenas repetir sem função. A presença de link não garante a validade científica de uma afirmação.</p><h3>Exemplo comentado</h3><p><strong>Microtexto explicativo autoral.</strong> “Na coleta seletiva, os materiais são separados para facilitar diferentes destinos. Conheça a <a href=\"#ef67-definicao\">definição usada aqui</a> e veja a <a href=\"#ef67-relacao\">relação entre separação e destino</a>.” <aside id=\"ef67-definicao\"><strong>Box conceitual:</strong> coleta seletiva é o recolhimento de resíduos previamente separados segundo sua composição.</aside><aside id=\"ef67-relacao\"><strong>Box de relação:</strong> separar não garante que todo material seja reciclado; condições locais e o tipo de material também importam.</aside><p>Os links são internos. O exemplo não informa o serviço efetivamente disponível em um município; isso requer fonte local.</p></p><h3>Produza e revise</h3><p>Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico": "<h2>Texto dramatico</h2><p>No texto dramático, a ação é organizada para uma possível encenação. Personagens têm falas; indicações cênicas orientam gesto, espaço, entonação ou ação. Atos e cenas podem dividir a organização, sem que toda obra siga o mesmo número de partes. A ausência de narrador explícito não elimina enredo, conflito ou ponto de vista: eles podem surgir do confronto das falas.</p><h3>Exemplo comentado</h3><p><strong>A mesa — cena autoral.</strong> Ato único, cena 1. Personagens: Iara e Joel. (Uma mesa com um mapa; ambos observam o espaço em branco.) IARA: Precisamos terminar o desenho. JOEL: Se terminarmos tudo, onde entra a história de outra pessoa? (Iara afasta o lápis e deixa a folha no centro.) IARA: Então deixemos uma margem. O conflito envolve fechar a criação ou permitir colaboração. O gesto final ajuda a construir uma solução sem narração explicativa.</p><h3>Produza e revise</h3><p>Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem.</p>",
+  "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia": "<h2>Coesao e sequencia</h2><p>Coesão referencial mantém identificáveis pessoas, objetos e ideias por repetição, substituição lexical e pronomes. Coesão sequencial articula adição, contraste, causa, conclusão ou tempo. O conector precisa corresponder à relação pretendida; não basta distribuí-lo entre frases. Cada gênero permite escolhas expressivas diferentes, e uma repetição pode ser útil para evitar ambiguidade.</p><h3>Exemplo comentado</h3><p>Versão inicial autoral: “Iara encontrou Joel. Ela mostrou o mapa. O papel estava incompleto. Porém, desenharam juntos”. Ela pode ser Iara, mas convém conferir o contexto. O papel retoma o mapa por outro nome; porém só é adequado se houver contraste pretendido. Para indicar consequência da incompletude, podemos escrever “Por isso, os dois desenharam juntos”.</p><h3>Produza e revise</h3><p>Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis.</p>",
   "lip.ef06.morfologia.estrutura_das_palavras": "<h2>Estrutura das palavras e famílias lexicais</h2><p>Palavras podem conter partes que contribuem para seu sentido. Em flor, florista e florido, reconhecemos uma família lexical e a base flor-. Um prefixo aparece antes de uma base, como des- em desleal; um sufixo aparece depois, como -ista em florista. Esses afixos participam da derivação. Já o -s de flores marca plural: flexionar não é criar outra palavra por derivação. Não basta encontrar letras iguais: sol e soldado não pertencem à mesma família apenas por começarem por sol. É preciso relacionar forma e significado.</p><h3>Exemplo comentado</h3><p>Florista combina flor- e -ista. Desleal combina des- e leal. Guarda-chuva combina duas bases e é composta. Esses exemplos permitem distinguir acréscimo de afixos de combinação de bases.</p><h3>Produza e revise</h3><p>Organize flor, flores, florista, desleal e guarda-chuva em um quadro: indique as partes relevantes e se há flexão, derivação ou composição. Explique por que a semelhança de letras não basta.</p>",
   "lip.ef06.morfologia.derivacao_e_composicao": "<h2>Derivação e composição</h2><p>Derivação forma palavras a partir de uma base por processos que incluem o acréscimo de afixos. Infeliz contém o prefixo in-; florista contém o sufixo -ista. Composição combina bases: guarda-chuva e passatempo são exemplos. O hífen não decide a classificação: passatempo é composta sem hífen. Tampouco toda palavra longa é composta. Para justificar, identifique afixos ou bases e explique como participam do sentido. Não é necessário classificar aqui todos os processos de formação da língua.</p><h3>Exemplo comentado</h3><p>Infeliz é derivada de feliz por prefixação. Beija-flor combina bases relacionadas a beijar e flor. Flor bonita é uma combinação livre de palavras; não se torna automaticamente uma palavra composta.</p><h3>Produza e revise</h3><p>Classifique infeliz, florista, passatempo e guarda-chuva e justifique pela estrutura. Compare guarda-chuva e chuva forte. Explique por que contar palavras ou procurar hífen não resolve a análise.</p>",
   "lip.ef06.morfologia.prefixos_de_negacao": "<h2>Prefixos de negação e antônimos</h2><p>Prefixos podem expressar negação e formar antônimos: feliz/infeliz, possível/impossível e leal/desleal. Em impossível, im- é uma forma do prefixo negativo in-, ajustada ao som seguinte. A escolha depende do uso: não se pode acrescentar qualquer prefixo a toda palavra. Nem todo des- expressa apenas negação; em desfazer, pode indicar reversão. Nem toda palavra iniciada pelas letras in contém um prefixo negativo. É preciso observar a base e o sentido.</p><h3>Exemplo comentado</h3><p>Em “A solução é possível”, afirma-se a viabilidade. Em “A solução é impossível”, essa viabilidade é negada. O antônimo usual de leal por prefixação é desleal. Quente/frio é outro tipo de oposição, sem acréscimo de prefixo.</p><h3>Produza e revise</h3><p>Forme antônimos por prefixação para feliz, possível, leal e regular. Use dois pares em frases que evidenciem a oposição. Compare com quente/frio e explique por que nem todo antônimo resulta de prefixação.</p>",
@@ -4064,6 +4086,190 @@ registrarAula({
     "preRequisitos": [],
     "proximosPassos": []
   },
+  "lip.ef06.oralidade.turnos_de_fala": {
+    "id": "lip.ef06.oralidade.turnos_de_fala",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 48,
+    "unidade": "Oralidade",
+    "titulo": "Turnos de Fala em Discussões",
+    "bncc": [
+      "EF67LP23"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final."
+      ],
+      "resumo": "Turnos de Fala em Discussões",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Turnos de Fala em Discussões</h2><p>Conversar em grupo exige acompanhar o que foi dito, pedir a palavra e formular perguntas no momento oportuno. Turno é a oportunidade de fala, não um prêmio por falar mais alto. Uma pergunta pertinente se relaciona ao tema e ajuda a esclarecer; discordar não exige interromper. O moderador combina regras e pode convidar quem ainda não falou, respeitando o direito de não expor experiências pessoais. Recursos de comunicação alternativa e tempo adicional podem fazer parte da participação.</p><h3>Exemplo comentado</h3><p>Discussão-modelo: “Como organizar a troca de livros?” Lia: “Sugiro separar por tema”. Rui pede a palavra: “Como identificar livros que cabem em mais de um tema?” A pergunta retoma a proposta e revela um problema. “Você nunca sabe nada” atacaria a pessoa, sem analisar a ideia. Uma síntese útil registra a proposta e a dúvida, em vez de apenas nomes de quem falou.</p><h3>Produza e revise</h3><p>Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "turnos_de_fala.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual pergunta retoma a proposta de organizar livros por tema?",
+        "alternativas": [
+          "Por que você sempre erra?",
+          "Como tratar um livro com mais de um tema?",
+          "Posso mudar para um assunto sem relação?",
+          "Quem fala mais alto vence?"
+        ],
+        "correta": 1,
+        "explicacao": "Discussão-modelo: “Como organizar a troca de livros?” Lia: “Sugiro separar por tema”. Rui pede a palavra: “Como identificar livros que cabem em mais de um tema?” A pergunta retoma a proposta e revela um problema. “Você nunca sabe nada” atacaria a pessoa, sem analisar a ideia. Uma síntese útil registra a proposta e a dúvida, em vez de apenas nomes de quem falou.",
+        "bncc": [
+          "EF67LP23"
+        ]
+      },
+      {
+        "id": "turnos_de_fala.producao",
+        "tipo": "discursiva",
+        "enunciado": "Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final.",
+        "gabarito": "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP23"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.oralidade.tomar_nota": {
+    "id": "lip.ef06.oralidade.tomar_nota",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 49,
+    "unidade": "Oralidade",
+    "titulo": "Tomar Nota de Aulas e Entrevistas",
+    "bncc": [
+      "EF67LP24"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida."
+      ],
+      "resumo": "Tomar Nota de Aulas e Entrevistas",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Tomar Nota de Aulas e Entrevistas</h2><p>Tomar nota é selecionar e organizar informações durante a escuta, considerando um objetivo. Não é copiar cada palavra nem registrar apenas a impressão pessoal. Título, data, fonte, tópicos e marcação de dúvidas ajudam a recuperar o conteúdo. Distinga informação dita, inferência sua e pergunta ainda aberta. Depois da escuta, reorganize as notas antes de produzir uma síntese.</p><h3>Exemplo comentado</h3><p>Fala autoral para leitura pelo professor: “Na troca de livros, cada pessoa poderá trazer até dois exemplares. A equipe verificará o estado de conservação. A organização proposta é por tema, mas essa classificação ainda será discutida. O encontro-modelo ocorrerá no pátio, numa data a combinar”. Notas possíveis: até dois; conferir estado; tema em debate; pátio; data indefinida. Escrever terça-feira inventaria um dado.</p><h3>Produza e revise</h3><p>Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "tomar_nota.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual nota preserva o limite da fala-modelo?",
+        "alternativas": [
+          "Data ainda a combinar.",
+          "Terça-feira confirmada.",
+          "Livros sem limite.",
+          "Tema já decidido por votação."
+        ],
+        "correta": 0,
+        "explicacao": "Fala autoral para leitura pelo professor: “Na troca de livros, cada pessoa poderá trazer até dois exemplares. A equipe verificará o estado de conservação. A organização proposta é por tema, mas essa classificação ainda será discutida. O encontro-modelo ocorrerá no pátio, numa data a combinar”. Notas possíveis: até dois; conferir estado; tema em debate; pátio; data indefinida. Escrever terça-feira inventaria um dado.",
+        "bncc": [
+          "EF67LP24"
+        ]
+      },
+      {
+        "id": "tomar_nota.producao",
+        "tipo": "discursiva",
+        "enunciado": "Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida.",
+        "gabarito": "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP24"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
   "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao": {
     "id": "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao",
     "componente": "lip",
@@ -4162,6 +4368,928 @@ registrarAula({
     "preRequisitos": [],
     "proximosPassos": []
   },
+  "lip.ef06.oralidade.entrevista_oral": {
+    "id": "lip.ef06.oralidade.entrevista_oral",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 50,
+    "unidade": "Oralidade",
+    "titulo": "Planejar e Fazer Entrevista",
+    "bncc": [
+      "EF67LP14"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido."
+      ],
+      "resumo": "Planejar e Fazer Entrevista",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Planejar e Fazer Entrevista</h2><p>Uma entrevista tem objetivo, interlocutor escolhido por sua relação com o tema e perguntas preparadas. Pesquise o que já se sabe para evitar perguntas desnecessárias. Escutar permite formular novas perguntas a partir da resposta, sem induzir ou colocar palavras na boca do entrevistado. Para gravar, combine consentimento e finalidade. A transcrição editada pode retirar repetições dispensáveis, mas não inverter o sentido.</p><h3>Exemplo comentado</h3><p>Objetivo: conhecer a organização da biblioteca. Pergunta: “Como são escolhidos os livros novos?” Resposta-modelo: “Recebemos sugestões das turmas e verificamos o acervo”. Pergunta de aprofundamento: “Como uma turma envia sua sugestão?” Ela nasce da resposta. “Então vocês nunca escutam ninguém?” seria uma acusação não sustentada por essa fala.</p><h3>Produza e revise</h3><p>Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "entrevista_oral.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual pergunta aprofunda a resposta sobre sugestões das turmas?",
+        "alternativas": [
+          "Como uma turma envia sua sugestão?",
+          "Por que vocês nunca ouvem ninguém?",
+          "Qualquer assunto sem relação serve?",
+          "Posso inventar sua resposta?"
+        ],
+        "correta": 0,
+        "explicacao": "Objetivo: conhecer a organização da biblioteca. Pergunta: “Como são escolhidos os livros novos?” Resposta-modelo: “Recebemos sugestões das turmas e verificamos o acervo”. Pergunta de aprofundamento: “Como uma turma envia sua sugestão?” Ela nasce da resposta. “Então vocês nunca escutam ninguém?” seria uma acusação não sustentada por essa fala.",
+        "bncc": [
+          "EF67LP14"
+        ]
+      },
+      {
+        "id": "entrevista_oral.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido.",
+        "gabarito": "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP14"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.oralidade.discutir_temas_controversos": {
+    "id": "lip.ef06.oralidade.discutir_temas_controversos",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 51,
+    "unidade": "Oralidade",
+    "titulo": "Discutir Temas Controversos",
+    "bncc": [
+      "EF69LP13"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou."
+      ],
+      "resumo": "Discutir Temas Controversos",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Discutir Temas Controversos</h2><p>Uma discussão pode buscar uma decisão comum sem exigir unanimidade. Defina o problema e os critérios de comparação; ouça razões e separe fatos, hipóteses e preferências. Uma conclusão pode registrar um acordo parcial, uma experiência temporária ou a necessidade de mais dados. Contribuir não significa impor a própria solução nem aceitar ataques pessoais.</p><h3>Exemplo comentado</h3><p>Problema fictício: a biblioteca tem espaço limitado para atividades silenciosas e rodas de leitura. Proposta A: reservar horários diferentes; proposta B: criar zonas no mesmo horário. A escolha exige saber tamanho do espaço, ruído e demanda. Um acordo possível é testar horários por uma semana e depois avaliar; não declarar sucesso antes do teste.</p><h3>Produza e revise</h3><p>Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "discutir_temas_controversos.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual conclusão respeita a necessidade de mais dados?",
+        "alternativas": [
+          "Minha ideia venceu porque falei alto.",
+          "Podemos testar horários e registrar resultados antes de decidir.",
+          "Quem discorda está proibido de participar.",
+          "O teste futuro já provou sucesso."
+        ],
+        "correta": 1,
+        "explicacao": "Problema fictício: a biblioteca tem espaço limitado para atividades silenciosas e rodas de leitura. Proposta A: reservar horários diferentes; proposta B: criar zonas no mesmo horário. A escolha exige saber tamanho do espaço, ruído e demanda. Um acordo possível é testar horários por uma semana e depois avaliar; não declarar sucesso antes do teste.",
+        "bncc": [
+          "EF69LP13"
+        ]
+      },
+      {
+        "id": "discutir_temas_controversos.producao",
+        "tipo": "discursiva",
+        "enunciado": "Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou.",
+        "gabarito": "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP13"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.oralidade.apresentacao_oral": {
+    "id": "lip.ef06.oralidade.apresentacao_oral",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 52,
+    "unidade": "Oralidade",
+    "titulo": "Planejar uma Apresentação Oral",
+    "bncc": [
+      "EF69LP38"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação."
+      ],
+      "resumo": "Planejar uma Apresentação Oral",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Planejar uma Apresentação Oral</h2><p>Uma apresentação oral comunica resultados a um público dentro de um tempo. Selecione informações e fontes; organize abertura, desenvolvimento e conclusão. Painéis ou slides apoiam a fala com títulos, imagens pertinentes e letras legíveis, sem exigir leitura de longos parágrafos. Ensaio permite ajustar tempo, volume, ritmo, postura e referências, respeitando diferentes formas de comunicação.</p><h3>Exemplo comentado</h3><p>Plano de três minutos sobre a pesquisa de leitura: painel 1, pergunta e grupo consultado; painel 2, resultados realmente coletados e representação; painel 3, interpretação e limites. Se apenas uma turma foi ouvida, não concluir que a escola inteira pensa igual. O apresentador pode consultar cartões; decorar tudo não é requisito.</p><h3>Produza e revise</h3><p>Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "apresentacao_oral.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual painel evita uma generalização indevida?",
+        "alternativas": [
+          "Toda a escola pensa assim, sem pesquisa.",
+          "Resultado de uma turma consultada, com data e limites.",
+          "Número inventado para preencher o espaço.",
+          "Imagem sem relação com o tema."
+        ],
+        "correta": 1,
+        "explicacao": "Plano de três minutos sobre a pesquisa de leitura: painel 1, pergunta e grupo consultado; painel 2, resultados realmente coletados e representação; painel 3, interpretação e limites. Se apenas uma turma foi ouvida, não concluir que a escola inteira pensa igual. O apresentador pode consultar cartões; decorar tudo não é requisito.",
+        "bncc": [
+          "EF69LP38"
+        ]
+      },
+      {
+        "id": "apresentacao_oral.producao",
+        "tipo": "discursiva",
+        "enunciado": "Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação.",
+        "gabarito": "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP38"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.literatura.literatura_e_outras_artes": {
+    "id": "lip.ef06.literatura.literatura_e_outras_artes",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 53,
+    "unidade": "Literatura",
+    "titulo": "Literatura e Outras Artes",
+    "bncc": [
+      "EF67LP27"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem."
+      ],
+      "resumo": "Literatura e Outras Artes",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Literatura e Outras Artes</h2><p>Intertextualidade envolve relações entre obras, por referência explícita ou retomada de temas, personagens e formas. Duas obras com uma ponte não são necessariamente referência direta uma à outra; é preciso analisar pistas. Uma adaptação teatral pode transformar narração em fala, gesto, luz e cenário, preservando ou alterando sentidos. Compare os recursos, não apenas o assunto.</p><h3>Exemplo comentado</h3><p>O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>Adaptação cênica autoral de um trecho: Iara e Joel diante da mesa. IARA (vira a folha): “O quarto corredor sumiu”. JOEL (aponta o verso): “Talvez ainda não tenha sido contado”. Uma luz ilumina a parte em branco. A adaptação retoma mapa e personagens do conto, mas cria fala e recurso de luz que não são cópias literais da narração.</p></p><h3>Produza e revise</h3><p>Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "literatura_e_outras_artes.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual pista sustenta a relação explícita entre conto e cena?",
+        "alternativas": [
+          "Apenas ambos serem curtos.",
+          "Retomada das personagens e do mapa, com indicação do texto de origem.",
+          "Qualquer palavra repetida por acaso.",
+          "Toda cena adapta qualquer conto."
+        ],
+        "correta": 1,
+        "explicacao": "O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>Adaptação cênica autoral de um trecho: Iara e Joel diante da mesa. IARA (vira a folha): “O quarto corredor sumiu”. JOEL (aponta o verso): “Talvez ainda não tenha sido contado”. Uma luz ilumina a parte em branco. A adaptação retoma mapa e personagens do conto, mas cria fala e recurso de luz que não são cópias literais da narração.</p>",
+        "bncc": [
+          "EF67LP27"
+        ]
+      },
+      {
+        "id": "literatura_e_outras_artes.producao",
+        "tipo": "discursiva",
+        "enunciado": "Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem.",
+        "gabarito": "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP27"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "literatura"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.literatura.ler_literatura": {
+    "id": "lip.ef06.literatura.ler_literatura",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 54,
+    "unidade": "Literatura",
+    "titulo": "Ler e Compreender Literatura",
+    "bncc": [
+      "EF67LP28"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor."
+      ],
+      "resumo": "Ler e Compreender Literatura",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Ler e Compreender Literatura</h2><p>Ler literatura envolve acompanhar vozes, acontecimentos, imagens e ambiguidades, ajustando a estratégia ao objetivo. Numa primeira leitura, procure compreender o conjunto; depois releia pistas para sustentar uma interpretação. Um final aberto pode admitir leituras distintas sem aceitar qualquer resposta sem evidência. Avaliar a obra é expressar apreciação com referência ao texto, não adivinhar uma mensagem única.</p><h3>Exemplo comentado</h3><p>O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>O narrador apresenta ações de Iara e Joel, sem esclarecer quem desenhou a ponte. A frase no verso permite uma leitura fantástica ou uma brincadeira coletiva. A ponte acrescentada no dia seguinte sustenta o enigma, mas o texto não identifica uma pessoa específica como autora.</p></p><h3>Produza e revise</h3><p>Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "ler_literatura.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Que informação o conto não determina?",
+        "alternativas": [
+          "Iara encontrou uma folha.",
+          "Joel participou da criação.",
+          "Quem acrescentou a ponte no dia seguinte.",
+          "O mapa continha um espaço em branco."
+        ],
+        "correta": 2,
+        "explicacao": "O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>O narrador apresenta ações de Iara e Joel, sem esclarecer quem desenhou a ponte. A frase no verso permite uma leitura fantástica ou uma brincadeira coletiva. A ponte acrescentada no dia seguinte sustenta o enigma, mas o texto não identifica uma pessoa específica como autora.</p>",
+        "bncc": [
+          "EF67LP28"
+        ]
+      },
+      {
+        "id": "ler_literatura.producao",
+        "tipo": "discursiva",
+        "enunciado": "Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor.",
+        "gabarito": "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP28"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "literatura"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.literatura.criar_narrativas": {
+    "id": "lip.ef06.literatura.criar_narrativas",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 55,
+    "unidade": "Literatura",
+    "titulo": "Criar Narrativas Ficcionais",
+    "bncc": [
+      "EF67LP30"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo."
+      ],
+      "resumo": "Criar Narrativas Ficcionais",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Criar Narrativas Ficcionais</h2><p>Uma narrativa ficcional organiza personagens, espaço, tempo, conflito e desdobramentos por uma voz narradora. Suspense pode surgir do adiamento de uma informação e de pistas. O desfecho pode resolver ou manter parte do mistério, mas precisa dialogar com a construção anterior. Discurso direto apresenta uma fala; indireto a relata. Ao narrar no passado, revise a articulação dos tempos.</p><h3>Exemplo comentado</h3><p>No conto O mapa incompleto, o espaço em branco e a frase no verso criam expectativa; a ponte final retoma o motivo do caminho. Um início alternativo poderia começar pela ponte pronta e depois retornar à descoberta do mapa. A mudança reorganiza a curiosidade, sem exigir copiar as mesmas personagens.</p><h3>Produza e revise</h3><p>Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "criar_narrativas.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual recurso pode construir suspense?",
+        "alternativas": [
+          "Resolver tudo antes de apresentar qualquer questão.",
+          "Adiar uma informação oferecendo pistas relevantes.",
+          "Eliminar todos os personagens.",
+          "Copiar integralmente outro conto."
+        ],
+        "correta": 1,
+        "explicacao": "No conto O mapa incompleto, o espaço em branco e a frase no verso criam expectativa; a ponte final retoma o motivo do caminho. Um início alternativo poderia começar pela ponte pronta e depois retornar à descoberta do mapa. A mudança reorganiza a curiosidade, sem exigir copiar as mesmas personagens.",
+        "bncc": [
+          "EF67LP30"
+        ]
+      },
+      {
+        "id": "criar_narrativas.producao",
+        "tipo": "discursiva",
+        "enunciado": "Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo.",
+        "gabarito": "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP30"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "literatura"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.literatura.criar_poemas": {
+    "id": "lip.ef06.literatura.criar_poemas",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 56,
+    "unidade": "Literatura",
+    "titulo": "Criar Poemas de Forma Fixa e Versos Livres",
+    "bncc": [
+      "EF67LP31"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar."
+      ],
+      "resumo": "Criar Poemas de Forma Fixa e Versos Livres",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Criar Poemas de Forma Fixa e Versos Livres</h2><p>Poemas organizam linguagem por versos, ritmo, imagens e disposição visual. Verso é uma linha poética; estrofe é um conjunto de versos. Quadra tem quatro versos, mas nem toda quadra tem a mesma métrica ou esquema de rimas. Verso livre não obriga ausência de ritmo: dispensa um padrão métrico fixo. Em poema visual, a distribuição das palavras participa do sentido. Este recorte não pretende ensinar toda a construção de sonetos e vídeo-poemas.</p><h3>Exemplo comentado</h3><p>Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Chão/versão aproximam finais sonoros; rio/vazio também podem ser lidos como rima. A ponte relaciona escuta e passagem. Versão livre autoral: “Deixo / no branco do mapa / um lugar / para tua voz”. A quebra pode destacar espera e abertura. O sentido depende da composição, não só de rimar palavras.</p></p><h3>Produza e revise</h3><p>Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "criar_poemas.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Uma quadra é definida inicialmente por:",
+        "alternativas": [
+          "Quatro versos.",
+          "Quatorze versos obrigatórios.",
+          "Ausência de qualquer ritmo.",
+          "Uma única palavra."
+        ],
+        "correta": 0,
+        "explicacao": "Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Chão/versão aproximam finais sonoros; rio/vazio também podem ser lidos como rima. A ponte relaciona escuta e passagem. Versão livre autoral: “Deixo / no branco do mapa / um lugar / para tua voz”. A quebra pode destacar espera e abertura. O sentido depende da composição, não só de rimar palavras.</p>",
+        "bncc": [
+          "EF67LP31"
+        ]
+      },
+      {
+        "id": "criar_poemas.producao",
+        "tipo": "discursiva",
+        "enunciado": "Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar.",
+        "gabarito": "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP31"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "literatura"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.literatura.praticas_de_leitura_literaria": {
+    "id": "lip.ef06.literatura.praticas_de_leitura_literaria",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 57,
+    "unidade": "Literatura",
+    "titulo": "Práticas de Leitura Literária",
+    "bncc": [
+      "EF69LP49"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada."
+      ],
+      "resumo": "Práticas de Leitura Literária",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Práticas de Leitura Literária</h2><p>Um percurso leitor reúne escolhas, desafios e encontros com obras diferentes. Registrar dificuldades e reler com apoio não é fracasso: faz parte da formação. Preferências podem mudar. Não se mede envolvimento apenas por velocidade, quantidade de páginas ou elogio obrigatório. O professor pode oferecer alternativas acessíveis e propor uma leitura que amplie o repertório sem desqualificar o gosto anterior.</p><h3>Exemplo comentado</h3><p>Uma ficha de percurso pode registrar: obra e autoria; expectativa; trecho que exigiu releitura; estratégia usada; apreciação após a conversa. No conto do mapa, a dificuldade pode ser aceitar que o final não explica tudo. Num poema, a pausa e a imagem podem pedir outro ritmo. São experiências distintas, não etapas de uma corrida.</p><h3>Produza e revise</h3><p>Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "praticas_de_leitura_literaria.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual registro mostra reflexão sobre a leitura?",
+        "alternativas": [
+          "Li rápido, então entendi tudo.",
+          "Todos devem gostar do mesmo livro.",
+          "Revi minha hipótese após reler o final e conversar sobre duas pistas.",
+          "Não preciso indicar qual obra li."
+        ],
+        "correta": 2,
+        "explicacao": "Uma ficha de percurso pode registrar: obra e autoria; expectativa; trecho que exigiu releitura; estratégia usada; apreciação após a conversa. No conto do mapa, a dificuldade pode ser aceitar que o final não explica tudo. Num poema, a pausa e a imagem podem pedir outro ritmo. São experiências distintas, não etapas de uma corrida.",
+        "bncc": [
+          "EF69LP49"
+        ]
+      },
+      {
+        "id": "praticas_de_leitura_literaria.producao",
+        "tipo": "discursiva",
+        "enunciado": "Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada.",
+        "gabarito": "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP49"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "literatura"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.literatura.recursos_dos_generos_literarios": {
+    "id": "lip.ef06.literatura.recursos_dos_generos_literarios",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 58,
+    "unidade": "Literatura",
+    "titulo": "Recursos dos Gêneros Literários",
+    "bncc": [
+      "EF69LP54",
+      "EF67LP38"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa."
+      ],
+      "resumo": "Recursos dos Gêneros Literários",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Recursos dos Gêneros Literários</h2><p>Recursos de linguagem e de apresentação produzem sentidos em conjunto. Metáfora aproxima campos sem uma comparação explícita; personificação atribui ação ou traço humano a algo; repetição sonora pode marcar ritmo. Pausas, entonação, gesto e postura modificam a realização oral. Uma figura precisa ser interpretada no contexto; nomear seu tipo não explica sozinho seu efeito.</p><h3>Exemplo comentado</h3><p>Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Verso adicional autoral: “O mapa escutou nossas vozes”. O mapa recebe ação humana, criando personificação. Ler “quando escuto outra versão” com pausa em outra pode destacar contraste; leitura acelerada e leitura pausada constroem ritmos distintos. Não há uma única entonação obrigatória, mas escolhas precisam ser justificadas.</p></p><h3>Produza e revise</h3><p>Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa.</p><h3>Comparar figuras e seus efeitos</h3><p>Exemplos autorais: “A voz era como uma ponte” faz comparação explícita; “A voz era uma ponte” constrói metáfora. “A escola aplaudiu” pode usar escola para representar as pessoas da instituição, uma metonímia. “O mapa escutou” personifica o objeto; “Esperei mil anos” pode exagerar a espera, produzindo hipérbole. Em contexto literal, mil anos poderia indicar duração, por isso a classificação exige leitura da situação. Nomear a figura não basta: explique o efeito sobre a imagem, a ênfase ou a avaliação.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "recursos_dos_generos_literarios.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Em “O mapa escutou nossas vozes”, há principalmente:",
+        "alternativas": [
+          "Número exato de participantes.",
+          "Personificação do mapa.",
+          "Uma instrução legal.",
+          "Uma rima obrigatória."
+        ],
+        "correta": 1,
+        "explicacao": "Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Verso adicional autoral: “O mapa escutou nossas vozes”. O mapa recebe ação humana, criando personificação. Ler “quando escuto outra versão” com pausa em outra pode destacar contraste; leitura acelerada e leitura pausada constroem ritmos distintos. Não há uma única entonação obrigatória, mas escolhas precisam ser justificadas.</p>",
+        "bncc": [
+          "EF69LP54"
+        ]
+      },
+      {
+        "id": "recursos_dos_generos_literarios.producao",
+        "tipo": "discursiva",
+        "enunciado": "Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa. Analise os cinco exemplos de figuras apresentados na seção final: indique a relação construída e um efeito de sentido em cada caso. Reescreva dois em linguagem mais literal e compare o que se perde ou se altera.",
+        "gabarito": "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações. Conferir comparação, metáfora, metonímia, personificação e hipérbole nos contextos dados. A paráfrase literal pode reduzir imagem ou intensidade; exigir explicação, não só rótulos.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP54",
+          "EF67LP38"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "literatura"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais": {
+    "id": "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 59,
+    "unidade": "Cidadania e Textos Normativos",
+    "titulo": "Ler Textos Legais e Normativos",
+    "bncc": [
+      "EF67LP15"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais."
+      ],
+      "resumo": "Ler Textos Legais e Normativos",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Ler Textos Legais e Normativos</h2><p>Textos normativos estabelecem direitos, proibições, deveres e condições de aplicação. Leia quem é destinatário, onde e quando a regra se aplica e quais exceções estão expressas. Não invente sanção ou exceção não escrita. Esta aula usa um regulamento fictício para análise linguística: ele não é lei nem orientação jurídica. Para discutir normas reais, consulte com o professor o documento escolar vigente e sua origem.</p><h3>Exemplo comentado</h3><p><strong>Regulamento didático fictício de biblioteca.</strong> Art. 1º: Todos os estudantes podem consultar o acervo durante o atendimento. Art. 2º: É proibido consumir alimentos junto às estantes. Art. 3º: O empréstimo pode ser feito com registro, por sete dias, com renovação se não houver reserva. O primeiro artigo garante acesso em uma condição temporal; o segundo proíbe uma conduta em um lugar; o terceiro condiciona empréstimo e renovação. Nenhum artigo menciona multa.</p><h3>Produza e revise</h3><p>Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "ler_textos_legais.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "O modelo autoriza renovação em qual condição?",
+        "alternativas": [
+          "Mesmo havendo reserva, sempre.",
+          "Sem registro algum.",
+          "Se não houver reserva, conforme o artigo.",
+          "Somente após multa inventada."
+        ],
+        "correta": 2,
+        "explicacao": "<strong>Regulamento didático fictício de biblioteca.</strong> Art. 1º: Todos os estudantes podem consultar o acervo durante o atendimento. Art. 2º: É proibido consumir alimentos junto às estantes. Art. 3º: O empréstimo pode ser feito com registro, por sete dias, com renovação se não houver reserva. O primeiro artigo garante acesso em uma condição temporal; o segundo proíbe uma conduta em um lugar; o terceiro condiciona empréstimo e renovação. Nenhum artigo menciona multa.",
+        "bncc": [
+          "EF67LP15"
+        ]
+      },
+      {
+        "id": "ler_textos_legais.producao",
+        "tipo": "discursiva",
+        "enunciado": "Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais.",
+        "gabarito": "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP15"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
   "lip.ef06.lingua_texto_e_contexto.comunicacao_e_linguagem": {
     "id": "lip.ef06.lingua_texto_e_contexto.comunicacao_e_linguagem",
     "componente": "lip",
@@ -4251,6 +5379,910 @@ registrarAula({
       "revisao": "Conferência conceitual assistida; homologação docente e aplicação pendentes."
     },
     "complementar": true,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao": {
+    "id": "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 60,
+    "unidade": "Cidadania e Textos Normativos",
+    "titulo": "Canais de Reclamação e Solicitação",
+    "bncc": [
+      "EF67LP16"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica."
+      ],
+      "resumo": "Canais de Reclamação e Solicitação",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Canais de Reclamação e Solicitação</h2><p>Canais de solicitação e reclamação têm finalidades, destinatários e procedimentos próprios. Um pedido apresenta o que se deseja e por quê; uma reclamação relata um problema e o encaminhamento solicitado. Identifique a instituição responsável e os dados realmente necessários. Não confie em um formulário apenas por parecer oficial. Este exercício não envia mensagens nem fornece endereços de atendimento não verificados.</p><h3>Exemplo comentado</h3><p><strong>Canal escolar simulado.</strong> Campo 1: assunto; campo 2: relato com data/local; campo 3: providência pedida; campo 4: contato por meio escolar. Mensagem-modelo: “Solicito avaliar um horário adicional de consulta. Minha turma sai antes do atendimento atual. Proponho consultar os dois turnos”. O pedido tem motivo e encaminhamento, sem atacar pessoas ou exigir informação privada de estudantes.</p><h3>Produza e revise</h3><p>Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "canais_de_reclamacao.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual elemento torna um pedido mais compreensível?",
+        "alternativas": [
+          "Ataque pessoal sem contexto.",
+          "Relato do problema e providência solicitada com justificativa.",
+          "Exposição de dados de colegas.",
+          "Destinatário inventado."
+        ],
+        "correta": 1,
+        "explicacao": "<strong>Canal escolar simulado.</strong> Campo 1: assunto; campo 2: relato com data/local; campo 3: providência pedida; campo 4: contato por meio escolar. Mensagem-modelo: “Solicito avaliar um horário adicional de consulta. Minha turma sai antes do atendimento atual. Proponho consultar os dois turnos”. O pedido tem motivo e encaminhamento, sem atacar pessoas ou exigir informação privada de estudantes.",
+        "bncc": [
+          "EF67LP16"
+        ]
+      },
+      {
+        "id": "canais_de_reclamacao.producao",
+        "tipo": "discursiva",
+        "enunciado": "Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica.",
+        "gabarito": "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP16"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao": {
+    "id": "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 61,
+    "unidade": "Cidadania e Textos Normativos",
+    "titulo": "Curadoria de Informação",
+    "bncc": [
+      "EF67LP20"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta."
+      ],
+      "resumo": "Curadoria de Informação",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Curadoria de Informação</h2><p>Pesquisa começa com uma questão e um recorte, não com a coleta de qualquer texto sobre um tema amplo. Diferencie fontes indicadas, escolhidas com o professor, e fontes abertas encontradas na busca. Registre autoria, data, título, origem e pertinência. Uma fonte pode ser confiável para um dado e inadequada para outro; um anúncio de evento não prova seu resultado. Duas cópias do mesmo comunicado não são confirmação independente.</p><h3>Exemplo comentado</h3><p>Questão-modelo: “Quais condições permitem renovar livros na biblioteca escolar neste período?” Fonte indicada: regulamento vigente disponibilizado pela escola. Fonte aberta: página institucional que descreve o serviço, com data a conferir. Uma opinião em rede social pode revelar experiência, mas não substitui o regulamento para afirmar a regra. Divergências devem ser registradas e verificadas.</p><h3>Produza e revise</h3><p>Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "curadoria_de_informacao.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual questão apresenta um recorte mais definido?",
+        "alternativas": [
+          "Tudo sobre livros no mundo.",
+          "Biblioteca.",
+          "Quais condições de renovação constam do regulamento escolar atual?",
+          "Qualquer assunto encontrado primeiro."
+        ],
+        "correta": 2,
+        "explicacao": "Questão-modelo: “Quais condições permitem renovar livros na biblioteca escolar neste período?” Fonte indicada: regulamento vigente disponibilizado pela escola. Fonte aberta: página institucional que descreve o serviço, com data a conferir. Uma opinião em rede social pode revelar experiência, mas não substitui o regulamento para afirmar a regra. Divergências devem ser registradas e verificadas.",
+        "bncc": [
+          "EF67LP20"
+        ]
+      },
+      {
+        "id": "curadoria_de_informacao.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta.",
+        "gabarito": "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP20"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 62,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Cartas estrutura",
+    "bncc": [
+      "EF67LP17"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização."
+      ],
+      "resumo": "Cartas estrutura",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Cartas estrutura</h2><p>Cartas de solicitação e reclamação são organizadas por uma situação: alguém se dirige a um responsável para pedir providência ou relatar problema. Data, destinatário, contexto, justificativa, pedido e encerramento ajudam a orientar a leitura. Uma forma cortês não elimina a possibilidade de reivindicar com firmeza. O registro deve ser adequado ao destinatário e evitar acusações sem evidências.</p><h3>Exemplo comentado</h3><p>Carta autoral simulada: “Escola-modelo, 5 de maio. À equipe da biblioteca: solicitamos avaliar a instalação de uma caixa de devolução. O atendimento coincide com parte das aulas, dificultando a entrega de livros. Sugerimos consultar as turmas sobre locais possíveis. Agradecemos a análise. Representantes da turma-modelo”. O pedido é avaliar uma solução, não afirmar que ela já foi aprovada.</p><h3>Produza e revise</h3><p>Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "cartas_estrutura.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual trecho formula o pedido?",
+        "alternativas": [
+          "Solicitamos avaliar a instalação de uma caixa.",
+          "O atendimento coincide com aulas.",
+          "5 de maio.",
+          "Representantes da turma-modelo."
+        ],
+        "correta": 0,
+        "explicacao": "Carta autoral simulada: “Escola-modelo, 5 de maio. À equipe da biblioteca: solicitamos avaliar a instalação de uma caixa de devolução. O atendimento coincide com parte das aulas, dificultando a entrega de livros. Sugerimos consultar as turmas sobre locais possíveis. Agradecemos a análise. Representantes da turma-modelo”. O pedido é avaliar uma solução, não afirmar que ela já foi aprovada.",
+        "bncc": [
+          "EF67LP17"
+        ]
+      },
+      {
+        "id": "cartas_estrutura.producao",
+        "tipo": "discursiva",
+        "enunciado": "Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização.",
+        "gabarito": "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP17"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 63,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Pedido e justificativa",
+    "bncc": [
+      "EF67LP18"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados."
+      ],
+      "resumo": "Pedido e justificativa",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Pedido e justificativa</h2><p>Identificar um pedido não basta para julgar sua pertinência. Localize o objeto, a razão apresentada e o vínculo entre problema e providência. Uma justificativa pode ser relevante, insuficiente ou contraditória. Uma proposta com bons motivos ainda pode exigir verificar viabilidade. Não invente informações para torná-la mais convincente.</p><h3>Exemplo comentado</h3><p>Solicitação fictícia A: “Pedimos mais uma cadeira porque um dos assentos está quebrado”. B: “Pedimos cem cadeiras porque a cor atual não combina com a parede”. A relaciona uma necessidade funcional à quantidade pedida; B não oferece, por si só, justificativa para cem unidades. Pode haver outras razões, mas elas não aparecem no texto.</p><h3>Produza e revise</h3><p>Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "pedido_e_justificativa.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual pergunta ajuda a avaliar a pertinência de cem cadeiras?",
+        "alternativas": [
+          "Qual é a quantidade de assentos necessários e em que estado estão?",
+          "Quem grita mais alto?",
+          "Por que não aceitar qualquer número?",
+          "Como esconder a justificativa?"
+        ],
+        "correta": 0,
+        "explicacao": "Solicitação fictícia A: “Pedimos mais uma cadeira porque um dos assentos está quebrado”. B: “Pedimos cem cadeiras porque a cor atual não combina com a parede”. A relaciona uma necessidade funcional à quantidade pedida; B não oferece, por si só, justificativa para cem unidades. Pode haver outras razões, mas elas não aparecem no texto.",
+        "bncc": [
+          "EF67LP18"
+        ]
+      },
+      {
+        "id": "pedido_e_justificativa.producao",
+        "tipo": "discursiva",
+        "enunciado": "Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados.",
+        "gabarito": "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP18"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 64,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Levantamento de problemas",
+    "bncc": [
+      "EF67LP19"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático."
+      ],
+      "resumo": "Levantamento de problemas",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Levantamento de problemas</h2><p>Antes de reivindicar uma solução, delimite o problema, ouça envolvidos e examine a norma aplicável. Relate observações sem expor pessoas e diferencie fato registrado, opinião e suspeita. Um problema pode requerer solicitação, conversa ou avaliação institucional; não rotule automaticamente toda dificuldade como infração. A aula não oferece conclusão jurídica sobre casos reais.</p><h3>Exemplo comentado</h3><p>Exemplo simulado: estudantes relatam dificuldade de devolver livros por coincidência de horários. Levantamento possível: registrar horários oficiais e ouvir turmas sem nomes; consultar o regulamento de empréstimo; identificar o responsável pelo atendimento. O passo seguinte é discutir alternativas, não divulgar acusações pessoais.</p><h3>Produza e revise</h3><p>Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "levantamento_de_problemas.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual prática melhora um levantamento de problemas?",
+        "alternativas": [
+          "Publicar acusações antes de verificar.",
+          "Registrar observações e examinar a norma pertinente.",
+          "Inventar relatos de colegas.",
+          "Omitir os limites dos dados."
+        ],
+        "correta": 1,
+        "explicacao": "Exemplo simulado: estudantes relatam dificuldade de devolver livros por coincidência de horários. Levantamento possível: registrar horários oficiais e ouvir turmas sem nomes; consultar o regulamento de empréstimo; identificar o responsável pelo atendimento. O passo seguinte é discutir alternativas, não divulgar acusações pessoais.",
+        "bncc": [
+          "EF67LP19"
+        ]
+      },
+      {
+        "id": "levantamento_de_problemas.producao",
+        "tipo": "discursiva",
+        "enunciado": "Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático.",
+        "gabarito": "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP19"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 65,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Divulgar pesquisa",
+    "bncc": [
+      "EF67LP21"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real."
+      ],
+      "resumo": "Divulgar pesquisa",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Divulgar pesquisa</h2><p>Divulgar pesquisa é apresentar questão, procedimento, resultados e limites a um público. O formato pode ser painel, apresentação, texto ou áudio, mas deve permitir localizar as fontes. Um resultado de uma turma não descreve automaticamente toda a escola. Separar dado de interpretação e indicar como foi obtido protege o sentido da pesquisa.</p><h3>Exemplo comentado</h3><p>Painel-modelo fictício: pergunta, preferência de leitura; grupo, dez participantes simulados; resultado, seis escolheram conto e quatro poema; limite, não representa a escola. O título adequado é “Preferências neste grupo simulado”, não “Todos preferem contos”. Esses números servem para estudar comunicação, não como pesquisa realizada.</p><h3>Produza e revise</h3><p>Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "divulgar_pesquisa.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual título preserva o alcance dos dados fictícios?",
+        "alternativas": [
+          "Todos na escola preferem contos.",
+          "Preferências neste grupo simulado de dez participantes.",
+          "A população inteira foi consultada.",
+          "Pesquisa real de todas as famílias."
+        ],
+        "correta": 1,
+        "explicacao": "Painel-modelo fictício: pergunta, preferência de leitura; grupo, dez participantes simulados; resultado, seis escolheram conto e quatro poema; limite, não representa a escola. O título adequado é “Preferências neste grupo simulado”, não “Todos preferem contos”. Esses números servem para estudar comunicação, não como pesquisa realizada.",
+        "bncc": [
+          "EF67LP21"
+        ]
+      },
+      {
+        "id": "divulgar_pesquisa.producao",
+        "tipo": "discursiva",
+        "enunciado": "Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real.",
+        "gabarito": "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP21"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 66,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Organizacao topica",
+    "bncc": [
+      "EF67LP25"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega."
+      ],
+      "resumo": "Organizacao topica",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Organizacao topica</h2><p>Progressão temática organiza o que o leitor precisa saber primeiro e como as novas informações se relacionam. Podemos ir do geral para o específico ou partir de um exemplo para uma explicação mais ampla. Marcadores como primeiro, por exemplo e isto é indicam funções distintas; não são enfeites intercambiáveis. Paráfrase pode retomar uma ideia com outra formulação, sem repetir tudo.</p><h3>Exemplo comentado</h3><p>Texto autoral: “O catálogo organiza informações dos livros. Por exemplo, reúne título e autoria. Primeiro, consulte o título; depois, confira a localização. Em outras palavras, o catálogo orienta a busca”. O início define a função, o exemplo especifica, os marcadores ordenam ações e a última frase reformula uma ideia central.</p><h3>Produza e revise</h3><p>Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "organizacao_topica.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Em “Por exemplo, reúne título e autoria”, o marcador introduz:",
+        "alternativas": [
+          "Uma ilustração da ideia anterior.",
+          "Uma conclusão obrigatória sobre toda pesquisa.",
+          "Uma data de publicação.",
+          "Uma fala direta."
+        ],
+        "correta": 0,
+        "explicacao": "Texto autoral: “O catálogo organiza informações dos livros. Por exemplo, reúne título e autoria. Primeiro, consulte o título; depois, confira a localização. Em outras palavras, o catálogo orienta a busca”. O início define a função, o exemplo especifica, os marcadores ordenam ações e a última frase reformula uma ideia central.",
+        "bncc": [
+          "EF67LP25"
+        ]
+      },
+      {
+        "id": "organizacao_topica.producao",
+        "tipo": "discursiva",
+        "enunciado": "Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega.",
+        "gabarito": "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP25"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 67,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Hipertexto cientifico",
+    "bncc": [
+      "EF67LP26"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura."
+      ],
+      "resumo": "Hipertexto cientifico",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Hipertexto cientifico</h2><p>Um texto de divulgação científica pode combinar explicação principal, links, notas e boxes que definem conceitos ou ampliam relações. O leitor escolhe caminhos, mas precisa saber como cada complemento contribui. Um box não deve esconder a informação essencial nem apenas repetir sem função. A presença de link não garante a validade científica de uma afirmação.</p><h3>Exemplo comentado</h3><p><strong>Microtexto explicativo autoral.</strong> “Na coleta seletiva, os materiais são separados para facilitar diferentes destinos. Conheça a <a href=\"#ef67-definicao\">definição usada aqui</a> e veja a <a href=\"#ef67-relacao\">relação entre separação e destino</a>.” <aside id=\"ef67-definicao\"><strong>Box conceitual:</strong> coleta seletiva é o recolhimento de resíduos previamente separados segundo sua composição.</aside><aside id=\"ef67-relacao\"><strong>Box de relação:</strong> separar não garante que todo material seja reciclado; condições locais e o tipo de material também importam.</aside><p>Os links são internos. O exemplo não informa o serviço efetivamente disponível em um município; isso requer fonte local.</p></p><h3>Produza e revise</h3><p>Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "hipertexto_cientifico.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual é a função do segundo box?",
+        "alternativas": [
+          "Garantir reciclagem de tudo.",
+          "Limitar a ideia de que separar basta para garantir o destino.",
+          "Apresentar lei municipal verificada.",
+          "Substituir toda consulta."
+        ],
+        "correta": 1,
+        "explicacao": "<strong>Microtexto explicativo autoral.</strong> “Na coleta seletiva, os materiais são separados para facilitar diferentes destinos. Conheça a <a href=\"#ef67-definicao\">definição usada aqui</a> e veja a <a href=\"#ef67-relacao\">relação entre separação e destino</a>.” <aside id=\"ef67-definicao\"><strong>Box conceitual:</strong> coleta seletiva é o recolhimento de resíduos previamente separados segundo sua composição.</aside><aside id=\"ef67-relacao\"><strong>Box de relação:</strong> separar não garante que todo material seja reciclado; condições locais e o tipo de material também importam.</aside><p>Os links são internos. O exemplo não informa o serviço efetivamente disponível em um município; isso requer fonte local.</p>",
+        "bncc": [
+          "EF67LP26"
+        ]
+      },
+      {
+        "id": "hipertexto_cientifico.producao",
+        "tipo": "discursiva",
+        "enunciado": "Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura.",
+        "gabarito": "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP26"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 68,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Texto dramatico",
+    "bncc": [
+      "EF67LP29"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem."
+      ],
+      "resumo": "Texto dramatico",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Texto dramatico</h2><p>No texto dramático, a ação é organizada para uma possível encenação. Personagens têm falas; indicações cênicas orientam gesto, espaço, entonação ou ação. Atos e cenas podem dividir a organização, sem que toda obra siga o mesmo número de partes. A ausência de narrador explícito não elimina enredo, conflito ou ponto de vista: eles podem surgir do confronto das falas.</p><h3>Exemplo comentado</h3><p><strong>A mesa — cena autoral.</strong> Ato único, cena 1. Personagens: Iara e Joel. (Uma mesa com um mapa; ambos observam o espaço em branco.) IARA: Precisamos terminar o desenho. JOEL: Se terminarmos tudo, onde entra a história de outra pessoa? (Iara afasta o lápis e deixa a folha no centro.) IARA: Então deixemos uma margem. O conflito envolve fechar a criação ou permitir colaboração. O gesto final ajuda a construir uma solução sem narração explicativa.</p><h3>Produza e revise</h3><p>Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "texto_dramatico.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual trecho é uma indicação cênica?",
+        "alternativas": [
+          "Precisamos terminar o desenho.",
+          "Então deixemos uma margem.",
+          "Iara afasta o lápis e deixa a folha no centro.",
+          "Se terminarmos tudo, onde entra a história de outra pessoa?"
+        ],
+        "correta": 2,
+        "explicacao": "<strong>A mesa — cena autoral.</strong> Ato único, cena 1. Personagens: Iara e Joel. (Uma mesa com um mapa; ambos observam o espaço em branco.) IARA: Precisamos terminar o desenho. JOEL: Se terminarmos tudo, onde entra a história de outra pessoa? (Iara afasta o lápis e deixa a folha no centro.) IARA: Então deixemos uma margem. O conflito envolve fechar a criação ou permitir colaboração. O gesto final ajuda a construir uma solução sem narração explicativa.",
+        "bncc": [
+          "EF67LP29"
+        ]
+      },
+      {
+        "id": "texto_dramatico.producao",
+        "tipo": "discursiva",
+        "enunciado": "Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem.",
+        "gabarito": "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP29"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 69,
+    "unidade": "Estudo, pesquisa e participação",
+    "titulo": "Coesao e sequencia",
+    "bncc": [
+      "EF67LP36"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis."
+      ],
+      "resumo": "Coesao e sequencia",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Coesao e sequencia</h2><p>Coesão referencial mantém identificáveis pessoas, objetos e ideias por repetição, substituição lexical e pronomes. Coesão sequencial articula adição, contraste, causa, conclusão ou tempo. O conector precisa corresponder à relação pretendida; não basta distribuí-lo entre frases. Cada gênero permite escolhas expressivas diferentes, e uma repetição pode ser útil para evitar ambiguidade.</p><h3>Exemplo comentado</h3><p>Versão inicial autoral: “Iara encontrou Joel. Ela mostrou o mapa. O papel estava incompleto. Porém, desenharam juntos”. Ela pode ser Iara, mas convém conferir o contexto. O papel retoma o mapa por outro nome; porém só é adequado se houver contraste pretendido. Para indicar consequência da incompletude, podemos escrever “Por isso, os dois desenharam juntos”.</p><h3>Produza e revise</h3><p>Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "coesao_e_sequencia.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual conector explicita consequência em “O mapa estava incompleto; ... desenharam juntos”?",
+        "alternativas": [
+          "Por isso",
+          "Apesar de que sempre",
+          "Antes que ontem",
+          "Ou talvez sem relação"
+        ],
+        "correta": 0,
+        "explicacao": "Versão inicial autoral: “Iara encontrou Joel. Ela mostrou o mapa. O papel estava incompleto. Porém, desenharam juntos”. Ela pode ser Iara, mas convém conferir o contexto. O papel retoma o mapa por outro nome; porém só é adequado se houver contraste pretendido. Para indicar consequência da incompletude, podemos escrever “Por isso, os dois desenharam juntos”.",
+        "bncc": [
+          "EF67LP36"
+        ]
+      },
+      {
+        "id": "coesao_e_sequencia.producao",
+        "tipo": "discursiva",
+        "enunciado": "Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis.",
+        "gabarito": "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP36"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
     "preRequisitos": [],
     "proximosPassos": []
   },

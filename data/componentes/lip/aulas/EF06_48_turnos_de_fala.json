@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.oralidade.turnos_de_fala",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 48,
+  "unidade": "Oralidade",
+  "titulo": "Turnos de Fala em Discussões",
+  "bncc": [
+    "EF67LP23"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final."
+    ],
+    "resumo": "Turnos de Fala em Discussões",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Turnos de Fala em Discussões</h2><p>Conversar em grupo exige acompanhar o que foi dito, pedir a palavra e formular perguntas no momento oportuno. Turno é a oportunidade de fala, não um prêmio por falar mais alto. Uma pergunta pertinente se relaciona ao tema e ajuda a esclarecer; discordar não exige interromper. O moderador combina regras e pode convidar quem ainda não falou, respeitando o direito de não expor experiências pessoais. Recursos de comunicação alternativa e tempo adicional podem fazer parte da participação.</p><h3>Exemplo comentado</h3><p>Discussão-modelo: “Como organizar a troca de livros?” Lia: “Sugiro separar por tema”. Rui pede a palavra: “Como identificar livros que cabem em mais de um tema?” A pergunta retoma a proposta e revela um problema. “Você nunca sabe nada” atacaria a pessoa, sem analisar a ideia. Uma síntese útil registra a proposta e a dúvida, em vez de apenas nomes de quem falou.</p><h3>Produza e revise</h3><p>Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "turnos_de_fala.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual pergunta retoma a proposta de organizar livros por tema?",
+      "alternativas": [
+        "Por que você sempre erra?",
+        "Como tratar um livro com mais de um tema?",
+        "Posso mudar para um assunto sem relação?",
+        "Quem fala mais alto vence?"
+      ],
+      "correta": 1,
+      "explicacao": "Discussão-modelo: “Como organizar a troca de livros?” Lia: “Sugiro separar por tema”. Rui pede a palavra: “Como identificar livros que cabem em mais de um tema?” A pergunta retoma a proposta e revela um problema. “Você nunca sabe nada” atacaria a pessoa, sem analisar a ideia. Uma síntese útil registra a proposta e a dúvida, em vez de apenas nomes de quem falou.",
+      "bncc": [
+        "EF67LP23"
+      ]
+    },
+    {
+      "id": "turnos_de_fala.producao",
+      "tipo": "discursiva",
+      "enunciado": "Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final.",
+      "gabarito": "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP23"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

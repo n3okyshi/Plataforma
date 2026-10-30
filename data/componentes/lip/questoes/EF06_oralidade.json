@@ -1,0 +1,432 @@
+[
+  {
+    "id": "lip.ef06.oralidade.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.turnos_de_fala",
+    "bncc": [
+      "EF67LP23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pergunta retoma a proposta de organizar livros por tema?",
+    "opcoes": [
+      "Por que você sempre erra?",
+      "Como tratar um livro com mais de um tema?",
+      "Posso mudar para um assunto sem relação?",
+      "Quem fala mais alto vence?"
+    ],
+    "correta": 1,
+    "explicacao": "Discussão-modelo: “Como organizar a troca de livros?” Lia: “Sugiro separar por tema”. Rui pede a palavra: “Como identificar livros que cabem em mais de um tema?” A pergunta retoma a proposta e revela um problema. “Você nunca sabe nada” atacaria a pessoa, sem analisar a ideia. Uma síntese útil registra a proposta e a dúvida, em vez de apenas nomes de quem falou.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.turnos_de_fala",
+    "bncc": [
+      "EF67LP23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual evidência permite observar respeito aos turnos?",
+    "opcoes": [
+      "Somente a nota objetiva.",
+      "A quantidade de palavras decoradas.",
+      "Registro de uma discussão real com exemplos de escuta e retomada.",
+      "Uma promessa de conversar depois."
+    ],
+    "correta": 2,
+    "explicacao": "O desempenho conversacional exige observação da interação, com exemplos contextualizados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.tomar_nota",
+    "bncc": [
+      "EF67LP24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual nota preserva o limite da fala-modelo?",
+    "opcoes": [
+      "Data ainda a combinar.",
+      "Terça-feira confirmada.",
+      "Livros sem limite.",
+      "Tema já decidido por votação."
+    ],
+    "correta": 0,
+    "explicacao": "Fala autoral para leitura pelo professor: “Na troca de livros, cada pessoa poderá trazer até dois exemplares. A equipe verificará o estado de conservação. A organização proposta é por tema, mas essa classificação ainda será discutida. O encontro-modelo ocorrerá no pátio, numa data a combinar”. Notas possíveis: até dois; conferir estado; tema em debate; pátio; data indefinida. Escrever terça-feira inventaria um dado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.tomar_nota",
+    "bncc": [
+      "EF67LP24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual prática melhora a tomada de notas?",
+    "opcoes": [
+      "Copiar tudo sem considerar finalidade.",
+      "Separar informações centrais, dúvidas e inferências próprias.",
+      "Trocar incertezas por datas inventadas.",
+      "Eliminar a indicação da fonte."
+    ],
+    "correta": 1,
+    "explicacao": "A seleção orientada pelo objetivo e a distinção de incertezas preservam o sentido da fala.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.entrevista_oral",
+    "bncc": [
+      "EF67LP14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pergunta aprofunda a resposta sobre sugestões das turmas?",
+    "opcoes": [
+      "Como uma turma envia sua sugestão?",
+      "Por que vocês nunca ouvem ninguém?",
+      "Qualquer assunto sem relação serve?",
+      "Posso inventar sua resposta?"
+    ],
+    "correta": 0,
+    "explicacao": "Objetivo: conhecer a organização da biblioteca. Pergunta: “Como são escolhidos os livros novos?” Resposta-modelo: “Recebemos sugestões das turmas e verificamos o acervo”. Pergunta de aprofundamento: “Como uma turma envia sua sugestão?” Ela nasce da resposta. “Então vocês nunca escutam ninguém?” seria uma acusação não sustentada por essa fala.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.entrevista_oral",
+    "bncc": [
+      "EF67LP14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na edição de uma entrevista, é adequado:",
+    "opcoes": [
+      "Alterar a posição do entrevistado sem avisar.",
+      "Inventar a pergunta que ele não respondeu.",
+      "Retirar repetições preservando sentido e contexto.",
+      "Tratar roteiro como entrevista realizada."
+    ],
+    "correta": 2,
+    "explicacao": "A edição busca clareza, mantendo a responsabilidade da voz e o conteúdo efetivamente registrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.discutir_temas_controversos",
+    "bncc": [
+      "EF69LP13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conclusão respeita a necessidade de mais dados?",
+    "opcoes": [
+      "Minha ideia venceu porque falei alto.",
+      "Podemos testar horários e registrar resultados antes de decidir.",
+      "Quem discorda está proibido de participar.",
+      "O teste futuro já provou sucesso."
+    ],
+    "correta": 1,
+    "explicacao": "Problema fictício: a biblioteca tem espaço limitado para atividades silenciosas e rodas de leitura. Proposta A: reservar horários diferentes; proposta B: criar zonas no mesmo horário. A escolha exige saber tamanho do espaço, ruído e demanda. Um acordo possível é testar horários por uma semana e depois avaliar; não declarar sucesso antes do teste.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.discutir_temas_controversos",
+    "bncc": [
+      "EF69LP13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Buscar uma conclusão comum significa:",
+    "opcoes": [
+      "Apagar toda discordância.",
+      "Aceitar a posição de quem interrompe.",
+      "Construir encaminhamento fundamentado e registrar limites e divergências.",
+      "Garantir unanimidade em qualquer tema."
+    ],
+    "correta": 2,
+    "explicacao": "Uma decisão coletiva pode ser parcial e provisória, desde que razões, dúvidas e encaminhamentos estejam claros.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.apresentacao_oral",
+    "bncc": [
+      "EF69LP38"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual painel evita uma generalização indevida?",
+    "opcoes": [
+      "Toda a escola pensa assim, sem pesquisa.",
+      "Resultado de uma turma consultada, com data e limites.",
+      "Número inventado para preencher o espaço.",
+      "Imagem sem relação com o tema."
+    ],
+    "correta": 1,
+    "explicacao": "Plano de três minutos sobre a pesquisa de leitura: painel 1, pergunta e grupo consultado; painel 2, resultados realmente coletados e representação; painel 3, interpretação e limites. Se apenas uma turma foi ouvida, não concluir que a escola inteira pensa igual. O apresentador pode consultar cartões; decorar tudo não é requisito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.apresentacao_oral",
+    "bncc": [
+      "EF69LP38"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto comprova o processo de apresentação?",
+    "opcoes": [
+      "Slides sem fala e sem ensaio.",
+      "Promessa de apresentar futuramente.",
+      "Painéis, registro de ensaio e exposição realmente realizada.",
+      "Somente a nota do treino."
+    ],
+    "correta": 2,
+    "explicacao": "A habilidade envolve organizar, ensaiar e expor; o material visual sozinho não evidencia todas essas ações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

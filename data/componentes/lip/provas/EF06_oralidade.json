@@ -1,0 +1,198 @@
+{
+  "id": "lip.ef06.oralidade.prova",
+  "titulo": "Avaliação: Oralidade",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Oralidade",
+  "bncc": [
+    "EF67LP14",
+    "EF67LP23",
+    "EF67LP24",
+    "EF69LP13",
+    "EF69LP38"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos; nota proporcional aos acertos, divididos por 5, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+  "questoes": [
+    "lip.ef06.oralidade.prova.01",
+    "lip.ef06.oralidade.prova.02",
+    "lip.ef06.oralidade.prova.03",
+    "lip.ef06.oralidade.prova.04",
+    "lip.ef06.oralidade.prova.05"
+  ],
+  "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.oralidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Oralidade",
+    "enunciado": "Reúna as produções e registros de execução. Roteiro, intenção e resposta objetiva não comprovam conversa, entrevista, leitura ou apresentação realizadas. Registre revisões e limitações de suporte.",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF67LP14",
+      "EF67LP23",
+      "EF67LP24",
+      "EF69LP13",
+      "EF69LP38"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Turnos de Fala em Discussões",
+        "enunciado": "Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final.",
+        "gabarito": "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP23"
+        ],
+        "atividadeOrigem": "lip.ef06.oralidade.turnos_de_fala#turnos_de_fala.producao"
+      },
+      {
+        "titulo": "Tomar Nota de Aulas e Entrevistas",
+        "enunciado": "Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida.",
+        "gabarito": "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP24"
+        ],
+        "atividadeOrigem": "lip.ef06.oralidade.tomar_nota#tomar_nota.producao"
+      },
+      {
+        "titulo": "Planejar e Fazer Entrevista",
+        "enunciado": "Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido.",
+        "gabarito": "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP14"
+        ],
+        "atividadeOrigem": "lip.ef06.oralidade.entrevista_oral#entrevista_oral.producao"
+      },
+      {
+        "titulo": "Discutir Temas Controversos",
+        "enunciado": "Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou.",
+        "gabarito": "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP13"
+        ],
+        "atividadeOrigem": "lip.ef06.oralidade.discutir_temas_controversos#discutir_temas_controversos.producao"
+      },
+      {
+        "titulo": "Planejar uma Apresentação Oral",
+        "enunciado": "Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação.",
+        "gabarito": "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP38"
+        ],
+        "atividadeOrigem": "lip.ef06.oralidade.apresentacao_oral#apresentacao_oral.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF67LP14",
+      "questoes": [
+        "lip.ef06.oralidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.oralidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.oralidade.entrevista_oral#entrevista_oral.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP23",
+      "questoes": [
+        "lip.ef06.oralidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.oralidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.oralidade.turnos_de_fala#turnos_de_fala.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP24",
+      "questoes": [
+        "lip.ef06.oralidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.oralidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.oralidade.tomar_nota#tomar_nota.producao"
+      ]
+    },
+    {
+      "bncc": "EF69LP13",
+      "questoes": [
+        "lip.ef06.oralidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.oralidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.oralidade.discutir_temas_controversos#discutir_temas_controversos.producao"
+      ]
+    },
+    {
+      "bncc": "EF69LP38",
+      "questoes": [
+        "lip.ef06.oralidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.oralidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.oralidade.apresentacao_oral#apresentacao_oral.producao"
+      ]
+    }
+  ]
+}

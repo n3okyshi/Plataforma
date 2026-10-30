@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 67,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Hipertexto cientifico",
+  "bncc": [
+    "EF67LP26"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura."
+    ],
+    "resumo": "Hipertexto cientifico",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Hipertexto cientifico</h2><p>Um texto de divulgação científica pode combinar explicação principal, links, notas e boxes que definem conceitos ou ampliam relações. O leitor escolhe caminhos, mas precisa saber como cada complemento contribui. Um box não deve esconder a informação essencial nem apenas repetir sem função. A presença de link não garante a validade científica de uma afirmação.</p><h3>Exemplo comentado</h3><p><strong>Microtexto explicativo autoral.</strong> “Na coleta seletiva, os materiais são separados para facilitar diferentes destinos. Conheça a <a href=\"#ef67-definicao\">definição usada aqui</a> e veja a <a href=\"#ef67-relacao\">relação entre separação e destino</a>.” <aside id=\"ef67-definicao\"><strong>Box conceitual:</strong> coleta seletiva é o recolhimento de resíduos previamente separados segundo sua composição.</aside><aside id=\"ef67-relacao\"><strong>Box de relação:</strong> separar não garante que todo material seja reciclado; condições locais e o tipo de material também importam.</aside><p>Os links são internos. O exemplo não informa o serviço efetivamente disponível em um município; isso requer fonte local.</p></p><h3>Produza e revise</h3><p>Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "hipertexto_cientifico.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é a função do segundo box?",
+      "alternativas": [
+        "Garantir reciclagem de tudo.",
+        "Limitar a ideia de que separar basta para garantir o destino.",
+        "Apresentar lei municipal verificada.",
+        "Substituir toda consulta."
+      ],
+      "correta": 1,
+      "explicacao": "<strong>Microtexto explicativo autoral.</strong> “Na coleta seletiva, os materiais são separados para facilitar diferentes destinos. Conheça a <a href=\"#ef67-definicao\">definição usada aqui</a> e veja a <a href=\"#ef67-relacao\">relação entre separação e destino</a>.” <aside id=\"ef67-definicao\"><strong>Box conceitual:</strong> coleta seletiva é o recolhimento de resíduos previamente separados segundo sua composição.</aside><aside id=\"ef67-relacao\"><strong>Box de relação:</strong> separar não garante que todo material seja reciclado; condições locais e o tipo de material também importam.</aside><p>Os links são internos. O exemplo não informa o serviço efetivamente disponível em um município; isso requer fonte local.</p>",
+      "bncc": [
+        "EF67LP26"
+      ]
+    },
+    {
+      "id": "hipertexto_cientifico.producao",
+      "tipo": "discursiva",
+      "enunciado": "Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura.",
+      "gabarito": "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP26"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

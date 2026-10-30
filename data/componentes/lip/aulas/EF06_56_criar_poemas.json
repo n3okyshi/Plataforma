@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.literatura.criar_poemas",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 56,
+  "unidade": "Literatura",
+  "titulo": "Criar Poemas de Forma Fixa e Versos Livres",
+  "bncc": [
+    "EF67LP31"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar."
+    ],
+    "resumo": "Criar Poemas de Forma Fixa e Versos Livres",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Criar Poemas de Forma Fixa e Versos Livres</h2><p>Poemas organizam linguagem por versos, ritmo, imagens e disposição visual. Verso é uma linha poética; estrofe é um conjunto de versos. Quadra tem quatro versos, mas nem toda quadra tem a mesma métrica ou esquema de rimas. Verso livre não obriga ausência de ritmo: dispensa um padrão métrico fixo. Em poema visual, a distribuição das palavras participa do sentido. Este recorte não pretende ensinar toda a construção de sonetos e vídeo-poemas.</p><h3>Exemplo comentado</h3><p>Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Chão/versão aproximam finais sonoros; rio/vazio também podem ser lidos como rima. A ponte relaciona escuta e passagem. Versão livre autoral: “Deixo / no branco do mapa / um lugar / para tua voz”. A quebra pode destacar espera e abertura. O sentido depende da composição, não só de rimar palavras.</p></p><h3>Produza e revise</h3><p>Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "criar_poemas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma quadra é definida inicialmente por:",
+      "alternativas": [
+        "Quatro versos.",
+        "Quatorze versos obrigatórios.",
+        "Ausência de qualquer ritmo.",
+        "Uma única palavra."
+      ],
+      "correta": 0,
+      "explicacao": "Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Chão/versão aproximam finais sonoros; rio/vazio também podem ser lidos como rima. A ponte relaciona escuta e passagem. Versão livre autoral: “Deixo / no branco do mapa / um lugar / para tua voz”. A quebra pode destacar espera e abertura. O sentido depende da composição, não só de rimar palavras.</p>",
+      "bncc": [
+        "EF67LP31"
+      ]
+    },
+    {
+      "id": "criar_poemas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar.",
+      "gabarito": "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP31"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "literatura"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

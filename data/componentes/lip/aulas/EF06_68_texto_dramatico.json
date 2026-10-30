@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 68,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Texto dramatico",
+  "bncc": [
+    "EF67LP29"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem."
+    ],
+    "resumo": "Texto dramatico",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Texto dramatico</h2><p>No texto dramático, a ação é organizada para uma possível encenação. Personagens têm falas; indicações cênicas orientam gesto, espaço, entonação ou ação. Atos e cenas podem dividir a organização, sem que toda obra siga o mesmo número de partes. A ausência de narrador explícito não elimina enredo, conflito ou ponto de vista: eles podem surgir do confronto das falas.</p><h3>Exemplo comentado</h3><p><strong>A mesa — cena autoral.</strong> Ato único, cena 1. Personagens: Iara e Joel. (Uma mesa com um mapa; ambos observam o espaço em branco.) IARA: Precisamos terminar o desenho. JOEL: Se terminarmos tudo, onde entra a história de outra pessoa? (Iara afasta o lápis e deixa a folha no centro.) IARA: Então deixemos uma margem. O conflito envolve fechar a criação ou permitir colaboração. O gesto final ajuda a construir uma solução sem narração explicativa.</p><h3>Produza e revise</h3><p>Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "texto_dramatico.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual trecho é uma indicação cênica?",
+      "alternativas": [
+        "Precisamos terminar o desenho.",
+        "Então deixemos uma margem.",
+        "Iara afasta o lápis e deixa a folha no centro.",
+        "Se terminarmos tudo, onde entra a história de outra pessoa?"
+      ],
+      "correta": 2,
+      "explicacao": "<strong>A mesa — cena autoral.</strong> Ato único, cena 1. Personagens: Iara e Joel. (Uma mesa com um mapa; ambos observam o espaço em branco.) IARA: Precisamos terminar o desenho. JOEL: Se terminarmos tudo, onde entra a história de outra pessoa? (Iara afasta o lápis e deixa a folha no centro.) IARA: Então deixemos uma margem. O conflito envolve fechar a criação ou permitir colaboração. O gesto final ajuda a construir uma solução sem narração explicativa.",
+      "bncc": [
+        "EF67LP29"
+      ]
+    },
+    {
+      "id": "texto_dramatico.producao",
+      "tipo": "discursiva",
+      "enunciado": "Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem.",
+      "gabarito": "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP29"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

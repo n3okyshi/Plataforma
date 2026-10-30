@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.literatura.praticas_de_leitura_literaria",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 57,
+  "unidade": "Literatura",
+  "titulo": "Práticas de Leitura Literária",
+  "bncc": [
+    "EF69LP49"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada."
+    ],
+    "resumo": "Práticas de Leitura Literária",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Práticas de Leitura Literária</h2><p>Um percurso leitor reúne escolhas, desafios e encontros com obras diferentes. Registrar dificuldades e reler com apoio não é fracasso: faz parte da formação. Preferências podem mudar. Não se mede envolvimento apenas por velocidade, quantidade de páginas ou elogio obrigatório. O professor pode oferecer alternativas acessíveis e propor uma leitura que amplie o repertório sem desqualificar o gosto anterior.</p><h3>Exemplo comentado</h3><p>Uma ficha de percurso pode registrar: obra e autoria; expectativa; trecho que exigiu releitura; estratégia usada; apreciação após a conversa. No conto do mapa, a dificuldade pode ser aceitar que o final não explica tudo. Num poema, a pausa e a imagem podem pedir outro ritmo. São experiências distintas, não etapas de uma corrida.</p><h3>Produza e revise</h3><p>Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "praticas_de_leitura_literaria.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual registro mostra reflexão sobre a leitura?",
+      "alternativas": [
+        "Li rápido, então entendi tudo.",
+        "Todos devem gostar do mesmo livro.",
+        "Revi minha hipótese após reler o final e conversar sobre duas pistas.",
+        "Não preciso indicar qual obra li."
+      ],
+      "correta": 2,
+      "explicacao": "Uma ficha de percurso pode registrar: obra e autoria; expectativa; trecho que exigiu releitura; estratégia usada; apreciação após a conversa. No conto do mapa, a dificuldade pode ser aceitar que o final não explica tudo. Num poema, a pausa e a imagem podem pedir outro ritmo. São experiências distintas, não etapas de uma corrida.",
+      "bncc": [
+        "EF69LP49"
+      ]
+    },
+    {
+      "id": "praticas_de_leitura_literaria.producao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada.",
+      "gabarito": "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF69LP49"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "literatura"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

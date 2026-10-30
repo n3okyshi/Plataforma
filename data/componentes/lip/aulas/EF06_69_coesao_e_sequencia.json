@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 69,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Coesao e sequencia",
+  "bncc": [
+    "EF67LP36"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis."
+    ],
+    "resumo": "Coesao e sequencia",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Coesao e sequencia</h2><p>Coesão referencial mantém identificáveis pessoas, objetos e ideias por repetição, substituição lexical e pronomes. Coesão sequencial articula adição, contraste, causa, conclusão ou tempo. O conector precisa corresponder à relação pretendida; não basta distribuí-lo entre frases. Cada gênero permite escolhas expressivas diferentes, e uma repetição pode ser útil para evitar ambiguidade.</p><h3>Exemplo comentado</h3><p>Versão inicial autoral: “Iara encontrou Joel. Ela mostrou o mapa. O papel estava incompleto. Porém, desenharam juntos”. Ela pode ser Iara, mas convém conferir o contexto. O papel retoma o mapa por outro nome; porém só é adequado se houver contraste pretendido. Para indicar consequência da incompletude, podemos escrever “Por isso, os dois desenharam juntos”.</p><h3>Produza e revise</h3><p>Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "coesao_e_sequencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual conector explicita consequência em “O mapa estava incompleto; ... desenharam juntos”?",
+      "alternativas": [
+        "Por isso",
+        "Apesar de que sempre",
+        "Antes que ontem",
+        "Ou talvez sem relação"
+      ],
+      "correta": 0,
+      "explicacao": "Versão inicial autoral: “Iara encontrou Joel. Ela mostrou o mapa. O papel estava incompleto. Porém, desenharam juntos”. Ela pode ser Iara, mas convém conferir o contexto. O papel retoma o mapa por outro nome; porém só é adequado se houver contraste pretendido. Para indicar consequência da incompletude, podemos escrever “Por isso, os dois desenharam juntos”.",
+      "bncc": [
+        "EF67LP36"
+      ]
+    },
+    {
+      "id": "coesao_e_sequencia.producao",
+      "tipo": "discursiva",
+      "enunciado": "Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis.",
+      "gabarito": "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP36"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

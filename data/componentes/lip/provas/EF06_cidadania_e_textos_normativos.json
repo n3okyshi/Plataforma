@@ -1,0 +1,140 @@
+{
+  "id": "lip.ef06.cidadania_e_textos_normativos.prova",
+  "titulo": "Avaliação: Cidadania e Textos Normativos",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Cidadania e Textos Normativos",
+  "bncc": [
+    "EF67LP15",
+    "EF67LP16",
+    "EF67LP20"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens objetivos; nota proporcional aos acertos, divididos por 3, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+  "questoes": [
+    "lip.ef06.cidadania_e_textos_normativos.prova.01",
+    "lip.ef06.cidadania_e_textos_normativos.prova.02",
+    "lip.ef06.cidadania_e_textos_normativos.prova.03"
+  ],
+  "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.cidadania_e_textos_normativos.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Cidadania e Textos Normativos",
+    "enunciado": "Reúna as produções e registros de execução. Roteiro, intenção e resposta objetiva não comprovam conversa, entrevista, leitura ou apresentação realizadas. Registre revisões e limitações de suporte.",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF67LP15",
+      "EF67LP16",
+      "EF67LP20"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Ler Textos Legais e Normativos",
+        "enunciado": "Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais.",
+        "gabarito": "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP15"
+        ],
+        "atividadeOrigem": "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais#ler_textos_legais.producao"
+      },
+      {
+        "titulo": "Canais de Reclamação e Solicitação",
+        "enunciado": "Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica.",
+        "gabarito": "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP16"
+        ],
+        "atividadeOrigem": "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao#canais_de_reclamacao.producao"
+      },
+      {
+        "titulo": "Curadoria de Informação",
+        "enunciado": "Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta.",
+        "gabarito": "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP20"
+        ],
+        "atividadeOrigem": "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao#curadoria_de_informacao.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF67LP15",
+      "questoes": [
+        "lip.ef06.cidadania_e_textos_normativos.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.cidadania_e_textos_normativos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais#ler_textos_legais.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP16",
+      "questoes": [
+        "lip.ef06.cidadania_e_textos_normativos.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.cidadania_e_textos_normativos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao#canais_de_reclamacao.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP20",
+      "questoes": [
+        "lip.ef06.cidadania_e_textos_normativos.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.cidadania_e_textos_normativos.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao#curadoria_de_informacao.producao"
+      ]
+    }
+  ]
+}

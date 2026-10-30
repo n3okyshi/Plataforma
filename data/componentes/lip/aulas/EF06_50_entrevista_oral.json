@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.oralidade.entrevista_oral",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 50,
+  "unidade": "Oralidade",
+  "titulo": "Planejar e Fazer Entrevista",
+  "bncc": [
+    "EF67LP14"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido."
+    ],
+    "resumo": "Planejar e Fazer Entrevista",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planejar e Fazer Entrevista</h2><p>Uma entrevista tem objetivo, interlocutor escolhido por sua relação com o tema e perguntas preparadas. Pesquise o que já se sabe para evitar perguntas desnecessárias. Escutar permite formular novas perguntas a partir da resposta, sem induzir ou colocar palavras na boca do entrevistado. Para gravar, combine consentimento e finalidade. A transcrição editada pode retirar repetições dispensáveis, mas não inverter o sentido.</p><h3>Exemplo comentado</h3><p>Objetivo: conhecer a organização da biblioteca. Pergunta: “Como são escolhidos os livros novos?” Resposta-modelo: “Recebemos sugestões das turmas e verificamos o acervo”. Pergunta de aprofundamento: “Como uma turma envia sua sugestão?” Ela nasce da resposta. “Então vocês nunca escutam ninguém?” seria uma acusação não sustentada por essa fala.</p><h3>Produza e revise</h3><p>Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "entrevista_oral.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual pergunta aprofunda a resposta sobre sugestões das turmas?",
+      "alternativas": [
+        "Como uma turma envia sua sugestão?",
+        "Por que vocês nunca ouvem ninguém?",
+        "Qualquer assunto sem relação serve?",
+        "Posso inventar sua resposta?"
+      ],
+      "correta": 0,
+      "explicacao": "Objetivo: conhecer a organização da biblioteca. Pergunta: “Como são escolhidos os livros novos?” Resposta-modelo: “Recebemos sugestões das turmas e verificamos o acervo”. Pergunta de aprofundamento: “Como uma turma envia sua sugestão?” Ela nasce da resposta. “Então vocês nunca escutam ninguém?” seria uma acusação não sustentada por essa fala.",
+      "bncc": [
+        "EF67LP14"
+      ]
+    },
+    {
+      "id": "entrevista_oral.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido.",
+      "gabarito": "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP14"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

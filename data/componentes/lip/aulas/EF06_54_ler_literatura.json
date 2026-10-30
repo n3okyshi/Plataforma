@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.literatura.ler_literatura",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 54,
+  "unidade": "Literatura",
+  "titulo": "Ler e Compreender Literatura",
+  "bncc": [
+    "EF67LP28"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor."
+    ],
+    "resumo": "Ler e Compreender Literatura",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Ler e Compreender Literatura</h2><p>Ler literatura envolve acompanhar vozes, acontecimentos, imagens e ambiguidades, ajustando a estratégia ao objetivo. Numa primeira leitura, procure compreender o conjunto; depois releia pistas para sustentar uma interpretação. Um final aberto pode admitir leituras distintas sem aceitar qualquer resposta sem evidência. Avaliar a obra é expressar apreciação com referência ao texto, não adivinhar uma mensagem única.</p><h3>Exemplo comentado</h3><p>O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>O narrador apresenta ações de Iara e Joel, sem esclarecer quem desenhou a ponte. A frase no verso permite uma leitura fantástica ou uma brincadeira coletiva. A ponte acrescentada no dia seguinte sustenta o enigma, mas o texto não identifica uma pessoa específica como autora.</p></p><h3>Produza e revise</h3><p>Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ler_literatura.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Que informação o conto não determina?",
+      "alternativas": [
+        "Iara encontrou uma folha.",
+        "Joel participou da criação.",
+        "Quem acrescentou a ponte no dia seguinte.",
+        "O mapa continha um espaço em branco."
+      ],
+      "correta": 2,
+      "explicacao": "O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>O narrador apresenta ações de Iara e Joel, sem esclarecer quem desenhou a ponte. A frase no verso permite uma leitura fantástica ou uma brincadeira coletiva. A ponte acrescentada no dia seguinte sustenta o enigma, mas o texto não identifica uma pessoa específica como autora.</p>",
+      "bncc": [
+        "EF67LP28"
+      ]
+    },
+    {
+      "id": "ler_literatura.producao",
+      "tipo": "discursiva",
+      "enunciado": "Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor.",
+      "gabarito": "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP28"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "literatura"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

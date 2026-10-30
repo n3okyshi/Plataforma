@@ -791,11 +791,11 @@
     },
     {
       "nivel": "EF06",
-      "aulasImplementadas": 47,
-      "atividades": 94,
-      "questoesTreino": 46,
-      "itensProva": 46,
-      "provas": 9,
+      "aulasImplementadas": 69,
+      "atividades": 138,
+      "questoesTreino": 69,
+      "itensProva": 69,
+      "provas": 13,
       "unidades": [
         {
           "titulo": "Língua, Texto e Contexto",
@@ -863,42 +863,34 @@
         {
           "titulo": "Oralidade",
           "aulasPlanejadas": 5,
-          "aulasImplementadas": 0,
-          "aulasPendentes": [
-            "lip.ef06.oralidade.turnos_de_fala",
-            "lip.ef06.oralidade.tomar_nota",
-            "lip.ef06.oralidade.entrevista_oral",
-            "lip.ef06.oralidade.discutir_temas_controversos",
-            "lip.ef06.oralidade.apresentacao_oral"
-          ],
-          "estado": "planejamento"
+          "aulasImplementadas": 5,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
         },
         {
           "titulo": "Literatura",
           "aulasPlanejadas": 6,
-          "aulasImplementadas": 0,
-          "aulasPendentes": [
-            "lip.ef06.literatura.literatura_e_outras_artes",
-            "lip.ef06.literatura.ler_literatura",
-            "lip.ef06.literatura.criar_narrativas",
-            "lip.ef06.literatura.criar_poemas",
-            "lip.ef06.literatura.praticas_de_leitura_literaria",
-            "lip.ef06.literatura.recursos_dos_generos_literarios"
-          ],
-          "estado": "planejamento"
+          "aulasImplementadas": 6,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
         },
         {
           "titulo": "Cidadania e Textos Normativos",
           "aulasPlanejadas": 3,
-          "aulasImplementadas": 0,
-          "aulasPendentes": [
-            "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais",
-            "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao",
-            "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao"
-          ],
-          "estado": "planejamento"
+          "aulasImplementadas": 3,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
+        },
+        {
+          "titulo": "Estudo, pesquisa e participação",
+          "aulasPlanejadas": 8,
+          "aulasImplementadas": 8,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
         }
-      ]
+      ],
+      "lacunasBnccSemVinculo": 47,
+      "coberturaCurricularIntegral": false
     },
     {
       "nivel": "EF07",
@@ -1785,6 +1777,6 @@
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache reais."
   ],
-  "proximaAutoria": "Oralidade EF06",
+  "proximaAutoria": "Lacunas curriculares EF06, antes de avançar para EF07",
   "limite": "Vínculos BNCC são evidências planejadas de recortes; não comprovam domínio nem cobertura integral."
 }

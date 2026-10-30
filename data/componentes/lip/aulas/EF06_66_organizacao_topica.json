@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 66,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Organizacao topica",
+  "bncc": [
+    "EF67LP25"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega."
+    ],
+    "resumo": "Organizacao topica",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Organizacao topica</h2><p>Progressão temática organiza o que o leitor precisa saber primeiro e como as novas informações se relacionam. Podemos ir do geral para o específico ou partir de um exemplo para uma explicação mais ampla. Marcadores como primeiro, por exemplo e isto é indicam funções distintas; não são enfeites intercambiáveis. Paráfrase pode retomar uma ideia com outra formulação, sem repetir tudo.</p><h3>Exemplo comentado</h3><p>Texto autoral: “O catálogo organiza informações dos livros. Por exemplo, reúne título e autoria. Primeiro, consulte o título; depois, confira a localização. Em outras palavras, o catálogo orienta a busca”. O início define a função, o exemplo especifica, os marcadores ordenam ações e a última frase reformula uma ideia central.</p><h3>Produza e revise</h3><p>Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "organizacao_topica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em “Por exemplo, reúne título e autoria”, o marcador introduz:",
+      "alternativas": [
+        "Uma ilustração da ideia anterior.",
+        "Uma conclusão obrigatória sobre toda pesquisa.",
+        "Uma data de publicação.",
+        "Uma fala direta."
+      ],
+      "correta": 0,
+      "explicacao": "Texto autoral: “O catálogo organiza informações dos livros. Por exemplo, reúne título e autoria. Primeiro, consulte o título; depois, confira a localização. Em outras palavras, o catálogo orienta a busca”. O início define a função, o exemplo especifica, os marcadores ordenam ações e a última frase reformula uma ideia central.",
+      "bncc": [
+        "EF67LP25"
+      ]
+    },
+    {
+      "id": "organizacao_topica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega.",
+      "gabarito": "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP25"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
